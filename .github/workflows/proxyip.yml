@@ -1,0 +1,41 @@
+name: CF Proxy Scan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 0 * * *"
+
+jobs:
+  proxyip:
+    runs-on: ubuntu-latest
+    name: Scan Proxy
+
+    steps:
+      - name: 📂 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install Dependencies
+        run: python -m pip install --upgrade pip
+
+      - name: ▶️ Run CF Proxy Scan
+        run: python ./proxyip/main.py
+
+      - name: 📤 Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add proxyip/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m "🔁 Auto-update proxyip list [$(date -u)]"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "✅ No changes to proxyip list."
+          fi
