@@ -1,11 +1,5 @@
 [
   {
-    "ip": "93.186.64.119",
-    "port": 2096,
-    "code": "RS",
-    "asn": "IPXO"
-  },
-  {
     "ip": "2.56.172.107",
     "port": 443,
     "code": "RS",
@@ -54,8 +48,20 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "38.180.101.177",
+    "port": 443,
+    "code": "RS",
+    "asn": "3NT SOLUTIONS LLP"
+  },
+  {
     "ip": "45.89.55.70",
     "port": 8443,
+    "code": "RS",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "193.57.139.78",
+    "port": 81,
     "code": "RS",
     "asn": "WorkTitans B.V."
   },
@@ -66,16 +72,10 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "38.180.101.177",
+    "ip": "89.46.236.145",
     "port": 443,
     "code": "RS",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "193.57.139.78",
-    "port": 81,
-    "code": "RS",
-    "asn": "WorkTitans B.V."
+    "asn": "EDIS IPv6 Infrastructure in Serbia"
   },
   {
     "ip": "38.180.239.224",
@@ -88,12 +88,6 @@
     "port": 443,
     "code": "RS",
     "asn": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "89.46.236.145",
-    "port": 443,
-    "code": "RS",
-    "asn": "EDIS IPv6 Infrastructure in Serbia"
   },
   {
     "ip": "109.92.179.156",

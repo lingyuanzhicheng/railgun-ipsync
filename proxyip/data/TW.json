@@ -1,27 +1,21 @@
 [
   {
-    "ip": "149.104.120.254",
-    "port": 443,
-    "code": "TW",
-    "asn": "Kaopu Cloud HK Limited"
-  },
-  {
     "ip": "45.207.158.29",
     "port": 2053,
     "code": "TW",
     "asn": "Akile LTD"
   },
   {
+    "ip": "149.104.120.254",
+    "port": 443,
+    "code": "TW",
+    "asn": "Kaopu Cloud HK Limited"
+  },
+  {
     "ip": "213.210.4.49",
     "port": 443,
     "code": "TW",
     "asn": "ByteVirt LLC"
-  },
-  {
-    "ip": "114.34.202.224",
-    "port": 10004,
-    "code": "TW",
-    "asn": "Chunghwa Telecom Co.,Ltd."
   },
   {
     "ip": "45.207.158.29",
@@ -34,6 +28,12 @@
     "port": 2083,
     "code": "TW",
     "asn": "Akile LTD"
+  },
+  {
+    "ip": "114.34.202.224",
+    "port": 10004,
+    "code": "TW",
+    "asn": "Chunghwa Telecom Co.,Ltd."
   },
   {
     "ip": "188.253.117.154",

@@ -54,12 +54,6 @@
     "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
-    "ip": "43.252.41.204",
-    "port": 2443,
-    "code": "HK",
-    "asn": "CommuniLink Internet Ltd."
-  },
-  {
     "ip": "219.76.13.180",
     "port": 443,
     "code": "HK",
@@ -70,6 +64,12 @@
     "port": 8080,
     "code": "HK",
     "asn": "Digital Energy Technologies Limited"
+  },
+  {
+    "ip": "43.252.41.204",
+    "port": 2443,
+    "code": "HK",
+    "asn": "CommuniLink Internet Ltd."
   },
   {
     "ip": "45.149.186.112",
@@ -108,6 +108,12 @@
     "asn": "StepGo Limited"
   },
   {
+    "ip": "141.11.149.195",
+    "port": 12082,
+    "code": "HK",
+    "asn": "AKILE LTD"
+  },
+  {
     "ip": "45.38.42.198",
     "port": 2053,
     "code": "HK",
@@ -144,16 +150,16 @@
     "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
-    "ip": "103.49.61.252",
-    "port": 443,
-    "code": "HK",
-    "asn": "BEST WEBTECHNOLOGY LIMITED"
-  },
-  {
     "ip": "2.56.91.89",
     "port": 8443,
     "code": "HK",
     "asn": "ihc.hk vps in Hong Kong"
+  },
+  {
+    "ip": "103.49.61.252",
+    "port": 443,
+    "code": "HK",
+    "asn": "BEST WEBTECHNOLOGY LIMITED"
   },
   {
     "ip": "43.132.244.52",
@@ -195,19 +201,19 @@
     "ip": "156.230.12.71",
     "port": 443,
     "code": "HK",
-    "asn": "263 Shanghai Communications Ltd."
-  },
-  {
-    "ip": "192.131.142.161",
-    "port": 46639,
-    "code": "HK",
-    "asn": "LEASEWEB HONG KONG LIMITED"
+    "asn": "263 Global Communication Limited"
   },
   {
     "ip": "202.85.53.74",
     "port": 443,
     "code": "HK",
     "asn": "Mazen Ind Ltd"
+  },
+  {
+    "ip": "192.131.142.161",
+    "port": 46639,
+    "code": "HK",
+    "asn": "LEASEWEB HONG KONG LIMITED"
   },
   {
     "ip": "192.252.182.52",
@@ -264,16 +270,16 @@
     "asn": "Amazon Data Services Hong Kong"
   },
   {
-    "ip": "103.210.22.199",
-    "port": 443,
-    "code": "HK",
-    "asn": "Ucloud Hong Kong"
-  },
-  {
     "ip": "185.74.222.252",
     "port": 8443,
     "code": "HK",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "103.210.22.199",
+    "port": 443,
+    "code": "HK",
+    "asn": "Ucloud Hong Kong"
   },
   {
     "ip": "210.6.207.42",
@@ -310,12 +316,6 @@
     "port": 8080,
     "code": "HK",
     "asn": "Internet Utilities Europe and Asia Limited"
-  },
-  {
-    "ip": "141.11.77.248",
-    "port": 8080,
-    "code": "HK",
-    "asn": "AKILE LTD"
   },
   {
     "ip": "223.16.138.113",
@@ -360,22 +360,28 @@
     "asn": "Dom Tehniki Ltd"
   },
   {
-    "ip": "219.76.13.181",
-    "port": 443,
-    "code": "HK",
-    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
-  },
-  {
     "ip": "141.11.91.67",
     "port": 8080,
     "code": "HK",
     "asn": "Tusker Technologies Pty Ltd"
   },
   {
+    "ip": "219.76.13.181",
+    "port": 443,
+    "code": "HK",
+    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
+  },
+  {
     "ip": "156.255.90.175",
     "port": 8443,
     "code": "HK",
     "asn": "StepGo Limited"
+  },
+  {
+    "ip": "8.218.245.116",
+    "port": 42805,
+    "code": "HK",
+    "asn": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
     "ip": "36.50.90.241",
@@ -388,12 +394,6 @@
     "port": 47790,
     "code": "HK",
     "asn": "IoT Innovation Technologies Company Limited"
-  },
-  {
-    "ip": "8.218.245.116",
-    "port": 42805,
-    "code": "HK",
-    "asn": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
     "ip": "2.56.91.89",
@@ -414,12 +414,6 @@
     "asn": "Dom Tehniki Ltd"
   },
   {
-    "ip": "141.11.149.187",
-    "port": 443,
-    "code": "HK",
-    "asn": "AKILE LTD"
-  },
-  {
     "ip": "154.18.161.172",
     "port": 18443,
     "code": "HK",
@@ -436,6 +430,12 @@
     "port": 8001,
     "code": "HK",
     "asn": "ALIBABA CLOUD - HK"
+  },
+  {
+    "ip": "141.11.149.187",
+    "port": 443,
+    "code": "HK",
+    "asn": "AKILE LTD"
   },
   {
     "ip": "194.156.99.182",

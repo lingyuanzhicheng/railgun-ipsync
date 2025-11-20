@@ -48,12 +48,6 @@
     "asn": "Serial Link for TelOne HQ"
   },
   {
-    "ip": "197.221.237.248",
-    "port": 443,
-    "code": "ZW",
-    "asn": "Serial Link for TelOne HQ"
-  },
-  {
     "ip": "41.220.16.217",
     "port": 443,
     "code": "ZW",
@@ -66,7 +60,19 @@
     "asn": "Serial Link for TelOne HQ"
   },
   {
+    "ip": "197.221.237.248",
+    "port": 443,
+    "code": "ZW",
+    "asn": "Serial Link for TelOne HQ"
+  },
+  {
     "ip": "41.220.16.219",
+    "port": 443,
+    "code": "ZW",
+    "asn": "Serial Link for TelOne HQ"
+  },
+  {
+    "ip": "41.220.16.215",
     "port": 443,
     "code": "ZW",
     "asn": "Serial Link for TelOne HQ"
@@ -79,12 +85,6 @@
   },
   {
     "ip": "197.221.249.198",
-    "port": 443,
-    "code": "ZW",
-    "asn": "Serial Link for TelOne HQ"
-  },
-  {
-    "ip": "41.220.16.215",
     "port": 443,
     "code": "ZW",
     "asn": "Serial Link for TelOne HQ"

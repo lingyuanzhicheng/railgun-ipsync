@@ -18,6 +18,12 @@
     "asn": "IROKO Networks Corporation"
   },
   {
+    "ip": "31.222.235.81",
+    "port": 443,
+    "code": "UA",
+    "asn": "NETH LLC"
+  },
+  {
     "ip": "195.28.182.182",
     "port": 2053,
     "code": "UA",
@@ -30,22 +36,10 @@
     "asn": "TOV 'Dream Line Holding'"
   },
   {
-    "ip": "31.222.235.81",
-    "port": 443,
-    "code": "UA",
-    "asn": "NETH LLC"
-  },
-  {
     "ip": "195.28.182.182",
     "port": 8443,
     "code": "UA",
     "asn": "Friendhosting LTD"
-  },
-  {
-    "ip": "45.14.246.187",
-    "port": 443,
-    "code": "UA",
-    "asn": "WorkTitans B.V."
   },
   {
     "ip": "193.110.163.10",
