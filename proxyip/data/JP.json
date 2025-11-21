@@ -90,12 +90,6 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "103.232.213.117",
-    "port": 8080,
-    "code": "JP",
-    "asn": "NPO G-net"
-  },
-  {
     "ip": "141.147.161.249",
     "port": 51037,
     "code": "JP",
@@ -105,7 +99,7 @@
     "ip": "64.176.40.224",
     "port": 3533,
     "code": "JP",
-    "asn": "The Constant Company, LLC"
+    "asn": "Vultr Holdings, LLC"
   },
   {
     "ip": "64.176.42.125",
@@ -114,16 +108,16 @@
     "asn": "Vultr Holdings, LLC"
   },
   {
-    "ip": "140.238.50.134",
-    "port": 443,
-    "code": "JP",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "152.69.192.40",
     "port": 57005,
     "code": "JP",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "140.238.50.134",
+    "port": 443,
+    "code": "JP",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "168.138.46.67",
@@ -138,16 +132,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "64.176.42.125",
-    "port": 10008,
-    "code": "JP",
-    "asn": "The Constant Company, LLC"
-  },
-  {
     "ip": "147.45.49.11",
     "port": 8443,
     "code": "JP",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "64.176.42.125",
+    "port": 10008,
+    "code": "JP",
+    "asn": "The Constant Company, LLC"
   },
   {
     "ip": "141.147.147.180",
@@ -180,14 +174,14 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "168.138.213.1",
-    "port": 50003,
+    "ip": "168.138.198.7",
+    "port": 27560,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "168.138.198.7",
-    "port": 27560,
+    "ip": "168.138.213.1",
+    "port": 50003,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
@@ -210,8 +204,20 @@
     "asn": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
+    "ip": "113.37.149.36",
+    "port": 12553,
+    "code": "JP",
+    "asn": "ARTERIA Networks Corporation"
+  },
+  {
     "ip": "152.70.101.24",
     "port": 16038,
+    "code": "JP",
+    "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "152.70.101.24",
+    "port": 16037,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
@@ -222,10 +228,10 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "152.70.101.24",
-    "port": 16037,
+    "ip": "47.79.35.191",
+    "port": 443,
     "code": "JP",
-    "asn": "Oracle Corporation"
+    "asn": "Alibaba Cloud LLC"
   },
   {
     "ip": "152.70.101.24",
@@ -240,18 +246,6 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "47.79.35.191",
-    "port": 443,
-    "code": "JP",
-    "asn": "Alibaba Cloud LLC"
-  },
-  {
-    "ip": "113.37.149.36",
-    "port": 12553,
-    "code": "JP",
-    "asn": "ARTERIA Networks Corporation"
-  },
-  {
     "ip": "138.2.32.76",
     "port": 15821,
     "code": "JP",
@@ -264,14 +258,14 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "152.70.101.24",
-    "port": 16096,
+    "ip": "138.2.10.217",
+    "port": 27446,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "138.2.10.217",
-    "port": 27446,
+    "ip": "152.70.101.24",
+    "port": 16096,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
@@ -283,13 +277,13 @@
   },
   {
     "ip": "152.70.101.24",
-    "port": 16007,
+    "port": 16056,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
   {
     "ip": "152.70.101.24",
-    "port": 16056,
+    "port": 16007,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
@@ -310,6 +304,12 @@
     "port": 33405,
     "code": "JP",
     "asn": "6 COLLYER QUAY"
+  },
+  {
+    "ip": "8.209.220.50",
+    "port": 21273,
+    "code": "JP",
+    "asn": "Shiodome Sumitomo Blog 1-9-2 TOKYO"
   },
   {
     "ip": "217.142.236.93",
@@ -372,28 +372,28 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "185.184.223.85",
-    "port": 8443,
-    "code": "JP",
-    "asn": "xTom"
-  },
-  {
     "ip": "132.145.127.203",
     "port": 8443,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "138.2.48.109",
-    "port": 26412,
+    "ip": "185.184.223.85",
+    "port": 8443,
     "code": "JP",
-    "asn": "Oracle Corporation"
+    "asn": "xTom"
   },
   {
     "ip": "147.45.49.164",
     "port": 24443,
     "code": "JP",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "138.2.48.109",
+    "port": 26412,
+    "code": "JP",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "45.76.111.190",
@@ -426,26 +426,20 @@
     "asn": "Oracle Network Information Services"
   },
   {
-    "ip": "141.147.185.63",
-    "port": 443,
-    "code": "JP",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "193.246.161.65",
     "port": 54310,
     "code": "JP",
     "asn": "AKILE LTD"
   },
   {
-    "ip": "158.101.71.226",
-    "port": 8443,
+    "ip": "141.147.185.63",
+    "port": 443,
     "code": "JP",
-    "asn": "Oracle Public Cloud"
+    "asn": "Oracle Corporation"
   },
   {
-    "ip": "158.101.146.3",
-    "port": 54516,
+    "ip": "158.101.71.226",
+    "port": 8443,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
@@ -462,6 +456,12 @@
     "asn": "Amazon Data Services Japan"
   },
   {
+    "ip": "158.101.146.3",
+    "port": 54516,
+    "code": "JP",
+    "asn": "Oracle Public Cloud"
+  },
+  {
     "ip": "38.180.28.163",
     "port": 2053,
     "code": "JP",
@@ -471,7 +471,7 @@
     "ip": "167.179.86.6",
     "port": 8443,
     "code": "JP",
-    "asn": "Vultr Holdings, LLC"
+    "asn": "TYO_VULTR_CUST"
   },
   {
     "ip": "47.79.43.222",
@@ -516,16 +516,16 @@
     "asn": "Akamai Connected Cloud / Linode"
   },
   {
-    "ip": "141.98.197.101",
-    "port": 11665,
-    "code": "JP",
-    "asn": "xTom Japan Corporation"
-  },
-  {
     "ip": "141.147.159.250",
     "port": 443,
     "code": "JP",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "141.98.197.101",
+    "port": 11665,
+    "code": "JP",
+    "asn": "xTom Japan Corporation"
   },
   {
     "ip": "185.18.222.208",
@@ -540,14 +540,14 @@
     "asn": "Private Customer"
   },
   {
-    "ip": "158.101.80.84",
-    "port": 443,
+    "ip": "140.238.37.103",
+    "port": 14782,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "140.238.37.103",
-    "port": 14782,
+    "ip": "158.101.80.84",
+    "port": 443,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
@@ -588,22 +588,28 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "47.79.90.37",
-    "port": 49153,
-    "code": "JP",
-    "asn": "Alibaba Cloud LLC"
-  },
-  {
     "ip": "140.83.60.81",
     "port": 18443,
     "code": "JP",
     "asn": "imported inetnum object for OCPL-1"
   },
   {
+    "ip": "47.79.90.37",
+    "port": 49153,
+    "code": "JP",
+    "asn": "Alibaba Cloud LLC"
+  },
+  {
     "ip": "158.101.154.245",
     "port": 47001,
     "code": "JP",
     "asn": "Oracle Public Cloud"
+  },
+  {
+    "ip": "103.125.216.22",
+    "port": 8443,
+    "code": "JP",
+    "asn": "VPSServer.com /24 block for Tokyo location"
   },
   {
     "ip": "45.11.1.118",
@@ -618,6 +624,12 @@
     "asn": "Alibaba Cloud - JP"
   },
   {
+    "ip": "47.79.34.117",
+    "port": 10036,
+    "code": "JP",
+    "asn": "Alibaba Cloud LLC"
+  },
+  {
     "ip": "3.112.21.102",
     "port": 443,
     "code": "JP",
@@ -628,12 +640,6 @@
     "port": 443,
     "code": "JP",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "47.79.34.117",
-    "port": 10036,
-    "code": "JP",
-    "asn": "Alibaba Cloud LLC"
   },
   {
     "ip": "155.248.184.178",
@@ -660,14 +666,14 @@
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "158.101.76.55",
-    "port": 21953,
+    "ip": "132.145.127.203",
+    "port": 2053,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "132.145.127.203",
-    "port": 2053,
+    "ip": "158.101.76.55",
+    "port": 21953,
     "code": "JP",
     "asn": "Oracle Public Cloud"
   },
@@ -684,22 +690,16 @@
     "asn": "imported inetnum object for OCPL-1"
   },
   {
-    "ip": "202.84.53.85",
-    "port": 19999,
-    "code": "JP",
-    "asn": "Azumino Network Community TV"
-  },
-  {
-    "ip": "103.125.216.22",
-    "port": 8443,
-    "code": "JP",
-    "asn": "VPSServer.com /24 block for Tokyo location"
-  },
-  {
     "ip": "198.13.42.58",
     "port": 32954,
     "code": "JP",
     "asn": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "202.84.53.85",
+    "port": 19999,
+    "code": "JP",
+    "asn": "Azumino Network Community TV"
   },
   {
     "ip": "202.182.116.249",
@@ -744,8 +744,8 @@
     "asn": "SAKURA Internet Inc."
   },
   {
-    "ip": "150.230.204.21",
-    "port": 10243,
+    "ip": "150.230.214.172",
+    "port": 16957,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
@@ -756,8 +756,8 @@
     "asn": "Cloudflare London, LLC"
   },
   {
-    "ip": "150.230.214.172",
-    "port": 16957,
+    "ip": "150.230.204.21",
+    "port": 10243,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
@@ -780,16 +780,22 @@
     "asn": "Server Hosting Service(NTTPCCommunications,Inc.)"
   },
   {
-    "ip": "84.247.152.46",
-    "port": 10045,
+    "ip": "103.238.129.215",
+    "port": 42734,
     "code": "JP",
-    "asn": "Contabo GmbH"
+    "asn": "ByteVirt LLC"
   },
   {
     "ip": "18.177.83.181",
     "port": 443,
     "code": "JP",
     "asn": "Amazon Data Services Japan"
+  },
+  {
+    "ip": "84.247.152.46",
+    "port": 10045,
+    "code": "JP",
+    "asn": "Contabo GmbH"
   },
   {
     "ip": "168.138.197.147",
@@ -816,18 +822,6 @@
     "asn": "Amazon Data Services Japan"
   },
   {
-    "ip": "152.70.97.53",
-    "port": 443,
-    "code": "JP",
-    "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "193.123.161.116",
-    "port": 443,
-    "code": "JP",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "168.138.192.16",
     "port": 54584,
     "code": "JP",
@@ -840,22 +834,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "150.230.59.15",
-    "port": 8443,
+    "ip": "193.123.161.116",
+    "port": 443,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "121.85.55.59",
-    "port": 19842,
+    "ip": "150.230.59.15",
+    "port": 8443,
     "code": "JP",
-    "asn": "OPTAGE Inc."
-  },
-  {
-    "ip": "103.238.129.215",
-    "port": 42734,
-    "code": "JP",
-    "asn": "ByteVirt LLC"
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "109.123.231.212",
@@ -882,12 +870,6 @@
     "asn": "Oneprovider.com - Japan Infrastructure"
   },
   {
-    "ip": "217.142.230.253",
-    "port": 587,
-    "code": "JP",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "138.2.12.103",
     "port": 14453,
     "code": "JP",
@@ -900,16 +882,22 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "45.77.25.6",
-    "port": 27854,
+    "ip": "217.142.230.253",
+    "port": 587,
     "code": "JP",
-    "asn": "Vultr Holdings, LLC"
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "217.142.250.195",
     "port": 587,
     "code": "JP",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "45.77.25.6",
+    "port": 27854,
+    "code": "JP",
+    "asn": "Vultr Holdings, LLC"
   },
   {
     "ip": "155.248.181.189",
@@ -936,10 +924,10 @@
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "35.189.137.210",
-    "port": 443,
+    "ip": "108.61.201.87",
+    "port": 8443,
     "code": "JP",
-    "asn": "Google LLC"
+    "asn": "Vultr Holdings, LLC"
   },
   {
     "ip": "139.162.79.151",
@@ -948,22 +936,22 @@
     "asn": "Akamai Connected Cloud / Linode"
   },
   {
-    "ip": "54.64.238.243",
+    "ip": "35.189.137.210",
     "port": 443,
     "code": "JP",
-    "asn": "Amazon Technologies Inc."
-  },
-  {
-    "ip": "108.61.201.87",
-    "port": 8443,
-    "code": "JP",
-    "asn": "Vultr Holdings, LLC"
+    "asn": "Google LLC"
   },
   {
     "ip": "43.153.179.6",
     "port": 443,
     "code": "JP",
     "asn": "16 COLLYER QUAY # 18-29 INCOME AT RAFFLES"
+  },
+  {
+    "ip": "150.230.196.248",
+    "port": 443,
+    "code": "JP",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "124.156.238.155",
@@ -976,6 +964,12 @@
     "port": 443,
     "code": "JP",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "140.238.38.81",
+    "port": 587,
+    "code": "JP",
+    "asn": "Cloudflare, Inc."
   },
   {
     "ip": "141.147.178.249",
@@ -1009,13 +1003,13 @@
   },
   {
     "ip": "152.70.101.24",
-    "port": 16667,
+    "port": 16040,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
   {
     "ip": "152.70.101.24",
-    "port": 16040,
+    "port": 16667,
     "code": "JP",
     "asn": "Oracle Corporation"
   },
@@ -1044,18 +1038,6 @@
     "asn": "SAKURA Internet Inc."
   },
   {
-    "ip": "140.238.38.81",
-    "port": 587,
-    "code": "JP",
-    "asn": "Cloudflare, Inc."
-  },
-  {
-    "ip": "45.77.9.114",
-    "port": 443,
-    "code": "JP",
-    "asn": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "202.84.53.85",
     "port": 12145,
     "code": "JP",
@@ -1071,6 +1053,6 @@
     "ip": "18.205.113.91",
     "port": 443,
     "code": "JP",
-    "asn": "KDDI CORPORATION"
+    "asn": "TOKAI Communications Corporation"
   }
 ]

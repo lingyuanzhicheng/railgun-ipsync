@@ -9,7 +9,7 @@
     "ip": "64.176.163.9",
     "port": 8443,
     "code": "IL",
-    "asn": "The Constant Company, LLC."
+    "asn": "The Constant Company, LLC"
   },
   {
     "ip": "129.159.129.107",
@@ -18,14 +18,14 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "77.91.69.238",
-    "port": 2053,
+    "ip": "77.91.69.146",
+    "port": 443,
     "code": "IL",
     "asn": "Webhost LLC"
   },
   {
-    "ip": "77.91.69.146",
-    "port": 443,
+    "ip": "77.91.69.238",
+    "port": 2053,
     "code": "IL",
     "asn": "Webhost LLC"
   },
@@ -60,16 +60,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "77.91.69.141",
-    "port": 2053,
-    "code": "IL",
-    "asn": "Webhost LLC"
-  },
-  {
     "ip": "129.159.143.171",
     "port": 2053,
     "code": "IL",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "77.91.69.141",
+    "port": 2053,
+    "code": "IL",
+    "asn": "Webhost LLC"
   },
   {
     "ip": "212.80.205.244",
@@ -102,20 +102,14 @@
     "asn": "Webhost LLC"
   },
   {
-    "ip": "77.91.69.84",
-    "port": 443,
-    "code": "IL",
-    "asn": "Webhost LLC"
-  },
-  {
     "ip": "91.225.218.230",
     "port": 443,
     "code": "IL",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "77.91.69.238",
-    "port": 8443,
+    "ip": "77.91.69.84",
+    "port": 443,
     "code": "IL",
     "asn": "Webhost LLC"
   },
@@ -126,16 +120,16 @@
     "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
+    "ip": "77.91.69.238",
+    "port": 8443,
+    "code": "IL",
+    "asn": "Webhost LLC"
+  },
+  {
     "ip": "185.239.48.237",
     "port": 443,
     "code": "IL",
     "asn": "LLC Smart Ape"
-  },
-  {
-    "ip": "77.91.74.6",
-    "port": 443,
-    "code": "IL",
-    "asn": "WorkTitans B.V."
   },
   {
     "ip": "129.159.143.171",

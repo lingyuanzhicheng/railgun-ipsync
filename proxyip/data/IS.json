@@ -66,18 +66,6 @@
     "asn": "1984 ehf"
   },
   {
-    "ip": "194.247.183.118",
-    "port": 443,
-    "code": "IS",
-    "asn": "HOSTKEY B.V."
-  },
-  {
-    "ip": "89.221.224.101",
-    "port": 8443,
-    "code": "IS",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.83.21.194",
     "port": 443,
     "code": "IS",
@@ -88,6 +76,18 @@
     "port": 2053,
     "code": "IS",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "89.221.224.101",
+    "port": 8443,
+    "code": "IS",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "194.247.183.118",
+    "port": 443,
+    "code": "IS",
+    "asn": "HOSTKEY B.V."
   },
   {
     "ip": "195.246.231.196",
