@@ -60,16 +60,16 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "90.156.221.54",
-    "port": 443,
-    "code": "AE",
-    "asn": "ITGLOBAL COM DMCC"
-  },
-  {
     "ip": "40.120.108.47",
     "port": 443,
     "code": "AE",
     "asn": "Microsoft Corporation"
+  },
+  {
+    "ip": "90.156.221.54",
+    "port": 443,
+    "code": "AE",
+    "asn": "ITGLOBAL COM DMCC"
   },
   {
     "ip": "3.29.240.49",
@@ -90,16 +90,16 @@
     "asn": "Private Customer"
   },
   {
+    "ip": "176.97.67.38",
+    "port": 443,
+    "code": "AE",
+    "asn": "3nt solutions LLP"
+  },
+  {
     "ip": "176.97.78.80",
     "port": 2053,
     "code": "AE",
     "asn": "IROKO Networks Corporation"
-  },
-  {
-    "ip": "217.195.200.138",
-    "port": 443,
-    "code": "AE",
-    "asn": "G-Core Labs Customer assignment"
   },
   {
     "ip": "85.237.211.59",
@@ -108,10 +108,10 @@
     "asn": "Private Customer"
   },
   {
-    "ip": "176.97.67.38",
+    "ip": "217.195.200.138",
     "port": 443,
     "code": "AE",
-    "asn": "3nt solutions LLP"
+    "asn": "G-Core Labs Customer assignment"
   },
   {
     "ip": "3.29.76.68",
@@ -120,16 +120,16 @@
     "asn": "Amazon Data Services UAE"
   },
   {
-    "ip": "176.97.66.175",
-    "port": 443,
-    "code": "AE",
-    "asn": "3nt solutions LLP"
-  },
-  {
     "ip": "109.61.42.20",
     "port": 443,
     "code": "AE",
     "asn": "G-Core Labs Customer assignment"
+  },
+  {
+    "ip": "176.97.66.175",
+    "port": 443,
+    "code": "AE",
+    "asn": "3nt solutions LLP"
   },
   {
     "ip": "141.145.151.219",

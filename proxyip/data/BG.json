@@ -30,16 +30,16 @@
     "asn": "Friendhosting LTD"
   },
   {
-    "ip": "91.227.77.40",
-    "port": 8443,
-    "code": "BG",
-    "asn": "BlueVPS OU"
-  },
-  {
     "ip": "79.124.7.236",
     "port": 444,
     "code": "BG",
     "asn": "DA International Group Ltd. - AlphaVPS"
+  },
+  {
+    "ip": "91.227.77.40",
+    "port": 8443,
+    "code": "BG",
+    "asn": "BlueVPS OU"
   },
   {
     "ip": "93.157.106.107",
@@ -54,6 +54,12 @@
     "asn": "FIRST SERVER LIMITED"
   },
   {
+    "ip": "94.72.140.22",
+    "port": 8443,
+    "code": "BG",
+    "asn": "DA International Group Ltd. - AlphaVPS"
+  },
+  {
     "ip": "185.148.146.9",
     "port": 443,
     "code": "BG",
@@ -64,12 +70,6 @@
     "port": 57743,
     "code": "BG",
     "asn": "Melbikomas UAB"
-  },
-  {
-    "ip": "94.72.140.22",
-    "port": 8443,
-    "code": "BG",
-    "asn": "DA International Group Ltd. - AlphaVPS"
   },
   {
     "ip": "91.148.132.35",
@@ -168,16 +168,16 @@
     "asn": "Friendhosting LTD"
   },
   {
-    "ip": "91.215.154.136",
-    "port": 443,
-    "code": "BG",
-    "asn": "Friendhosting LTD"
-  },
-  {
     "ip": "185.203.116.174",
     "port": 443,
     "code": "BG",
     "asn": "Belcloud LTD"
+  },
+  {
+    "ip": "91.215.154.136",
+    "port": 443,
+    "code": "BG",
+    "asn": "Friendhosting LTD"
   },
   {
     "ip": "185.162.10.111",
@@ -186,16 +186,16 @@
     "asn": "Hosting Provider EuroHoster Ltd."
   },
   {
-    "ip": "38.180.3.73",
-    "port": 2053,
-    "code": "BG",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "185.205.210.83",
     "port": 443,
     "code": "BG",
     "asn": "Belcloud LTD"
+  },
+  {
+    "ip": "38.180.3.73",
+    "port": 2053,
+    "code": "BG",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "94.156.35.144",
@@ -204,16 +204,16 @@
     "asn": "Belcloud LTD"
   },
   {
-    "ip": "185.232.171.202",
-    "port": 443,
-    "code": "BG",
-    "asn": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "78.128.127.89",
     "port": 443,
     "code": "BG",
     "asn": "DA International Group Ltd."
+  },
+  {
+    "ip": "185.232.171.202",
+    "port": 443,
+    "code": "BG",
+    "asn": "FIRST SERVER LIMITED"
   },
   {
     "ip": "185.162.10.111",
@@ -228,12 +228,6 @@
     "asn": "FIRST SERVER LIMITED"
   },
   {
-    "ip": "185.190.250.26",
-    "port": 7445,
-    "code": "BG",
-    "asn": "Friendhosting LTD"
-  },
-  {
     "ip": "45.136.198.114",
     "port": 2053,
     "code": "BG",
@@ -244,6 +238,12 @@
     "port": 8443,
     "code": "BG",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "185.190.250.26",
+    "port": 7445,
+    "code": "BG",
+    "asn": "Friendhosting LTD"
   },
   {
     "ip": "91.215.154.48",
@@ -294,16 +294,16 @@
     "asn": "Green Floid LLC"
   },
   {
-    "ip": "185.141.61.113",
-    "port": 2053,
-    "code": "BG",
-    "asn": "Redcluster LTD"
-  },
-  {
     "ip": "82.118.230.220",
     "port": 443,
     "code": "BG",
     "asn": "DA International Group Ltd."
+  },
+  {
+    "ip": "185.141.61.113",
+    "port": 2053,
+    "code": "BG",
+    "asn": "Redcluster LTD"
   },
   {
     "ip": "91.227.77.150",
@@ -331,12 +331,6 @@
   },
   {
     "ip": "185.82.218.224",
-    "port": 443,
-    "code": "BG",
-    "asn": "ITLDC EU2.SOF Datacenter Network"
-  },
-  {
-    "ip": "185.82.218.224",
     "port": 8443,
     "code": "BG",
     "asn": "ITLDC EU2.SOF Datacenter Network"
@@ -346,6 +340,12 @@
     "port": 443,
     "code": "BG",
     "asn": "FIRST SERVER LIMITED"
+  },
+  {
+    "ip": "185.82.218.224",
+    "port": 443,
+    "code": "BG",
+    "asn": "ITLDC EU2.SOF Datacenter Network"
   },
   {
     "ip": "193.37.213.44",

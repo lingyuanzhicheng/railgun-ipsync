@@ -24,16 +24,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "170.64.152.77",
-    "port": 7443,
-    "code": "AU",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "192.9.190.80",
     "port": 23862,
     "code": "AU",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "170.64.152.77",
+    "port": 7443,
+    "code": "AU",
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "194.195.252.133",
@@ -78,16 +78,16 @@
     "asn": "Microsoft Corporation"
   },
   {
+    "ip": "207.148.80.190",
+    "port": 443,
+    "code": "AU",
+    "asn": "The Constant Company, LLC"
+  },
+  {
     "ip": "16.176.42.97",
     "port": 443,
     "code": "AU",
     "asn": "Amazon Corporate Services Pty Ltd"
-  },
-  {
-    "ip": "192.46.221.238",
-    "port": 443,
-    "code": "AU",
-    "asn": "Linode, LLC"
   },
   {
     "ip": "170.64.227.71",
@@ -106,5 +106,11 @@
     "port": 443,
     "code": "AU",
     "asn": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "207.211.153.234",
+    "port": 443,
+    "code": "AU",
+    "asn": "Oracle Corporation"
   }
 ]

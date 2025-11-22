@@ -6,10 +6,10 @@
     "asn": "Amazon.com, Inc."
   },
   {
-    "ip": "103.6.207.108",
-    "port": 8080,
+    "ip": "156.244.1.250",
+    "port": 8443,
     "code": "ID",
-    "asn": "PT Pusat Media Indonesia"
+    "asn": "Lightnode Limited"
   },
   {
     "ip": "43.218.77.16",
@@ -18,15 +18,15 @@
     "asn": "Amazon.com, Inc."
   },
   {
-    "ip": "156.244.1.250",
-    "port": 8443,
-    "code": "ID",
-    "asn": "Lightnode Limited"
-  },
-  {
     "ip": "36.95.152.58",
     "port": 12137,
     "code": "ID",
     "asn": "PT Telekomunikasi Indonesia"
+  },
+  {
+    "ip": "103.6.207.108",
+    "port": 8080,
+    "code": "ID",
+    "asn": "PT Pusat Media Indonesia"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "ip": "192.46.213.36",
-    "port": 8443,
-    "code": "IN",
-    "asn": "Akamai Connected Cloud / Linode"
-  },
-  {
     "ip": "13.200.192.197",
     "port": 443,
     "code": "IN",
@@ -16,6 +10,12 @@
     "port": 15805,
     "code": "IN",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "192.46.213.36",
+    "port": 8443,
+    "code": "IN",
+    "asn": "Akamai Connected Cloud / Linode"
   },
   {
     "ip": "98.70.1.250",
@@ -30,16 +30,16 @@
     "asn": "ReadyDedis, LLC"
   },
   {
-    "ip": "98.70.26.236",
-    "port": 443,
-    "code": "IN",
-    "asn": "Microsoft Corporation"
-  },
-  {
     "ip": "64.227.174.213",
     "port": 2053,
     "code": "IN",
     "asn": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "98.70.26.236",
+    "port": 443,
+    "code": "IN",
+    "asn": "Microsoft Corporation"
   },
   {
     "ip": "20.235.220.189",
@@ -60,12 +60,6 @@
     "asn": "Oracle Corporation , Global software solutions , California , USA"
   },
   {
-    "ip": "216.10.243.159",
-    "port": 443,
-    "code": "IN",
-    "asn": "P.D.R Solutions FZC"
-  },
-  {
     "ip": "43.204.101.63",
     "port": 443,
     "code": "IN",
@@ -78,10 +72,22 @@
     "asn": "Amazon.com, Inc."
   },
   {
+    "ip": "216.10.243.159",
+    "port": 443,
+    "code": "IN",
+    "asn": "P.D.R Solutions FZC"
+  },
+  {
     "ip": "148.113.43.228",
     "port": 2053,
     "code": "IN",
     "asn": "OVHTECH R&D (INDIA) PRIVATE LIMITED"
+  },
+  {
+    "ip": "45.88.183.130",
+    "port": 443,
+    "code": "IN",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "13.127.255.237",
@@ -102,12 +108,6 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "45.88.183.130",
-    "port": 443,
-    "code": "IN",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "139.84.163.149",
     "port": 443,
     "code": "IN",
@@ -120,16 +120,16 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "64.227.158.180",
-    "port": 443,
-    "code": "IN",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "45.88.183.55",
     "port": 2053,
     "code": "IN",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "64.227.158.180",
+    "port": 443,
+    "code": "IN",
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "172.105.62.71",
@@ -150,6 +150,12 @@
     "asn": "IPXO LLC"
   },
   {
+    "ip": "172.232.112.240",
+    "port": 587,
+    "code": "IN",
+    "asn": "Linode"
+  },
+  {
     "ip": "65.20.83.36",
     "port": 443,
     "code": "IN",
@@ -162,28 +168,22 @@
     "asn": "DigitalOcean, LLC"
   },
   {
-    "ip": "172.232.112.240",
-    "port": 587,
-    "code": "IN",
-    "asn": "Linode"
-  },
-  {
     "ip": "43.230.203.218",
     "port": 443,
     "code": "IN",
     "asn": "Tier4Cloud"
   },
   {
-    "ip": "134.209.148.128",
-    "port": 443,
-    "code": "IN",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "166.0.244.206",
     "port": 8443,
     "code": "IN",
     "asn": "IPXO LLC"
+  },
+  {
+    "ip": "134.209.148.128",
+    "port": 443,
+    "code": "IN",
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "140.238.225.218",

@@ -1,11 +1,5 @@
 [
   {
-    "ip": "185.247.184.186",
-    "port": 2053,
-    "code": "IT",
-    "asn": "GLOBAL INTERNET SOLUTIONS LLC"
-  },
-  {
     "ip": "5.249.146.98",
     "port": 443,
     "code": "IT",
@@ -18,22 +12,16 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "194.165.59.20",
-    "port": 443,
-    "code": "IT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "158.180.231.216",
     "port": 443,
     "code": "IT",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "176.126.83.146",
-    "port": 8443,
+    "ip": "194.165.59.20",
+    "port": 443,
     "code": "IT",
-    "asn": "Oneprovider.com - Florence Infrastructure"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "178.175.231.12",
@@ -42,10 +30,16 @@
     "asn": "MYNET S.R.L."
   },
   {
-    "ip": "80.211.170.53",
+    "ip": "176.126.83.146",
+    "port": 8443,
+    "code": "IT",
+    "asn": "Oneprovider.com - Florence Infrastructure"
+  },
+  {
+    "ip": "151.91.39.191",
     "port": 443,
     "code": "IT",
-    "asn": "Aruba S.p.A. - Cloud Services DC1"
+    "asn": "FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A."
   },
   {
     "ip": "185.198.235.246",
@@ -60,22 +54,16 @@
     "asn": "Aruba S.p.A. - Cloud Services IT3"
   },
   {
+    "ip": "80.211.170.53",
+    "port": 443,
+    "code": "IT",
+    "asn": "Aruba S.p.A. - Cloud Services DC1"
+  },
+  {
     "ip": "38.180.22.20",
     "port": 1001,
     "code": "IT",
     "asn": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "213.218.212.24",
-    "port": 443,
-    "code": "IT",
-    "asn": "GCI Network Solutions Limited"
-  },
-  {
-    "ip": "151.91.39.191",
-    "port": 443,
-    "code": "IT",
-    "asn": "FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A."
   },
   {
     "ip": "129.152.2.127",
@@ -90,16 +78,22 @@
     "asn": "G-Core Labs S.A."
   },
   {
-    "ip": "188.213.168.52",
+    "ip": "213.218.212.24",
     "port": 443,
     "code": "IT",
-    "asn": "Aruba S.p.A. - Cloud Services Farm2"
+    "asn": "GCI Network Solutions Limited"
   },
   {
     "ip": "45.92.70.218",
     "port": 8443,
     "code": "IT",
-    "asn": "G-Core Labs Customer assignment"
+    "asn": "G-Core Labs S.A."
+  },
+  {
+    "ip": "188.213.168.52",
+    "port": 443,
+    "code": "IT",
+    "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
     "ip": "178.175.231.13",
@@ -108,32 +102,26 @@
     "asn": "MYNET S.R.L."
   },
   {
-    "ip": "94.177.199.119",
-    "port": 8443,
-    "code": "IT",
-    "asn": "Aruba S.p.A. - Cloud Services Farm2"
-  },
-  {
     "ip": "212.237.30.220",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "94.177.199.45",
-    "port": 443,
+    "ip": "94.177.199.119",
+    "port": 2053,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "185.247.184.186",
+    "ip": "94.177.199.119",
     "port": 8443,
     "code": "IT",
-    "asn": "GLOBAL INTERNET SOLUTIONS LLC"
+    "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "94.177.199.119",
-    "port": 2053,
+    "ip": "94.177.199.45",
+    "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
@@ -180,16 +168,16 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "5.253.43.216",
-    "port": 443,
-    "code": "IT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "195.231.38.220",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services IT3"
+  },
+  {
+    "ip": "5.253.43.216",
+    "port": 443,
+    "code": "IT",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "80.211.231.169",

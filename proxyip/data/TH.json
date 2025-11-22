@@ -6,6 +6,12 @@
     "asn": "Alibaba Cloud LLC"
   },
   {
+    "ip": "171.103.232.58",
+    "port": 20475,
+    "code": "TH",
+    "asn": "True Internet Co., Ltd."
+  },
+  {
     "ip": "45.91.134.225",
     "port": 5060,
     "code": "TH",
@@ -16,12 +22,6 @@
     "port": 19816,
     "code": "TH",
     "asn": "ReadyIDC Co., Ltd."
-  },
-  {
-    "ip": "171.103.232.58",
-    "port": 20475,
-    "code": "TH",
-    "asn": "True Internet Co., Ltd."
   },
   {
     "ip": "45.154.26.81",
@@ -76,11 +76,5 @@
     "port": 10034,
     "code": "TH",
     "asn": "True Internet Co., Ltd."
-  },
-  {
-    "ip": "209.15.110.126",
-    "port": 443,
-    "code": "TH",
-    "asn": "CAT TELECOM, CAT Cloud Dept, 99 Chaengwatthana Rd. Lak Si, Bangkok 10210"
   }
 ]

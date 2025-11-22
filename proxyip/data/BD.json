@@ -12,16 +12,16 @@
     "asn": "AKBOR POWER NET"
   },
   {
-    "ip": "103.115.253.253",
-    "port": 443,
-    "code": "BD",
-    "asn": "Star Internet Service"
-  },
-  {
     "ip": "45.115.14.249",
     "port": 443,
     "code": "BD",
     "asn": "I-TEL Limited"
+  },
+  {
+    "ip": "103.115.253.253",
+    "port": 443,
+    "code": "BD",
+    "asn": "Star Internet Service"
   },
   {
     "ip": "103.48.16.37",
