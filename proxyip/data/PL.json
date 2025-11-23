@@ -222,14 +222,14 @@
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "45.144.48.48",
-    "port": 443,
+    "ip": "45.144.48.33",
+    "port": 8443,
     "code": "PL",
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "45.144.48.33",
-    "port": 8443,
+    "ip": "45.144.48.48",
+    "port": 443,
     "code": "PL",
     "asn": "Newserverlife LLC"
   },
@@ -264,22 +264,16 @@
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "45.144.48.192",
-    "port": 8443,
-    "code": "PL",
-    "asn": "Newserverlife LLC"
-  },
-  {
     "ip": "45.144.48.29",
     "port": 8443,
     "code": "PL",
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "31.133.0.105",
-    "port": 2053,
+    "ip": "45.144.48.192",
+    "port": 8443,
     "code": "PL",
-    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
+    "asn": "Newserverlife LLC"
   },
   {
     "ip": "37.202.202.247",
@@ -292,6 +286,12 @@
     "port": 443,
     "code": "PL",
     "asn": "Newserverlife LLC"
+  },
+  {
+    "ip": "31.133.0.105",
+    "port": 2053,
+    "code": "PL",
+    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
     "ip": "5.10.218.136",
@@ -312,14 +312,14 @@
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "57.128.215.214",
-    "port": 2053,
+    "ip": "54.37.235.201",
+    "port": 443,
     "code": "PL",
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "54.37.235.201",
-    "port": 443,
+    "ip": "57.128.215.214",
+    "port": 2053,
     "code": "PL",
     "asn": "OVH Sp. z o. o."
   },
@@ -360,16 +360,16 @@
     "asn": "NET 37 202 202 0 24"
   },
   {
-    "ip": "31.133.0.70",
-    "port": 2053,
-    "code": "PL",
-    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
     "ip": "185.253.45.68",
     "port": 443,
     "code": "PL",
     "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "31.133.0.70",
+    "port": 2053,
+    "code": "PL",
+    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
     "ip": "185.226.181.184",
@@ -384,13 +384,13 @@
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "51.68.136.248",
+    "ip": "54.36.186.141",
     "port": 443,
     "code": "PL",
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "54.36.186.141",
+    "ip": "51.68.136.248",
     "port": 443,
     "code": "PL",
     "asn": "OVH Sp. z o. o."
@@ -438,16 +438,16 @@
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "2.56.125.171",
-    "port": 443,
-    "code": "PL",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "151.115.61.151",
     "port": 2053,
     "code": "PL",
     "asn": "Scaleway - Warsaw, Poland"
+  },
+  {
+    "ip": "2.56.125.171",
+    "port": 443,
+    "code": "PL",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "151.115.62.47",
@@ -456,16 +456,16 @@
     "asn": "Scaleway - Warsaw, Poland"
   },
   {
-    "ip": "176.105.253.43",
-    "port": 443,
-    "code": "PL",
-    "asn": "BREEZLE LLC"
-  },
-  {
     "ip": "37.252.10.144",
     "port": 8443,
     "code": "PL",
     "asn": "IROKO Networks Corporation"
+  },
+  {
+    "ip": "176.105.253.43",
+    "port": 443,
+    "code": "PL",
+    "asn": "BREEZLE LLC"
   },
   {
     "ip": "45.144.49.77",
@@ -504,16 +504,16 @@
     "asn": "SHARANGIIA NANA"
   },
   {
-    "ip": "37.202.202.99",
-    "port": 8443,
-    "code": "PL",
-    "asn": "NET 37 202 202 0 24"
-  },
-  {
     "ip": "45.149.63.46",
     "port": 2053,
     "code": "PL",
     "asn": "NET 45 149 63 0 24"
+  },
+  {
+    "ip": "37.202.202.99",
+    "port": 8443,
+    "code": "PL",
+    "asn": "NET 37 202 202 0 24"
   },
   {
     "ip": "151.115.58.191",
@@ -558,12 +558,6 @@
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "2.56.125.59",
-    "port": 443,
-    "code": "PL",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.82.255.214",
     "port": 8443,
     "code": "PL",
@@ -576,16 +570,16 @@
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "77.91.102.183",
-    "port": 443,
-    "code": "PL",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.149.63.192",
     "port": 2053,
     "code": "PL",
     "asn": "NET 45 149 63 0 24"
+  },
+  {
+    "ip": "77.91.102.183",
+    "port": 443,
+    "code": "PL",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "45.144.48.42",
@@ -594,16 +588,16 @@
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "212.162.155.43",
-    "port": 443,
-    "code": "PL",
-    "asn": "Podaon SIA"
-  },
-  {
     "ip": "77.83.246.133",
     "port": 24443,
     "code": "PL",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "212.162.155.43",
+    "port": 443,
+    "code": "PL",
+    "asn": "Podaon SIA"
   },
   {
     "ip": "45.144.48.81",
@@ -666,12 +660,6 @@
     "asn": "IPXO 95 169 162"
   },
   {
-    "ip": "95.169.162.96",
-    "port": 2053,
-    "code": "PL",
-    "asn": "IPXO 95 169 162"
-  },
-  {
     "ip": "138.124.20.173",
     "port": 443,
     "code": "PL",
@@ -694,6 +682,12 @@
     "port": 8443,
     "code": "PL",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "95.169.162.96",
+    "port": 2053,
+    "code": "PL",
+    "asn": "IPXO 95 169 162"
   },
   {
     "ip": "178.255.46.176",
@@ -726,26 +720,20 @@
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "45.144.51.63",
-    "port": 8443,
-    "code": "PL",
-    "asn": "Newserverlife LLC"
-  },
-  {
     "ip": "45.149.63.235",
     "port": 2053,
     "code": "PL",
     "asn": "NET 45 149 63 0 24"
   },
   {
-    "ip": "31.133.0.122",
-    "port": 8443,
+    "ip": "31.133.0.124",
+    "port": 2053,
     "code": "PL",
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "31.133.0.124",
-    "port": 2053,
+    "ip": "31.133.0.122",
+    "port": 8443,
     "code": "PL",
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
@@ -798,13 +786,19 @@
     "asn": "SERVA ONE LTD"
   },
   {
+    "ip": "31.133.0.55",
+    "port": 2053,
+    "code": "PL",
+    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
+  },
+  {
     "ip": "31.133.0.133",
     "port": 2053,
     "code": "PL",
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "31.133.0.55",
+    "ip": "31.133.0.150",
     "port": 2053,
     "code": "PL",
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
@@ -816,28 +810,16 @@
     "asn": "SERVA ONE LTD"
   },
   {
-    "ip": "212.162.155.166",
-    "port": 443,
+    "ip": "5.187.51.204",
+    "port": 1195,
     "code": "PL",
-    "asn": "Podaon SIA"
-  },
-  {
-    "ip": "31.133.0.150",
-    "port": 2053,
-    "code": "PL",
-    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
+    "asn": "Interkul Krystyna Kulwikowska"
   },
   {
     "ip": "31.133.0.100",
     "port": 2053,
     "code": "PL",
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
-    "ip": "5.187.51.204",
-    "port": 1195,
-    "code": "PL",
-    "asn": "Interkul Krystyna Kulwikowska"
   },
   {
     "ip": "91.239.148.133",
@@ -906,16 +888,16 @@
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "80.211.249.68",
-    "port": 2053,
-    "code": "PL",
-    "asn": "Aruba S.p.A. - Cloud Services PL1"
-  },
-  {
     "ip": "45.144.48.182",
     "port": 8443,
     "code": "PL",
     "asn": "Newserverlife LLC"
+  },
+  {
+    "ip": "80.211.249.68",
+    "port": 2053,
+    "code": "PL",
+    "asn": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
     "ip": "45.144.51.81",
@@ -924,16 +906,16 @@
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "217.30.10.46",
-    "port": 2053,
-    "code": "PL",
-    "asn": "Melbikomas UAB"
-  },
-  {
     "ip": "185.226.181.239",
     "port": 2053,
     "code": "PL",
     "asn": "NET 185 226 181 0 24"
+  },
+  {
+    "ip": "217.30.10.46",
+    "port": 2053,
+    "code": "PL",
+    "asn": "Melbikomas UAB"
   },
   {
     "ip": "217.182.79.55",
@@ -990,12 +972,6 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "94.142.255.97",
-    "port": 443,
-    "code": "PL",
-    "asn": "Friendhosting LTD"
-  },
-  {
     "ip": "38.180.111.12",
     "port": 443,
     "code": "PL",
@@ -1026,6 +1002,18 @@
     "asn": "The Constant Company, LLC"
   },
   {
+    "ip": "217.30.10.31",
+    "port": 8443,
+    "code": "PL",
+    "asn": "Melbikomas UAB"
+  },
+  {
+    "ip": "217.30.10.31",
+    "port": 2053,
+    "code": "PL",
+    "asn": "Melbikomas UAB"
+  },
+  {
     "ip": "91.149.253.249",
     "port": 443,
     "code": "PL",
@@ -1044,16 +1032,16 @@
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "45.149.63.113",
-    "port": 443,
-    "code": "PL",
-    "asn": "NET 45 149 63 0 24"
-  },
-  {
     "ip": "57.128.215.209",
     "port": 8443,
     "code": "PL",
     "asn": "OVH Sp. z o. o."
+  },
+  {
+    "ip": "45.149.63.113",
+    "port": 443,
+    "code": "PL",
+    "asn": "NET 45 149 63 0 24"
   },
   {
     "ip": "51.77.58.226",
@@ -1092,18 +1080,6 @@
     "asn": "Baxet Group Inc."
   },
   {
-    "ip": "217.30.10.31",
-    "port": 2053,
-    "code": "PL",
-    "asn": "Melbikomas UAB"
-  },
-  {
-    "ip": "217.30.10.31",
-    "port": 8443,
-    "code": "PL",
-    "asn": "Melbikomas UAB"
-  },
-  {
     "ip": "31.169.126.131",
     "port": 8443,
     "code": "PL",
@@ -1128,20 +1104,20 @@
     "asn": "Cloudflare London, LLC"
   },
   {
-    "ip": "45.144.49.96",
-    "port": 8443,
+    "ip": "94.142.255.97",
+    "port": 443,
     "code": "PL",
-    "asn": "Newserverlife LLC"
+    "asn": "Friendhosting LTD"
   },
   {
     "ip": "91.149.253.213",
-    "port": 8443,
+    "port": 2053,
     "code": "PL",
     "asn": "BG-NETWORK"
   },
   {
     "ip": "91.149.253.213",
-    "port": 2053,
+    "port": 8443,
     "code": "PL",
     "asn": "BG-NETWORK"
   },
@@ -1152,16 +1128,16 @@
     "asn": "Friendhosting LTD"
   },
   {
-    "ip": "193.124.41.165",
-    "port": 2053,
-    "code": "PL",
-    "asn": "Reliable Communications s.r.o."
-  },
-  {
     "ip": "185.226.181.154",
     "port": 2053,
     "code": "PL",
     "asn": "NET 185 226 181 0 24"
+  },
+  {
+    "ip": "193.124.41.165",
+    "port": 2053,
+    "code": "PL",
+    "asn": "Reliable Communications s.r.o."
   },
   {
     "ip": "57.128.215.209",
@@ -1170,14 +1146,14 @@
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "45.144.48.140",
-    "port": 8443,
+    "ip": "45.144.48.28",
+    "port": 2053,
     "code": "PL",
     "asn": "Newserverlife LLC"
   },
   {
-    "ip": "45.144.48.28",
-    "port": 2053,
+    "ip": "45.144.48.140",
+    "port": 8443,
     "code": "PL",
     "asn": "Newserverlife LLC"
   },
@@ -1228,6 +1204,12 @@
     "port": 2053,
     "code": "PL",
     "asn": "Aruba S.p.A. - Cloud Services PL1"
+  },
+  {
+    "ip": "91.224.75.206",
+    "port": 443,
+    "code": "PL",
+    "asn": "Newserverlife LLC"
   },
   {
     "ip": "2.59.163.100",
@@ -1296,16 +1278,16 @@
     "asn": "NET 37 202 202 0 24"
   },
   {
-    "ip": "77.83.246.117",
-    "port": 2083,
-    "code": "PL",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "37.202.202.107",
     "port": 2053,
     "code": "PL",
     "asn": "NET 37 202 202 0 24"
+  },
+  {
+    "ip": "77.83.246.117",
+    "port": 2083,
+    "code": "PL",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "77.83.246.153",
@@ -1314,16 +1296,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "37.202.202.247",
-    "port": 8443,
-    "code": "PL",
-    "asn": "NET 37 202 202 0 24"
-  },
-  {
     "ip": "45.144.48.186",
     "port": 8443,
     "code": "PL",
     "asn": "Newserverlife LLC"
+  },
+  {
+    "ip": "37.202.202.247",
+    "port": 8443,
+    "code": "PL",
+    "asn": "NET 37 202 202 0 24"
   },
   {
     "ip": "45.144.51.139",
@@ -1362,12 +1344,6 @@
     "asn": "NET 45 149 63 0 24"
   },
   {
-    "ip": "45.149.63.36",
-    "port": 2053,
-    "code": "PL",
-    "asn": "NET 45 149 63 0 24"
-  },
-  {
     "ip": "45.149.63.112",
     "port": 2053,
     "code": "PL",
@@ -1390,6 +1366,18 @@
     "port": 2053,
     "code": "PL",
     "asn": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "45.149.63.36",
+    "port": 2053,
+    "code": "PL",
+    "asn": "NET 45 149 63 0 24"
+  },
+  {
+    "ip": "146.59.19.208",
+    "port": 2053,
+    "code": "PL",
+    "asn": "OVH Sp. z o. o."
   },
   {
     "ip": "89.39.120.243",
@@ -1416,16 +1404,16 @@
     "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "31.133.0.159",
-    "port": 2053,
-    "code": "PL",
-    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
     "ip": "57.128.215.214",
     "port": 8443,
     "code": "PL",
     "asn": "OVH Sp. z o. o."
+  },
+  {
+    "ip": "31.133.0.159",
+    "port": 2053,
+    "code": "PL",
+    "asn": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
     "ip": "45.144.49.149",
@@ -1438,6 +1426,12 @@
     "port": 8443,
     "code": "PL",
     "asn": "IROKO Networks Corporation"
+  },
+  {
+    "ip": "176.105.253.98",
+    "port": 443,
+    "code": "PL",
+    "asn": "BREEZLE LLC"
   },
   {
     "ip": "31.169.126.71",
@@ -1476,13 +1470,13 @@
     "asn": "OVH Sp. z o. o."
   },
   {
-    "ip": "185.125.101.164",
+    "ip": "185.125.101.217",
     "port": 2053,
     "code": "PL",
     "asn": "Aeza International LTD"
   },
   {
-    "ip": "185.125.101.217",
+    "ip": "176.124.220.15",
     "port": 2053,
     "code": "PL",
     "asn": "Aeza International LTD"
@@ -1492,12 +1486,6 @@
     "port": 8443,
     "code": "PL",
     "asn": "Aeza-Network"
-  },
-  {
-    "ip": "176.124.220.15",
-    "port": 2053,
-    "code": "PL",
-    "asn": "Aeza International LTD"
   },
   {
     "ip": "212.162.155.139",
@@ -1522,11 +1510,5 @@
     "port": 8443,
     "code": "PL",
     "asn": "Aruba S.p.A. - Cloud Services PL1"
-  },
-  {
-    "ip": "176.105.253.98",
-    "port": 443,
-    "code": "PL",
-    "asn": "BREEZLE LLC"
   }
 ]

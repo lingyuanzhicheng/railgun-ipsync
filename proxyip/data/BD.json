@@ -12,12 +12,6 @@
     "asn": "AKBOR POWER NET"
   },
   {
-    "ip": "45.115.14.249",
-    "port": 443,
-    "code": "BD",
-    "asn": "I-TEL Limited"
-  },
-  {
     "ip": "103.115.253.253",
     "port": 443,
     "code": "BD",
@@ -28,6 +22,12 @@
     "port": 443,
     "code": "BD",
     "asn": "Bangladesh Computer Council"
+  },
+  {
+    "ip": "45.115.14.249",
+    "port": 443,
+    "code": "BD",
+    "asn": "I-TEL Limited"
   },
   {
     "ip": "103.130.197.36",

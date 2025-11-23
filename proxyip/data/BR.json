@@ -24,16 +24,16 @@
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "38.180.79.9",
-    "port": 443,
-    "code": "BR",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "146.235.59.153",
     "port": 2053,
     "code": "BR",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "38.180.79.9",
+    "port": 443,
+    "code": "BR",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "132.226.163.224",
@@ -60,12 +60,6 @@
     "asn": "ALGAR TELECOM S/A"
   },
   {
-    "ip": "144.22.186.208",
-    "port": 443,
-    "code": "BR",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "45.82.245.62",
     "port": 443,
     "code": "BR",
@@ -82,6 +76,12 @@
     "port": 8443,
     "code": "BR",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "177.128.123.121",
+    "port": 8443,
+    "code": "BR",
+    "asn": "Disk Sistema Tele-Informatica Ltda- ME"
   },
   {
     "ip": "144.22.204.102",
@@ -102,12 +102,6 @@
     "asn": "Predlink Rede de Telecomunicções Ltda"
   },
   {
-    "ip": "216.238.101.11",
-    "port": 443,
-    "code": "BR",
-    "asn": "The Constant Company, LLC"
-  },
-  {
     "ip": "168.75.92.141",
     "port": 28053,
     "code": "BR",
@@ -118,5 +112,11 @@
     "port": 443,
     "code": "BR",
     "asn": "The Constant Company, LLC"
+  },
+  {
+    "ip": "144.22.186.208",
+    "port": 443,
+    "code": "BR",
+    "asn": "Oracle Corporation"
   }
 ]

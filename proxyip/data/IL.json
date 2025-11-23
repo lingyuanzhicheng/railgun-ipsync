@@ -6,12 +6,6 @@
     "asn": "Webhost LLC"
   },
   {
-    "ip": "64.176.163.9",
-    "port": 8443,
-    "code": "IL",
-    "asn": "The Constant Company, LLC"
-  },
-  {
     "ip": "129.159.129.107",
     "port": 8443,
     "code": "IL",
@@ -24,16 +18,16 @@
     "asn": "Webhost LLC"
   },
   {
+    "ip": "64.176.163.9",
+    "port": 8443,
+    "code": "IL",
+    "asn": "The Constant Company, LLC."
+  },
+  {
     "ip": "77.91.69.238",
     "port": 2053,
     "code": "IL",
     "asn": "Webhost LLC"
-  },
-  {
-    "ip": "89.46.239.237",
-    "port": 8443,
-    "code": "IL",
-    "asn": "EDIS infrastructure in Israel"
   },
   {
     "ip": "45.144.172.173",
@@ -48,7 +42,13 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "129.159.143.171",
+    "ip": "89.46.239.237",
+    "port": 8443,
+    "code": "IL",
+    "asn": "EDIS infrastructure in Israel"
+  },
+  {
+    "ip": "129.159.129.107",
     "port": 2053,
     "code": "IL",
     "asn": "Oracle Corporation"
@@ -60,16 +60,10 @@
     "asn": "ADSL_VIP"
   },
   {
-    "ip": "129.159.129.107",
+    "ip": "129.159.143.171",
     "port": 2053,
     "code": "IL",
     "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "77.91.69.141",
-    "port": 2053,
-    "code": "IL",
-    "asn": "Webhost LLC"
   },
   {
     "ip": "212.80.205.244",
@@ -82,6 +76,12 @@
     "port": 443,
     "code": "IL",
     "asn": "LLC Smart Ape"
+  },
+  {
+    "ip": "77.91.69.141",
+    "port": 2053,
+    "code": "IL",
+    "asn": "Webhost LLC"
   },
   {
     "ip": "77.91.69.51",
@@ -114,12 +114,6 @@
     "asn": "Webhost LLC"
   },
   {
-    "ip": "185.162.126.185",
-    "port": 443,
-    "code": "IL",
-    "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
-  },
-  {
     "ip": "185.239.48.237",
     "port": 443,
     "code": "IL",
@@ -130,6 +124,12 @@
     "port": 8443,
     "code": "IL",
     "asn": "Webhost LLC"
+  },
+  {
+    "ip": "185.162.126.185",
+    "port": 443,
+    "code": "IL",
+    "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
     "ip": "129.159.143.171",

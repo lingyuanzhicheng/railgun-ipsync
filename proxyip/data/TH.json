@@ -18,14 +18,14 @@
     "asn": "ReadyIDC Co., Ltd."
   },
   {
-    "ip": "45.144.167.46",
-    "port": 19816,
+    "ip": "45.154.26.81",
+    "port": 2053,
     "code": "TH",
     "asn": "ReadyIDC Co., Ltd."
   },
   {
-    "ip": "45.154.26.81",
-    "port": 2053,
+    "ip": "45.144.167.46",
+    "port": 19816,
     "code": "TH",
     "asn": "ReadyIDC Co., Ltd."
   },
@@ -60,21 +60,27 @@
     "asn": "ReadyIDC Co., Ltd."
   },
   {
-    "ip": "171.103.164.62",
-    "port": 30921,
-    "code": "TH",
-    "asn": "True Internet Co., Ltd."
-  },
-  {
     "ip": "199.21.175.187",
     "port": 8443,
     "code": "TH",
     "asn": "ReadyIDC CO.,LTD."
   },
   {
+    "ip": "171.103.164.62",
+    "port": 30921,
+    "code": "TH",
+    "asn": "True Internet Co., Ltd."
+  },
+  {
     "ip": "171.103.14.247",
     "port": 10034,
     "code": "TH",
     "asn": "True Internet Co., Ltd."
+  },
+  {
+    "ip": "209.15.110.126",
+    "port": 443,
+    "code": "TH",
+    "asn": "CAT TELECOM, CAT Cloud Dept, 99 Chaengwatthana Rd. Lak Si, Bangkok 10210"
   }
 ]

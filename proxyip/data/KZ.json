@@ -1,27 +1,21 @@
 [
   {
-    "ip": "5.35.81.197",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "90.156.252.176",
     "port": 2053,
     "code": "KZ",
     "asn": "Beget LLC"
   },
   {
-    "ip": "95.164.114.50",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "38.180.207.13",
     "port": 2053,
     "code": "KZ",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "95.164.114.50",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "38.180.206.150",
@@ -42,16 +36,22 @@
     "asn": "Cloud Services Kazakhstan LLP"
   },
   {
-    "ip": "85.202.193.54",
-    "port": 8443,
+    "ip": "5.35.81.197",
+    "port": 2053,
     "code": "KZ",
-    "asn": "PS Internet Company LLP"
+    "asn": "Beget LLC"
   },
   {
     "ip": "38.180.39.46",
     "port": 443,
     "code": "KZ",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "85.202.193.54",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "PS Internet Company LLP"
   },
   {
     "ip": "91.218.141.111",
@@ -66,16 +66,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "45.8.98.82",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "Quasar LLC"
-  },
-  {
     "ip": "213.148.10.177",
     "port": 443,
     "code": "KZ",
     "asn": "Modern Server Solutions LLP"
+  },
+  {
+    "ip": "45.8.98.82",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "Quasar LLC"
   },
   {
     "ip": "38.180.39.23",
@@ -90,14 +90,20 @@
     "asn": "Hoster.KZ"
   },
   {
+    "ip": "213.148.10.170",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "Modern Server Solutions LLP"
+  },
+  {
     "ip": "45.8.98.82",
     "port": 2053,
     "code": "KZ",
     "asn": "Quasar LLC"
   },
   {
-    "ip": "213.148.10.170",
-    "port": 8443,
+    "ip": "213.148.1.150",
+    "port": 2053,
     "code": "KZ",
     "asn": "Modern Server Solutions LLP"
   },
@@ -114,6 +120,12 @@
     "asn": "Webstudio Onelab LLP"
   },
   {
+    "ip": "195.210.47.233",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "PS Internet Company LLP"
+  },
+  {
     "ip": "38.180.38.137",
     "port": 443,
     "code": "KZ",
@@ -126,22 +138,10 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "195.210.47.233",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "PS Internet Company LLP"
-  },
-  {
     "ip": "103.106.3.238",
     "port": 443,
     "code": "KZ",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "213.148.1.150",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "Modern Server Solutions LLP"
   },
   {
     "ip": "83.222.22.61",
@@ -162,16 +162,16 @@
     "asn": "Webstudio Onelab LLP"
   },
   {
-    "ip": "95.164.114.41",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "94.247.135.18",
     "port": 10443,
     "code": "KZ",
     "asn": "PS Internet Company LLP"
+  },
+  {
+    "ip": "95.164.114.41",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "37.233.81.131",
@@ -192,10 +192,10 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "91.200.151.172",
-    "port": 443,
+    "ip": "213.148.26.246",
+    "port": 2053,
     "code": "KZ",
-    "asn": "Dmitry Vorozhtsov"
+    "asn": "Servercore Network"
   },
   {
     "ip": "83.97.77.63",
@@ -204,10 +204,10 @@
     "asn": "Webstudio Onelab LLP"
   },
   {
-    "ip": "213.148.26.246",
-    "port": 2053,
+    "ip": "91.200.151.172",
+    "port": 443,
     "code": "KZ",
-    "asn": "Servercore Network"
+    "asn": "Dmitry Vorozhtsov"
   },
   {
     "ip": "38.180.37.102",
@@ -234,6 +234,12 @@
     "asn": "ONEHOST LLP"
   },
   {
+    "ip": "78.40.109.38",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "Internet-kompaniya PS"
+  },
+  {
     "ip": "95.164.114.50",
     "port": 2053,
     "code": "KZ",
@@ -244,12 +250,6 @@
     "port": 2053,
     "code": "KZ",
     "asn": "lease for Timeweb"
-  },
-  {
-    "ip": "78.40.109.38",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "Internet-kompaniya PS"
   },
   {
     "ip": "213.148.1.150",
@@ -264,22 +264,16 @@
     "asn": "VK Cloud Solutions"
   },
   {
-    "ip": "80.90.183.75",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "lease for Timeweb"
-  },
-  {
-    "ip": "38.107.234.138",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "3HCLOUD LLC"
-  },
-  {
     "ip": "176.120.21.202",
     "port": 8443,
     "code": "KZ",
     "asn": "AdminVPS OOO"
+  },
+  {
+    "ip": "80.90.183.75",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "lease for Timeweb"
   },
   {
     "ip": "213.148.26.246",
@@ -288,22 +282,28 @@
     "asn": "Servercore Network"
   },
   {
+    "ip": "38.107.234.138",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "3HCLOUD LLC"
+  },
+  {
     "ip": "90.156.250.220",
     "port": 8443,
     "code": "KZ",
     "asn": "VK Cloud Solutions"
   },
   {
-    "ip": "91.218.141.111",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "195.49.215.254",
     "port": 8443,
     "code": "KZ",
     "asn": "PS Internet Company LLP"
+  },
+  {
+    "ip": "91.218.141.111",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "Beget LLC"
   },
   {
     "ip": "38.180.37.102",
@@ -318,16 +318,16 @@
     "asn": "JSC TIMEWEB"
   },
   {
-    "ip": "5.35.81.74",
-    "port": 443,
-    "code": "KZ",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "85.202.193.54",
     "port": 2053,
     "code": "KZ",
     "asn": "PS Internet Company LLP"
+  },
+  {
+    "ip": "5.35.81.74",
+    "port": 443,
+    "code": "KZ",
+    "asn": "Beget LLC"
   },
   {
     "ip": "185.253.8.65",
@@ -366,10 +366,10 @@
     "asn": "Modern Server Solutions LLP"
   },
   {
-    "ip": "195.58.52.52",
+    "ip": "92.118.115.22",
     "port": 2053,
     "code": "KZ",
-    "asn": "Big Data Host LLC"
+    "asn": "Quasar LLC"
   },
   {
     "ip": "95.164.19.94",
@@ -378,16 +378,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "92.118.115.22",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "Quasar LLC"
-  },
-  {
     "ip": "45.136.57.82",
     "port": 8443,
     "code": "KZ",
     "asn": "Megahost Kazakhstan TOO"
+  },
+  {
+    "ip": "195.58.52.52",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "Big Data Host LLC"
   },
   {
     "ip": "86.107.198.133",
@@ -396,16 +396,22 @@
     "asn": "Hoster.KZ"
   },
   {
-    "ip": "178.88.167.25",
-    "port": 443,
-    "code": "KZ",
-    "asn": "SC Kazakhtelecom, Direction of Information Systems"
-  },
-  {
     "ip": "89.35.125.74",
     "port": 443,
     "code": "KZ",
     "asn": "Hoster.KZ"
+  },
+  {
+    "ip": "86.104.73.185",
+    "port": 443,
+    "code": "KZ",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "178.88.167.25",
+    "port": 443,
+    "code": "KZ",
+    "asn": "SC Kazakhtelecom, Direction of Information Systems"
   },
   {
     "ip": "104.238.24.144",
@@ -414,16 +420,16 @@
     "asn": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "94.198.221.96",
-    "port": 443,
-    "code": "KZ",
-    "asn": "JSC TIMEWEB"
-  },
-  {
     "ip": "188.116.20.47",
     "port": 2053,
     "code": "KZ",
     "asn": "IROKO Networks Corporation"
+  },
+  {
+    "ip": "94.198.221.96",
+    "port": 443,
+    "code": "KZ",
+    "asn": "JSC TIMEWEB"
   },
   {
     "ip": "45.144.175.211",
@@ -432,8 +438,8 @@
     "asn": "Big Data Host LLC"
   },
   {
-    "ip": "185.4.180.39",
-    "port": 443,
+    "ip": "195.49.212.112",
+    "port": 8443,
     "code": "KZ",
     "asn": "PS Internet Company LLP"
   },
@@ -444,16 +450,10 @@
     "asn": "Dmitry Vorozhtsov"
   },
   {
-    "ip": "195.49.212.112",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "PS Internet Company LLP"
-  },
-  {
-    "ip": "86.104.73.185",
+    "ip": "185.4.180.39",
     "port": 443,
     "code": "KZ",
-    "asn": "WorkTitans B.V."
+    "asn": "PS Internet Company LLP"
   },
   {
     "ip": "185.253.8.44",
@@ -477,7 +477,7 @@
     "ip": "45.80.208.126",
     "port": 8081,
     "code": "KZ",
-    "asn": "G-Core Labs Customer assignment"
+    "asn": "Cloudflare London, LLC"
   },
   {
     "ip": "38.180.206.150",
@@ -486,28 +486,28 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "94.131.2.187",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "83.97.77.35",
     "port": 2053,
     "code": "KZ",
     "asn": "Webstudio Onelab LLP"
   },
   {
-    "ip": "45.136.57.82",
+    "ip": "94.131.2.187",
     "port": 2053,
     "code": "KZ",
-    "asn": "Megahost Kazakhstan TOO"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "94.131.2.70",
     "port": 443,
     "code": "KZ",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "45.136.57.82",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "Megahost Kazakhstan TOO"
   },
   {
     "ip": "95.164.114.121",
