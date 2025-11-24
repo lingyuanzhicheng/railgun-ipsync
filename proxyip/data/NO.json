@@ -12,27 +12,27 @@
     "asn": "Microsoft Limited"
   },
   {
-    "ip": "194.5.98.105",
-    "port": 8443,
-    "code": "NO",
-    "asn": "WebHorizon Norway"
-  },
-  {
     "ip": "195.54.170.66",
     "port": 2053,
     "code": "NO",
     "asn": "IROKO Networks Corporation"
   },
   {
-    "ip": "195.54.170.148",
-    "port": 443,
+    "ip": "194.5.98.105",
+    "port": 8443,
     "code": "NO",
-    "asn": "IROKO Networks Corporation"
+    "asn": "WebHorizon Norway"
   },
   {
     "ip": "38.180.77.6",
     "port": 2053,
     "code": "NO",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "195.54.170.148",
+    "port": 443,
+    "code": "NO",
+    "asn": "IROKO Networks Corporation"
   }
 ]

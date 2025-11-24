@@ -54,16 +54,16 @@
     "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
-    "ip": "219.76.13.180",
-    "port": 443,
-    "code": "HK",
-    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
-  },
-  {
     "ip": "43.252.41.204",
     "port": 2443,
     "code": "HK",
     "asn": "CommuniLink Internet Ltd."
+  },
+  {
+    "ip": "219.76.13.180",
+    "port": 443,
+    "code": "HK",
+    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
     "ip": "154.16.10.34",
@@ -126,22 +126,28 @@
     "asn": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "221.125.10.8",
-    "port": 57537,
-    "code": "HK",
-    "asn": "HGC Global Communications Limited"
-  },
-  {
     "ip": "103.194.107.166",
     "port": 443,
     "code": "HK",
     "asn": "Antbox Networks Limited"
   },
   {
+    "ip": "221.125.10.8",
+    "port": 57537,
+    "code": "HK",
+    "asn": "HGC Global Communications Limited"
+  },
+  {
     "ip": "156.254.114.120",
     "port": 30011,
     "code": "HK",
     "asn": "StepGo Limited"
+  },
+  {
+    "ip": "2.56.91.89",
+    "port": 8443,
+    "code": "HK",
+    "asn": "ihc.hk vps in Hong Kong"
   },
   {
     "ip": "219.76.13.177",
@@ -154,12 +160,6 @@
     "port": 443,
     "code": "HK",
     "asn": "BEST WEBTECHNOLOGY LIMITED"
-  },
-  {
-    "ip": "2.56.91.89",
-    "port": 8443,
-    "code": "HK",
-    "asn": "ihc.hk vps in Hong Kong"
   },
   {
     "ip": "43.132.244.52",
@@ -246,28 +246,22 @@
     "asn": "EDGENAT CLOUD LLC"
   },
   {
-    "ip": "154.21.201.83",
-    "port": 443,
-    "code": "HK",
-    "asn": "NetLab"
-  },
-  {
     "ip": "16.162.225.15",
     "port": 443,
     "code": "HK",
     "asn": "Amazon Data Services Hong Kong"
   },
   {
-    "ip": "103.210.22.199",
-    "port": 443,
-    "code": "HK",
-    "asn": "Ucloud Hong Kong"
-  },
-  {
     "ip": "185.74.222.252",
     "port": 8443,
     "code": "HK",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "103.210.22.199",
+    "port": 443,
+    "code": "HK",
+    "asn": "Ucloud Hong Kong"
   },
   {
     "ip": "210.6.207.42",
@@ -286,6 +280,12 @@
     "port": 443,
     "code": "HK",
     "asn": "iOVZ Networks Limited"
+  },
+  {
+    "ip": "154.21.201.83",
+    "port": 443,
+    "code": "HK",
+    "asn": "NetLab"
   },
   {
     "ip": "47.240.15.210",
@@ -312,16 +312,16 @@
     "asn": "HGC Global Communications Limited"
   },
   {
-    "ip": "192.142.4.33",
-    "port": 8443,
-    "code": "HK",
-    "asn": "Ultahost Inc"
-  },
-  {
     "ip": "223.16.138.113",
     "port": 12457,
     "code": "HK",
     "asn": "HGC Global Communications Limited"
+  },
+  {
+    "ip": "192.142.4.33",
+    "port": 8443,
+    "code": "HK",
+    "asn": "Ultahost Inc"
   },
   {
     "ip": "43.198.204.35",
@@ -348,10 +348,10 @@
     "asn": "Dom Tehniki Ltd"
   },
   {
-    "ip": "219.76.13.181",
-    "port": 443,
+    "ip": "141.11.91.67",
+    "port": 8080,
     "code": "HK",
-    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
+    "asn": "Tusker Technologies Pty Ltd"
   },
   {
     "ip": "156.255.90.175",
@@ -360,16 +360,16 @@
     "asn": "StepGo Limited"
   },
   {
-    "ip": "8.218.245.116",
-    "port": 42805,
-    "code": "HK",
-    "asn": "Alibaba Cloud (Singapore) Private Limited"
-  },
-  {
     "ip": "2.56.91.89",
     "port": 2053,
     "code": "HK",
     "asn": "ihc.hk vps in Hong Kong"
+  },
+  {
+    "ip": "8.218.245.116",
+    "port": 42805,
+    "code": "HK",
+    "asn": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
     "ip": "36.50.90.241",
@@ -390,12 +390,6 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "46.232.108.217",
-    "port": 443,
-    "code": "HK",
-    "asn": "Dom Tehniki Ltd"
-  },
-  {
     "ip": "154.18.161.172",
     "port": 18443,
     "code": "HK",
@@ -408,16 +402,16 @@
     "asn": "6 COLLYER QUAY"
   },
   {
+    "ip": "46.232.108.217",
+    "port": 443,
+    "code": "HK",
+    "asn": "Dom Tehniki Ltd"
+  },
+  {
     "ip": "47.242.145.136",
     "port": 8001,
     "code": "HK",
     "asn": "ALIBABA CLOUD - HK"
-  },
-  {
-    "ip": "194.156.99.182",
-    "port": 8443,
-    "code": "HK",
-    "asn": "FreeNet L.L.C-FZ"
   },
   {
     "ip": "58.176.95.46",
@@ -426,9 +420,9 @@
     "asn": "Hong Kong Broadband Network Ltd"
   },
   {
-    "ip": "141.11.91.67",
-    "port": 8080,
+    "ip": "194.156.99.182",
+    "port": 8443,
     "code": "HK",
-    "asn": "Tusker Technologies Pty Ltd"
+    "asn": "FreeNet L.L.C-FZ"
   }
 ]

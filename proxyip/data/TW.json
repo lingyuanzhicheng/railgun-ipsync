@@ -12,12 +12,6 @@
     "asn": "Kaopu Cloud HK Limited"
   },
   {
-    "ip": "45.207.158.29",
-    "port": 8443,
-    "code": "TW",
-    "asn": "Akile LTD"
-  },
-  {
     "ip": "213.210.4.49",
     "port": 443,
     "code": "TW",
@@ -27,7 +21,13 @@
     "ip": "114.34.202.224",
     "port": 10004,
     "code": "TW",
-    "asn": "HiNet Taiwan"
+    "asn": "Chunghwa Telecom Co.,Ltd."
+  },
+  {
+    "ip": "45.207.158.29",
+    "port": 8443,
+    "code": "TW",
+    "asn": "Akile LTD"
   },
   {
     "ip": "45.207.158.29",

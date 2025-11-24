@@ -90,6 +90,18 @@
     "asn": "IROKO Networks Corporation"
   },
   {
+    "ip": "176.97.67.38",
+    "port": 443,
+    "code": "AE",
+    "asn": "3nt solutions LLP"
+  },
+  {
+    "ip": "85.237.211.59",
+    "port": 2053,
+    "code": "AE",
+    "asn": "Private Customer"
+  },
+  {
     "ip": "85.237.211.59",
     "port": 8443,
     "code": "AE",
@@ -100,12 +112,6 @@
     "port": 443,
     "code": "AE",
     "asn": "G-Core Labs Customer assignment"
-  },
-  {
-    "ip": "176.97.67.38",
-    "port": 443,
-    "code": "AE",
-    "asn": "3nt solutions LLP"
   },
   {
     "ip": "3.29.76.68",
@@ -126,22 +132,16 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "141.145.151.219",
-    "port": 443,
-    "code": "AE",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "20.174.15.226",
     "port": 443,
     "code": "AE",
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "85.237.211.59",
-    "port": 2053,
+    "ip": "141.145.151.219",
+    "port": 443,
     "code": "AE",
-    "asn": "Private Customer"
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "176.97.78.80",
@@ -162,9 +162,9 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "146.70.131.99",
-    "port": 443,
+    "ip": "91.207.18.91",
+    "port": 2053,
     "code": "AE",
-    "asn": "M247 Europe - Dubai Infrastructure"
+    "asn": "G-Core Labs Customer assignment"
   }
 ]

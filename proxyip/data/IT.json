@@ -24,12 +24,6 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "158.180.231.216",
-    "port": 443,
-    "code": "IT",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "176.126.83.146",
     "port": 8443,
     "code": "IT",
@@ -42,10 +36,22 @@
     "asn": "MYNET S.R.L."
   },
   {
+    "ip": "158.180.231.216",
+    "port": 443,
+    "code": "IT",
+    "asn": "Oracle Corporation"
+  },
+  {
     "ip": "151.91.39.191",
     "port": 443,
     "code": "IT",
     "asn": "FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A."
+  },
+  {
+    "ip": "80.211.170.53",
+    "port": 443,
+    "code": "IT",
+    "asn": "Aruba S.p.A. - Cloud Services DC1"
   },
   {
     "ip": "185.198.235.246",
@@ -58,12 +64,6 @@
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services IT3"
-  },
-  {
-    "ip": "80.211.170.53",
-    "port": 443,
-    "code": "IT",
-    "asn": "Aruba S.p.A. - Cloud Services DC1"
   },
   {
     "ip": "38.180.22.20",
@@ -90,16 +90,16 @@
     "asn": "Oracle Corporation"
   },
   {
+    "ip": "45.92.70.218",
+    "port": 8443,
+    "code": "IT",
+    "asn": "G-Core Labs S.A."
+  },
+  {
     "ip": "188.213.168.52",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
-  },
-  {
-    "ip": "45.92.70.218",
-    "port": 8443,
-    "code": "IT",
-    "asn": "G-Core Labs Customer assignment"
   },
   {
     "ip": "212.237.30.220",
@@ -156,16 +156,16 @@
     "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
-    "ip": "80.211.238.61",
-    "port": 443,
-    "code": "IT",
-    "asn": "Aruba S.p.A. - Cloud Services Farm2"
-  },
-  {
     "ip": "80.211.48.113",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services DC1"
+  },
+  {
+    "ip": "80.211.238.61",
+    "port": 443,
+    "code": "IT",
+    "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
     "ip": "77.81.234.27",
@@ -174,16 +174,16 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "5.253.43.216",
-    "port": 443,
-    "code": "IT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "195.231.38.220",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services IT3"
+  },
+  {
+    "ip": "5.253.43.216",
+    "port": 443,
+    "code": "IT",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "80.211.231.169",

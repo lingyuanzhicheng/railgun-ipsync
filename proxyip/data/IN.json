@@ -1,9 +1,9 @@
 [
   {
-    "ip": "192.46.213.36",
-    "port": 8443,
+    "ip": "13.200.192.197",
+    "port": 443,
     "code": "IN",
-    "asn": "Akamai Connected Cloud / Linode"
+    "asn": "Amazon Data Services India"
   },
   {
     "ip": "152.70.75.80",
@@ -12,10 +12,10 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "13.200.192.197",
-    "port": 443,
+    "ip": "192.46.213.36",
+    "port": 8443,
     "code": "IN",
-    "asn": "Amazon Data Services India"
+    "asn": "Akamai Connected Cloud / Linode"
   },
   {
     "ip": "98.70.1.250",
@@ -30,16 +30,16 @@
     "asn": "ReadyDedis, LLC"
   },
   {
-    "ip": "64.227.174.213",
-    "port": 2053,
-    "code": "IN",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "98.70.26.236",
     "port": 443,
     "code": "IN",
     "asn": "Microsoft Corporation"
+  },
+  {
+    "ip": "64.227.174.213",
+    "port": 2053,
+    "code": "IN",
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "20.235.220.189",
@@ -48,22 +48,22 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "146.56.48.138",
-    "port": 23010,
-    "code": "IN",
-    "asn": "Oracle Corporation , Global software solutions , California , USA"
-  },
-  {
     "ip": "152.70.76.104",
     "port": 46000,
     "code": "IN",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "43.205.45.56",
+    "ip": "146.56.48.138",
+    "port": 23010,
+    "code": "IN",
+    "asn": "Oracle Corporation , Global software solutions , California , USA"
+  },
+  {
+    "ip": "216.10.243.159",
     "port": 443,
     "code": "IN",
-    "asn": "Amazon.com, Inc."
+    "asn": "P.D.R Solutions FZC"
   },
   {
     "ip": "43.204.101.63",
@@ -72,10 +72,10 @@
     "asn": "Amazon.com, Inc."
   },
   {
-    "ip": "216.10.243.159",
+    "ip": "43.205.45.56",
     "port": 443,
     "code": "IN",
-    "asn": "P.D.R Solutions FZC"
+    "asn": "Amazon.com, Inc."
   },
   {
     "ip": "148.113.43.228",
@@ -132,16 +132,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "148.113.43.228",
-    "port": 8443,
-    "code": "IN",
-    "asn": "OVHTECH R&D (INDIA) PRIVATE LIMITED"
-  },
-  {
     "ip": "172.105.62.71",
     "port": 2443,
     "code": "IN",
     "asn": "Linode"
+  },
+  {
+    "ip": "148.113.43.228",
+    "port": 8443,
+    "code": "IN",
+    "asn": "OVHTECH R&D (INDIA) PRIVATE LIMITED"
   },
   {
     "ip": "172.232.112.240",
@@ -156,28 +156,16 @@
     "asn": "IPXO LLC"
   },
   {
-    "ip": "64.227.174.213",
-    "port": 8443,
-    "code": "IN",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "65.20.83.36",
     "port": 443,
     "code": "IN",
     "asn": "Vultr Holdings LLC"
   },
   {
-    "ip": "134.209.148.128",
-    "port": 443,
-    "code": "IN",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "166.0.244.206",
+    "ip": "64.227.174.213",
     "port": 8443,
     "code": "IN",
-    "asn": "IPXO LLC"
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "43.230.203.218",
@@ -186,10 +174,16 @@
     "asn": "Tier4Cloud"
   },
   {
-    "ip": "140.238.225.218",
-    "port": 80,
+    "ip": "166.0.244.206",
+    "port": 8443,
     "code": "IN",
-    "asn": "Cloudflare London, LLC"
+    "asn": "IPXO LLC"
+  },
+  {
+    "ip": "134.209.148.128",
+    "port": 443,
+    "code": "IN",
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "98.70.151.163",
@@ -198,16 +192,16 @@
     "asn": "Microsoft Corporation"
   },
   {
+    "ip": "140.238.225.218",
+    "port": 80,
+    "code": "IN",
+    "asn": "Cloudflare London, LLC"
+  },
+  {
     "ip": "4.240.110.47",
     "port": 443,
     "code": "IN",
     "asn": "Microsoft Corporation"
-  },
-  {
-    "ip": "202.83.24.75",
-    "port": 443,
-    "code": "IN",
-    "asn": "Broad Band Internet Service Provider, India"
   },
   {
     "ip": "219.65.73.81",
