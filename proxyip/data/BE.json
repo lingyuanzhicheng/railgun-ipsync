@@ -1,13 +1,19 @@
 [
   {
+    "ip": "141.98.233.150",
+    "port": 443,
+    "code": "BE",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
     "ip": "95.164.62.196",
     "port": 443,
     "code": "BE",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "141.98.233.150",
-    "port": 443,
+    "ip": "141.98.233.80",
+    "port": 8443,
     "code": "BE",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
@@ -24,6 +30,12 @@
     "asn": "Google LLC"
   },
   {
+    "ip": "34.22.190.30",
+    "port": 443,
+    "code": "BE",
+    "asn": "Google LLC"
+  },
+  {
     "ip": "38.180.86.63",
     "port": 443,
     "code": "BE",
@@ -34,18 +46,6 @@
     "port": 8443,
     "code": "BE",
     "asn": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "141.98.233.80",
-    "port": 8443,
-    "code": "BE",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "34.22.190.30",
-    "port": 443,
-    "code": "BE",
-    "asn": "Google LLC"
   },
   {
     "ip": "141.98.233.117",
@@ -64,11 +64,5 @@
     "port": 443,
     "code": "BE",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "38.180.18.43",
-    "port": 2053,
-    "code": "BE",
-    "asn": "3NT SOLUTIONS LLP"
   }
 ]

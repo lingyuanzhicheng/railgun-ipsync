@@ -6,6 +6,12 @@
     "asn": "2E Telekomunikasyon LTD. STI."
   },
   {
+    "ip": "188.132.192.194",
+    "port": 2053,
+    "code": "TR",
+    "asn": "TradeZone LLC"
+  },
+  {
     "ip": "103.83.86.250",
     "port": 8443,
     "code": "TR",
@@ -30,22 +36,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "188.132.192.194",
-    "port": 2053,
+    "ip": "5.188.190.161",
+    "port": 8443,
     "code": "TR",
-    "asn": "TradeZone LLC"
+    "asn": "G-Core Labs S.A."
   },
   {
     "ip": "62.60.233.201",
     "port": 2053,
     "code": "TR",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "5.188.190.161",
-    "port": 8443,
-    "code": "TR",
-    "asn": "G-Core Labs S.A."
   },
   {
     "ip": "80.253.255.83",
@@ -78,13 +78,13 @@
     "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
   },
   {
-    "ip": "213.142.150.2",
+    "ip": "213.142.149.3",
     "port": 443,
     "code": "TR",
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
-    "ip": "213.142.149.3",
+    "ip": "213.142.150.2",
     "port": 443,
     "code": "TR",
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
@@ -102,16 +102,16 @@
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
-    "ip": "62.133.63.61",
-    "port": 443,
-    "code": "TR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "93.115.10.237",
     "port": 2053,
     "code": "TR",
     "asn": "ibrahim tufek"
+  },
+  {
+    "ip": "62.133.63.61",
+    "port": 443,
+    "code": "TR",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "93.115.10.218",
@@ -144,12 +144,6 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "38.180.104.27",
-    "port": 2053,
-    "code": "TR",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "83.217.9.216",
     "port": 8443,
     "code": "TR",
@@ -168,16 +162,16 @@
     "asn": "Kaopu Cloud HK Limited"
   },
   {
-    "ip": "213.142.133.182",
-    "port": 2083,
-    "code": "TR",
-    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
-  },
-  {
     "ip": "154.53.166.238",
     "port": 2083,
     "code": "TR",
     "asn": "Kuzey Veri Merkezi Anonim Sirketi"
+  },
+  {
+    "ip": "213.142.133.182",
+    "port": 2083,
+    "code": "TR",
+    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
     "ip": "5.180.45.36",
@@ -186,16 +180,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "89.207.12.80",
-    "port": 8443,
-    "code": "TR",
-    "asn": "Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S."
-  },
-  {
     "ip": "188.132.129.84",
     "port": 8443,
     "code": "TR",
     "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
+  },
+  {
+    "ip": "89.207.12.80",
+    "port": 8443,
+    "code": "TR",
+    "asn": "Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S."
   },
   {
     "ip": "38.180.113.9",
@@ -222,16 +216,22 @@
     "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
   },
   {
-    "ip": "203.202.232.181",
+    "ip": "195.16.74.33",
     "port": 443,
     "code": "TR",
-    "asn": "Cloudflare London, LLC"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "213.156.152.115",
     "port": 443,
     "code": "TR",
     "asn": "G-Core Labs Customer assignment"
+  },
+  {
+    "ip": "203.202.232.181",
+    "port": 443,
+    "code": "TR",
+    "asn": "Cloudflare London, LLC"
   },
   {
     "ip": "45.89.52.228",
@@ -282,18 +282,6 @@
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
-    "ip": "62.133.63.86",
-    "port": 8443,
-    "code": "TR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "203.202.232.132",
-    "port": 443,
-    "code": "TR",
-    "asn": "IPv4.Center"
-  },
-  {
     "ip": "5.188.168.8",
     "port": 8443,
     "code": "TR",
@@ -318,6 +306,12 @@
     "asn": "Baxet Group Inc."
   },
   {
+    "ip": "203.202.232.132",
+    "port": 443,
+    "code": "TR",
+    "asn": "IPv4.Center"
+  },
+  {
     "ip": "213.142.149.179",
     "port": 443,
     "code": "TR",
@@ -330,16 +324,22 @@
     "asn": "TT ADSL-TTnet-aci-static"
   },
   {
-    "ip": "93.177.103.176",
-    "port": 445,
+    "ip": "77.92.145.164",
+    "port": 443,
     "code": "TR",
-    "asn": "HostLAB Bilisim Teknolojileri A.S."
+    "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
   },
   {
     "ip": "80.253.254.243",
     "port": 2053,
     "code": "TR",
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
+  },
+  {
+    "ip": "93.177.103.176",
+    "port": 445,
+    "code": "TR",
+    "asn": "HostLAB Bilisim Teknolojileri A.S."
   },
   {
     "ip": "185.8.129.187",
@@ -366,22 +366,10 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "77.92.145.164",
-    "port": 443,
-    "code": "TR",
-    "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
-  },
-  {
     "ip": "212.192.6.248",
     "port": 443,
     "code": "TR",
     "asn": "Baxet Group Inc."
-  },
-  {
-    "ip": "45.136.5.46",
-    "port": 443,
-    "code": "TR",
-    "asn": "ONLINE SERVER TELEKOMUNIKASYON LIMITED SIRKETI"
   },
   {
     "ip": "154.53.160.237",
@@ -402,10 +390,10 @@
     "asn": "Alastyr Telekomunikasyon A.S."
   },
   {
-    "ip": "185.200.36.36",
+    "ip": "45.136.5.46",
     "port": 443,
     "code": "TR",
-    "asn": "High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti."
+    "asn": "ONLINE SERVER TELEKOMUNIKASYON LIMITED SIRKETI"
   },
   {
     "ip": "62.60.233.24",
@@ -528,22 +516,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "94.131.123.74",
-    "port": 443,
-    "code": "TR",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "2.56.127.132",
     "port": 2053,
     "code": "TR",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "37.140.242.176",
-    "port": 8443,
+    "ip": "94.131.123.74",
+    "port": 443,
     "code": "TR",
-    "asn": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "213.142.134.251",
@@ -568,6 +550,12 @@
     "port": 8443,
     "code": "TR",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "37.140.242.176",
+    "port": 8443,
+    "code": "TR",
+    "asn": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI"
   },
   {
     "ip": "37.32.126.241",
@@ -642,16 +630,16 @@
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
-    "ip": "185.8.129.187",
-    "port": 2096,
-    "code": "TR",
-    "asn": "Alastyr Telekomunikasyon A.S."
-  },
-  {
     "ip": "80.253.255.128",
     "port": 8443,
     "code": "TR",
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
+  },
+  {
+    "ip": "185.8.129.187",
+    "port": 2096,
+    "code": "TR",
+    "asn": "Alastyr Telekomunikasyon A.S."
   },
   {
     "ip": "93.115.10.237",

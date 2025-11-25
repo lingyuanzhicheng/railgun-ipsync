@@ -78,18 +78,6 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "147.45.116.61",
-    "port": 8443,
-    "code": "BR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "177.128.123.121",
-    "port": 8443,
-    "code": "BR",
-    "asn": "Disk Sistema Tele-Informatica Ltda- ME"
-  },
-  {
     "ip": "144.22.204.102",
     "port": 50317,
     "code": "BR",
@@ -108,15 +96,15 @@
     "asn": "Predlink Rede de Telecomunicções Ltda"
   },
   {
-    "ip": "216.238.114.123",
-    "port": 443,
-    "code": "BR",
-    "asn": "The Constant Company, LLC"
-  },
-  {
     "ip": "168.75.92.141",
     "port": 28053,
     "code": "BR",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "216.238.114.123",
+    "port": 443,
+    "code": "BR",
+    "asn": "The Constant Company, LLC"
   }
 ]

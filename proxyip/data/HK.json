@@ -54,12 +54,6 @@
     "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
-    "ip": "43.252.41.204",
-    "port": 2443,
-    "code": "HK",
-    "asn": "CommuniLink Internet Ltd."
-  },
-  {
     "ip": "219.76.13.180",
     "port": 443,
     "code": "HK",
@@ -76,6 +70,12 @@
     "port": 8080,
     "code": "HK",
     "asn": "AKILE LTD"
+  },
+  {
+    "ip": "43.252.41.204",
+    "port": 2443,
+    "code": "HK",
+    "asn": "CommuniLink Internet Ltd."
   },
   {
     "ip": "46.20.109.64",
@@ -138,16 +138,16 @@
     "asn": "HGC Global Communications Limited"
   },
   {
-    "ip": "156.254.114.120",
-    "port": 30011,
-    "code": "HK",
-    "asn": "StepGo Limited"
-  },
-  {
     "ip": "2.56.91.89",
     "port": 8443,
     "code": "HK",
     "asn": "ihc.hk vps in Hong Kong"
+  },
+  {
+    "ip": "156.254.114.120",
+    "port": 30011,
+    "code": "HK",
+    "asn": "StepGo Limited"
   },
   {
     "ip": "219.76.13.177",
@@ -192,10 +192,10 @@
     "asn": "Alibaba Cloud - HK"
   },
   {
-    "ip": "156.230.12.71",
+    "ip": "202.85.53.74",
     "port": 443,
     "code": "HK",
-    "asn": "263 Shanghai Communications Ltd."
+    "asn": "Mazen Ind Ltd"
   },
   {
     "ip": "192.131.142.161",
@@ -204,10 +204,10 @@
     "asn": "LEASEWEB HONG KONG LIMITED"
   },
   {
-    "ip": "202.85.53.74",
+    "ip": "156.230.12.71",
     "port": 443,
     "code": "HK",
-    "asn": "Mazen Ind Ltd"
+    "asn": "263 Shanghai Communications Ltd."
   },
   {
     "ip": "192.252.182.52",
@@ -252,22 +252,16 @@
     "asn": "Amazon Data Services Hong Kong"
   },
   {
-    "ip": "185.74.222.252",
-    "port": 8443,
+    "ip": "210.6.207.42",
+    "port": 18622,
     "code": "HK",
-    "asn": "WorkTitans B.V."
+    "asn": "Hong Kong Broadband Network Ltd"
   },
   {
     "ip": "103.210.22.199",
     "port": 443,
     "code": "HK",
     "asn": "Ucloud Hong Kong"
-  },
-  {
-    "ip": "210.6.207.42",
-    "port": 18622,
-    "code": "HK",
-    "asn": "Hong Kong Broadband Network Ltd"
   },
   {
     "ip": "101.79.165.113",
@@ -280,12 +274,6 @@
     "port": 443,
     "code": "HK",
     "asn": "iOVZ Networks Limited"
-  },
-  {
-    "ip": "154.21.201.83",
-    "port": 443,
-    "code": "HK",
-    "asn": "NetLab"
   },
   {
     "ip": "47.240.15.210",
@@ -312,16 +300,22 @@
     "asn": "HGC Global Communications Limited"
   },
   {
+    "ip": "192.142.4.33",
+    "port": 8443,
+    "code": "HK",
+    "asn": "Ultahost Inc"
+  },
+  {
     "ip": "223.16.138.113",
     "port": 12457,
     "code": "HK",
     "asn": "HGC Global Communications Limited"
   },
   {
-    "ip": "192.142.4.33",
-    "port": 8443,
+    "ip": "154.21.201.83",
+    "port": 443,
     "code": "HK",
-    "asn": "Ultahost Inc"
+    "asn": "NetLab"
   },
   {
     "ip": "43.198.204.35",
@@ -360,16 +354,16 @@
     "asn": "StepGo Limited"
   },
   {
-    "ip": "2.56.91.89",
-    "port": 2053,
-    "code": "HK",
-    "asn": "ihc.hk vps in Hong Kong"
-  },
-  {
     "ip": "8.218.245.116",
     "port": 42805,
     "code": "HK",
     "asn": "Alibaba Cloud (Singapore) Private Limited"
+  },
+  {
+    "ip": "2.56.91.89",
+    "port": 2053,
+    "code": "HK",
+    "asn": "ihc.hk vps in Hong Kong"
   },
   {
     "ip": "36.50.90.241",
@@ -390,22 +384,28 @@
     "asn": "Microsoft Corporation"
   },
   {
+    "ip": "46.232.108.217",
+    "port": 443,
+    "code": "HK",
+    "asn": "Dom Tehniki Ltd"
+  },
+  {
     "ip": "154.18.161.172",
     "port": 18443,
     "code": "HK",
     "asn": "Hytron Network Services Limited"
   },
   {
+    "ip": "194.156.99.182",
+    "port": 8443,
+    "code": "HK",
+    "asn": "FreeNet L.L.C-FZ"
+  },
+  {
     "ip": "43.154.124.136",
     "port": 26666,
     "code": "HK",
     "asn": "6 COLLYER QUAY"
-  },
-  {
-    "ip": "46.232.108.217",
-    "port": 443,
-    "code": "HK",
-    "asn": "Dom Tehniki Ltd"
   },
   {
     "ip": "47.242.145.136",
@@ -418,11 +418,5 @@
     "port": 443,
     "code": "HK",
     "asn": "Hong Kong Broadband Network Ltd"
-  },
-  {
-    "ip": "194.156.99.182",
-    "port": 8443,
-    "code": "HK",
-    "asn": "FreeNet L.L.C-FZ"
   }
 ]

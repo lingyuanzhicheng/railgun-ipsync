@@ -1,11 +1,5 @@
 [
   {
-    "ip": "91.207.18.91",
-    "port": 8443,
-    "code": "AE",
-    "asn": "G-Core Labs Customer assignment"
-  },
-  {
     "ip": "84.235.245.65",
     "port": 2096,
     "code": "AE",
@@ -84,12 +78,6 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "176.97.78.80",
-    "port": 2053,
-    "code": "AE",
-    "asn": "IROKO Networks Corporation"
-  },
-  {
     "ip": "176.97.67.38",
     "port": 443,
     "code": "AE",
@@ -108,22 +96,16 @@
     "asn": "Private Customer"
   },
   {
-    "ip": "217.195.200.138",
-    "port": 443,
-    "code": "AE",
-    "asn": "G-Core Labs Customer assignment"
-  },
-  {
     "ip": "3.29.76.68",
     "port": 443,
     "code": "AE",
     "asn": "Amazon Data Services UAE"
   },
   {
-    "ip": "176.97.66.175",
+    "ip": "217.195.200.138",
     "port": 443,
     "code": "AE",
-    "asn": "3nt solutions LLP"
+    "asn": "G-Core Labs Customer assignment"
   },
   {
     "ip": "109.61.42.20",
@@ -132,10 +114,10 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "20.174.15.226",
+    "ip": "176.97.66.175",
     "port": 443,
     "code": "AE",
-    "asn": "Microsoft Corporation"
+    "asn": "3nt solutions LLP"
   },
   {
     "ip": "141.145.151.219",
@@ -144,10 +126,10 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "176.97.78.80",
+    "ip": "20.174.15.226",
     "port": 443,
     "code": "AE",
-    "asn": "IROKO Networks Corporation"
+    "asn": "Microsoft Corporation"
   },
   {
     "ip": "139.185.34.131",
@@ -158,12 +140,6 @@
   {
     "ip": "217.195.200.52",
     "port": 443,
-    "code": "AE",
-    "asn": "G-Core Labs Customer assignment"
-  },
-  {
-    "ip": "91.207.18.91",
-    "port": 2053,
     "code": "AE",
     "asn": "G-Core Labs Customer assignment"
   }

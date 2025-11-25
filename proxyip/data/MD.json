@@ -1,27 +1,15 @@
 [
   {
-    "ip": "194.102.104.18",
-    "port": 443,
-    "code": "MD",
-    "asn": "Cloudflare London, LLC"
-  },
-  {
     "ip": "45.84.0.39",
     "port": 443,
     "code": "MD",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "45.140.146.23",
-    "port": 2053,
+    "ip": "194.102.104.18",
+    "port": 443,
     "code": "MD",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "45.140.146.80",
-    "port": 8443,
-    "code": "MD",
-    "asn": "WorkTitans B.V."
+    "asn": "Cloudflare London, LLC"
   },
   {
     "ip": "194.156.67.206",
@@ -66,12 +54,6 @@
     "asn": "ALEXHOST SRL"
   },
   {
-    "ip": "45.140.146.80",
-    "port": 2053,
-    "code": "MD",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.67.229.8",
     "port": 443,
     "code": "MD",
@@ -102,18 +84,6 @@
     "asn": "AlexHost SRL"
   },
   {
-    "ip": "176.123.1.11",
-    "port": 443,
-    "code": "MD",
-    "asn": "ALEXHOST SRL"
-  },
-  {
-    "ip": "94.103.188.38",
-    "port": 443,
-    "code": "MD",
-    "asn": "ALEXHOST SRL"
-  },
-  {
     "ip": "185.250.148.240",
     "port": 443,
     "code": "MD",
@@ -124,5 +94,11 @@
     "port": 8443,
     "code": "MD",
     "asn": "FOXCLOUD COMMUNICATIONS SRL"
+  },
+  {
+    "ip": "94.103.188.38",
+    "port": 443,
+    "code": "MD",
+    "asn": "ALEXHOST SRL"
   }
 ]

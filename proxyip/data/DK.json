@@ -30,22 +30,10 @@
     "asn": "Seven Digital Network Services LLC"
   },
   {
-    "ip": "38.180.72.162",
-    "port": 443,
-    "code": "DK",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "193.180.208.234",
     "port": 443,
     "code": "DK",
     "asn": "Webdock AS44803"
-  },
-  {
-    "ip": "38.180.72.162",
-    "port": 2053,
-    "code": "DK",
-    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "38.180.214.162",
@@ -60,14 +48,14 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "89.28.236.243",
-    "port": 443,
+    "ip": "193.180.208.166",
+    "port": 587,
     "code": "DK",
     "asn": "Seven Digital Network Services LLC"
   },
   {
-    "ip": "193.180.208.166",
-    "port": 587,
+    "ip": "89.28.236.243",
+    "port": 443,
     "code": "DK",
     "asn": "Seven Digital Network Services LLC"
   }
