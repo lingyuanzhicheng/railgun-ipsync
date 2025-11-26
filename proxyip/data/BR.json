@@ -18,16 +18,16 @@
     "asn": "Vercara, LLC"
   },
   {
-    "ip": "132.226.163.224",
-    "port": 8443,
-    "code": "BR",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "38.180.79.9",
     "port": 443,
     "code": "BR",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "132.226.163.224",
+    "port": 8443,
+    "code": "BR",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "146.235.59.153",
@@ -66,18 +66,6 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "45.82.245.62",
-    "port": 443,
-    "code": "BR",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "147.45.116.50",
-    "port": 24443,
-    "code": "BR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "144.22.204.102",
     "port": 50317,
     "code": "BR",
@@ -90,6 +78,18 @@
     "asn": "Oracle Corporation"
   },
   {
+    "ip": "45.82.245.62",
+    "port": 443,
+    "code": "BR",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "177.128.123.121",
+    "port": 8443,
+    "code": "BR",
+    "asn": "Disk Sistema Tele-Informatica Ltda- ME"
+  },
+  {
     "ip": "189.1.128.29",
     "port": 443,
     "code": "BR",
@@ -100,6 +100,12 @@
     "port": 28053,
     "code": "BR",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "147.45.116.50",
+    "port": 24443,
+    "code": "BR",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "216.238.114.123",

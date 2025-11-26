@@ -18,6 +18,12 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
+    "ip": "158.180.231.216",
+    "port": 443,
+    "code": "IT",
+    "asn": "Oracle Corporation"
+  },
+  {
     "ip": "194.165.59.20",
     "port": 443,
     "code": "IT",
@@ -36,28 +42,22 @@
     "asn": "FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A."
   },
   {
-    "ip": "158.180.231.216",
-    "port": 443,
-    "code": "IT",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "80.211.170.53",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services DC1"
   },
   {
-    "ip": "185.198.235.246",
-    "port": 2083,
-    "code": "IT",
-    "asn": "Baxet Group Inc."
-  },
-  {
     "ip": "195.231.81.101",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services IT3"
+  },
+  {
+    "ip": "185.198.235.246",
+    "port": 2083,
+    "code": "IT",
+    "asn": "Baxet Group Inc."
   },
   {
     "ip": "38.180.22.20",
@@ -148,6 +148,12 @@
     "port": 443,
     "code": "IT",
     "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
+  },
+  {
+    "ip": "178.175.231.12",
+    "port": 443,
+    "code": "IT",
+    "asn": "MYNET S.R.L."
   },
   {
     "ip": "80.211.238.61",

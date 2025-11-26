@@ -1,11 +1,5 @@
 [
   {
-    "ip": "188.240.213.98",
-    "port": 8443,
-    "code": "KG",
-    "asn": "RCS Technologies FZE LLC"
-  },
-  {
     "ip": "176.126.164.213",
     "port": 443,
     "code": "KG",
@@ -13,7 +7,7 @@
   },
   {
     "ip": "188.240.213.98",
-    "port": 2053,
+    "port": 8443,
     "code": "KG",
     "asn": "RCS Technologies FZE LLC"
   },
@@ -24,14 +18,20 @@
     "asn": "RCS Technologies FZE LLC"
   },
   {
-    "ip": "188.240.213.40",
-    "port": 443,
+    "ip": "188.240.213.98",
+    "port": 2053,
     "code": "KG",
     "asn": "RCS Technologies FZE LLC"
   },
   {
     "ip": "188.240.213.33",
     "port": 8443,
+    "code": "KG",
+    "asn": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "188.240.213.40",
+    "port": 443,
     "code": "KG",
     "asn": "RCS Technologies FZE LLC"
   },

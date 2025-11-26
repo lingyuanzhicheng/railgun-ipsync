@@ -12,19 +12,43 @@
     "asn": "China Mobile Communications Corporation - shanghai company"
   },
   {
-    "ip": "117.50.80.157",
-    "port": 1234,
-    "code": "CN",
-    "asn": "Shanghai UCloud Information Technology Company Limited"
-  },
-  {
     "ip": "123.52.65.206",
     "port": 10011,
     "code": "CN",
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
+    "ip": "117.50.80.157",
+    "port": 1234,
+    "code": "CN",
+    "asn": "Shanghai UCloud Information Technology Company Limited"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 23042,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 12489,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 19554,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
     "ip": "47.114.100.224",
+    "port": 443,
+    "code": "CN",
+    "asn": "Aliyun Computing Co., LTD"
+  },
+  {
+    "ip": "47.111.229.11",
     "port": 443,
     "code": "CN",
     "asn": "Aliyun Computing Co., LTD"
@@ -36,16 +60,64 @@
     "asn": "Aliyun Computing Co., LTD"
   },
   {
+    "ip": "111.20.226.42",
+    "port": 12191,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 18908,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 10894,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
     "ip": "47.92.161.8",
     "port": 443,
     "code": "CN",
     "asn": "Aliyun Computing Co., LTD"
   },
   {
+    "ip": "111.20.226.42",
+    "port": 14628,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 29266,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
     "ip": "36.133.126.13",
     "port": 443,
     "code": "CN",
     "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 25836,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 12311,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "39.98.224.123",
+    "port": 443,
+    "code": "CN",
+    "asn": "Aliyun Computing Co., LTD"
   },
   {
     "ip": "123.52.66.70",
@@ -66,16 +138,10 @@
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
-    "ip": "39.98.224.123",
-    "port": 443,
+    "ip": "123.52.64.247",
+    "port": 10011,
     "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
-  },
-  {
-    "ip": "120.53.10.175",
-    "port": 8888,
-    "code": "CN",
-    "asn": "Beijing Voda Telecom Technology Co. Ltd."
+    "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
     "ip": "47.114.106.149",
@@ -90,6 +156,18 @@
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
+    "ip": "120.53.10.175",
+    "port": 8888,
+    "code": "CN",
+    "asn": "Beijing Voda Telecom Technology Co. Ltd."
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 12143,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
     "ip": "123.52.67.150",
     "port": 10011,
     "code": "CN",
@@ -102,7 +180,19 @@
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
+    "ip": "111.20.226.42",
+    "port": 16000,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
     "ip": "47.112.125.103",
+    "port": 443,
+    "code": "CN",
+    "asn": "Aliyun Computing Co., LTD"
+  },
+  {
+    "ip": "121.199.63.104",
     "port": 443,
     "code": "CN",
     "asn": "Aliyun Computing Co., LTD"
@@ -114,13 +204,7 @@
     "asn": "CHINANET Guangdong province network"
   },
   {
-    "ip": "14.21.7.146",
-    "port": 12388,
-    "code": "CN",
-    "asn": "CHINANET Guangdong province network"
-  },
-  {
-    "ip": "121.199.63.104",
+    "ip": "120.24.251.97",
     "port": 443,
     "code": "CN",
     "asn": "Aliyun Computing Co., LTD"
@@ -132,10 +216,10 @@
     "asn": "CHINANET Guangdong province network"
   },
   {
-    "ip": "120.24.251.97",
-    "port": 443,
+    "ip": "14.21.7.146",
+    "port": 12388,
     "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
+    "asn": "CHINANET Guangdong province network"
   },
   {
     "ip": "47.92.245.88",
@@ -151,21 +235,15 @@
   },
   {
     "ip": "14.21.7.146",
-    "port": 10495,
-    "code": "CN",
-    "asn": "CHINANET Guangdong province network"
-  },
-  {
-    "ip": "14.21.7.146",
     "port": 18085,
     "code": "CN",
     "asn": "CHINANET Guangdong province network"
   },
   {
-    "ip": "14.21.7.146",
-    "port": 10045,
+    "ip": "118.24.82.6",
+    "port": 7443,
     "code": "CN",
-    "asn": "CHINANET Guangdong province network"
+    "asn": "Tencent Cloud Computing (Beijing) Co., Ltd"
   },
   {
     "ip": "124.222.223.113",
@@ -178,6 +256,12 @@
     "port": 10011,
     "code": "CN",
     "asn": "CHINANET HENAN PROVINCE NETWORK"
+  },
+  {
+    "ip": "14.21.7.146",
+    "port": 10045,
+    "code": "CN",
+    "asn": "CHINANET Guangdong province network"
   },
   {
     "ip": "58.247.200.18",

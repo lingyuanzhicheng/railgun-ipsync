@@ -66,22 +66,16 @@
     "asn": "Macquarie Telecom"
   },
   {
-    "ip": "20.167.42.198",
-    "port": 2053,
-    "code": "AU",
-    "asn": "Microsoft Corporation"
-  },
-  {
     "ip": "152.69.174.99",
     "port": 25248,
     "code": "AU",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "207.148.80.190",
-    "port": 443,
+    "ip": "20.167.42.198",
+    "port": 2053,
     "code": "AU",
-    "asn": "The Constant Company, LLC"
+    "asn": "Microsoft Corporation"
   },
   {
     "ip": "16.176.42.97",
@@ -106,5 +100,11 @@
     "port": 443,
     "code": "AU",
     "asn": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "207.211.153.234",
+    "port": 443,
+    "code": "AU",
+    "asn": "Oracle Corporation"
   }
 ]

@@ -9,13 +9,7 @@
     "ip": "194.102.104.18",
     "port": 443,
     "code": "MD",
-    "asn": "Cloudflare London, LLC"
-  },
-  {
-    "ip": "194.156.67.206",
-    "port": 443,
-    "code": "MD",
-    "asn": "FOXCLOUD COMMUNICATIONS SRL"
+    "asn": "AlexHost SRL"
   },
   {
     "ip": "45.140.146.23",
@@ -34,6 +28,12 @@
     "port": 443,
     "code": "MD",
     "asn": "ALEXHOST SRL"
+  },
+  {
+    "ip": "194.156.67.206",
+    "port": 443,
+    "code": "MD",
+    "asn": "FOXCLOUD COMMUNICATIONS SRL"
   },
   {
     "ip": "45.67.229.128",
@@ -84,6 +84,12 @@
     "asn": "AlexHost SRL"
   },
   {
+    "ip": "94.103.188.38",
+    "port": 443,
+    "code": "MD",
+    "asn": "ALEXHOST SRL"
+  },
+  {
     "ip": "185.250.148.240",
     "port": 443,
     "code": "MD",
@@ -94,11 +100,5 @@
     "port": 8443,
     "code": "MD",
     "asn": "FOXCLOUD COMMUNICATIONS SRL"
-  },
-  {
-    "ip": "94.103.188.38",
-    "port": 443,
-    "code": "MD",
-    "asn": "ALEXHOST SRL"
   }
 ]

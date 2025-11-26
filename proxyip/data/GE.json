@@ -1,5 +1,11 @@
 [
   {
+    "ip": "206.53.48.171",
+    "port": 443,
+    "code": "GE",
+    "asn": "HZ Hosting Ltd"
+  },
+  {
     "ip": "185.143.179.94",
     "port": 443,
     "code": "GE",
@@ -10,12 +16,6 @@
     "port": 443,
     "code": "GE",
     "asn": "LLC Ordunet"
-  },
-  {
-    "ip": "206.53.48.171",
-    "port": 443,
-    "code": "GE",
-    "asn": "HZ Hosting Ltd"
   },
   {
     "ip": "206.53.48.105",
