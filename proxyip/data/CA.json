@@ -6,28 +6,28 @@
     "asn": "OVH Hosting, Inc."
   },
   {
-    "ip": "85.208.108.71",
-    "port": 443,
-    "code": "CA",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "91.194.11.78",
-    "port": 81,
-    "code": "CA",
-    "asn": "DGTL TECH UK LLP"
-  },
-  {
     "ip": "148.113.200.194",
     "port": 8443,
     "code": "CA",
     "asn": "OVH Hosting, Inc."
   },
   {
+    "ip": "85.208.108.71",
+    "port": 443,
+    "code": "CA",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "192.99.252.243",
     "port": 2053,
     "code": "CA",
     "asn": "OVH SAS"
+  },
+  {
+    "ip": "91.194.11.78",
+    "port": 81,
+    "code": "CA",
+    "asn": "DGTL TECH UK LLP"
   },
   {
     "ip": "3.97.173.206",
@@ -54,34 +54,16 @@
     "asn": "Securly, Inc"
   },
   {
-    "ip": "35.183.216.163",
-    "port": 8443,
-    "code": "CA",
-    "asn": "Amazon Data Services Canada"
-  },
-  {
     "ip": "129.153.60.139",
     "port": 443,
     "code": "CA",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "192.99.127.218",
-    "port": 443,
+    "ip": "35.183.216.163",
+    "port": 8443,
     "code": "CA",
-    "asn": "Private Customer"
-  },
-  {
-    "ip": "172.98.207.58",
-    "port": 443,
-    "code": "CA",
-    "asn": "CENTRILOGICCANADA"
-  },
-  {
-    "ip": "35.183.163.195",
-    "port": 443,
-    "code": "CA",
-    "asn": "Securly, Inc"
+    "asn": "Amazon Data Services Canada"
   },
   {
     "ip": "213.255.209.207",
@@ -90,16 +72,34 @@
     "asn": "Cloud Web Manage"
   },
   {
-    "ip": "35.182.226.236",
+    "ip": "172.98.207.58",
     "port": 443,
     "code": "CA",
-    "asn": "Amazon Data Services Canada"
+    "asn": "CENTRILOGICCANADA"
+  },
+  {
+    "ip": "192.99.127.218",
+    "port": 443,
+    "code": "CA",
+    "asn": "Private Customer"
+  },
+  {
+    "ip": "35.183.163.195",
+    "port": 443,
+    "code": "CA",
+    "asn": "Securly, Inc"
   },
   {
     "ip": "35.183.163.195",
     "port": 80,
     "code": "CA",
     "asn": "Securly, Inc"
+  },
+  {
+    "ip": "35.182.226.236",
+    "port": 443,
+    "code": "CA",
+    "asn": "Amazon Data Services Canada"
   },
   {
     "ip": "35.182.7.190",
@@ -132,16 +132,16 @@
     "asn": "Amazon Data Services Canada"
   },
   {
-    "ip": "140.238.158.238",
-    "port": 443,
-    "code": "CA",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "172.93.32.131",
     "port": 23077,
     "code": "CA",
     "asn": "Cluster Logic Inc"
+  },
+  {
+    "ip": "140.238.158.238",
+    "port": 443,
+    "code": "CA",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "89.251.9.5",

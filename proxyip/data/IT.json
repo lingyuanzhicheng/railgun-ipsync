@@ -18,12 +18,6 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "158.180.231.216",
-    "port": 443,
-    "code": "IT",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "194.165.59.20",
     "port": 443,
     "code": "IT",
@@ -34,6 +28,18 @@
     "port": 8443,
     "code": "IT",
     "asn": "Oneprovider.com - Florence Infrastructure"
+  },
+  {
+    "ip": "178.175.231.12",
+    "port": 443,
+    "code": "IT",
+    "asn": "MYNET S.R.L."
+  },
+  {
+    "ip": "158.180.231.216",
+    "port": 443,
+    "code": "IT",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "151.91.39.191",
@@ -66,22 +72,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "213.218.212.24",
-    "port": 443,
+    "ip": "87.120.237.36",
+    "port": 81,
     "code": "IT",
-    "asn": "GCI Network Solutions Limited"
+    "asn": "G-Core Labs S.A."
   },
   {
     "ip": "129.152.2.127",
     "port": 1488,
     "code": "IT",
     "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "87.120.237.36",
-    "port": 81,
-    "code": "IT",
-    "asn": "G-Core Labs S.A."
   },
   {
     "ip": "188.213.168.52",
@@ -96,16 +96,16 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "178.175.231.13",
-    "port": 443,
-    "code": "IT",
-    "asn": "MYNET S.R.L."
-  },
-  {
     "ip": "212.237.30.220",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
+  },
+  {
+    "ip": "178.175.231.13",
+    "port": 443,
+    "code": "IT",
+    "asn": "MYNET S.R.L."
   },
   {
     "ip": "94.177.199.45",
@@ -138,22 +138,16 @@
     "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
-    "ip": "176.126.83.146",
-    "port": 2053,
-    "code": "IT",
-    "asn": "Oneprovider.com - Florence Infrastructure"
-  },
-  {
     "ip": "103.241.66.123",
     "port": 443,
     "code": "IT",
     "asn": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
-    "ip": "178.175.231.12",
-    "port": 443,
+    "ip": "176.126.83.146",
+    "port": 2053,
     "code": "IT",
-    "asn": "MYNET S.R.L."
+    "asn": "Oneprovider.com - Florence Infrastructure"
   },
   {
     "ip": "80.211.238.61",

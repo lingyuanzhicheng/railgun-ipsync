@@ -36,6 +36,12 @@
     "asn": "Oracle Svenska AB"
   },
   {
+    "ip": "185.209.49.17",
+    "port": 8443,
+    "code": "AE",
+    "asn": "ITGLOBAL COM DMCC"
+  },
+  {
     "ip": "20.157.74.92",
     "port": 443,
     "code": "AE",
@@ -48,22 +54,16 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "40.120.108.47",
-    "port": 443,
-    "code": "AE",
-    "asn": "Microsoft Corporation"
-  },
-  {
-    "ip": "185.209.49.17",
-    "port": 8443,
-    "code": "AE",
-    "asn": "ITGLOBAL COM DMCC"
-  },
-  {
     "ip": "90.156.221.54",
     "port": 443,
     "code": "AE",
     "asn": "ITGLOBAL COM DMCC"
+  },
+  {
+    "ip": "40.120.108.47",
+    "port": 443,
+    "code": "AE",
+    "asn": "Microsoft Corporation"
   },
   {
     "ip": "3.29.240.49",

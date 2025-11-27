@@ -1,5 +1,11 @@
 [
   {
+    "ip": "38.180.100.80",
+    "port": 443,
+    "code": "RS",
+    "asn": "3NT SOLUTIONS LLP"
+  },
+  {
     "ip": "2.56.172.107",
     "port": 443,
     "code": "RS",
@@ -13,21 +19,15 @@
   },
   {
     "ip": "94.230.184.94",
-    "port": 8443,
-    "code": "RS",
-    "asn": "Serbia BroadBand-Srpske Kablovske mreze d.o.o."
-  },
-  {
-    "ip": "94.230.184.94",
     "port": 2053,
     "code": "RS",
     "asn": "Serbia BroadBand-Srpske Kablovske mreze d.o.o."
   },
   {
-    "ip": "38.180.100.80",
-    "port": 443,
+    "ip": "94.230.184.94",
+    "port": 8443,
     "code": "RS",
-    "asn": "3NT SOLUTIONS LLP"
+    "asn": "Serbia BroadBand-Srpske Kablovske mreze d.o.o."
   },
   {
     "ip": "45.89.55.70",
@@ -48,6 +48,12 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "45.89.55.70",
+    "port": 8443,
+    "code": "RS",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "45.89.55.205",
     "port": 443,
     "code": "RS",
@@ -60,16 +66,10 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "45.89.55.70",
-    "port": 8443,
+    "ip": "89.46.236.145",
+    "port": 443,
     "code": "RS",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "38.180.239.224",
-    "port": 2053,
-    "code": "RS",
-    "asn": "3NT SOLUTIONS LLP"
+    "asn": "EDIS IPv6 Infrastructure in Serbia"
   },
   {
     "ip": "38.180.17.36",
@@ -78,15 +78,15 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
+    "ip": "38.180.239.224",
+    "port": 2053,
+    "code": "RS",
+    "asn": "3NT SOLUTIONS LLP"
+  },
+  {
     "ip": "109.92.179.156",
     "port": 12170,
     "code": "RS",
     "asn": "Telekom Srbija ADSL users"
-  },
-  {
-    "ip": "89.46.236.145",
-    "port": 443,
-    "code": "RS",
-    "asn": "EDIS IPv6 Infrastructure in Serbia"
   }
 ]

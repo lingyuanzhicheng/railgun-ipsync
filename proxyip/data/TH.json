@@ -1,7 +1,13 @@
 [
   {
-    "ip": "45.154.26.81",
-    "port": 2053,
+    "ip": "47.81.9.160",
+    "port": 443,
+    "code": "TH",
+    "asn": "Alibaba Cloud LLC"
+  },
+  {
+    "ip": "45.91.134.225",
+    "port": 5060,
     "code": "TH",
     "asn": "ReadyIDC Co., Ltd."
   },
@@ -12,28 +18,22 @@
     "asn": "ReadyIDC Co., Ltd."
   },
   {
-    "ip": "45.91.134.225",
-    "port": 5060,
+    "ip": "45.154.26.81",
+    "port": 2053,
     "code": "TH",
     "asn": "ReadyIDC Co., Ltd."
-  },
-  {
-    "ip": "47.81.9.160",
-    "port": 443,
-    "code": "TH",
-    "asn": "Alibaba Cloud LLC"
-  },
-  {
-    "ip": "103.99.11.193",
-    "port": 8443,
-    "code": "TH",
-    "asn": "ReadyIDC CO.,LTD."
   },
   {
     "ip": "171.103.232.58",
     "port": 20475,
     "code": "TH",
     "asn": "True Internet Co., Ltd."
+  },
+  {
+    "ip": "103.99.11.193",
+    "port": 8443,
+    "code": "TH",
+    "asn": "ReadyIDC CO.,LTD."
   },
   {
     "ip": "43.133.110.81",
