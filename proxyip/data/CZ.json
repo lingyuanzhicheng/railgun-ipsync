@@ -48,6 +48,12 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
+    "ip": "45.15.162.45",
+    "port": 443,
+    "code": "CZ",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "62.233.57.156",
     "port": 443,
     "code": "CZ",
@@ -56,12 +62,6 @@
   {
     "ip": "77.75.230.116",
     "port": 81,
-    "code": "CZ",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "45.15.162.45",
-    "port": 443,
     "code": "CZ",
     "asn": "WorkTitans B.V."
   },
@@ -90,6 +90,12 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "194.58.46.240",
+    "port": 443,
+    "code": "CZ",
+    "asn": "Baxet Group Inc."
+  },
+  {
     "ip": "80.211.192.36",
     "port": 8443,
     "code": "CZ",
@@ -114,6 +120,12 @@
     "asn": "OvaNet, a.s."
   },
   {
+    "ip": "194.87.137.88",
+    "port": 443,
+    "code": "CZ",
+    "asn": "Baxet Group Inc."
+  },
+  {
     "ip": "5.43.224.162",
     "port": 443,
     "code": "CZ",
@@ -126,7 +138,19 @@
     "asn": "SmartApe OU"
   },
   {
-    "ip": "176.74.218.168",
+    "ip": "194.58.46.104",
+    "port": 443,
+    "code": "CZ",
+    "asn": "Baxet Group Inc."
+  },
+  {
+    "ip": "185.253.47.121",
+    "port": 443,
+    "code": "CZ",
+    "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "188.124.56.158",
     "port": 2053,
     "code": "CZ",
     "asn": "HOST-TELECOM.COM s.r.o."
@@ -138,7 +162,7 @@
     "asn": "Cloud Services CZ1"
   },
   {
-    "ip": "188.124.56.158",
+    "ip": "176.74.218.168",
     "port": 2053,
     "code": "CZ",
     "asn": "HOST-TELECOM.COM s.r.o."
@@ -160,12 +184,6 @@
     "port": 443,
     "code": "CZ",
     "asn": "INTERNET CZ, a.s."
-  },
-  {
-    "ip": "185.253.47.121",
-    "port": 443,
-    "code": "CZ",
-    "asn": "Friendhosting LTD"
   },
   {
     "ip": "38.180.235.211",

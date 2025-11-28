@@ -48,22 +48,10 @@
     "asn": "Aliyun Computing Co., LTD"
   },
   {
-    "ip": "47.114.100.224",
-    "port": 443,
-    "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
-  },
-  {
     "ip": "47.114.93.190",
     "port": 443,
     "code": "CN",
     "asn": "Aliyun Computing Co., LTD"
-  },
-  {
-    "ip": "111.20.226.42",
-    "port": 12191,
-    "code": "CN",
-    "asn": "China Mobile Communications Corporation"
   },
   {
     "ip": "111.20.226.42",
@@ -78,32 +66,8 @@
     "asn": "China Mobile Communications Corporation"
   },
   {
-    "ip": "47.92.161.8",
-    "port": 443,
-    "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
-  },
-  {
-    "ip": "39.98.224.123",
-    "port": 443,
-    "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
-  },
-  {
-    "ip": "36.133.126.13",
-    "port": 443,
-    "code": "CN",
-    "asn": "China Mobile Communications Corporation"
-  },
-  {
     "ip": "111.20.226.42",
-    "port": 14628,
-    "code": "CN",
-    "asn": "China Mobile Communications Corporation"
-  },
-  {
-    "ip": "111.20.226.42",
-    "port": 29266,
+    "port": 12191,
     "code": "CN",
     "asn": "China Mobile Communications Corporation"
   },
@@ -115,12 +79,48 @@
   },
   {
     "ip": "111.20.226.42",
-    "port": 12311,
+    "port": 29266,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "36.133.126.13",
+    "port": 443,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "39.98.224.123",
+    "port": 443,
+    "code": "CN",
+    "asn": "Aliyun Computing Co., LTD"
+  },
+  {
+    "ip": "47.92.161.8",
+    "port": 443,
+    "code": "CN",
+    "asn": "Aliyun Computing Co., LTD"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 14628,
     "code": "CN",
     "asn": "China Mobile Communications Corporation"
   },
   {
     "ip": "123.52.66.70",
+    "port": 10011,
+    "code": "CN",
+    "asn": "CHINANET HENAN PROVINCE NETWORK"
+  },
+  {
+    "ip": "111.20.226.42",
+    "port": 12311,
+    "code": "CN",
+    "asn": "China Mobile Communications Corporation"
+  },
+  {
+    "ip": "123.52.66.97",
     "port": 10011,
     "code": "CN",
     "asn": "CHINANET HENAN PROVINCE NETWORK"
@@ -132,16 +132,10 @@
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
-    "ip": "123.52.66.97",
-    "port": 10011,
+    "ip": "47.114.100.224",
+    "port": 443,
     "code": "CN",
-    "asn": "CHINANET HENAN PROVINCE NETWORK"
-  },
-  {
-    "ip": "120.53.10.175",
-    "port": 8888,
-    "code": "CN",
-    "asn": "Beijing Voda Telecom Technology Co. Ltd."
+    "asn": "Aliyun Computing Co., LTD"
   },
   {
     "ip": "47.114.106.149",
@@ -162,6 +156,12 @@
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
+    "ip": "120.53.10.175",
+    "port": 8888,
+    "code": "CN",
+    "asn": "Beijing Voda Telecom Technology Co. Ltd."
+  },
+  {
     "ip": "111.20.226.42",
     "port": 12143,
     "code": "CN",
@@ -174,10 +174,10 @@
     "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
-    "ip": "47.112.125.103",
-    "port": 443,
+    "ip": "1.192.191.183",
+    "port": 10011,
     "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
+    "asn": "CHINANET HENAN PROVINCE NETWORK"
   },
   {
     "ip": "111.20.226.42",
@@ -186,10 +186,10 @@
     "asn": "China Mobile Communications Corporation"
   },
   {
-    "ip": "1.192.191.183",
-    "port": 10011,
+    "ip": "47.112.125.103",
+    "port": 443,
     "code": "CN",
-    "asn": "CHINANET HENAN PROVINCE NETWORK"
+    "asn": "Aliyun Computing Co., LTD"
   },
   {
     "ip": "14.21.7.146",
@@ -216,12 +216,6 @@
     "asn": "CHINANET Guangdong province network"
   },
   {
-    "ip": "120.24.251.97",
-    "port": 443,
-    "code": "CN",
-    "asn": "Aliyun Computing Co., LTD"
-  },
-  {
     "ip": "47.92.245.88",
     "port": 443,
     "code": "CN",
@@ -232,6 +226,12 @@
     "port": 8443,
     "code": "CN",
     "asn": "Beijing Volcano Engine Technology Co., Ltd."
+  },
+  {
+    "ip": "120.24.251.97",
+    "port": 443,
+    "code": "CN",
+    "asn": "Aliyun Computing Co., LTD"
   },
   {
     "ip": "124.222.223.113",

@@ -72,6 +72,12 @@
     "asn": "Disk Sistema Tele-Informatica Ltda- ME"
   },
   {
+    "ip": "144.22.204.102",
+    "port": 50317,
+    "code": "BR",
+    "asn": "Oracle Corporation"
+  },
+  {
     "ip": "45.82.245.62",
     "port": 443,
     "code": "BR",
@@ -84,27 +90,15 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "168.75.92.141",
-    "port": 28053,
-    "code": "BR",
-    "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "144.22.204.102",
-    "port": 50317,
-    "code": "BR",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "189.1.128.29",
     "port": 443,
     "code": "BR",
     "asn": "Predlink Rede de Telecomunicções Ltda"
   },
   {
-    "ip": "147.45.116.50",
-    "port": 24443,
+    "ip": "168.75.92.141",
+    "port": 28053,
     "code": "BR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+    "asn": "Oracle Corporation"
   }
 ]

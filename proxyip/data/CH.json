@@ -36,19 +36,25 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "91.245.225.17",
-    "port": 443,
-    "code": "CH",
-    "asn": "GLB Bulut Teknolojisi Limited Sirketi"
-  },
-  {
     "ip": "45.95.232.239",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "91.245.225.17",
+    "port": 443,
+    "code": "CH",
+    "asn": "GLB Bulut Teknolojisi Limited Sirketi"
+  },
+  {
     "ip": "176.10.125.114",
+    "port": 443,
+    "code": "CH",
+    "asn": "Datasource AG"
+  },
+  {
+    "ip": "91.192.102.153",
     "port": 443,
     "code": "CH",
     "asn": "Datasource AG"
@@ -58,12 +64,6 @@
     "port": 2053,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "91.192.102.153",
-    "port": 443,
-    "code": "CH",
-    "asn": "Datasource AG"
   },
   {
     "ip": "91.192.102.92",
@@ -138,16 +138,16 @@
     "asn": "ALEXHOST SRL"
   },
   {
-    "ip": "91.90.193.24",
-    "port": 443,
-    "code": "CH",
-    "asn": "Friendhosting LTD"
-  },
-  {
     "ip": "167.17.183.244",
     "port": 443,
     "code": "CH",
     "asn": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "91.90.193.24",
+    "port": 443,
+    "code": "CH",
+    "asn": "Friendhosting LTD"
   },
   {
     "ip": "87.120.222.199",
@@ -174,16 +174,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "91.90.193.138",
-    "port": 443,
-    "code": "CH",
-    "asn": "Friendhosting LTD"
-  },
-  {
     "ip": "179.43.190.20",
     "port": 2053,
     "code": "CH",
     "asn": "PRIVATE LAYER INC"
+  },
+  {
+    "ip": "91.90.193.138",
+    "port": 443,
+    "code": "CH",
+    "asn": "Friendhosting LTD"
   },
   {
     "ip": "91.245.225.79",
@@ -228,12 +228,6 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "179.43.154.24",
-    "port": 443,
-    "code": "CH",
-    "asn": "PRIVATE LAYER INC"
-  },
-  {
     "ip": "171.22.16.235",
     "port": 443,
     "code": "CH",
@@ -276,16 +270,16 @@
     "asn": "Private Layer INC"
   },
   {
-    "ip": "38.244.144.150",
-    "port": 443,
-    "code": "CH",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "194.156.102.142",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "38.244.144.150",
+    "port": 443,
+    "code": "CH",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "176.10.124.178",
@@ -316,12 +310,6 @@
     "port": 443,
     "code": "CH",
     "asn": "Infomaniak Network SA"
-  },
-  {
-    "ip": "45.95.232.203",
-    "port": 8443,
-    "code": "CH",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "140.238.208.210",
@@ -360,16 +348,16 @@
     "asn": "Datasource AG"
   },
   {
-    "ip": "185.143.103.173",
-    "port": 2053,
-    "code": "CH",
-    "asn": "Infomaniak Network SA"
-  },
-  {
     "ip": "185.195.69.119",
     "port": 2053,
     "code": "CH",
     "asn": "Datasource AG"
+  },
+  {
+    "ip": "185.143.103.173",
+    "port": 2053,
+    "code": "CH",
+    "asn": "Infomaniak Network SA"
   },
   {
     "ip": "45.95.232.163",
@@ -414,6 +402,12 @@
     "asn": "Trueb AG"
   },
   {
+    "ip": "194.87.18.167",
+    "port": 443,
+    "code": "CH",
+    "asn": "Baxet Group Inc."
+  },
+  {
     "ip": "45.143.200.141",
     "port": 443,
     "code": "CH",
@@ -424,12 +418,6 @@
     "port": 443,
     "code": "CH",
     "asn": "Sunrise Communications AG"
-  },
-  {
-    "ip": "194.87.18.167",
-    "port": 443,
-    "code": "CH",
-    "asn": "Baxet Group Inc."
   },
   {
     "ip": "45.134.133.139",
@@ -450,16 +438,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "45.143.200.126",
-    "port": 443,
-    "code": "CH",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "194.147.173.117",
     "port": 443,
     "code": "CH",
     "asn": "Trueb AG"
+  },
+  {
+    "ip": "45.143.200.126",
+    "port": 443,
+    "code": "CH",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "16.63.207.85",
@@ -504,16 +492,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "38.180.161.11",
-    "port": 443,
-    "code": "CH",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "91.90.193.159",
     "port": 443,
     "code": "CH",
     "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "38.180.161.11",
+    "port": 443,
+    "code": "CH",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "45.85.93.49",
@@ -540,16 +528,16 @@
     "asn": "Internet Utilities Europe and Asia Limited"
   },
   {
-    "ip": "38.180.84.46",
-    "port": 443,
-    "code": "CH",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "107.189.3.96",
     "port": 443,
     "code": "CH",
     "asn": "BuyVM"
+  },
+  {
+    "ip": "38.180.84.46",
+    "port": 443,
+    "code": "CH",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "45.85.93.96",
@@ -570,16 +558,16 @@
     "asn": "RouterHosting LLC"
   },
   {
-    "ip": "45.85.93.83",
-    "port": 443,
-    "code": "CH",
-    "asn": "Internet Utilities Europe and Asia Limited"
-  },
-  {
     "ip": "171.22.16.231",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.85.93.83",
+    "port": 443,
+    "code": "CH",
+    "asn": "Internet Utilities Europe and Asia Limited"
   },
   {
     "ip": "107.189.31.214",
@@ -594,22 +582,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "185.143.103.173",
-    "port": 8443,
-    "code": "CH",
-    "asn": "Infomaniak Network SA"
-  },
-  {
     "ip": "95.183.51.10",
     "port": 8443,
     "code": "CH",
     "asn": "Solar Communications GmbH"
   },
   {
-    "ip": "45.85.93.59",
-    "port": 443,
+    "ip": "185.143.103.173",
+    "port": 8443,
     "code": "CH",
-    "asn": "Internet Utilities Europe and Asia Limited"
+    "asn": "Infomaniak Network SA"
   },
   {
     "ip": "185.195.69.19",
@@ -631,13 +613,13 @@
   },
   {
     "ip": "185.195.69.200",
-    "port": 2053,
+    "port": 8443,
     "code": "CH",
     "asn": "Datasource AG"
   },
   {
     "ip": "185.195.69.200",
-    "port": 8443,
+    "port": 2053,
     "code": "CH",
     "asn": "Datasource AG"
   },
@@ -646,12 +628,6 @@
     "port": 2053,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "107.189.7.14",
-    "port": 443,
-    "code": "CH",
-    "asn": "BuyVM"
   },
   {
     "ip": "104.244.78.95",
@@ -670,6 +646,12 @@
     "port": 443,
     "code": "CH",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "107.189.12.152",
+    "port": 443,
+    "code": "CH",
+    "asn": "FranTech Solutions"
   },
   {
     "ip": "83.228.192.244",

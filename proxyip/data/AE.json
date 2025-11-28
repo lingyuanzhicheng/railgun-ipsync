@@ -36,16 +36,16 @@
     "asn": "Oracle Svenska AB"
   },
   {
-    "ip": "185.209.49.17",
-    "port": 8443,
-    "code": "AE",
-    "asn": "ITGLOBAL COM DMCC"
-  },
-  {
     "ip": "20.157.74.92",
     "port": 443,
     "code": "AE",
     "asn": "Microsoft Corporation"
+  },
+  {
+    "ip": "185.209.49.17",
+    "port": 8443,
+    "code": "AE",
+    "asn": "ITGLOBAL COM DMCC"
   },
   {
     "ip": "40.120.108.47",
@@ -78,6 +78,12 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
+    "ip": "176.97.67.38",
+    "port": 443,
+    "code": "AE",
+    "asn": "3nt solutions LLP"
+  },
+  {
     "ip": "85.237.211.59",
     "port": 2053,
     "code": "AE",
@@ -90,22 +96,10 @@
     "asn": "Private Customer"
   },
   {
-    "ip": "176.97.66.175",
-    "port": 443,
-    "code": "AE",
-    "asn": "3nt solutions LLP"
-  },
-  {
     "ip": "3.29.76.68",
     "port": 443,
     "code": "AE",
     "asn": "Amazon Data Services UAE"
-  },
-  {
-    "ip": "176.97.67.38",
-    "port": 443,
-    "code": "AE",
-    "asn": "3nt solutions LLP"
   },
   {
     "ip": "217.195.200.138",
@@ -120,16 +114,22 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "141.145.151.219",
+    "ip": "176.97.66.175",
     "port": 443,
     "code": "AE",
-    "asn": "Oracle Corporation"
+    "asn": "3nt solutions LLP"
   },
   {
     "ip": "20.174.15.226",
     "port": 443,
     "code": "AE",
     "asn": "Microsoft Corporation"
+  },
+  {
+    "ip": "141.145.151.219",
+    "port": 443,
+    "code": "AE",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "139.185.34.131",
