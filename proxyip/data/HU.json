@@ -12,12 +12,6 @@
     "asn": "ServerAstra Kft."
   },
   {
-    "ip": "38.180.225.185",
-    "port": 443,
-    "code": "HU",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "38.180.109.174",
     "port": 443,
     "code": "HU",
@@ -28,6 +22,12 @@
     "port": 443,
     "code": "HU",
     "asn": "RackForest"
+  },
+  {
+    "ip": "38.180.225.185",
+    "port": 443,
+    "code": "HU",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "5.182.38.111",
@@ -48,6 +48,12 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "46.183.186.57",
+    "port": 443,
+    "code": "HU",
+    "asn": "EDIS Infrastructure in Hungary"
+  },
+  {
     "ip": "91.219.237.49",
     "port": 443,
     "code": "HU",
@@ -64,12 +70,6 @@
     "port": 443,
     "code": "HU",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "46.183.186.57",
-    "port": 443,
-    "code": "HU",
-    "asn": "EDIS Infrastructure in Hungary"
   },
   {
     "ip": "38.180.225.181",

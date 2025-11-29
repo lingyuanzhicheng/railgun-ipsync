@@ -132,6 +132,12 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "91.90.193.24",
+    "port": 443,
+    "code": "CH",
+    "asn": "Friendhosting LTD"
+  },
+  {
     "ip": "45.155.53.155",
     "port": 2053,
     "code": "CH",
@@ -142,12 +148,6 @@
     "port": 443,
     "code": "CH",
     "asn": "RCS Technologies FZE LLC"
-  },
-  {
-    "ip": "91.90.193.24",
-    "port": 443,
-    "code": "CH",
-    "asn": "Friendhosting LTD"
   },
   {
     "ip": "87.120.222.199",
@@ -174,16 +174,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "179.43.190.20",
-    "port": 2053,
-    "code": "CH",
-    "asn": "PRIVATE LAYER INC"
-  },
-  {
     "ip": "91.90.193.138",
     "port": 443,
     "code": "CH",
     "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "179.43.190.20",
+    "port": 2053,
+    "code": "CH",
+    "asn": "PRIVATE LAYER INC"
   },
   {
     "ip": "91.245.225.79",
@@ -196,12 +196,6 @@
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "38.180.161.32",
-    "port": 443,
-    "code": "CH",
-    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "45.95.232.18",
@@ -234,22 +228,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "45.95.232.203",
-    "port": 2053,
+    "ip": "51.103.234.115",
+    "port": 2083,
     "code": "CH",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+    "asn": "Microsoft Limited"
   },
   {
     "ip": "179.43.180.231",
     "port": 443,
     "code": "CH",
     "asn": "PRIVATE LAYER INC"
-  },
-  {
-    "ip": "51.103.234.115",
-    "port": 2083,
-    "code": "CH",
-    "asn": "Microsoft Limited"
   },
   {
     "ip": "103.63.30.144",
@@ -306,16 +294,16 @@
     "asn": "PRIVATE LAYER INC"
   },
   {
-    "ip": "84.234.18.156",
-    "port": 443,
-    "code": "CH",
-    "asn": "Infomaniak Network SA"
-  },
-  {
     "ip": "140.238.208.210",
     "port": 443,
     "code": "CH",
     "asn": "Oracle Public Cloud"
+  },
+  {
+    "ip": "84.234.18.156",
+    "port": 443,
+    "code": "CH",
+    "asn": "Infomaniak Network SA"
   },
   {
     "ip": "167.17.183.134",
@@ -348,16 +336,16 @@
     "asn": "Datasource AG"
   },
   {
-    "ip": "185.195.69.119",
-    "port": 2053,
-    "code": "CH",
-    "asn": "Datasource AG"
-  },
-  {
     "ip": "185.143.103.173",
     "port": 2053,
     "code": "CH",
     "asn": "Infomaniak Network SA"
+  },
+  {
+    "ip": "185.195.69.119",
+    "port": 2053,
+    "code": "CH",
+    "asn": "Datasource AG"
   },
   {
     "ip": "45.95.232.163",
@@ -438,16 +426,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "194.147.173.117",
-    "port": 443,
-    "code": "CH",
-    "asn": "Trueb AG"
-  },
-  {
     "ip": "45.143.200.126",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "194.147.173.117",
+    "port": 443,
+    "code": "CH",
+    "asn": "Trueb AG"
   },
   {
     "ip": "16.63.207.85",
@@ -558,16 +546,16 @@
     "asn": "RouterHosting LLC"
   },
   {
-    "ip": "171.22.16.231",
-    "port": 443,
-    "code": "CH",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "45.85.93.83",
     "port": 443,
     "code": "CH",
     "asn": "Internet Utilities Europe and Asia Limited"
+  },
+  {
+    "ip": "171.22.16.231",
+    "port": 443,
+    "code": "CH",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "107.189.31.214",
@@ -592,6 +580,12 @@
     "port": 8443,
     "code": "CH",
     "asn": "Infomaniak Network SA"
+  },
+  {
+    "ip": "45.85.93.59",
+    "port": 443,
+    "code": "CH",
+    "asn": "Internet Utilities Europe and Asia Limited"
   },
   {
     "ip": "185.195.69.19",
@@ -630,6 +624,12 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "107.189.7.14",
+    "port": 443,
+    "code": "CH",
+    "asn": "BuyVM"
+  },
+  {
     "ip": "104.244.78.95",
     "port": 2083,
     "code": "CH",
@@ -648,15 +648,15 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "107.189.12.152",
-    "port": 443,
-    "code": "CH",
-    "asn": "FranTech Solutions"
-  },
-  {
     "ip": "83.228.192.244",
     "port": 26206,
     "code": "CH",
     "asn": "Infomaniak Network SA"
+  },
+  {
+    "ip": "107.189.12.152",
+    "port": 443,
+    "code": "CH",
+    "asn": "FranTech Solutions"
   }
 ]

@@ -12,12 +12,6 @@
     "asn": "OVH Hosting, Inc."
   },
   {
-    "ip": "85.208.108.71",
-    "port": 443,
-    "code": "CA",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "192.99.252.243",
     "port": 2053,
     "code": "CA",
@@ -30,16 +24,22 @@
     "asn": "Securly, Inc"
   },
   {
-    "ip": "69.28.82.253",
-    "port": 443,
-    "code": "CA",
-    "asn": "Atlantic.Net - Toronto, LLC."
-  },
-  {
     "ip": "91.194.11.78",
     "port": 81,
     "code": "CA",
     "asn": "DGTL TECH UK LLP"
+  },
+  {
+    "ip": "85.208.108.71",
+    "port": 443,
+    "code": "CA",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "69.28.82.253",
+    "port": 443,
+    "code": "CA",
+    "asn": "Atlantic.Net - Toronto, LLC."
   },
   {
     "ip": "167.99.183.13",
@@ -54,6 +54,12 @@
     "asn": "Securly, Inc"
   },
   {
+    "ip": "35.183.216.163",
+    "port": 8443,
+    "code": "CA",
+    "asn": "Amazon Data Services Canada"
+  },
+  {
     "ip": "129.153.60.139",
     "port": 443,
     "code": "CA",
@@ -64,12 +70,6 @@
     "port": 443,
     "code": "CA",
     "asn": "CENTRILOGICCANADA"
-  },
-  {
-    "ip": "35.183.216.163",
-    "port": 8443,
-    "code": "CA",
-    "asn": "Amazon Data Services Canada"
   },
   {
     "ip": "213.255.209.207",
@@ -114,16 +114,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "192.99.166.93",
-    "port": 8443,
-    "code": "CA",
-    "asn": "OVH Hosting, Inc."
-  },
-  {
     "ip": "172.93.32.131",
     "port": 23077,
     "code": "CA",
     "asn": "Cluster Logic Inc"
+  },
+  {
+    "ip": "192.99.166.93",
+    "port": 8443,
+    "code": "CA",
+    "asn": "OVH Hosting, Inc."
   },
   {
     "ip": "35.183.216.163",
@@ -210,6 +210,12 @@
     "asn": "DigitalOcean, LLC"
   },
   {
+    "ip": "192.18.159.164",
+    "port": 36545,
+    "code": "CA",
+    "asn": "Oracle Corporation"
+  },
+  {
     "ip": "150.230.27.23",
     "port": 16504,
     "code": "CA",
@@ -234,19 +240,13 @@
     "asn": "REGXA LLC"
   },
   {
-    "ip": "143.198.35.113",
-    "port": 443,
-    "code": "CA",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "45.133.18.31",
     "port": 443,
     "code": "CA",
     "asn": "ITGLOBAL.COM NL B.V."
   },
   {
-    "ip": "137.184.168.37",
+    "ip": "143.198.35.113",
     "port": 443,
     "code": "CA",
     "asn": "DigitalOcean, LLC"
@@ -258,16 +258,16 @@
     "asn": "OVH Hosting, Inc."
   },
   {
-    "ip": "138.197.152.31",
-    "port": 8443,
-    "code": "CA",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "167.114.67.25",
     "port": 443,
     "code": "CA",
     "asn": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "138.197.152.31",
+    "port": 8443,
+    "code": "CA",
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "89.251.9.4",
@@ -288,6 +288,12 @@
     "asn": "OVH Hosting, Inc."
   },
   {
+    "ip": "172.105.26.112",
+    "port": 2443,
+    "code": "CA",
+    "asn": "Linode"
+  },
+  {
     "ip": "51.79.120.221",
     "port": 2053,
     "code": "CA",
@@ -298,11 +304,5 @@
     "port": 443,
     "code": "CA",
     "asn": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "172.105.26.112",
-    "port": 2443,
-    "code": "CA",
-    "asn": "Linode"
   }
 ]

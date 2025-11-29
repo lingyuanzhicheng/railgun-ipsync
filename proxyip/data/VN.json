@@ -1,11 +1,5 @@
 [
   {
-    "ip": "123.58.199.241",
-    "port": 443,
-    "code": "VN",
-    "asn": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
-  },
-  {
     "ip": "103.188.82.56",
     "port": 443,
     "code": "VN",
@@ -16,6 +10,12 @@
     "port": 443,
     "code": "VN",
     "asn": "HYPERNODE ONE MEMBER COMPANY LIMITED"
+  },
+  {
+    "ip": "123.58.199.241",
+    "port": 443,
+    "code": "VN",
+    "asn": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED"
   },
   {
     "ip": "152.32.255.24",
