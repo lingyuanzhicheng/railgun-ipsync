@@ -12,16 +12,16 @@
     "asn": "Kaopu Cloud HK Limited"
   },
   {
+    "ip": "45.89.107.118",
+    "port": 443,
+    "code": "MY",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "58.27.117.24",
     "port": 443,
     "code": "MY",
     "asn": "TMNET"
-  },
-  {
-    "ip": "47.254.235.252",
-    "port": 443,
-    "code": "MY",
-    "asn": "Alibaba Cloud - MY"
   },
   {
     "ip": "47.250.132.147",
@@ -36,7 +36,7 @@
     "asn": "Alibaba Cloud - MY"
   },
   {
-    "ip": "47.250.59.132",
+    "ip": "47.254.235.252",
     "port": 443,
     "code": "MY",
     "asn": "Alibaba Cloud - MY"
@@ -48,10 +48,10 @@
     "asn": "Alibaba Cloud LLC"
   },
   {
-    "ip": "45.89.107.118",
+    "ip": "47.250.59.132",
     "port": 443,
     "code": "MY",
-    "asn": "WorkTitans B.V."
+    "asn": "Alibaba Cloud - MY"
   },
   {
     "ip": "47.254.255.125",

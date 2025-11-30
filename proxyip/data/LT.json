@@ -18,14 +18,20 @@
     "asn": "UAB Interneto vizija"
   },
   {
+    "ip": "45.12.129.237",
+    "port": 8443,
+    "code": "LT",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "94.176.237.226",
     "port": 8443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
   {
-    "ip": "195.181.244.216",
-    "port": 443,
+    "ip": "212.24.104.79",
+    "port": 8443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
@@ -36,19 +42,19 @@
     "asn": "Hostinger International Limited"
   },
   {
-    "ip": "45.12.129.237",
-    "port": 8443,
-    "code": "LT",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "212.24.104.79",
-    "port": 8443,
+    "ip": "80.209.235.114",
+    "port": 443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
   {
-    "ip": "80.209.235.114",
+    "ip": "46.29.234.109",
+    "port": 8443,
+    "code": "LT",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "195.181.244.216",
     "port": 443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
@@ -58,12 +64,6 @@
     "port": 8443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
-  },
-  {
-    "ip": "46.29.234.109",
-    "port": 8443,
-    "code": "LT",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "79.98.29.170",
@@ -84,6 +84,12 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "94.131.14.180",
+    "port": 8443,
+    "code": "LT",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "176.223.136.90",
     "port": 443,
     "code": "LT",
@@ -96,19 +102,7 @@
     "asn": "UAB Interneto vizija"
   },
   {
-    "ip": "94.131.14.180",
-    "port": 8443,
-    "code": "LT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "212.24.107.76",
-    "port": 8443,
-    "code": "LT",
-    "asn": "UAB Interneto vizija"
-  },
-  {
-    "ip": "89.40.14.35",
     "port": 8443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
@@ -118,6 +112,12 @@
     "port": 443,
     "code": "LT",
     "asn": "Hostinger International Limited"
+  },
+  {
+    "ip": "89.40.14.35",
+    "port": 8443,
+    "code": "LT",
+    "asn": "UAB Interneto vizija"
   },
   {
     "ip": "94.131.14.72",
@@ -142,12 +142,6 @@
     "port": 2053,
     "code": "LT",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "185.186.25.185",
-    "port": 443,
-    "code": "LT",
-    "asn": "Private Customer"
   },
   {
     "ip": "80.208.226.206",
@@ -270,10 +264,10 @@
     "asn": "Melbikomas UAB"
   },
   {
-    "ip": "89.40.14.253",
-    "port": 2053,
+    "ip": "2.59.162.22",
+    "port": 8443,
     "code": "LT",
-    "asn": "UAB Interneto vizija"
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "212.192.23.91",
@@ -282,16 +276,10 @@
     "asn": "RCS Technologies FZE LLC"
   },
   {
-    "ip": "5.199.173.195",
-    "port": 443,
+    "ip": "89.40.14.253",
+    "port": 2053,
     "code": "LT",
-    "asn": "UAB Cherry Servers"
-  },
-  {
-    "ip": "2.59.162.22",
-    "port": 8443,
-    "code": "LT",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+    "asn": "UAB Interneto vizija"
   },
   {
     "ip": "5.199.162.130",
@@ -300,16 +288,22 @@
     "asn": "UAB Cherry Servers"
   },
   {
+    "ip": "185.81.166.162",
+    "port": 443,
+    "code": "LT",
+    "asn": "UAB Interneto vizija"
+  },
+  {
     "ip": "176.223.138.135",
     "port": 8443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
   {
-    "ip": "185.81.166.162",
+    "ip": "5.199.173.195",
     "port": 443,
     "code": "LT",
-    "asn": "UAB Interneto vizija"
+    "asn": "UAB Cherry Servers"
   },
   {
     "ip": "195.181.244.240",
@@ -318,22 +312,16 @@
     "asn": "UAB Interneto vizija"
   },
   {
-    "ip": "80.208.231.59",
-    "port": 8443,
+    "ip": "185.237.185.158",
+    "port": 443,
     "code": "LT",
-    "asn": "UAB Interneto vizija"
+    "asn": "Oneprovider.com - Vilnius Infrastructure"
   },
   {
     "ip": "45.12.129.124",
     "port": 443,
     "code": "LT",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "185.237.185.158",
-    "port": 443,
-    "code": "LT",
-    "asn": "Oneprovider.com - Vilnius Infrastructure"
   },
   {
     "ip": "45.12.129.44",
@@ -348,6 +336,12 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "80.208.231.59",
+    "port": 8443,
+    "code": "LT",
+    "asn": "UAB Interneto vizija"
+  },
+  {
     "ip": "212.24.106.50",
     "port": 443,
     "code": "LT",
@@ -360,10 +354,10 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "103.113.69.46",
-    "port": 443,
+    "ip": "93.127.186.37",
+    "port": 8443,
     "code": "LT",
-    "asn": "WorkTitans B.V."
+    "asn": "IPFFM - Internet Provider Frankfurt GmbH"
   },
   {
     "ip": "78.153.131.52",
@@ -372,25 +366,13 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "93.127.186.37",
-    "port": 8443,
+    "ip": "103.113.69.46",
+    "port": 443,
     "code": "LT",
-    "asn": "IPFFM - Internet Provider Frankfurt GmbH"
-  },
-  {
-    "ip": "185.237.185.182",
-    "port": 8443,
-    "code": "LT",
-    "asn": "Oneprovider.com - Vilnius Infrastructure"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "46.29.234.155",
-    "port": 8443,
-    "code": "LT",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "46.29.234.91",
     "port": 8443,
     "code": "LT",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
@@ -402,10 +384,22 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "46.29.234.91",
+    "port": 8443,
+    "code": "LT",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
     "ip": "94.131.13.214",
     "port": 443,
     "code": "LT",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "2.59.162.27",
+    "port": 443,
+    "code": "LT",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "89.40.3.121",

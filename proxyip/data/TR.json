@@ -36,16 +36,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "5.188.190.161",
-    "port": 8443,
-    "code": "TR",
-    "asn": "G-Core Labs S.A."
-  },
-  {
     "ip": "62.60.233.201",
     "port": 2053,
     "code": "TR",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "5.188.190.161",
+    "port": 8443,
+    "code": "TR",
+    "asn": "G-Core Labs S.A."
   },
   {
     "ip": "80.253.255.83",
@@ -96,22 +96,16 @@
     "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
-    "ip": "213.142.156.97",
-    "port": 443,
-    "code": "TR",
-    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
-  },
-  {
     "ip": "93.115.10.237",
     "port": 2053,
     "code": "TR",
     "asn": "ibrahim tufek"
   },
   {
-    "ip": "62.133.63.61",
+    "ip": "213.142.156.97",
     "port": 443,
     "code": "TR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
     "ip": "93.115.10.218",
@@ -150,10 +144,10 @@
     "asn": "VOYAR VERIMERKEZI TEKNOLOJILERI LTD. STI."
   },
   {
-    "ip": "38.60.255.183",
-    "port": 443,
+    "ip": "213.142.133.182",
+    "port": 2083,
     "code": "TR",
-    "asn": "Kaopu Cloud HK Limited"
+    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
     "ip": "154.53.166.238",
@@ -168,28 +162,22 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "213.142.133.182",
-    "port": 2083,
-    "code": "TR",
-    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
-  },
-  {
     "ip": "89.207.12.80",
     "port": 8443,
     "code": "TR",
     "asn": "Star of Bosphorus Bilgi Teknolojiler San ve Tic A.S."
   },
   {
-    "ip": "188.132.129.84",
-    "port": 8443,
-    "code": "TR",
-    "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
-  },
-  {
     "ip": "38.180.113.9",
     "port": 443,
     "code": "TR",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "188.132.129.84",
+    "port": 8443,
+    "code": "TR",
+    "asn": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
   },
   {
     "ip": "103.231.75.47",
@@ -234,12 +222,6 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "213.142.150.6",
-    "port": 8443,
-    "code": "TR",
-    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
-  },
-  {
     "ip": "138.124.107.35",
     "port": 443,
     "code": "TR",
@@ -250,6 +232,12 @@
     "port": 2053,
     "code": "TR",
     "asn": "ibrahim tufek"
+  },
+  {
+    "ip": "213.142.150.6",
+    "port": 8443,
+    "code": "TR",
+    "asn": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
   },
   {
     "ip": "194.87.39.174",
@@ -408,16 +396,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "195.16.74.240",
-    "port": 81,
-    "code": "TR",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "188.132.192.190",
     "port": 2053,
     "code": "TR",
     "asn": "TradeZone LLC"
+  },
+  {
+    "ip": "195.16.74.240",
+    "port": 81,
+    "code": "TR",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "185.235.243.172",
@@ -432,16 +420,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "77.83.245.146",
-    "port": 443,
-    "code": "TR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "2.56.127.137",
     "port": 443,
     "code": "TR",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "77.83.245.146",
+    "port": 443,
+    "code": "TR",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "38.180.209.40",
@@ -492,16 +480,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "195.16.74.73",
-    "port": 443,
-    "code": "TR",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "188.132.232.192",
     "port": 2053,
     "code": "TR",
     "asn": "SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI"
+  },
+  {
+    "ip": "195.16.74.73",
+    "port": 443,
+    "code": "TR",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "91.228.186.232",
@@ -520,18 +508,6 @@
     "port": 443,
     "code": "TR",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "2.56.127.132",
-    "port": 2053,
-    "code": "TR",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "37.140.242.176",
-    "port": 8443,
-    "code": "TR",
-    "asn": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI"
   },
   {
     "ip": "103.231.75.115",
@@ -562,6 +538,12 @@
     "port": 8443,
     "code": "TR",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "37.140.242.176",
+    "port": 8443,
+    "code": "TR",
+    "asn": "CNC BILISIM HIZMETLERI INSAAT SANAYI VE TICARET LIMITED SIRKETI"
   },
   {
     "ip": "37.32.126.241",
@@ -744,6 +726,12 @@
     "asn": "Serverbike LTD"
   },
   {
+    "ip": "185.212.113.30",
+    "port": 2053,
+    "code": "TR",
+    "asn": "LT MBMMLIRUTIS"
+  },
+  {
     "ip": "185.212.113.34",
     "port": 2053,
     "code": "TR",
@@ -751,12 +739,6 @@
   },
   {
     "ip": "185.212.113.39",
-    "port": 2053,
-    "code": "TR",
-    "asn": "LT MBMMLIRUTIS"
-  },
-  {
-    "ip": "185.212.113.30",
     "port": 2053,
     "code": "TR",
     "asn": "LT MBMMLIRUTIS"

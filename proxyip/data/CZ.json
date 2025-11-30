@@ -12,16 +12,16 @@
     "asn": "OvaNet, a.s."
   },
   {
-    "ip": "91.184.248.39",
-    "port": 443,
-    "code": "CZ",
-    "asn": "SmartApe OU"
-  },
-  {
     "ip": "80.211.205.173",
     "port": 2053,
     "code": "CZ",
     "asn": "Cloud Services CZ1"
+  },
+  {
+    "ip": "91.184.248.39",
+    "port": 443,
+    "code": "CZ",
+    "asn": "SmartApe OU"
   },
   {
     "ip": "91.184.248.197",
@@ -36,16 +36,16 @@
     "asn": "HOST-TELECOM.COM s.r.o."
   },
   {
-    "ip": "80.211.205.173",
-    "port": 8443,
-    "code": "CZ",
-    "asn": "Cloud Services CZ1"
-  },
-  {
     "ip": "38.180.48.228",
     "port": 443,
     "code": "CZ",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "80.211.205.173",
+    "port": 8443,
+    "code": "CZ",
+    "asn": "Cloud Services CZ1"
   },
   {
     "ip": "62.233.57.156",
@@ -90,12 +90,6 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "80.211.192.36",
-    "port": 8443,
-    "code": "CZ",
-    "asn": "Cloud Services CZ1"
-  },
-  {
     "ip": "194.58.46.240",
     "port": 443,
     "code": "CZ",
@@ -108,16 +102,16 @@
     "asn": "Green Floid LLC"
   },
   {
+    "ip": "80.211.192.36",
+    "port": 8443,
+    "code": "CZ",
+    "asn": "Cloud Services CZ1"
+  },
+  {
     "ip": "2.56.176.12",
     "port": 443,
     "code": "CZ",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "5.43.224.162",
-    "port": 443,
-    "code": "CZ",
-    "asn": "HOST-TELECOM.COM s.r.o."
   },
   {
     "ip": "81.91.214.85",

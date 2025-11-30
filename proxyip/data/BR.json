@@ -6,13 +6,13 @@
     "asn": "Vercara, LLC"
   },
   {
-    "ip": "156.154.208.11",
+    "ip": "156.154.245.83",
     "port": 443,
     "code": "BR",
     "asn": "Vercara, LLC"
   },
   {
-    "ip": "156.154.245.83",
+    "ip": "156.154.208.11",
     "port": 443,
     "code": "BR",
     "asn": "Vercara, LLC"
@@ -66,22 +66,10 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "45.82.245.62",
-    "port": 443,
-    "code": "BR",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "144.22.204.102",
     "port": 50317,
     "code": "BR",
     "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "177.128.123.121",
-    "port": 8443,
-    "code": "BR",
-    "asn": "Disk Sistema Tele-Informatica Ltda- ME"
   },
   {
     "ip": "146.235.59.153",
@@ -90,10 +78,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "189.1.128.29",
+    "ip": "45.82.245.62",
     "port": 443,
     "code": "BR",
-    "asn": "Predlink Rede de Telecomunicções Ltda"
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "168.75.92.141",
+    "port": 28053,
+    "code": "BR",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "147.45.116.50",
@@ -102,9 +96,15 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "168.75.92.141",
-    "port": 28053,
+    "ip": "189.1.128.29",
+    "port": 443,
     "code": "BR",
-    "asn": "Oracle Corporation"
+    "asn": "Predlink Rede de Telecomunicções Ltda"
+  },
+  {
+    "ip": "216.238.101.11",
+    "port": 443,
+    "code": "BR",
+    "asn": "The Constant Company, LLC"
   }
 ]

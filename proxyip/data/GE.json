@@ -1,11 +1,5 @@
 [
   {
-    "ip": "206.53.48.171",
-    "port": 443,
-    "code": "GE",
-    "asn": "HZ Hosting Ltd"
-  },
-  {
     "ip": "185.143.179.94",
     "port": 443,
     "code": "GE",
@@ -19,6 +13,12 @@
   },
   {
     "ip": "206.53.48.105",
+    "port": 443,
+    "code": "GE",
+    "asn": "HZ Hosting Ltd"
+  },
+  {
+    "ip": "206.53.48.171",
     "port": 443,
     "code": "GE",
     "asn": "HZ Hosting Ltd"

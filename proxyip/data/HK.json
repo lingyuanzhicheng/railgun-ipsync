@@ -132,28 +132,28 @@
     "asn": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "221.125.10.8",
-    "port": 57537,
-    "code": "HK",
-    "asn": "HGC Global Communications Limited"
-  },
-  {
     "ip": "103.194.107.166",
     "port": 443,
     "code": "HK",
     "asn": "Antbox Networks Limited"
   },
   {
-    "ip": "219.76.13.177",
-    "port": 443,
+    "ip": "221.125.10.8",
+    "port": 57537,
     "code": "HK",
-    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
+    "asn": "HGC Global Communications Limited"
   },
   {
     "ip": "156.254.114.120",
     "port": 30011,
     "code": "HK",
     "asn": "StepGo Limited"
+  },
+  {
+    "ip": "219.76.13.177",
+    "port": 443,
+    "code": "HK",
+    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
     "ip": "2.56.91.89",
@@ -204,16 +204,16 @@
     "asn": "263 Shanghai Communications Ltd."
   },
   {
-    "ip": "192.131.142.161",
-    "port": 46639,
-    "code": "HK",
-    "asn": "LEASEWEB HONG KONG LIMITED"
-  },
-  {
     "ip": "202.85.53.74",
     "port": 443,
     "code": "HK",
     "asn": "Mazen Ind Ltd"
+  },
+  {
+    "ip": "192.131.142.161",
+    "port": 46639,
+    "code": "HK",
+    "asn": "LEASEWEB HONG KONG LIMITED"
   },
   {
     "ip": "192.252.182.52",
@@ -234,16 +234,16 @@
     "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
-    "ip": "118.141.64.192",
-    "port": 36619,
-    "code": "HK",
-    "asn": "HGC Global Communications Limited"
-  },
-  {
     "ip": "8.218.36.133",
     "port": 9010,
     "code": "HK",
     "asn": "Alibaba Cloud (Singapore) Private Limited"
+  },
+  {
+    "ip": "118.141.64.192",
+    "port": 36619,
+    "code": "HK",
+    "asn": "HGC Global Communications Limited"
   },
   {
     "ip": "151.242.153.8",
@@ -288,16 +288,16 @@
     "asn": "Alibaba Cloud - HK"
   },
   {
-    "ip": "103.219.194.233",
-    "port": 30005,
-    "code": "HK",
-    "asn": "BAGE CLOUD LLC"
-  },
-  {
     "ip": "85.208.104.34",
     "port": 8080,
     "code": "HK",
     "asn": "Internet Utilities Europe and Asia Limited"
+  },
+  {
+    "ip": "103.219.194.233",
+    "port": 30005,
+    "code": "HK",
+    "asn": "BAGE CLOUD LLC"
   },
   {
     "ip": "223.16.138.113",
@@ -345,7 +345,7 @@
     "ip": "141.11.91.67",
     "port": 8080,
     "code": "HK",
-    "asn": "HYTRON NETWORK HK"
+    "asn": "Tusker Technologies Pty Ltd"
   },
   {
     "ip": "219.76.13.181",
@@ -366,10 +366,10 @@
     "asn": "IoT Innovation Technologies Company Limited"
   },
   {
-    "ip": "8.218.245.116",
-    "port": 42805,
+    "ip": "36.50.90.241",
+    "port": 47790,
     "code": "HK",
-    "asn": "Alibaba Cloud (Singapore) Private Limited"
+    "asn": "IoT Innovation Technologies Company Limited"
   },
   {
     "ip": "2.56.91.89",
@@ -378,10 +378,10 @@
     "asn": "ihc.hk vps in Hong Kong"
   },
   {
-    "ip": "36.50.90.241",
-    "port": 47790,
+    "ip": "8.218.245.116",
+    "port": 42805,
     "code": "HK",
-    "asn": "IoT Innovation Technologies Company Limited"
+    "asn": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
     "ip": "20.255.49.160",
@@ -390,16 +390,22 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "46.232.108.217",
-    "port": 443,
+    "ip": "194.156.99.182",
+    "port": 8443,
     "code": "HK",
-    "asn": "Dom Tehniki Ltd"
+    "asn": "FreeNet L.L.C-FZ"
   },
   {
     "ip": "154.18.161.172",
     "port": 18443,
     "code": "HK",
     "asn": "Hytron Network Services Limited"
+  },
+  {
+    "ip": "46.232.108.217",
+    "port": 443,
+    "code": "HK",
+    "asn": "Dom Tehniki Ltd"
   },
   {
     "ip": "43.154.124.136",
@@ -418,11 +424,5 @@
     "port": 443,
     "code": "HK",
     "asn": "Hong Kong Broadband Network Ltd"
-  },
-  {
-    "ip": "194.156.99.182",
-    "port": 8443,
-    "code": "HK",
-    "asn": "FreeNet L.L.C-FZ"
   }
 ]

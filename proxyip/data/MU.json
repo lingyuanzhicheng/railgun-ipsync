@@ -1,20 +1,20 @@
 [
   {
-    "ip": "202.123.24.109",
-    "port": 443,
-    "code": "MU",
-    "asn": "Mauritius Telecom Ltd"
-  },
-  {
     "ip": "41.76.42.116",
     "port": 443,
     "code": "MU",
-    "asn": "Mauritius Telecom Ltd"
+    "asn": "MauritiusTelecom"
+  },
+  {
+    "ip": "202.123.24.109",
+    "port": 443,
+    "code": "MU",
+    "asn": "MauritiusTelecom"
   },
   {
     "ip": "41.76.42.118",
     "port": 443,
     "code": "MU",
-    "asn": "Mauritius Telecom Ltd"
+    "asn": "MauritiusTelecom"
   }
 ]

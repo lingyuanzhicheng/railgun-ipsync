@@ -18,6 +18,12 @@
     "asn": "Oracle Corporation"
   },
   {
+    "ip": "98.70.1.250",
+    "port": 443,
+    "code": "IN",
+    "asn": "Microsoft Corporation"
+  },
+  {
     "ip": "134.195.137.107",
     "port": 22473,
     "code": "IN",
@@ -72,12 +78,6 @@
     "asn": "Amazon.com, Inc."
   },
   {
-    "ip": "45.88.183.130",
-    "port": 443,
-    "code": "IN",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "148.113.43.228",
     "port": 2053,
     "code": "IN",
@@ -94,6 +94,12 @@
     "port": 443,
     "code": "IN",
     "asn": "Amazon.com, Inc."
+  },
+  {
+    "ip": "45.88.183.130",
+    "port": 443,
+    "code": "IN",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "20.235.105.146",
@@ -126,8 +132,8 @@
     "asn": "OVHTECH R&D (INDIA) PRIVATE LIMITED"
   },
   {
-    "ip": "172.232.112.240",
-    "port": 587,
+    "ip": "172.105.62.71",
+    "port": 2443,
     "code": "IN",
     "asn": "Linode"
   },
@@ -144,6 +150,12 @@
     "asn": "Vultr Holdings LLC"
   },
   {
+    "ip": "172.232.112.240",
+    "port": 587,
+    "code": "IN",
+    "asn": "Linode"
+  },
+  {
     "ip": "64.227.174.213",
     "port": 8443,
     "code": "IN",
@@ -156,31 +168,25 @@
     "asn": "DigitalOcean, LLC"
   },
   {
-    "ip": "43.230.203.218",
-    "port": 443,
-    "code": "IN",
-    "asn": "Tier4Cloud"
-  },
-  {
     "ip": "166.0.244.206",
     "port": 8443,
     "code": "IN",
     "asn": "Internet Utilities NA LLC"
   },
   {
-    "ip": "172.105.62.71",
-    "port": 2443,
+    "ip": "43.230.203.218",
+    "port": 443,
     "code": "IN",
-    "asn": "Linode"
+    "asn": "Tier4Cloud"
   },
   {
-    "ip": "4.240.110.47",
+    "ip": "98.70.151.163",
     "port": 443,
     "code": "IN",
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "98.70.151.163",
+    "ip": "4.240.110.47",
     "port": 443,
     "code": "IN",
     "asn": "Microsoft Corporation"
@@ -192,9 +198,9 @@
     "asn": "Cloudflare London, LLC"
   },
   {
-    "ip": "202.83.24.75",
+    "ip": "219.65.73.81",
     "port": 443,
     "code": "IN",
-    "asn": "Broad Band Internet Service Provider, India"
+    "asn": "Reliance Jio Infocomm Limited"
   }
 ]
