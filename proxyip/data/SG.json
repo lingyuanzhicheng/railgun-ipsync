@@ -1,15 +1,9 @@
 [
   {
-    "ip": "109.176.19.89",
-    "port": 10007,
+    "ip": "5.34.176.119",
+    "port": 81,
     "code": "SG",
-    "asn": "ByteVirt LLC"
-  },
-  {
-    "ip": "139.162.4.242",
-    "port": 8443,
-    "code": "SG",
-    "asn": "Linode, LLC"
+    "asn": "Green Floid LLC"
   },
   {
     "ip": "47.74.254.191",
@@ -24,14 +18,20 @@
     "asn": "Amazon Data Services Singapore"
   },
   {
+    "ip": "139.162.4.242",
+    "port": 8443,
+    "code": "SG",
+    "asn": "Linode, LLC"
+  },
+  {
     "ip": "178.128.107.58",
     "port": 3128,
     "code": "SG",
     "asn": "DigitalOcean, LLC"
   },
   {
-    "ip": "89.34.227.122",
-    "port": 50000,
+    "ip": "109.176.19.89",
+    "port": 10007,
     "code": "SG",
     "asn": "ByteVirt LLC"
   },
@@ -48,6 +48,12 @@
     "asn": "16 COLLYER QUAY"
   },
   {
+    "ip": "89.34.227.122",
+    "port": 50000,
+    "code": "SG",
+    "asn": "ByteVirt LLC"
+  },
+  {
     "ip": "166.108.234.24",
     "port": 443,
     "code": "SG",
@@ -60,22 +66,10 @@
     "asn": "Amazon Data Services Singapore"
   },
   {
-    "ip": "38.180.249.123",
-    "port": 443,
-    "code": "SG",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "91.192.81.154",
     "port": 2053,
     "code": "SG",
     "asn": "Melbikomas UAB"
-  },
-  {
-    "ip": "47.236.119.190",
-    "port": 51342,
-    "code": "SG",
-    "asn": "Alibaba Cloud LLC"
   },
   {
     "ip": "31.192.238.71",
@@ -84,22 +78,28 @@
     "asn": "PDK LLC"
   },
   {
+    "ip": "47.236.119.190",
+    "port": 51342,
+    "code": "SG",
+    "asn": "Alibaba Cloud LLC"
+  },
+  {
     "ip": "194.233.67.216",
     "port": 8443,
     "code": "SG",
     "asn": "Contabo Asia Private Limited"
   },
   {
-    "ip": "20.205.177.152",
-    "port": 443,
-    "code": "SG",
-    "asn": "Microsoft Corporation"
-  },
-  {
     "ip": "213.35.100.31",
     "port": 47112,
     "code": "SG",
     "asn": "Oracle Svenska AB"
+  },
+  {
+    "ip": "20.205.177.152",
+    "port": 443,
+    "code": "SG",
+    "asn": "Microsoft Corporation"
   },
   {
     "ip": "178.128.86.3",
@@ -114,16 +114,16 @@
     "asn": "SGP_VULTR_CUST"
   },
   {
-    "ip": "64.235.43.144",
-    "port": 443,
-    "code": "SG",
-    "asn": "Singapore SG Datacenter"
-  },
-  {
     "ip": "168.138.165.174",
     "port": 443,
     "code": "SG",
     "asn": "Oracle Public Cloud"
+  },
+  {
+    "ip": "64.235.43.144",
+    "port": 443,
+    "code": "SG",
+    "asn": "Singapore SG Datacenter"
   },
   {
     "ip": "178.128.80.43",
@@ -156,16 +156,16 @@
     "asn": "Zappie Host LLC"
   },
   {
-    "ip": "140.245.48.42",
-    "port": 443,
-    "code": "SG",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "150.109.11.223",
     "port": 443,
     "code": "SG",
     "asn": "16 COLLYER QUAY"
+  },
+  {
+    "ip": "140.245.48.42",
+    "port": 443,
+    "code": "SG",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "13.212.213.77",
@@ -180,12 +180,6 @@
     "asn": "Vultr Holdings, LLC"
   },
   {
-    "ip": "194.127.193.124",
-    "port": 24467,
-    "code": "SG",
-    "asn": "Greencloud LLC"
-  },
-  {
     "ip": "160.22.79.155",
     "port": 443,
     "code": "SG",
@@ -196,6 +190,12 @@
     "port": 443,
     "code": "SG",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "194.127.193.124",
+    "port": 24467,
+    "code": "SG",
+    "asn": "Greencloud LLC"
   },
   {
     "ip": "64.235.61.166",
@@ -210,12 +210,6 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "194.36.178.36",
-    "port": 2053,
-    "code": "SG",
-    "asn": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "129.150.49.58",
     "port": 18650,
     "code": "SG",
@@ -226,6 +220,12 @@
     "port": 443,
     "code": "SG",
     "asn": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "194.36.178.36",
+    "port": 2053,
+    "code": "SG",
+    "asn": "FIRST SERVER LIMITED"
   },
   {
     "ip": "213.35.107.73",
@@ -252,22 +252,10 @@
     "asn": "FIRST SERVER LIMITED"
   },
   {
-    "ip": "38.244.147.68",
-    "port": 2053,
-    "code": "SG",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "128.199.216.53",
     "port": 443,
     "code": "SG",
     "asn": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "38.244.147.68",
-    "port": 443,
-    "code": "SG",
-    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "194.36.179.17",
@@ -294,16 +282,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "138.2.69.236",
-    "port": 23334,
-    "code": "SG",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "54.255.217.120",
     "port": 8192,
     "code": "SG",
     "asn": "Amazon Data Services Japan"
+  },
+  {
+    "ip": "138.2.69.236",
+    "port": 23334,
+    "code": "SG",
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "138.2.89.64",
@@ -330,16 +318,16 @@
     "asn": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
-    "ip": "194.127.193.240",
-    "port": 50791,
-    "code": "SG",
-    "asn": "Greencloud LLC"
-  },
-  {
     "ip": "149.28.158.103",
     "port": 10030,
     "code": "SG",
     "asn": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "194.127.193.240",
+    "port": 50791,
+    "code": "SG",
+    "asn": "Greencloud LLC"
   },
   {
     "ip": "188.166.249.31",
@@ -390,16 +378,10 @@
     "asn": "SGP_VULTR_CUST"
   },
   {
-    "ip": "47.236.71.6",
+    "ip": "45.76.188.229",
     "port": 443,
     "code": "SG",
-    "asn": "Alibaba Cloud LLC"
-  },
-  {
-    "ip": "167.99.73.22",
-    "port": 443,
-    "code": "SG",
-    "asn": "DigitalOcean, LLC"
+    "asn": "Vultr Holdings, LLC"
   },
   {
     "ip": "172.104.161.205",
@@ -408,16 +390,22 @@
     "asn": "Akamai Connected Cloud / Linode"
   },
   {
+    "ip": "51.79.158.58",
+    "port": 8443,
+    "code": "SG",
+    "asn": "OVH Singapore PTE. LTD"
+  },
+  {
+    "ip": "167.99.73.22",
+    "port": 443,
+    "code": "SG",
+    "asn": "DigitalOcean, LLC"
+  },
+  {
     "ip": "139.177.185.88",
     "port": 443,
     "code": "SG",
     "asn": "Akamai Connected Cloud / Linode"
-  },
-  {
-    "ip": "172.104.161.151",
-    "port": 443,
-    "code": "SG",
-    "asn": "Linode"
   },
   {
     "ip": "138.2.95.33",
@@ -444,28 +432,22 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "104.234.151.10",
-    "port": 8443,
-    "code": "SG",
-    "asn": "MoeChuang Network Limited"
-  },
-  {
-    "ip": "51.79.158.58",
-    "port": 8443,
-    "code": "SG",
-    "asn": "OVH Singapore PTE. LTD"
-  },
-  {
     "ip": "3.0.50.69",
     "port": 443,
     "code": "SG",
     "asn": "Amazon Data Services Singapore"
   },
   {
-    "ip": "143.42.66.91",
+    "ip": "104.234.151.10",
+    "port": 8443,
+    "code": "SG",
+    "asn": "MoeChuang Network Limited"
+  },
+  {
+    "ip": "5.223.47.32",
     "port": 443,
     "code": "SG",
-    "asn": "Viewqwest Pte Ltd"
+    "asn": "Hetzner Online GmbH"
   },
   {
     "ip": "43.252.21.100",
@@ -474,10 +456,10 @@
     "asn": "Specialist"
   },
   {
-    "ip": "5.223.47.32",
+    "ip": "143.42.66.91",
     "port": 443,
     "code": "SG",
-    "asn": "Hetzner Online GmbH"
+    "asn": "M1 LIMITED"
   },
   {
     "ip": "138.2.64.229",
@@ -522,16 +504,16 @@
     "asn": "OVH Singapore PTE. LTD"
   },
   {
-    "ip": "168.138.170.211",
-    "port": 53702,
-    "code": "SG",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "68.183.227.216",
     "port": 443,
     "code": "SG",
     "asn": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "168.138.170.211",
+    "port": 53702,
+    "code": "SG",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "52.76.110.129",
@@ -558,6 +540,12 @@
     "asn": "Oracle Corporation"
   },
   {
+    "ip": "64.235.43.213",
+    "port": 443,
+    "code": "SG",
+    "asn": "Singapore SG Datacenter"
+  },
+  {
     "ip": "165.154.203.69",
     "port": 443,
     "code": "SG",
@@ -568,12 +556,6 @@
     "port": 443,
     "code": "SG",
     "asn": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "64.235.43.213",
-    "port": 443,
-    "code": "SG",
-    "asn": "Singapore SG Datacenter"
   },
   {
     "ip": "143.198.92.220",
@@ -600,16 +582,16 @@
     "asn": "YUWAN NETWORKS LIMITED"
   },
   {
-    "ip": "20.247.137.183",
-    "port": 443,
-    "code": "SG",
-    "asn": "Microsoft Corporation"
-  },
-  {
     "ip": "103.229.96.157",
     "port": 443,
     "code": "SG",
     "asn": "Epsilon Singapore Network"
+  },
+  {
+    "ip": "20.247.137.183",
+    "port": 443,
+    "code": "SG",
+    "asn": "Microsoft Corporation"
   },
   {
     "ip": "140.245.53.45",
@@ -642,10 +624,10 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "91.192.81.154",
-    "port": 8443,
+    "ip": "168.138.184.172",
+    "port": 443,
     "code": "SG",
-    "asn": "Melbikomas UAB"
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "152.42.236.151",

@@ -66,6 +66,12 @@
     "asn": "RETN AM Limited Liability Company"
   },
   {
+    "ip": "85.90.207.254",
+    "port": 8443,
+    "code": "AM",
+    "asn": "G-Core Labs Customer assignment"
+  },
+  {
     "ip": "87.121.47.32",
     "port": 443,
     "code": "AM",
@@ -78,19 +84,13 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "85.90.207.254",
-    "port": 8443,
-    "code": "AM",
-    "asn": "G-Core Labs Customer assignment"
-  },
-  {
-    "ip": "45.129.185.185",
+    "ip": "194.156.103.44",
     "port": 443,
     "code": "AM",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "194.156.103.44",
+    "ip": "45.129.185.185",
     "port": 443,
     "code": "AM",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
@@ -108,22 +108,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "178.160.195.187",
-    "port": 443,
-    "code": "AM",
-    "asn": "Telecom Armenia OJSC"
-  },
-  {
     "ip": "217.113.25.184",
     "port": 44443,
     "code": "AM",
     "asn": "I-NET LLC"
   },
   {
-    "ip": "195.250.87.42",
-    "port": 4443,
+    "ip": "178.160.195.187",
+    "port": 443,
     "code": "AM",
-    "asn": "GNC-Alfa CJSC"
+    "asn": "Telecom Armenia OJSC"
   },
   {
     "ip": "2.56.206.160",
@@ -138,10 +132,10 @@
     "asn": "G-Core Labs S.A."
   },
   {
-    "ip": "185.234.57.153",
-    "port": 443,
+    "ip": "195.250.87.42",
+    "port": 4443,
     "code": "AM",
-    "asn": "WorkTitans B.V."
+    "asn": "GNC-Alfa CJSC"
   },
   {
     "ip": "2.56.204.183",
@@ -150,14 +144,14 @@
     "asn": "Proitlab LLC"
   },
   {
-    "ip": "194.156.103.58",
-    "port": 41210,
+    "ip": "185.234.57.153",
+    "port": 443,
     "code": "AM",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+    "asn": "WorkTitans B.V."
   },
   {
-    "ip": "45.129.185.181",
-    "port": 443,
+    "ip": "194.156.103.58",
+    "port": 41210,
     "code": "AM",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
@@ -170,6 +164,12 @@
   {
     "ip": "194.156.103.70",
     "port": 8443,
+    "code": "AM",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.129.185.181",
+    "port": 443,
     "code": "AM",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
@@ -210,27 +210,27 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "45.129.185.79",
-    "port": 443,
-    "code": "AM",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "45.129.185.59",
     "port": 443,
     "code": "AM",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "45.83.143.52",
-    "port": 2096,
+    "ip": "45.129.185.79",
+    "port": 443,
     "code": "AM",
-    "asn": "WorkTitans B.V."
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "85.90.207.206",
     "port": 443,
     "code": "AM",
     "asn": "G-Core Labs S.A."
+  },
+  {
+    "ip": "45.83.143.52",
+    "port": 2096,
+    "code": "AM",
+    "asn": "WorkTitans B.V."
   }
 ]

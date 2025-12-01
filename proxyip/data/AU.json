@@ -24,28 +24,28 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "170.64.152.77",
-    "port": 7443,
-    "code": "AU",
-    "asn": "DigitalOcean, LLC"
-  },
-  {
     "ip": "192.9.190.80",
     "port": 23862,
     "code": "AU",
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "194.195.252.133",
-    "port": 443,
+    "ip": "170.64.152.77",
+    "port": 7443,
     "code": "AU",
-    "asn": "Akamai Connected Cloud / Linode"
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "152.67.99.162",
     "port": 443,
     "code": "AU",
     "asn": "Oracle Public Cloud"
+  },
+  {
+    "ip": "194.195.252.133",
+    "port": 443,
+    "code": "AU",
+    "asn": "Akamai Connected Cloud / Linode"
   },
   {
     "ip": "152.67.125.161",
@@ -76,12 +76,6 @@
     "port": 2053,
     "code": "AU",
     "asn": "Microsoft Corporation"
-  },
-  {
-    "ip": "207.148.80.190",
-    "port": 443,
-    "code": "AU",
-    "asn": "The Constant Company, LLC"
   },
   {
     "ip": "16.176.42.97",

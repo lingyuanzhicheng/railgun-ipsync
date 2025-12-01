@@ -18,14 +18,14 @@
     "asn": "Oracle Corporation , Global software solutions , California , USA"
   },
   {
-    "ip": "146.56.99.22",
-    "port": 20443,
+    "ip": "146.56.99.255",
+    "port": 56789,
     "code": "KR",
     "asn": "Oracle Corporation , Global software solutions , California , USA"
   },
   {
-    "ip": "146.56.99.255",
-    "port": 56789,
+    "ip": "146.56.99.22",
+    "port": 20443,
     "code": "KR",
     "asn": "Oracle Corporation , Global software solutions , California , USA"
   },
@@ -60,12 +60,6 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "115.40.244.240",
-    "port": 23023,
-    "code": "KR",
-    "asn": "LG HelloVision Corp."
-  },
-  {
     "ip": "217.142.138.61",
     "port": 37914,
     "code": "KR",
@@ -88,12 +82,6 @@
     "port": 443,
     "code": "KR",
     "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "115.40.244.240",
-    "port": 12696,
-    "code": "KR",
-    "asn": "LG HelloVision Corp."
   },
   {
     "ip": "132.145.84.148",
@@ -126,12 +114,6 @@
     "asn": "Microsoft Corporation"
   },
   {
-    "ip": "211.105.86.219",
-    "port": 30012,
-    "code": "KR",
-    "asn": "Korea Telecom"
-  },
-  {
     "ip": "125.135.43.66",
     "port": 50000,
     "code": "KR",
@@ -151,12 +133,6 @@
   },
   {
     "ip": "211.203.161.103",
-    "port": 50001,
-    "code": "KR",
-    "asn": "SK Broadband Co Ltd"
-  },
-  {
-    "ip": "211.204.168.129",
     "port": 50001,
     "code": "KR",
     "asn": "SK Broadband Co Ltd"
@@ -222,20 +198,8 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "112.166.95.230",
-    "port": 50001,
-    "code": "KR",
-    "asn": "Korea Telecom"
-  },
-  {
     "ip": "211.229.77.184",
     "port": 27443,
-    "code": "KR",
-    "asn": "Korea Telecom"
-  },
-  {
-    "ip": "112.161.226.144",
-    "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
   },
@@ -258,16 +222,16 @@
     "asn": "Cloudflare London, LLC"
   },
   {
-    "ip": "193.122.126.64",
-    "port": 53777,
-    "code": "KR",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "39.118.46.193",
     "port": 12131,
     "code": "KR",
     "asn": "SK Broadband Co Ltd"
+  },
+  {
+    "ip": "193.122.126.64",
+    "port": 53777,
+    "code": "KR",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "158.180.73.165",
@@ -324,12 +288,6 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "218.54.55.117",
-    "port": 12176,
-    "code": "KR",
-    "asn": "SK Broadband Co Ltd"
-  },
-  {
     "ip": "218.156.233.76",
     "port": 50000,
     "code": "KR",
@@ -384,12 +342,6 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "221.161.207.216",
-    "port": 50000,
-    "code": "KR",
-    "asn": "Korea Telecom"
-  },
-  {
     "ip": "221.163.106.93",
     "port": 50001,
     "code": "KR",
@@ -397,12 +349,6 @@
   },
   {
     "ip": "119.203.219.248",
-    "port": 50001,
-    "code": "KR",
-    "asn": "Korea Telecom"
-  },
-  {
-    "ip": "221.161.207.216",
     "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
@@ -510,16 +456,16 @@
     "asn": "Cloudflare, Inc."
   },
   {
-    "ip": "1.249.45.86",
-    "port": 12112,
-    "code": "KR",
-    "asn": "SK Broadband Co Ltd"
-  },
-  {
     "ip": "158.247.250.157",
     "port": 81,
     "code": "KR",
     "asn": "The Constant Company, LLC"
+  },
+  {
+    "ip": "1.249.45.86",
+    "port": 12112,
+    "code": "KR",
+    "asn": "SK Broadband Co Ltd"
   },
   {
     "ip": "129.154.223.89",
@@ -570,6 +516,12 @@
     "asn": "MOACK DC"
   },
   {
+    "ip": "58.127.188.254",
+    "port": 50001,
+    "code": "KR",
+    "asn": "SK Broadband Co Ltd"
+  },
+  {
     "ip": "211.196.80.94",
     "port": 50001,
     "code": "KR",
@@ -601,7 +553,7 @@
   },
   {
     "ip": "61.85.1.77",
-    "port": 12182,
+    "port": 12088,
     "code": "KR",
     "asn": "Korea Telecom"
   },
@@ -612,26 +564,8 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "144.24.87.69",
-    "port": 50001,
-    "code": "KR",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "61.85.1.77",
-    "port": 12106,
-    "code": "KR",
-    "asn": "Korea Telecom"
-  },
-  {
-    "ip": "129.154.212.17",
-    "port": 20180,
-    "code": "KR",
-    "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "61.85.1.77",
-    "port": 12088,
+    "port": 12182,
     "code": "KR",
     "asn": "Korea Telecom"
   },
@@ -643,13 +577,37 @@
   },
   {
     "ip": "61.85.1.77",
+    "port": 12389,
+    "code": "KR",
+    "asn": "Korea Telecom"
+  },
+  {
+    "ip": "61.85.1.77",
     "port": 12247,
     "code": "KR",
     "asn": "Korea Telecom"
   },
   {
     "ip": "61.85.1.77",
-    "port": 12389,
+    "port": 12106,
+    "code": "KR",
+    "asn": "Korea Telecom"
+  },
+  {
+    "ip": "144.24.87.69",
+    "port": 50001,
+    "code": "KR",
+    "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "129.154.212.17",
+    "port": 20180,
+    "code": "KR",
+    "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "221.162.150.89",
+    "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
   },
@@ -678,28 +636,28 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "144.24.84.212",
-    "port": 49888,
-    "code": "KR",
-    "asn": "Oracle Corp UK Ltd"
-  },
-  {
     "ip": "175.215.175.175",
     "port": 50003,
     "code": "KR",
     "asn": "Korea Telecom"
   },
   {
-    "ip": "152.67.211.114",
-    "port": 58337,
-    "code": "KR",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "61.85.1.77",
     "port": 12394,
     "code": "KR",
     "asn": "Korea Telecom"
+  },
+  {
+    "ip": "144.24.84.212",
+    "port": 49888,
+    "code": "KR",
+    "asn": "Oracle Corp UK Ltd"
+  },
+  {
+    "ip": "152.67.211.114",
+    "port": 58337,
+    "code": "KR",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "222.232.217.173",
@@ -720,10 +678,22 @@
     "asn": "LG POWERCOMM"
   },
   {
+    "ip": "182.208.209.54",
+    "port": 50001,
+    "code": "KR",
+    "asn": "LG POWERCOMM"
+  },
+  {
     "ip": "39.114.16.138",
     "port": 50001,
     "code": "KR",
     "asn": "SK Broadband Co Ltd"
+  },
+  {
+    "ip": "36.39.146.235",
+    "port": 50001,
+    "code": "KR",
+    "asn": "LG HelloVision Corp."
   },
   {
     "ip": "116.43.151.23",
@@ -744,6 +714,12 @@
     "asn": "LG HelloVision Corp."
   },
   {
+    "ip": "1.238.209.247",
+    "port": 50001,
+    "code": "KR",
+    "asn": "SK Broadband Co Ltd"
+  },
+  {
     "ip": "116.93.199.28",
     "port": 12020,
     "code": "KR",
@@ -756,30 +732,6 @@
     "asn": "SK Broadband Co Ltd"
   },
   {
-    "ip": "1.238.209.247",
-    "port": 50001,
-    "code": "KR",
-    "asn": "SK Broadband Co Ltd"
-  },
-  {
-    "ip": "118.91.78.76",
-    "port": 50001,
-    "code": "KR",
-    "asn": "SK Broadband Co Ltd"
-  },
-  {
-    "ip": "115.40.244.240",
-    "port": 18888,
-    "code": "KR",
-    "asn": "LG HelloVision Corp."
-  },
-  {
-    "ip": "115.40.244.240",
-    "port": 11211,
-    "code": "KR",
-    "asn": "LG HelloVision Corp."
-  },
-  {
     "ip": "115.91.178.253",
     "port": 50001,
     "code": "KR",
@@ -787,6 +739,12 @@
   },
   {
     "ip": "114.202.124.72",
+    "port": 50001,
+    "code": "KR",
+    "asn": "SK Broadband Co Ltd"
+  },
+  {
+    "ip": "118.91.78.76",
     "port": 50001,
     "code": "KR",
     "asn": "SK Broadband Co Ltd"
@@ -852,13 +810,13 @@
     "asn": "LG DACOM Corporation"
   },
   {
-    "ip": "59.22.88.168",
+    "ip": "61.74.149.202",
     "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
   },
   {
-    "ip": "61.74.149.202",
+    "ip": "59.22.88.168",
     "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
@@ -882,14 +840,14 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "222.113.74.67",
-    "port": 50001,
+    "ip": "61.83.202.17",
+    "port": 10042,
     "code": "KR",
     "asn": "Korea Telecom"
   },
   {
-    "ip": "61.83.202.17",
-    "port": 10042,
+    "ip": "222.113.74.67",
+    "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
   },
@@ -949,6 +907,12 @@
   },
   {
     "ip": "59.1.170.106",
+    "port": 50001,
+    "code": "KR",
+    "asn": "Korea Telecom"
+  },
+  {
+    "ip": "121.145.153.217",
     "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
@@ -1032,10 +996,22 @@
     "asn": "Korea Telecom"
   },
   {
+    "ip": "125.128.27.185",
+    "port": 50001,
+    "code": "KR",
+    "asn": "Korea Telecom"
+  },
+  {
     "ip": "222.119.143.202",
     "port": 50001,
     "code": "KR",
     "asn": "Korea Telecom"
+  },
+  {
+    "ip": "106.245.63.110",
+    "port": 50001,
+    "code": "KR",
+    "asn": "LG DACOM Corporation"
   },
   {
     "ip": "106.245.216.35",
@@ -1054,6 +1030,12 @@
     "port": 50001,
     "code": "KR",
     "asn": "LG DACOM Corporation"
+  },
+  {
+    "ip": "112.173.109.151",
+    "port": 50001,
+    "code": "KR",
+    "asn": "Korea Telecom"
   },
   {
     "ip": "114.203.105.106",
@@ -1092,22 +1074,10 @@
     "asn": "Korea Telecom"
   },
   {
-    "ip": "122.47.74.139",
-    "port": 50001,
-    "code": "KR",
-    "asn": "LG POWERCOMM"
-  },
-  {
     "ip": "118.91.83.231",
     "port": 10704,
     "code": "KR",
     "asn": "SK Broadband Co Ltd"
-  },
-  {
-    "ip": "125.141.38.50",
-    "port": 50001,
-    "code": "KR",
-    "asn": "Korea Telecom"
   },
   {
     "ip": "123.248.97.102",
@@ -1116,8 +1086,26 @@
     "asn": "LG HelloVision Corp."
   },
   {
+    "ip": "125.141.38.50",
+    "port": 50001,
+    "code": "KR",
+    "asn": "Korea Telecom"
+  },
+  {
     "ip": "131.186.22.39",
     "port": 34237,
+    "code": "KR",
+    "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "122.47.74.139",
+    "port": 50001,
+    "code": "KR",
+    "asn": "LG POWERCOMM"
+  },
+  {
+    "ip": "146.56.46.84",
+    "port": 443,
     "code": "KR",
     "asn": "Oracle Corporation"
   },
@@ -1126,12 +1114,6 @@
     "port": 10099,
     "code": "KR",
     "asn": "Oracle Corporation , Global software solutions , California , USA"
-  },
-  {
-    "ip": "146.56.46.84",
-    "port": 443,
-    "code": "KR",
-    "asn": "Oracle Corporation"
   },
   {
     "ip": "175.212.207.13",
@@ -1150,12 +1132,6 @@
     "port": 50001,
     "code": "KR",
     "asn": "SK Broadband Co Ltd"
-  },
-  {
-    "ip": "211.228.5.119",
-    "port": 50001,
-    "code": "KR",
-    "asn": "Korea Telecom"
   },
   {
     "ip": "221.139.94.50",
@@ -1188,16 +1164,22 @@
     "asn": "SK Broadband Co Ltd"
   },
   {
+    "ip": "39.117.12.68",
+    "port": 50001,
+    "code": "KR",
+    "asn": "SK Broadband Co Ltd"
+  },
+  {
     "ip": "49.142.150.222",
     "port": 50001,
     "code": "KR",
     "asn": "kt HCN Co.,Ltd."
   },
   {
-    "ip": "39.117.12.68",
+    "ip": "211.196.114.71",
     "port": 50001,
     "code": "KR",
-    "asn": "SK Broadband Co Ltd"
+    "asn": "Korea Telecom"
   },
   {
     "ip": "218.238.146.199",

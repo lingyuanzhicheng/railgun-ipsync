@@ -12,20 +12,14 @@
     "asn": "1984 service net"
   },
   {
-    "ip": "45.83.21.13",
-    "port": 2053,
-    "code": "IS",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.83.21.49",
     "port": 443,
     "code": "IS",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "45.83.21.88",
-    "port": 443,
+    "ip": "45.83.21.13",
+    "port": 2053,
     "code": "IS",
     "asn": "WorkTitans B.V."
   },
@@ -34,6 +28,12 @@
     "port": 443,
     "code": "IS",
     "asn": "IPv6 Iceland"
+  },
+  {
+    "ip": "45.83.21.88",
+    "port": 443,
+    "code": "IS",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "45.83.21.13",

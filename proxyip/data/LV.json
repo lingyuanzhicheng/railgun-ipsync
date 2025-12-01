@@ -1,15 +1,15 @@
 [
   {
-    "ip": "77.73.233.100",
-    "port": 443,
-    "code": "LV",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "195.135.252.27",
     "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
+  },
+  {
+    "ip": "77.73.233.100",
+    "port": 443,
+    "code": "LV",
+    "asn": "Beget LLC"
   },
   {
     "ip": "5.34.209.219",
@@ -24,16 +24,16 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "62.192.174.170",
-    "port": 2053,
-    "code": "LV",
-    "asn": "SERVA ONE LTD"
-  },
-  {
     "ip": "84.21.172.188",
     "port": 443,
     "code": "LV",
     "asn": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "62.192.174.170",
+    "port": 2053,
+    "code": "LV",
+    "asn": "SERVA ONE LTD"
   },
   {
     "ip": "46.32.187.228",
@@ -42,14 +42,14 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "216.173.71.220",
-    "port": 8443,
+    "ip": "46.32.187.124",
+    "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "46.32.187.124",
-    "port": 443,
+    "ip": "216.173.71.220",
+    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -72,28 +72,34 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "37.128.206.80",
-    "port": 8443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "46.32.184.118",
     "port": 2053,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "94.158.218.48",
-    "port": 443,
+    "ip": "37.128.206.80",
+    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
+  },
+  {
+    "ip": "62.60.234.179",
+    "port": 8443,
+    "code": "LV",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "192.124.209.50",
     "port": 443,
     "code": "LV",
     "asn": "Baxet Group Inc."
+  },
+  {
+    "ip": "94.158.218.48",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
   },
   {
     "ip": "195.20.208.151",
@@ -114,12 +120,6 @@
     "asn": "Baxet Group Inc."
   },
   {
-    "ip": "62.60.234.179",
-    "port": 8443,
-    "code": "LV",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "193.124.22.168",
     "port": 8443,
     "code": "LV",
@@ -132,16 +132,16 @@
     "asn": "Baxet Group Inc."
   },
   {
-    "ip": "185.135.86.252",
-    "port": 443,
-    "code": "LV",
-    "asn": "Melbikomas UAB"
-  },
-  {
     "ip": "185.22.172.236",
     "port": 443,
     "code": "LV",
     "asn": "veesp.com clients"
+  },
+  {
+    "ip": "185.135.86.252",
+    "port": 443,
+    "code": "LV",
+    "asn": "Melbikomas UAB"
   },
   {
     "ip": "46.32.184.137",
@@ -156,28 +156,28 @@
     "asn": "Green Floid LLC"
   },
   {
-    "ip": "192.124.209.53",
-    "port": 443,
-    "code": "LV",
-    "asn": "Baxet Group Inc."
-  },
-  {
     "ip": "188.253.23.21",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "192.124.209.118",
-    "port": 2053,
+    "ip": "192.124.209.53",
+    "port": 443,
     "code": "LV",
-    "asn": "Reliable Communications s.r.o."
+    "asn": "Baxet Group Inc."
   },
   {
     "ip": "185.135.86.89",
     "port": 8443,
     "code": "LV",
     "asn": "Melbikomas UAB"
+  },
+  {
+    "ip": "192.124.209.118",
+    "port": 2053,
+    "code": "LV",
+    "asn": "Reliable Communications s.r.o."
   },
   {
     "ip": "185.242.106.50",
@@ -204,19 +204,13 @@
     "asn": "FreeNet L.L.C-FZ"
   },
   {
-    "ip": "216.173.69.143",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "45.43.76.103",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "5.34.215.84",
+    "ip": "216.173.69.143",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -228,20 +222,8 @@
     "asn": "LIR Limited"
   },
   {
-    "ip": "84.21.172.81",
+    "ip": "5.34.215.84",
     "port": 443,
-    "code": "LV",
-    "asn": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "213.21.222.224",
-    "port": 443,
-    "code": "LV",
-    "asn": "Versija SIA"
-  },
-  {
-    "ip": "5.34.214.244",
-    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -252,13 +234,31 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "185.242.107.80",
+    "ip": "213.21.222.224",
     "port": 443,
+    "code": "LV",
+    "asn": "Versija SIA"
+  },
+  {
+    "ip": "84.21.172.81",
+    "port": 443,
+    "code": "LV",
+    "asn": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "5.34.214.244",
+    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
     "ip": "5.34.214.205",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "185.242.107.80",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -270,25 +270,25 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "188.253.17.225",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "188.253.16.238",
     "port": 2053,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "45.43.79.121",
+    "ip": "5.34.208.204",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "5.34.208.204",
+    "ip": "188.253.17.225",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "45.43.79.121",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -300,19 +300,13 @@
     "asn": "Baxet Group Inc."
   },
   {
-    "ip": "195.135.252.244",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "37.233.83.115",
     "port": 443,
     "code": "LV",
     "asn": "Beget LLC"
   },
   {
-    "ip": "5.34.215.12",
+    "ip": "195.135.252.244",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -324,20 +318,8 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "37.128.207.179",
+    "ip": "5.34.215.12",
     "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "195.123.211.204",
-    "port": 81,
-    "code": "LV",
-    "asn": "Green Floid LLC"
-  },
-  {
-    "ip": "37.128.204.4",
-    "port": 2053,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -346,6 +328,24 @@
     "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.207.179",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "37.128.204.4",
+    "port": 2053,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "195.123.211.204",
+    "port": 81,
+    "code": "LV",
+    "asn": "Green Floid LLC"
   },
   {
     "ip": "195.123.212.222",
@@ -360,10 +360,10 @@
     "asn": "SERVA ONE LTD"
   },
   {
-    "ip": "62.192.174.170",
-    "port": 8443,
+    "ip": "37.128.204.140",
+    "port": 443,
     "code": "LV",
-    "asn": "SERVA ONE LTD"
+    "asn": "SIA VEESP"
   },
   {
     "ip": "45.133.216.25",
@@ -372,19 +372,19 @@
     "asn": "FreeNet L.L.C-FZ"
   },
   {
-    "ip": "37.128.204.140",
+    "ip": "62.192.174.170",
+    "port": 8443,
+    "code": "LV",
+    "asn": "SERVA ONE LTD"
+  },
+  {
+    "ip": "188.253.20.190",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
     "ip": "46.32.184.64",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "188.253.20.190",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -426,6 +426,18 @@
     "asn": "SIA VEESP"
   },
   {
+    "ip": "62.192.174.214",
+    "port": 443,
+    "code": "LV",
+    "asn": "SERVA ONE LTD"
+  },
+  {
+    "ip": "5.34.208.18",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
     "ip": "195.135.254.64",
     "port": 443,
     "code": "LV",
@@ -444,34 +456,16 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "85.203.39.55",
-    "port": 443,
-    "code": "LV",
-    "asn": "EstNOC-Global"
-  },
-  {
-    "ip": "5.34.208.18",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "188.253.23.244",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "188.253.23.248",
+    "ip": "85.203.39.55",
     "port": 443,
     "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "185.82.126.9",
-    "port": 2053,
-    "code": "LV",
-    "asn": "Sia Nano IT"
+    "asn": "EstNOC-Global"
   },
   {
     "ip": "62.60.234.179",
@@ -480,16 +474,34 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "62.192.174.31",
+    "port": 443,
+    "code": "LV",
+    "asn": "SERVA ONE LTD"
+  },
+  {
+    "ip": "188.253.23.248",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
     "ip": "185.82.126.185",
     "port": 2053,
     "code": "LV",
     "asn": "Sia Nano IT"
   },
   {
-    "ip": "62.192.174.31",
+    "ip": "185.82.126.9",
+    "port": 2053,
+    "code": "LV",
+    "asn": "Sia Nano IT"
+  },
+  {
+    "ip": "188.253.17.31",
     "port": 443,
     "code": "LV",
-    "asn": "SERVA ONE LTD"
+    "asn": "SIA VEESP"
   },
   {
     "ip": "62.192.174.175",
@@ -504,7 +516,19 @@
     "asn": "Beget LLC"
   },
   {
-    "ip": "188.253.17.31",
+    "ip": "217.147.15.141",
+    "port": 443,
+    "code": "LV",
+    "asn": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "31.128.34.77",
+    "port": 2053,
+    "code": "LV",
+    "asn": "Beget LLC"
+  },
+  {
+    "ip": "94.158.218.108",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -514,24 +538,6 @@
     "port": 2053,
     "code": "LV",
     "asn": "Beget LLC"
-  },
-  {
-    "ip": "31.128.34.77",
-    "port": 2053,
-    "code": "LV",
-    "asn": "Beget LLC"
-  },
-  {
-    "ip": "217.147.15.141",
-    "port": 443,
-    "code": "LV",
-    "asn": "Individual Entrepreneur Anton Levin"
-  },
-  {
-    "ip": "94.158.218.108",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
   },
   {
     "ip": "91.197.3.168",
@@ -576,12 +582,6 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "178.248.75.57",
-    "port": 443,
-    "code": "LV",
-    "asn": "SERVA ONE LTD"
-  },
-  {
     "ip": "31.128.34.61",
     "port": 2053,
     "code": "LV",
@@ -594,14 +594,20 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "91.197.1.127",
-    "port": 2053,
+    "ip": "178.248.75.57",
+    "port": 443,
     "code": "LV",
-    "asn": "SIA VEESP"
+    "asn": "SERVA ONE LTD"
   },
   {
     "ip": "91.197.3.37",
     "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "91.197.1.127",
+    "port": 2053,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -636,6 +642,12 @@
     "asn": "Friendhosting LTD"
   },
   {
+    "ip": "195.135.253.121",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
     "ip": "91.197.0.63",
     "port": 443,
     "code": "LV",
@@ -648,22 +660,16 @@
     "asn": "Green Floid LLC"
   },
   {
-    "ip": "195.135.253.121",
+    "ip": "90.156.254.41",
     "port": 443,
     "code": "LV",
-    "asn": "SIA VEESP"
+    "asn": "Beget LLC"
   },
   {
     "ip": "213.21.222.30",
     "port": 2053,
     "code": "LV",
     "asn": "Versija SIA"
-  },
-  {
-    "ip": "90.156.254.41",
-    "port": 443,
-    "code": "LV",
-    "asn": "Beget LLC"
   },
   {
     "ip": "45.43.76.107",
@@ -678,25 +684,19 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "31.128.34.61",
-    "port": 8443,
-    "code": "LV",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "85.159.228.84",
     "port": 8443,
     "code": "LV",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "212.6.44.238",
-    "port": 443,
+    "ip": "31.128.34.61",
+    "port": 8443,
     "code": "LV",
-    "asn": "SIA VEESP"
+    "asn": "Beget LLC"
   },
   {
-    "ip": "5.34.211.94",
+    "ip": "212.6.44.238",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -708,20 +708,8 @@
     "asn": "LIR Limited"
   },
   {
-    "ip": "216.173.70.192",
+    "ip": "5.34.211.94",
     "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "216.173.68.7",
-    "port": 433,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "195.135.253.47",
-    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -730,6 +718,24 @@
     "port": 443,
     "code": "LV",
     "asn": "Versija SIA"
+  },
+  {
+    "ip": "216.173.68.7",
+    "port": 433,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "216.173.70.192",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "195.135.253.47",
+    "port": 8443,
+    "code": "LV",
+    "asn": "SIA VEESP"
   },
   {
     "ip": "195.135.255.177",
@@ -750,19 +756,13 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "216.173.70.80",
+    "ip": "188.253.17.94",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "5.34.212.179",
-    "port": 8443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "188.253.17.94",
+    "ip": "216.173.70.80",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -772,6 +772,12 @@
     "port": 8443,
     "code": "LV",
     "asn": "FreeNet L.L.C-FZ"
+  },
+  {
+    "ip": "5.34.212.179",
+    "port": 8443,
+    "code": "LV",
+    "asn": "SIA VEESP"
   },
   {
     "ip": "188.253.22.38",
@@ -798,13 +804,13 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "45.43.76.85",
+    "ip": "5.34.212.223",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "5.34.212.223",
+    "ip": "45.43.76.85",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -852,14 +858,14 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "94.158.218.86",
-    "port": 443,
+    "ip": "46.32.185.253",
+    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "46.32.185.253",
-    "port": 8443,
+    "ip": "94.158.218.86",
+    "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -882,16 +888,16 @@
     "asn": "CloudHosting Data Center"
   },
   {
-    "ip": "31.128.35.216",
-    "port": 2053,
-    "code": "LV",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "92.118.170.20",
     "port": 8443,
     "code": "LV",
     "asn": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "31.128.35.216",
+    "port": 2053,
+    "code": "LV",
+    "asn": "Beget LLC"
   },
   {
     "ip": "185.22.172.199",
@@ -936,6 +942,12 @@
     "asn": "PostMet Ltd."
   },
   {
+    "ip": "194.8.6.33",
+    "port": 443,
+    "code": "LV",
+    "asn": "Versija SIA"
+  },
+  {
     "ip": "84.21.172.100",
     "port": 443,
     "code": "LV",
@@ -948,12 +960,6 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "194.8.6.33",
-    "port": 443,
-    "code": "LV",
-    "asn": "Versija SIA"
-  },
-  {
     "ip": "188.64.142.221",
     "port": 443,
     "code": "LV",
@@ -961,12 +967,6 @@
   },
   {
     "ip": "216.173.71.69",
-    "port": 8443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "37.128.207.176",
     "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -984,16 +984,16 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "188.253.16.233",
+    "ip": "37.128.207.176",
     "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "185.237.218.134",
+    "ip": "188.253.16.233",
     "port": 8443,
     "code": "LV",
-    "asn": "Friendhosting LTD"
+    "asn": "SIA VEESP"
   },
   {
     "ip": "188.253.17.9",
@@ -1006,6 +1006,12 @@
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
+  },
+  {
+    "ip": "185.237.218.134",
+    "port": 8443,
+    "code": "LV",
+    "asn": "Friendhosting LTD"
   },
   {
     "ip": "188.64.142.13",
@@ -1026,13 +1032,13 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "77.73.71.196",
+    "ip": "188.253.23.234",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "188.253.23.234",
+    "ip": "77.73.71.196",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -1044,16 +1050,16 @@
     "asn": "Sia Nano IT"
   },
   {
-    "ip": "185.82.126.64",
-    "port": 2053,
-    "code": "LV",
-    "asn": "Sia Nano IT"
-  },
-  {
     "ip": "195.123.212.250",
     "port": 443,
     "code": "LV",
     "asn": "IPv6 services for dedicated servers and VDS/VPS"
+  },
+  {
+    "ip": "185.82.126.64",
+    "port": 2053,
+    "code": "LV",
+    "asn": "Sia Nano IT"
   },
   {
     "ip": "185.135.86.85",
@@ -1062,19 +1068,13 @@
     "asn": "Melbikomas UAB"
   },
   {
-    "ip": "188.253.22.43",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "46.32.187.37",
     "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "46.32.184.211",
+    "ip": "188.253.22.43",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -1084,6 +1084,12 @@
     "port": 2053,
     "code": "LV",
     "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "46.32.184.211",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
   },
   {
     "ip": "195.135.254.133",
@@ -1128,19 +1134,13 @@
     "asn": "IPv6 services for dedicated servers and VDS/VPS"
   },
   {
-    "ip": "89.36.161.10",
-    "port": 443,
-    "code": "LV",
-    "asn": "Melbikomas UAB"
-  },
-  {
     "ip": "91.239.23.235",
     "port": 443,
     "code": "LV",
     "asn": "Dmitrii Vladimirovich Malkov"
   },
   {
-    "ip": "185.120.138.76",
+    "ip": "89.36.161.10",
     "port": 443,
     "code": "LV",
     "asn": "Melbikomas UAB"
@@ -1152,22 +1152,16 @@
     "asn": "Sia Nano IT"
   },
   {
+    "ip": "185.120.138.76",
+    "port": 443,
+    "code": "LV",
+    "asn": "Melbikomas UAB"
+  },
+  {
     "ip": "5.34.211.150",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
-  },
-  {
-    "ip": "85.31.102.163",
-    "port": 443,
-    "code": "LV",
-    "asn": "Sia Nano IT"
-  },
-  {
-    "ip": "85.159.228.84",
-    "port": 2053,
-    "code": "LV",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "195.123.210.147",
@@ -1176,8 +1170,20 @@
     "asn": "IPv6 services for dedicated servers and VDS/VPS"
   },
   {
+    "ip": "85.159.228.84",
+    "port": 2053,
+    "code": "LV",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
     "ip": "185.82.126.184",
     "port": 2053,
+    "code": "LV",
+    "asn": "Sia Nano IT"
+  },
+  {
+    "ip": "85.31.102.163",
+    "port": 443,
     "code": "LV",
     "asn": "Sia Nano IT"
   },
@@ -1206,16 +1212,16 @@
     "asn": "Baxet Group Inc."
   },
   {
-    "ip": "178.248.75.49",
-    "port": 443,
-    "code": "LV",
-    "asn": "SERVA ONE LTD"
-  },
-  {
     "ip": "138.124.182.56",
     "port": 8443,
     "code": "LV",
     "asn": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "178.248.75.49",
+    "port": 443,
+    "code": "LV",
+    "asn": "SERVA ONE LTD"
   },
   {
     "ip": "185.242.106.162",
@@ -1236,12 +1242,6 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "5.34.209.231",
-    "port": 8443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "195.135.253.47",
     "port": 2053,
     "code": "LV",
@@ -1250,6 +1250,12 @@
   {
     "ip": "45.43.76.184",
     "port": 2053,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
+    "ip": "5.34.209.231",
+    "port": 8443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -1290,14 +1296,14 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "188.253.17.85",
-    "port": 443,
+    "ip": "188.253.19.222",
+    "port": 2053,
     "code": "LV",
     "asn": "SIA VEESP"
   },
   {
-    "ip": "188.253.19.222",
-    "port": 2053,
+    "ip": "188.253.17.85",
+    "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
   },
@@ -1320,16 +1326,16 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "195.135.253.83",
-    "port": 80,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "212.6.44.200",
     "port": 443,
     "code": "LV",
     "asn": "Veesp datacenter clients"
+  },
+  {
+    "ip": "195.135.253.83",
+    "port": 80,
+    "code": "LV",
+    "asn": "SIA VEESP"
   },
   {
     "ip": "216.173.71.69",
@@ -1374,16 +1380,16 @@
     "asn": "Sia Nano IT"
   },
   {
-    "ip": "195.123.212.216",
-    "port": 2053,
-    "code": "LV",
-    "asn": "Green Floid LLC"
-  },
-  {
     "ip": "62.192.174.175",
     "port": 2053,
     "code": "LV",
     "asn": "SERVA ONE LTD"
+  },
+  {
+    "ip": "195.123.212.216",
+    "port": 2053,
+    "code": "LV",
+    "asn": "Green Floid LLC"
   },
   {
     "ip": "195.20.208.121",
@@ -1404,6 +1410,12 @@
     "asn": "SIA VEESP"
   },
   {
+    "ip": "188.253.18.47",
+    "port": 443,
+    "code": "LV",
+    "asn": "SIA VEESP"
+  },
+  {
     "ip": "185.135.86.212",
     "port": 443,
     "code": "LV",
@@ -1411,12 +1423,6 @@
   },
   {
     "ip": "188.253.23.98",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
-    "ip": "188.253.18.47",
     "port": 443,
     "code": "LV",
     "asn": "SIA VEESP"
@@ -1578,16 +1584,16 @@
     "asn": "Green Floid LLC"
   },
   {
-    "ip": "5.34.209.105",
-    "port": 2053,
-    "code": "LV",
-    "asn": "SIA VEESP"
-  },
-  {
     "ip": "195.123.211.205",
     "port": 8443,
     "code": "LV",
     "asn": "Green Floid LLC"
+  },
+  {
+    "ip": "5.34.209.105",
+    "port": 2053,
+    "code": "LV",
+    "asn": "SIA VEESP"
   },
   {
     "ip": "216.173.69.115",
@@ -1602,10 +1608,10 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "92.118.170.246",
+    "ip": "103.231.73.153",
     "port": 443,
     "code": "LV",
-    "asn": "Baykov Ilya Sergeevich"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "5.34.209.18",
@@ -1614,10 +1620,10 @@
     "asn": "SIA VEESP"
   },
   {
-    "ip": "103.231.73.153",
+    "ip": "92.118.170.246",
     "port": 443,
     "code": "LV",
-    "asn": "WorkTitans B.V."
+    "asn": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "45.133.216.25",
@@ -1626,16 +1632,16 @@
     "asn": "FreeNet L.L.C-FZ"
   },
   {
-    "ip": "31.128.34.85",
-    "port": 587,
-    "code": "LV",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "195.123.213.106",
     "port": 443,
     "code": "LV",
     "asn": "Green Floid LLC"
+  },
+  {
+    "ip": "31.128.34.85",
+    "port": 587,
+    "code": "LV",
+    "asn": "Beget LLC"
   },
   {
     "ip": "195.123.210.184",
@@ -1654,11 +1660,5 @@
     "port": 443,
     "code": "LV",
     "asn": "Friendhosting LTD"
-  },
-  {
-    "ip": "91.197.1.21",
-    "port": 443,
-    "code": "LV",
-    "asn": "SIA VEESP"
   }
 ]

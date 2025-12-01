@@ -6,13 +6,13 @@
     "asn": "GTHost"
   },
   {
-    "ip": "91.192.102.155",
+    "ip": "185.195.69.131",
     "port": 8443,
     "code": "CH",
     "asn": "Datasource AG"
   },
   {
-    "ip": "185.195.69.131",
+    "ip": "91.192.102.155",
     "port": 8443,
     "code": "CH",
     "asn": "Datasource AG"
@@ -22,12 +22,6 @@
     "port": 443,
     "code": "CH",
     "asn": "Datasource AG"
-  },
-  {
-    "ip": "91.245.225.17",
-    "port": 443,
-    "code": "CH",
-    "asn": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
     "ip": "38.180.15.45",
@@ -48,10 +42,10 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "91.192.102.153",
+    "ip": "91.245.225.17",
     "port": 443,
     "code": "CH",
-    "asn": "Datasource AG"
+    "asn": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
     "ip": "176.10.125.114",
@@ -174,16 +168,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "179.43.190.20",
-    "port": 2053,
-    "code": "CH",
-    "asn": "PRIVATE LAYER INC"
-  },
-  {
     "ip": "91.90.193.138",
     "port": 443,
     "code": "CH",
     "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "179.43.190.20",
+    "port": 2053,
+    "code": "CH",
+    "asn": "PRIVATE LAYER INC"
   },
   {
     "ip": "91.245.225.79",
@@ -240,16 +234,16 @@
     "asn": "Microsoft Limited"
   },
   {
-    "ip": "179.43.180.231",
-    "port": 443,
-    "code": "CH",
-    "asn": "PRIVATE LAYER INC"
-  },
-  {
     "ip": "103.63.30.144",
     "port": 2053,
     "code": "CH",
     "asn": "HostHatch"
+  },
+  {
+    "ip": "179.43.180.231",
+    "port": 443,
+    "code": "CH",
+    "asn": "PRIVATE LAYER INC"
   },
   {
     "ip": "194.87.97.6",
@@ -288,16 +282,22 @@
     "asn": "Datasource AG"
   },
   {
+    "ip": "179.43.176.184",
+    "port": 443,
+    "code": "CH",
+    "asn": "PRIVATE LAYER INC"
+  },
+  {
     "ip": "91.192.102.177",
     "port": 3128,
     "code": "CH",
     "asn": "Datasource AG"
   },
   {
-    "ip": "179.43.176.184",
+    "ip": "84.234.18.156",
     "port": 443,
     "code": "CH",
-    "asn": "PRIVATE LAYER INC"
+    "asn": "Infomaniak Network SA"
   },
   {
     "ip": "140.238.208.210",
@@ -306,10 +306,10 @@
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "84.234.18.156",
+    "ip": "167.17.183.134",
     "port": 443,
     "code": "CH",
-    "asn": "Infomaniak Network SA"
+    "asn": "Baxet Group Inc."
   },
   {
     "ip": "185.195.69.119",
@@ -324,12 +324,6 @@
     "asn": "Datasource AG"
   },
   {
-    "ip": "167.17.183.134",
-    "port": 443,
-    "code": "CH",
-    "asn": "Baxet Group Inc."
-  },
-  {
     "ip": "45.95.232.115",
     "port": 2053,
     "code": "CH",
@@ -340,6 +334,12 @@
     "port": 2053,
     "code": "CH",
     "asn": "Datasource AG"
+  },
+  {
+    "ip": "185.143.103.173",
+    "port": 2053,
+    "code": "CH",
+    "asn": "Infomaniak Network SA"
   },
   {
     "ip": "185.195.69.119",
@@ -354,6 +354,12 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "5.182.36.80",
+    "port": 443,
+    "code": "CH",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "194.87.97.6",
     "port": 2053,
     "code": "CH",
@@ -366,22 +372,10 @@
     "asn": "Infomaniak Network SA"
   },
   {
-    "ip": "5.182.36.80",
-    "port": 443,
-    "code": "CH",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.59.113.6",
     "port": 443,
     "code": "CH",
     "asn": "RouterHosting LLC"
-  },
-  {
-    "ip": "152.67.84.47",
-    "port": 443,
-    "code": "CH",
-    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "194.147.173.116",
@@ -390,16 +384,16 @@
     "asn": "Trueb AG"
   },
   {
+    "ip": "152.67.84.47",
+    "port": 443,
+    "code": "CH",
+    "asn": "Oracle Public Cloud"
+  },
+  {
     "ip": "194.87.18.167",
     "port": 443,
     "code": "CH",
     "asn": "Baxet Group Inc."
-  },
-  {
-    "ip": "195.141.65.98",
-    "port": 443,
-    "code": "CH",
-    "asn": "Sunrise Communications AG"
   },
   {
     "ip": "45.143.200.141",
@@ -408,10 +402,10 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "45.134.133.139",
+    "ip": "195.141.65.98",
     "port": 443,
     "code": "CH",
-    "asn": "e-Durable SA"
+    "asn": "Sunrise Communications AG"
   },
   {
     "ip": "94.131.12.24",
@@ -420,16 +414,16 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "45.134.133.139",
+    "port": 443,
+    "code": "CH",
+    "asn": "e-Durable SA"
+  },
+  {
     "ip": "94.131.12.56",
     "port": 443,
     "code": "CH",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "45.143.200.126",
-    "port": 443,
-    "code": "CH",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "194.147.173.117",
@@ -438,16 +432,22 @@
     "asn": "Trueb AG"
   },
   {
-    "ip": "95.183.51.10",
-    "port": 2053,
+    "ip": "45.143.200.126",
+    "port": 443,
     "code": "CH",
-    "asn": "Solar Communications GmbH"
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "16.63.207.85",
     "port": 443,
     "code": "CH",
     "asn": "Amazon Data Services Switzerland"
+  },
+  {
+    "ip": "95.183.51.10",
+    "port": 2053,
+    "code": "CH",
+    "asn": "Solar Communications GmbH"
   },
   {
     "ip": "171.22.16.253",
@@ -468,16 +468,16 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "179.43.190.20",
-    "port": 8443,
-    "code": "CH",
-    "asn": "PRIVATE LAYER INC"
-  },
-  {
     "ip": "45.143.200.19",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "179.43.190.20",
+    "port": 8443,
+    "code": "CH",
+    "asn": "PRIVATE LAYER INC"
   },
   {
     "ip": "91.90.193.159",
@@ -546,16 +546,16 @@
     "asn": "RouterHosting LLC"
   },
   {
-    "ip": "45.85.93.83",
-    "port": 443,
-    "code": "CH",
-    "asn": "Internet Utilities Europe and Asia Limited"
-  },
-  {
     "ip": "171.22.16.231",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.85.93.83",
+    "port": 443,
+    "code": "CH",
+    "asn": "Internet Utilities Europe and Asia Limited"
   },
   {
     "ip": "107.189.31.214",
@@ -564,16 +564,22 @@
     "asn": "FranTech Solutions"
   },
   {
-    "ip": "95.183.51.10",
-    "port": 8443,
-    "code": "CH",
-    "asn": "Solar Communications GmbH"
-  },
-  {
     "ip": "87.120.222.73",
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "185.143.103.173",
+    "port": 8443,
+    "code": "CH",
+    "asn": "Infomaniak Network SA"
+  },
+  {
+    "ip": "95.183.51.10",
+    "port": 8443,
+    "code": "CH",
+    "asn": "Solar Communications GmbH"
   },
   {
     "ip": "45.85.93.59",
@@ -592,12 +598,6 @@
     "port": 443,
     "code": "CH",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "185.143.103.173",
-    "port": 8443,
-    "code": "CH",
-    "asn": "Infomaniak Network SA"
   },
   {
     "ip": "91.192.102.170",
@@ -624,6 +624,18 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "107.189.7.14",
+    "port": 443,
+    "code": "CH",
+    "asn": "BuyVM"
+  },
+  {
+    "ip": "104.244.78.95",
+    "port": 2083,
+    "code": "CH",
+    "asn": "BuyVM"
+  },
+  {
     "ip": "45.95.232.43",
     "port": 8443,
     "code": "CH",
@@ -640,11 +652,5 @@
     "port": 26206,
     "code": "CH",
     "asn": "Infomaniak Network SA"
-  },
-  {
-    "ip": "107.189.12.152",
-    "port": 443,
-    "code": "CH",
-    "asn": "FranTech Solutions"
   }
 ]

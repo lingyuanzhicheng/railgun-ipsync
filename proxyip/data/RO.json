@@ -54,16 +54,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "94.131.119.136",
-    "port": 81,
-    "code": "RO",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "185.225.17.233",
     "port": 2053,
     "code": "RO",
     "asn": "MivoCloud"
+  },
+  {
+    "ip": "94.131.119.136",
+    "port": 81,
+    "code": "RO",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "31.6.1.165",
@@ -90,28 +90,22 @@
     "asn": "IROKO Networks Corporation"
   },
   {
-    "ip": "45.82.102.41",
-    "port": 8443,
-    "code": "RO",
-    "asn": "G-Core Labs S.A."
-  },
-  {
     "ip": "194.68.44.27",
     "port": 81,
     "code": "RO",
     "asn": "EDIS IPv6 Infrastructure in Romania"
   },
   {
-    "ip": "93.113.25.115",
-    "port": 443,
+    "ip": "45.82.102.41",
+    "port": 8443,
     "code": "RO",
-    "asn": "SimpliQ Tech SRL"
+    "asn": "G-Core Labs S.A."
   },
   {
-    "ip": "91.231.138.101",
+    "ip": "85.90.196.11",
     "port": 443,
     "code": "RO",
-    "asn": "NOBEL GLOBE S.R.L."
+    "asn": "GREEN FLOID LLC"
   },
   {
     "ip": "45.13.38.213",
@@ -120,10 +114,10 @@
     "asn": "* WWW.RARECLOUD.IO *"
   },
   {
-    "ip": "85.90.196.11",
+    "ip": "91.231.138.101",
     "port": 443,
     "code": "RO",
-    "asn": "GREEN FLOID LLC"
+    "asn": "NOBEL GLOBE S.R.L."
   },
   {
     "ip": "169.150.199.235",
