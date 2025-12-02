@@ -1,15 +1,15 @@
 [
   {
-    "ip": "175.45.183.67",
-    "port": 443,
-    "code": "AU",
-    "asn": "Mammoth Media Pty Ltd"
-  },
-  {
     "ip": "130.162.193.183",
     "port": 15401,
     "code": "AU",
     "asn": "Oracle Public Cloud"
+  },
+  {
+    "ip": "175.45.183.67",
+    "port": 443,
+    "code": "AU",
+    "asn": "Mammoth Media Pty Ltd"
   },
   {
     "ip": "152.67.101.72",
@@ -36,16 +36,16 @@
     "asn": "DigitalOcean, LLC"
   },
   {
-    "ip": "152.67.99.162",
-    "port": 443,
-    "code": "AU",
-    "asn": "Oracle Public Cloud"
-  },
-  {
     "ip": "194.195.252.133",
     "port": 443,
     "code": "AU",
     "asn": "Akamai Connected Cloud / Linode"
+  },
+  {
+    "ip": "152.67.99.162",
+    "port": 443,
+    "code": "AU",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "152.67.125.161",
@@ -100,11 +100,5 @@
     "port": 443,
     "code": "AU",
     "asn": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "207.211.153.234",
-    "port": 443,
-    "code": "AU",
-    "asn": "Oracle Corporation"
   }
 ]

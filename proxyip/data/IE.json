@@ -6,16 +6,16 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "185.231.207.152",
+    "ip": "185.231.207.108",
     "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "40.113.60.248",
-    "port": 2053,
+    "ip": "185.231.207.152",
+    "port": 443,
     "code": "IE",
-    "asn": "Microsoft Corporation"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "34.253.234.62",
@@ -24,10 +24,16 @@
     "asn": "Amazon Data Services Ireland Limited"
   },
   {
-    "ip": "185.231.207.108",
-    "port": 443,
+    "ip": "40.113.60.248",
+    "port": 2053,
     "code": "IE",
-    "asn": "WorkTitans B.V."
+    "asn": "Microsoft Corporation"
+  },
+  {
+    "ip": "23.95.225.214",
+    "port": 2053,
+    "code": "IE",
+    "asn": "RackNerd LLC"
   },
   {
     "ip": "52.19.138.237",
@@ -36,22 +42,16 @@
     "asn": "Amazon Data Services Ireland Limited"
   },
   {
-    "ip": "193.57.138.65",
-    "port": 81,
-    "code": "IE",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "185.231.207.46",
     "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "23.95.225.214",
-    "port": 2053,
+    "ip": "193.57.138.65",
+    "port": 81,
     "code": "IE",
-    "asn": "RackNerd LLC"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "185.231.207.119",
@@ -66,19 +66,7 @@
     "asn": "HostPapa"
   },
   {
-    "ip": "185.231.207.155",
-    "port": 443,
-    "code": "IE",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "185.231.207.161",
-    "port": 443,
-    "code": "IE",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "185.231.207.67",
     "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
@@ -90,10 +78,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "198.55.103.157",
-    "port": 8443,
+    "ip": "185.231.207.67",
+    "port": 443,
     "code": "IE",
-    "asn": "VPS ACE"
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "185.231.207.155",
+    "port": 443,
+    "code": "IE",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "194.26.213.108",
@@ -102,10 +96,10 @@
     "asn": "MVPS LTD"
   },
   {
-    "ip": "63.32.194.15",
+    "ip": "198.55.103.157",
     "port": 8443,
     "code": "IE",
-    "asn": "Amazon Data Services Ireland Limited"
+    "asn": "VPS ACE"
   },
   {
     "ip": "54.229.164.147",
@@ -120,6 +114,12 @@
     "asn": "Reliable Communications s.r.o."
   },
   {
+    "ip": "63.32.194.15",
+    "port": 8443,
+    "code": "IE",
+    "asn": "Amazon Data Services Ireland Limited"
+  },
+  {
     "ip": "54.77.206.41",
     "port": 443,
     "code": "IE",
@@ -132,16 +132,16 @@
     "asn": "VPS ACE"
   },
   {
-    "ip": "23.95.225.214",
-    "port": 8443,
-    "code": "IE",
-    "asn": "RackNerd LLC"
-  },
-  {
     "ip": "63.32.194.15",
     "port": 2053,
     "code": "IE",
     "asn": "Amazon Data Services Ireland Limited"
+  },
+  {
+    "ip": "23.95.225.214",
+    "port": 8443,
+    "code": "IE",
+    "asn": "RackNerd LLC"
   },
   {
     "ip": "54.247.36.82",
@@ -156,16 +156,16 @@
     "asn": "Reliable Communications s.r.o."
   },
   {
-    "ip": "198.55.103.168",
-    "port": 443,
-    "code": "IE",
-    "asn": "Cloudflare London, LLC"
-  },
-  {
     "ip": "54.216.143.197",
     "port": 443,
     "code": "IE",
     "asn": "Amazon.com, Inc."
+  },
+  {
+    "ip": "198.55.103.168",
+    "port": 443,
+    "code": "IE",
+    "asn": "Cloudflare London, LLC"
   },
   {
     "ip": "54.246.82.250",
@@ -186,16 +186,22 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "85.159.229.249",
+    "port": 443,
+    "code": "IE",
+    "asn": "GLOBAL INTERNET SOLUTIONS LLC"
+  },
+  {
     "ip": "54.220.80.89",
     "port": 2053,
     "code": "IE",
     "asn": "Amazon.com, Inc."
   },
   {
-    "ip": "85.159.229.249",
+    "ip": "185.231.207.113",
     "port": 443,
     "code": "IE",
-    "asn": "GLOBAL INTERNET SOLUTIONS LLC"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "85.159.229.122",
@@ -204,7 +210,7 @@
     "asn": "GLOBAL INTERNET SOLUTIONS LLC"
   },
   {
-    "ip": "185.231.207.113",
+    "ip": "185.231.207.87",
     "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
@@ -214,12 +220,6 @@
     "port": 443,
     "code": "IE",
     "asn": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "185.231.207.87",
-    "port": 443,
-    "code": "IE",
-    "asn": "WorkTitans B.V."
   },
   {
     "ip": "95.164.44.19",
@@ -300,20 +300,8 @@
     "asn": "Reliable Communications s.r.o."
   },
   {
-    "ip": "54.229.164.147",
-    "port": 2053,
-    "code": "IE",
-    "asn": "Amazon.com, Inc."
-  },
-  {
     "ip": "193.57.138.106",
     "port": 8443,
-    "code": "IE",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "185.231.207.114",
-    "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
   },
@@ -324,19 +312,19 @@
     "asn": "VPS ACE"
   },
   {
-    "ip": "185.231.207.53",
+    "ip": "54.229.164.147",
+    "port": 2053,
+    "code": "IE",
+    "asn": "Amazon.com, Inc."
+  },
+  {
+    "ip": "185.231.207.114",
     "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "45.141.234.35",
-    "port": 443,
-    "code": "IE",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "185.231.207.66",
+    "ip": "185.231.207.53",
     "port": 443,
     "code": "IE",
     "asn": "WorkTitans B.V."
@@ -346,5 +334,17 @@
     "port": 8443,
     "code": "IE",
     "asn": "Microsoft Corporation"
+  },
+  {
+    "ip": "185.231.207.66",
+    "port": 443,
+    "code": "IE",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "45.141.234.35",
+    "port": 443,
+    "code": "IE",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   }
 ]

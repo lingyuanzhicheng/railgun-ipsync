@@ -1,9 +1,9 @@
 [
   {
-    "ip": "5.35.81.197",
-    "port": 2053,
+    "ip": "5.35.108.7",
+    "port": 443,
     "code": "KZ",
-    "asn": "Beget LLC"
+    "asn": "Cloud Services Kazakhstan LLP"
   },
   {
     "ip": "95.164.114.50",
@@ -12,22 +12,22 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "90.156.252.176",
+    "ip": "5.35.81.197",
     "port": 2053,
     "code": "KZ",
     "asn": "Beget LLC"
-  },
-  {
-    "ip": "5.35.108.7",
-    "port": 443,
-    "code": "KZ",
-    "asn": "Cloud Services Kazakhstan LLP"
   },
   {
     "ip": "38.180.207.13",
     "port": 2053,
     "code": "KZ",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "90.156.252.176",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "Beget LLC"
   },
   {
     "ip": "5.35.108.237",
@@ -96,6 +96,18 @@
     "asn": "Modern Server Solutions LLP"
   },
   {
+    "ip": "77.243.80.224",
+    "port": 443,
+    "code": "KZ",
+    "asn": "PS Internet Company LLP"
+  },
+  {
+    "ip": "195.210.47.233",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "PS Internet Company LLP"
+  },
+  {
     "ip": "38.180.38.137",
     "port": 443,
     "code": "KZ",
@@ -106,24 +118,6 @@
     "port": 443,
     "code": "KZ",
     "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "195.210.47.233",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "PS Internet Company LLP"
-  },
-  {
-    "ip": "83.97.77.35",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "Webstudio Onelab LLP"
-  },
-  {
-    "ip": "77.243.80.224",
-    "port": 443,
-    "code": "KZ",
-    "asn": "PS Internet Company LLP"
   },
   {
     "ip": "103.106.3.238",
@@ -138,28 +132,22 @@
     "asn": "Internet-kompaniya PS"
   },
   {
-    "ip": "83.97.77.63",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "Webstudio Onelab LLP"
-  },
-  {
     "ip": "83.222.22.61",
     "port": 2053,
     "code": "KZ",
     "asn": "Beget LLC"
   },
   {
-    "ip": "94.247.135.18",
-    "port": 10443,
-    "code": "KZ",
-    "asn": "PS Internet Company LLP"
-  },
-  {
     "ip": "95.164.114.41",
     "port": 8443,
     "code": "KZ",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "83.97.77.63",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "Webstudio Onelab LLP"
   },
   {
     "ip": "37.233.81.131",
@@ -186,22 +174,16 @@
     "asn": "Servercore Network"
   },
   {
-    "ip": "38.180.37.102",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "91.200.151.172",
     "port": 443,
     "code": "KZ",
     "asn": "Dmitry Vorozhtsov"
   },
   {
-    "ip": "213.148.10.170",
-    "port": 2053,
+    "ip": "38.180.37.102",
+    "port": 8443,
     "code": "KZ",
-    "asn": "Modern Server Solutions LLP"
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "213.148.10.155",
@@ -210,16 +192,10 @@
     "asn": "Modern Server Solutions LLP"
   },
   {
-    "ip": "185.253.8.64",
+    "ip": "213.148.10.170",
     "port": 2053,
     "code": "KZ",
-    "asn": "ONEHOST LLP"
-  },
-  {
-    "ip": "95.164.114.50",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "WorkTitans B.V."
+    "asn": "Modern Server Solutions LLP"
   },
   {
     "ip": "78.40.109.38",
@@ -234,6 +210,18 @@
     "asn": "lease for Timeweb"
   },
   {
+    "ip": "95.164.114.50",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "185.253.8.64",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "ONEHOST LLP"
+  },
+  {
     "ip": "213.148.1.150",
     "port": 8443,
     "code": "KZ",
@@ -244,12 +232,6 @@
     "port": 8443,
     "code": "KZ",
     "asn": "VK Cloud Solutions"
-  },
-  {
-    "ip": "176.120.21.202",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "AdminVPS OOO"
   },
   {
     "ip": "80.90.183.75",
@@ -268,12 +250,6 @@
     "port": 8443,
     "code": "KZ",
     "asn": "VK Cloud Solutions"
-  },
-  {
-    "ip": "91.218.141.111",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "Beget LLC"
   },
   {
     "ip": "38.180.37.102",
@@ -306,10 +282,10 @@
     "asn": "PS Internet Company LLP"
   },
   {
-    "ip": "89.169.37.174",
+    "ip": "176.120.21.202",
     "port": 8443,
     "code": "KZ",
-    "asn": "Beget LLC"
+    "asn": "AdminVPS OOO"
   },
   {
     "ip": "45.80.208.204",
@@ -324,28 +300,10 @@
     "asn": "Servercore Network"
   },
   {
-    "ip": "90.156.253.21",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "Beget LLC"
-  },
-  {
     "ip": "213.148.10.155",
     "port": 2053,
     "code": "KZ",
     "asn": "Modern Server Solutions LLP"
-  },
-  {
-    "ip": "95.164.19.94",
-    "port": 2053,
-    "code": "KZ",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "45.136.57.82",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "Megahost Kazakhstan TOO"
   },
   {
     "ip": "92.118.115.22",
@@ -354,10 +312,28 @@
     "asn": "Quasar LLC"
   },
   {
+    "ip": "45.136.57.82",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "Megahost Kazakhstan TOO"
+  },
+  {
+    "ip": "95.164.19.94",
+    "port": 2053,
+    "code": "KZ",
+    "asn": "WorkTitans B.V."
+  },
+  {
     "ip": "195.58.52.52",
     "port": 2053,
     "code": "KZ",
     "asn": "Big Data Host LLC"
+  },
+  {
+    "ip": "89.169.37.174",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "Beget LLC"
   },
   {
     "ip": "86.107.198.133",
@@ -372,22 +348,28 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "91.218.141.111",
+    "port": 8443,
+    "code": "KZ",
+    "asn": "Beget LLC"
+  },
+  {
     "ip": "89.35.125.74",
     "port": 443,
     "code": "KZ",
     "asn": "Hoster.KZ"
   },
   {
-    "ip": "104.238.24.144",
-    "port": 443,
-    "code": "KZ",
-    "asn": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "178.88.167.25",
     "port": 443,
     "code": "KZ",
     "asn": "SC Kazakhtelecom, Direction of Information Systems"
+  },
+  {
+    "ip": "104.238.24.144",
+    "port": 443,
+    "code": "KZ",
+    "asn": "Individual Entrepreneur Anton Levin"
   },
   {
     "ip": "94.198.221.96",
@@ -514,12 +496,6 @@
     "port": 443,
     "code": "KZ",
     "asn": "Big Data Host LLC"
-  },
-  {
-    "ip": "94.247.135.18",
-    "port": 8443,
-    "code": "KZ",
-    "asn": "PS Internet Company LLP"
   },
   {
     "ip": "45.88.90.13",

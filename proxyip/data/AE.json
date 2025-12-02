@@ -72,6 +72,12 @@
     "asn": "G-Core Labs Customer assignment"
   },
   {
+    "ip": "176.97.67.38",
+    "port": 443,
+    "code": "AE",
+    "asn": "3nt solutions LLP"
+  },
+  {
     "ip": "85.237.211.59",
     "port": 2053,
     "code": "AE",
@@ -84,13 +90,13 @@
     "asn": "Private Customer"
   },
   {
-    "ip": "176.97.66.175",
+    "ip": "217.195.200.138",
     "port": 443,
     "code": "AE",
-    "asn": "3nt solutions LLP"
+    "asn": "G-Core Labs Customer assignment"
   },
   {
-    "ip": "176.97.67.38",
+    "ip": "176.97.66.175",
     "port": 443,
     "code": "AE",
     "asn": "3nt solutions LLP"
@@ -100,12 +106,6 @@
     "port": 443,
     "code": "AE",
     "asn": "Amazon Data Services UAE"
-  },
-  {
-    "ip": "217.195.200.138",
-    "port": 443,
-    "code": "AE",
-    "asn": "G-Core Labs Customer assignment"
   },
   {
     "ip": "109.61.42.20",
@@ -126,15 +126,15 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "217.195.200.52",
-    "port": 443,
-    "code": "AE",
-    "asn": "G-Core Labs Customer assignment"
-  },
-  {
     "ip": "139.185.34.131",
     "port": 443,
     "code": "AE",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "217.195.200.52",
+    "port": 443,
+    "code": "AE",
+    "asn": "G-Core Labs Customer assignment"
   }
 ]

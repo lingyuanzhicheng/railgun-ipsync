@@ -102,6 +102,12 @@
     "asn": "ALIBABA CLOUD - HK"
   },
   {
+    "ip": "192.142.4.76",
+    "port": 2053,
+    "code": "HK",
+    "asn": "Ultahost Inc"
+  },
+  {
     "ip": "156.255.90.175",
     "port": 2053,
     "code": "HK",
@@ -160,12 +166,6 @@
     "port": 443,
     "code": "HK",
     "asn": "BEST WEBTECHNOLOGY LIMITED"
-  },
-  {
-    "ip": "192.142.4.76",
-    "port": 2053,
-    "code": "HK",
-    "asn": "Ultahost Inc"
   },
   {
     "ip": "43.132.244.52",
@@ -234,16 +234,16 @@
     "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
-    "ip": "118.141.64.192",
-    "port": 36619,
-    "code": "HK",
-    "asn": "HGC Global Communications Limited"
-  },
-  {
     "ip": "8.218.36.133",
     "port": 9010,
     "code": "HK",
     "asn": "Alibaba Cloud (Singapore) Private Limited"
+  },
+  {
+    "ip": "118.141.64.192",
+    "port": 36619,
+    "code": "HK",
+    "asn": "HGC Global Communications Limited"
   },
   {
     "ip": "151.242.153.8",
@@ -312,6 +312,12 @@
     "asn": "HGC Global Communications Limited"
   },
   {
+    "ip": "192.142.4.33",
+    "port": 8443,
+    "code": "HK",
+    "asn": "Ultahost Inc"
+  },
+  {
     "ip": "43.198.204.35",
     "port": 443,
     "code": "HK",
@@ -322,12 +328,6 @@
     "port": 443,
     "code": "HK",
     "asn": "HGC Global Communications Limited"
-  },
-  {
-    "ip": "192.142.4.33",
-    "port": 8443,
-    "code": "HK",
-    "asn": "Ultahost Inc"
   },
   {
     "ip": "223.16.138.113",
@@ -345,7 +345,13 @@
     "ip": "141.11.91.67",
     "port": 8080,
     "code": "HK",
-    "asn": "Tusker Technologies Pty Ltd"
+    "asn": "HYTRON NETWORK HK"
+  },
+  {
+    "ip": "219.76.13.181",
+    "port": 443,
+    "code": "HK",
+    "asn": "Hong Kong Telecommunications (HKT) Limited Mass Internet"
   },
   {
     "ip": "156.255.90.175",
@@ -390,16 +396,16 @@
     "asn": "Hytron Network Services Limited"
   },
   {
-    "ip": "43.154.124.136",
-    "port": 26666,
-    "code": "HK",
-    "asn": "6 COLLYER QUAY"
-  },
-  {
     "ip": "194.156.99.182",
     "port": 8443,
     "code": "HK",
     "asn": "FreeNet L.L.C-FZ"
+  },
+  {
+    "ip": "43.154.124.136",
+    "port": 26666,
+    "code": "HK",
+    "asn": "6 COLLYER QUAY"
   },
   {
     "ip": "47.242.145.136",

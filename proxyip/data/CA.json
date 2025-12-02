@@ -18,16 +18,22 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "91.194.11.78",
-    "port": 81,
-    "code": "CA",
-    "asn": "DGTL TECH UK LLP"
-  },
-  {
     "ip": "192.99.252.243",
     "port": 2053,
     "code": "CA",
     "asn": "OVH SAS"
+  },
+  {
+    "ip": "3.97.173.206",
+    "port": 80,
+    "code": "CA",
+    "asn": "Securly, Inc"
+  },
+  {
+    "ip": "91.194.11.78",
+    "port": 81,
+    "code": "CA",
+    "asn": "DGTL TECH UK LLP"
   },
   {
     "ip": "69.28.82.253",
@@ -36,7 +42,7 @@
     "asn": "Atlantic.Net - Toronto, LLC."
   },
   {
-    "ip": "3.97.173.206",
+    "ip": "35.182.7.190",
     "port": 80,
     "code": "CA",
     "asn": "Securly, Inc"
@@ -48,10 +54,10 @@
     "asn": "DigitalOcean, LLC"
   },
   {
-    "ip": "35.182.7.190",
-    "port": 80,
+    "ip": "35.183.216.163",
+    "port": 8443,
     "code": "CA",
-    "asn": "Securly, Inc"
+    "asn": "Amazon Data Services Canada"
   },
   {
     "ip": "129.153.60.139",
@@ -66,26 +72,20 @@
     "asn": "CENTRILOGICCANADA"
   },
   {
-    "ip": "35.183.216.163",
-    "port": 8443,
-    "code": "CA",
-    "asn": "Amazon Data Services Canada"
-  },
-  {
     "ip": "213.255.209.207",
     "port": 443,
     "code": "CA",
     "asn": "Cloud Web Manage"
   },
   {
-    "ip": "192.99.127.218",
+    "ip": "35.183.163.195",
     "port": 443,
     "code": "CA",
-    "asn": "Private Customer"
+    "asn": "Securly, Inc"
   },
   {
     "ip": "35.183.163.195",
-    "port": 443,
+    "port": 80,
     "code": "CA",
     "asn": "Securly, Inc"
   },
@@ -96,10 +96,10 @@
     "asn": "Amazon Data Services Canada"
   },
   {
-    "ip": "35.183.163.195",
-    "port": 80,
+    "ip": "192.99.127.218",
+    "port": 443,
     "code": "CA",
-    "asn": "Securly, Inc"
+    "asn": "Private Customer"
   },
   {
     "ip": "35.182.7.190",
@@ -114,22 +114,16 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "192.99.166.93",
-    "port": 8443,
-    "code": "CA",
-    "asn": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "172.93.32.131",
-    "port": 23077,
-    "code": "CA",
-    "asn": "Cluster Logic Inc"
-  },
-  {
     "ip": "35.183.216.163",
     "port": 2053,
     "code": "CA",
     "asn": "Amazon Data Services Canada"
+  },
+  {
+    "ip": "192.99.166.93",
+    "port": 8443,
+    "code": "CA",
+    "asn": "OVH Hosting, Inc."
   },
   {
     "ip": "140.238.158.238",
@@ -138,16 +132,22 @@
     "asn": "Oracle Public Cloud"
   },
   {
-    "ip": "140.238.158.238",
-    "port": 443,
+    "ip": "172.93.32.131",
+    "port": 23077,
     "code": "CA",
-    "asn": "Oracle Public Cloud"
+    "asn": "Cluster Logic Inc"
   },
   {
     "ip": "89.251.9.5",
     "port": 8443,
     "code": "CA",
     "asn": "Deployish Limited"
+  },
+  {
+    "ip": "140.238.158.238",
+    "port": 443,
+    "code": "CA",
+    "asn": "Oracle Public Cloud"
   },
   {
     "ip": "155.138.128.135",
@@ -222,6 +222,12 @@
     "asn": "Oracle Corporation"
   },
   {
+    "ip": "209.200.246.130",
+    "port": 443,
+    "code": "CA",
+    "asn": "REGXA LLC"
+  },
+  {
     "ip": "207.61.86.114",
     "port": 443,
     "code": "CA",
@@ -234,10 +240,10 @@
     "asn": "Atlantic.Net - Toronto, LLC."
   },
   {
-    "ip": "209.200.246.130",
+    "ip": "143.198.35.113",
     "port": 443,
     "code": "CA",
-    "asn": "REGXA LLC"
+    "asn": "DigitalOcean, LLC"
   },
   {
     "ip": "45.133.18.31",
@@ -246,10 +252,10 @@
     "asn": "ITGLOBAL.COM NL B.V."
   },
   {
-    "ip": "143.198.35.113",
+    "ip": "149.56.14.62",
     "port": 443,
     "code": "CA",
-    "asn": "DigitalOcean, LLC"
+    "asn": "OVH Hosting, Inc."
   },
   {
     "ip": "167.114.67.25",
@@ -264,10 +270,10 @@
     "asn": "DigitalOcean, LLC"
   },
   {
-    "ip": "149.56.14.62",
-    "port": 443,
+    "ip": "192.18.150.121",
+    "port": 27620,
     "code": "CA",
-    "asn": "OVH Hosting, Inc."
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "89.251.9.4",
@@ -276,28 +282,22 @@
     "asn": "Deployish Limited"
   },
   {
-    "ip": "192.18.150.121",
-    "port": 27620,
-    "code": "CA",
-    "asn": "Oracle Corporation"
-  },
-  {
     "ip": "148.113.204.36",
     "port": 8443,
     "code": "CA",
     "asn": "OVH Hosting, Inc."
   },
   {
-    "ip": "172.105.26.112",
-    "port": 2443,
-    "code": "CA",
-    "asn": "Linode"
-  },
-  {
     "ip": "51.79.120.221",
     "port": 2053,
     "code": "CA",
     "asn": "OVH SAS"
+  },
+  {
+    "ip": "172.105.26.112",
+    "port": 2443,
+    "code": "CA",
+    "asn": "Linode"
   },
   {
     "ip": "148.113.172.98",
