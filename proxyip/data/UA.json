@@ -1,5 +1,11 @@
 [
   {
+    "ip": "82.118.22.141",
+    "port": 8443,
+    "code": "UA",
+    "asn": "GREEN FLOID LLC"
+  },
+  {
     "ip": "31.41.221.121",
     "port": 443,
     "code": "UA",
@@ -12,16 +18,16 @@
     "asn": "IROKO Networks Corporation"
   },
   {
-    "ip": "31.222.235.81",
-    "port": 443,
-    "code": "UA",
-    "asn": "NETH LLC"
-  },
-  {
     "ip": "195.28.182.182",
     "port": 2053,
     "code": "UA",
     "asn": "Friendhosting LTD"
+  },
+  {
+    "ip": "31.222.235.81",
+    "port": 443,
+    "code": "UA",
+    "asn": "NETH LLC"
   },
   {
     "ip": "91.218.212.223",
@@ -40,5 +46,11 @@
     "port": 58443,
     "code": "UA",
     "asn": "Astelnet LLC"
+  },
+  {
+    "ip": "82.118.22.141",
+    "port": 2053,
+    "code": "UA",
+    "asn": "GREEN FLOID LLC"
   }
 ]

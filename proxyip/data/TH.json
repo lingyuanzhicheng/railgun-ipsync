@@ -42,13 +42,13 @@
     "asn": "6 COLLYER QUAY"
   },
   {
-    "ip": "103.117.151.111",
+    "ip": "103.99.11.193",
     "port": 2053,
     "code": "TH",
     "asn": "ReadyIDC CO.,LTD."
   },
   {
-    "ip": "103.99.11.193",
+    "ip": "103.117.151.111",
     "port": 2053,
     "code": "TH",
     "asn": "ReadyIDC CO.,LTD."
@@ -64,17 +64,5 @@
     "port": 30921,
     "code": "TH",
     "asn": "True Internet Co., Ltd."
-  },
-  {
-    "ip": "199.21.175.187",
-    "port": 8443,
-    "code": "TH",
-    "asn": "ReadyIDC CO.,LTD."
-  },
-  {
-    "ip": "209.15.110.126",
-    "port": 443,
-    "code": "TH",
-    "asn": "CAT TELECOM, CAT Cloud Dept, 99 Chaengwatthana Rd. Lak Si, Bangkok 10210"
   }
 ]

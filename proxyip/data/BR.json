@@ -42,6 +42,12 @@
     "asn": "Oracle Public Cloud"
   },
   {
+    "ip": "38.180.78.255",
+    "port": 443,
+    "code": "BR",
+    "asn": "3NT SOLUTIONS LLP"
+  },
+  {
     "ip": "144.22.144.168",
     "port": 4242,
     "code": "BR",
@@ -54,16 +60,10 @@
     "asn": "ALGAR TELECOM S/A"
   },
   {
-    "ip": "144.22.186.208",
+    "ip": "45.82.245.62",
     "port": 443,
     "code": "BR",
-    "asn": "Oracle Corporation"
-  },
-  {
-    "ip": "144.22.204.102",
-    "port": 50317,
-    "code": "BR",
-    "asn": "Oracle Corporation"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "146.235.59.153",
@@ -72,22 +72,16 @@
     "asn": "Oracle Corporation"
   },
   {
-    "ip": "38.180.78.255",
-    "port": 443,
+    "ip": "147.45.116.50",
+    "port": 24443,
     "code": "BR",
-    "asn": "3NT SOLUTIONS LLP"
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "45.82.245.62",
-    "port": 443,
+    "ip": "144.22.204.102",
+    "port": 50317,
     "code": "BR",
-    "asn": "WorkTitans B.V."
-  },
-  {
-    "ip": "177.128.123.121",
-    "port": 8443,
-    "code": "BR",
-    "asn": "Disk Sistema Tele-Informatica Ltda- ME"
+    "asn": "Oracle Corporation"
   },
   {
     "ip": "168.75.92.141",
@@ -102,9 +96,9 @@
     "asn": "Predlink Rede de Telecomunicções Ltda"
   },
   {
-    "ip": "147.45.116.50",
-    "port": 24443,
+    "ip": "144.22.186.208",
+    "port": 443,
     "code": "BR",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+    "asn": "Oracle Corporation"
   }
 ]

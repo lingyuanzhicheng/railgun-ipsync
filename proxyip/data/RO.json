@@ -24,16 +24,16 @@
     "asn": "G-Core Labs S.A."
   },
   {
+    "ip": "45.134.48.53",
+    "port": 8443,
+    "code": "RO",
+    "asn": "* WWW.RAREACLOUD.IO *"
+  },
+  {
     "ip": "45.67.34.89",
     "port": 443,
     "code": "RO",
     "asn": "Cloudflare London, LLC"
-  },
-  {
-    "ip": "45.67.34.74",
-    "port": 2053,
-    "code": "RO",
-    "asn": "WorkTitans B.V."
   },
   {
     "ip": "45.13.38.116",
@@ -42,10 +42,10 @@
     "asn": "RARE MOOD AGENCY SRL"
   },
   {
-    "ip": "45.134.48.53",
-    "port": 8443,
+    "ip": "45.67.34.74",
+    "port": 2053,
     "code": "RO",
-    "asn": "* WWW.RAREACLOUD.IO *"
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "5.182.37.5",
@@ -102,10 +102,10 @@
     "asn": "EDIS IPv6 Infrastructure in Romania"
   },
   {
-    "ip": "91.231.138.101",
+    "ip": "85.90.196.11",
     "port": 443,
     "code": "RO",
-    "asn": "NOBEL GLOBE S.R.L."
+    "asn": "GREEN FLOID LLC"
   },
   {
     "ip": "45.13.38.213",
@@ -114,16 +114,10 @@
     "asn": "* WWW.RARECLOUD.IO *"
   },
   {
-    "ip": "85.90.196.11",
+    "ip": "91.231.138.101",
     "port": 443,
     "code": "RO",
-    "asn": "GREEN FLOID LLC"
-  },
-  {
-    "ip": "185.39.30.67",
-    "port": 2053,
-    "code": "RO",
-    "asn": "Friendhosting LTD"
+    "asn": "Nobel Group Limited"
   },
   {
     "ip": "169.150.199.235",
@@ -132,10 +126,22 @@
     "asn": "Datacamp Limited"
   },
   {
+    "ip": "185.39.30.67",
+    "port": 2053,
+    "code": "RO",
+    "asn": "Friendhosting LTD"
+  },
+  {
     "ip": "193.168.143.99",
     "port": 443,
     "code": "RO",
     "asn": "ZERGRUSH SRL"
+  },
+  {
+    "ip": "89.32.41.19",
+    "port": 443,
+    "code": "RO",
+    "asn": "S.C. HOSTMAZE INC SRL-D"
   },
   {
     "ip": "88.80.135.83",
@@ -144,22 +150,16 @@
     "asn": "Promo Plus SRL"
   },
   {
-    "ip": "38.180.35.205",
-    "port": 443,
-    "code": "RO",
-    "asn": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "151.242.191.15",
-    "port": 443,
-    "code": "RO",
-    "asn": "SERVA ONE LTD"
-  },
-  {
     "ip": "65.38.120.26",
     "port": 443,
     "code": "RO",
     "asn": "BL Networks"
+  },
+  {
+    "ip": "38.180.35.205",
+    "port": 443,
+    "code": "RO",
+    "asn": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "45.67.34.89",
@@ -168,15 +168,15 @@
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "94.131.119.50",
-    "port": 2053,
-    "code": "RO",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "45.134.48.53",
     "port": 2053,
     "code": "RO",
     "asn": "* WWW.RAREACLOUD.IO *"
+  },
+  {
+    "ip": "94.131.119.50",
+    "port": 2053,
+    "code": "RO",
+    "asn": "WorkTitans B.V."
   }
 ]

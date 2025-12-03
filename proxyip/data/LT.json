@@ -1,13 +1,13 @@
 [
   {
-    "ip": "176.223.138.135",
-    "port": 2053,
+    "ip": "89.40.15.168",
+    "port": 443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
   {
-    "ip": "89.40.15.168",
-    "port": 443,
+    "ip": "176.223.138.135",
+    "port": 2053,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
@@ -60,14 +60,20 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "176.223.136.90",
+    "port": 443,
+    "code": "LT",
+    "asn": "UAB Interneto vizija"
+  },
+  {
     "ip": "94.131.13.224",
     "port": 443,
     "code": "LT",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "176.223.136.90",
-    "port": 443,
+    "ip": "80.209.237.38",
+    "port": 2053,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
@@ -80,12 +86,6 @@
   {
     "ip": "212.24.107.76",
     "port": 8443,
-    "code": "LT",
-    "asn": "UAB Interneto vizija"
-  },
-  {
-    "ip": "80.209.237.38",
-    "port": 2053,
     "code": "LT",
     "asn": "UAB Interneto vizija"
   },
@@ -126,16 +126,16 @@
     "asn": "Private Customer"
   },
   {
-    "ip": "103.231.72.4",
-    "port": 443,
-    "code": "LT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "80.208.226.206",
     "port": 443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
+  },
+  {
+    "ip": "103.231.72.4",
+    "port": 443,
+    "code": "LT",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "185.224.250.84",
@@ -150,16 +150,16 @@
     "asn": "SolusVM priskirti adresai"
   },
   {
-    "ip": "212.192.23.24",
-    "port": 443,
-    "code": "LT",
-    "asn": "Baxet Group Inc."
-  },
-  {
     "ip": "212.24.104.79",
     "port": 2053,
     "code": "LT",
     "asn": "UAB Interneto vizija"
+  },
+  {
+    "ip": "212.192.23.24",
+    "port": 443,
+    "code": "LT",
+    "asn": "Baxet Group Inc."
   },
   {
     "ip": "45.12.129.189",
@@ -216,6 +216,12 @@
     "asn": "UAB Interneto vizija"
   },
   {
+    "ip": "5.199.173.195",
+    "port": 443,
+    "code": "LT",
+    "asn": "UAB Cherry Servers"
+  },
+  {
     "ip": "46.29.234.81",
     "port": 443,
     "code": "LT",
@@ -226,18 +232,6 @@
     "port": 443,
     "code": "LT",
     "asn": "UAB Cherry Servers"
-  },
-  {
-    "ip": "5.199.173.195",
-    "port": 443,
-    "code": "LT",
-    "asn": "UAB Cherry Servers"
-  },
-  {
-    "ip": "195.181.244.107",
-    "port": 443,
-    "code": "LT",
-    "asn": "UAB Interneto vizija"
   },
   {
     "ip": "94.131.14.254",
@@ -252,22 +246,28 @@
     "asn": "WorkTitans B.V."
   },
   {
+    "ip": "195.181.244.107",
+    "port": 443,
+    "code": "LT",
+    "asn": "UAB Interneto vizija"
+  },
+  {
     "ip": "195.238.126.52",
     "port": 443,
     "code": "LT",
     "asn": "Melbikomas UAB"
   },
   {
-    "ip": "2.59.162.22",
-    "port": 8443,
-    "code": "LT",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "212.192.23.91",
     "port": 443,
     "code": "LT",
     "asn": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "2.59.162.22",
+    "port": 8443,
+    "code": "LT",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "185.81.166.162",
@@ -312,13 +312,25 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
+    "ip": "212.24.106.50",
+    "port": 443,
+    "code": "LT",
+    "asn": "UAB Interneto vizija"
+  },
+  {
     "ip": "103.113.69.63",
     "port": 443,
     "code": "LT",
     "asn": "WorkTitans B.V."
   },
   {
-    "ip": "212.24.106.50",
+    "ip": "93.127.186.37",
+    "port": 8443,
+    "code": "LT",
+    "asn": "IPFFM - Internet Provider Frankfurt GmbH"
+  },
+  {
+    "ip": "80.209.230.183",
     "port": 443,
     "code": "LT",
     "asn": "UAB Interneto vizija"
@@ -330,22 +342,10 @@
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "80.209.230.183",
-    "port": 443,
-    "code": "LT",
-    "asn": "UAB Interneto vizija"
-  },
-  {
     "ip": "46.29.234.155",
     "port": 8443,
     "code": "LT",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "185.237.185.182",
-    "port": 8443,
-    "code": "LT",
-    "asn": "Oneprovider.com - Vilnius Infrastructure"
   },
   {
     "ip": "46.29.234.91",

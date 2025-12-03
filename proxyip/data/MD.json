@@ -36,16 +36,16 @@
     "asn": "ALEXHOST SRL"
   },
   {
-    "ip": "45.67.229.128",
-    "port": 81,
-    "code": "MD",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "159.253.120.204",
     "port": 443,
     "code": "MD",
     "asn": "ALEXHOST SRL"
+  },
+  {
+    "ip": "45.67.229.128",
+    "port": 81,
+    "code": "MD",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "91.208.162.68",
@@ -54,16 +54,16 @@
     "asn": "ALEXHOST SRL"
   },
   {
-    "ip": "109.185.236.240",
-    "port": 443,
-    "code": "MD",
-    "asn": "JSC Moldtelecom S.A."
-  },
-  {
     "ip": "45.67.229.8",
     "port": 443,
     "code": "MD",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "109.185.236.240",
+    "port": 443,
+    "code": "MD",
+    "asn": "JSC Moldtelecom S.A."
   },
   {
     "ip": "45.86.86.53",
@@ -84,12 +84,6 @@
     "asn": "AlexHost SRL"
   },
   {
-    "ip": "185.250.148.240",
-    "port": 443,
-    "code": "MD",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "94.103.188.38",
     "port": 443,
     "code": "MD",
@@ -100,5 +94,11 @@
     "port": 8443,
     "code": "MD",
     "asn": "FOXCLOUD COMMUNICATIONS SRL"
+  },
+  {
+    "ip": "185.250.148.240",
+    "port": 443,
+    "code": "MD",
+    "asn": "WorkTitans B.V."
   }
 ]
