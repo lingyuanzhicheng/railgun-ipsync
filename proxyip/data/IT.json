@@ -1,5 +1,11 @@
 [
   {
+    "ip": "85.9.104.44",
+    "port": 443,
+    "code": "IT",
+    "asn": "Aruba S.p.A. - Cloud Services Farm2"
+  },
+  {
     "ip": "185.247.184.186",
     "port": 2053,
     "code": "IT",
@@ -18,16 +24,16 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "194.165.59.20",
-    "port": 443,
-    "code": "IT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "158.180.231.216",
     "port": 443,
     "code": "IT",
     "asn": "Oracle Corporation"
+  },
+  {
+    "ip": "194.165.59.20",
+    "port": 443,
+    "code": "IT",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "176.126.83.146",
@@ -48,12 +54,6 @@
     "asn": "FCA INFORMATION TECHNOLOGY, EXCELLENCE AND METHODS S.P.A."
   },
   {
-    "ip": "185.198.235.246",
-    "port": 2083,
-    "code": "IT",
-    "asn": "Baxet Group Inc."
-  },
-  {
     "ip": "80.211.170.53",
     "port": 443,
     "code": "IT",
@@ -70,6 +70,12 @@
     "port": 1001,
     "code": "IT",
     "asn": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "185.198.235.246",
+    "port": 2083,
+    "code": "IT",
+    "asn": "Baxet Group Inc."
   },
   {
     "ip": "129.152.2.127",
@@ -102,16 +108,16 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "178.175.231.13",
-    "port": 443,
-    "code": "IT",
-    "asn": "MYNET S.R.L."
-  },
-  {
     "ip": "94.177.199.45",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
+  },
+  {
+    "ip": "178.175.231.13",
+    "port": 443,
+    "code": "IT",
+    "asn": "MYNET S.R.L."
   },
   {
     "ip": "94.177.199.119",
@@ -168,16 +174,16 @@
     "asn": "Aruba S.p.A. - Cloud Services Farm2"
   },
   {
-    "ip": "5.253.43.216",
-    "port": 443,
-    "code": "IT",
-    "asn": "WorkTitans B.V."
-  },
-  {
     "ip": "195.231.38.220",
     "port": 443,
     "code": "IT",
     "asn": "Aruba S.p.A. - Cloud Services IT3"
+  },
+  {
+    "ip": "5.253.43.216",
+    "port": 443,
+    "code": "IT",
+    "asn": "WorkTitans B.V."
   },
   {
     "ip": "80.211.231.169",

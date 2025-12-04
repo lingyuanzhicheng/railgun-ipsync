@@ -138,6 +138,12 @@
     "asn": "Aeza International LTD"
   },
   {
+    "ip": "45.87.41.135",
+    "port": 443,
+    "code": "AT",
+    "asn": "M247 LTD Vienna Infrastructure"
+  },
+  {
     "ip": "152.53.104.139",
     "port": 8081,
     "code": "AT",
@@ -174,6 +180,12 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
+    "ip": "46.102.156.144",
+    "port": 2053,
+    "code": "AT",
+    "asn": "Alwyzon, a trading name of Hohl IT e.U."
+  },
+  {
     "ip": "83.138.55.120",
     "port": 8443,
     "code": "AT",
@@ -181,12 +193,6 @@
   },
   {
     "ip": "193.219.97.186",
-    "port": 2053,
-    "code": "AT",
-    "asn": "Alwyzon, a trading name of Hohl IT e.U."
-  },
-  {
-    "ip": "46.102.156.144",
     "port": 2053,
     "code": "AT",
     "asn": "Alwyzon, a trading name of Hohl IT e.U."
@@ -204,16 +210,16 @@
     "asn": "ZetServers Vienna"
   },
   {
-    "ip": "203.98.67.74",
-    "port": 2053,
-    "code": "AT",
-    "asn": "Alwyzon, a trading name of Hohl IT e.U."
-  },
-  {
     "ip": "185.119.117.146",
     "port": 8443,
     "code": "AT",
     "asn": "IPAX VIRTUAL line server"
+  },
+  {
+    "ip": "203.98.67.74",
+    "port": 2053,
+    "code": "AT",
+    "asn": "Alwyzon, a trading name of Hohl IT e.U."
   },
   {
     "ip": "94.177.8.122",
@@ -246,16 +252,16 @@
     "asn": "Alwyzon, a trading name of Hohl IT e.U."
   },
   {
+    "ip": "193.219.97.146",
+    "port": 8443,
+    "code": "AT",
+    "asn": "Alwyzon, a trading name of Hohl IT e.U."
+  },
+  {
     "ip": "38.180.143.51",
     "port": 2053,
     "code": "AT",
     "asn": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "83.138.55.252",
-    "port": 8443,
-    "code": "AT",
-    "asn": "Alwyzon, a trading name of Hohl IT e.U."
   },
   {
     "ip": "85.236.242.36",
@@ -264,7 +270,7 @@
     "asn": "Cable Customers"
   },
   {
-    "ip": "193.219.97.146",
+    "ip": "83.138.55.252",
     "port": 8443,
     "code": "AT",
     "asn": "Alwyzon, a trading name of Hohl IT e.U."
@@ -282,13 +288,13 @@
     "asn": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "83.138.55.252",
+    "ip": "94.177.8.78",
     "port": 2053,
     "code": "AT",
     "asn": "Alwyzon, a trading name of Hohl IT e.U."
   },
   {
-    "ip": "94.177.8.78",
+    "ip": "83.138.55.252",
     "port": 2053,
     "code": "AT",
     "asn": "Alwyzon, a trading name of Hohl IT e.U."

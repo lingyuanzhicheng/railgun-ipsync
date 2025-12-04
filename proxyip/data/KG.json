@@ -12,12 +12,6 @@
     "asn": "RCS Technologies FZE LLC"
   },
   {
-    "ip": "176.126.164.213",
-    "port": 443,
-    "code": "KG",
-    "asn": "Hoster kg, Ltd."
-  },
-  {
     "ip": "188.240.213.125",
     "port": 443,
     "code": "KG",
@@ -40,5 +34,17 @@
     "port": 2053,
     "code": "KG",
     "asn": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "176.126.164.213",
+    "port": 443,
+    "code": "KG",
+    "asn": "Hoster kg, Ltd."
+  },
+  {
+    "ip": "91.207.28.179",
+    "port": 443,
+    "code": "KG",
+    "asn": "Optima Telecom Ltd."
   }
 ]

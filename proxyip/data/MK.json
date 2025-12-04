@@ -1,15 +1,15 @@
 [
   {
-    "ip": "89.185.82.125",
-    "port": 8443,
-    "code": "MK",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "45.83.141.54",
     "port": 443,
     "code": "MK",
     "asn": "WorkTitans B.V."
+  },
+  {
+    "ip": "89.185.82.125",
+    "port": 8443,
+    "code": "MK",
+    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "45.83.141.93",
@@ -26,12 +26,6 @@
   {
     "ip": "89.185.82.90",
     "port": 2053,
-    "code": "MK",
-    "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "89.185.82.89",
-    "port": 443,
     "code": "MK",
     "asn": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },

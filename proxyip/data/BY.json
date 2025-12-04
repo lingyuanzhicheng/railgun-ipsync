@@ -1,11 +1,5 @@
 [
   {
-    "ip": "185.251.38.232",
-    "port": 443,
-    "code": "BY",
-    "asn": "Yedinyye Resheniya LLC"
-  },
-  {
     "ip": "45.129.186.233",
     "port": 443,
     "code": "BY",
@@ -16,6 +10,12 @@
     "port": 2053,
     "code": "BY",
     "asn": "LLC Supportby"
+  },
+  {
+    "ip": "185.251.38.232",
+    "port": 443,
+    "code": "BY",
+    "asn": "Yedinyye Resheniya LLC"
   },
   {
     "ip": "45.129.186.120",
