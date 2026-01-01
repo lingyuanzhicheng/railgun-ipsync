@@ -852,12 +852,6 @@
     "org": "As56971"
   },
   {
-    "ip": "194.53.54.30",
-    "port": 443,
-    "code": "FI",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "194.180.189.36",
     "port": 443,
     "code": "FI",
@@ -904,12 +898,6 @@
     "port": 443,
     "code": "NL",
     "org": "DataWeb Global Group B.V"
-  },
-  {
-    "ip": "2.59.183.219",
-    "port": 443,
-    "code": "NL",
-    "org": "Serva ONE LTD"
   },
   {
     "ip": "5.144.176.149",
@@ -1764,12 +1752,6 @@
     "org": ""
   },
   {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "20.247.137.183",
     "port": 443,
     "code": "SG",
@@ -1900,12 +1882,6 @@
     "port": 443,
     "code": "GB",
     "org": "WorkTitans B.V"
-  },
-  {
-    "ip": "103.13.208.242",
-    "port": 443,
-    "code": "GB",
-    "org": "Cloudwebmanage EU LO"
   },
   {
     "ip": "185.66.164.51",
@@ -2059,12 +2035,6 @@
   },
   {
     "ip": "83.147.216.182",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "83.147.216.148",
     "port": 443,
     "code": "GB",
     "org": "Aeza International LTD"
@@ -2532,12 +2502,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "212.115.108.60",
-    "port": 2083,
-    "code": "GB",
-    "org": "Kamatera Inc"
-  },
-  {
     "ip": "51.89.166.116",
     "port": 2087,
     "code": "GB",
@@ -2680,12 +2644,6 @@
     "port": 2053,
     "code": "GB",
     "org": "HR SYSHEAD"
-  },
-  {
-    "ip": "78.129.253.115",
-    "port": 443,
-    "code": "GB",
-    "org": "IOMART MANAGED SERVICES LIMITED"
   },
   {
     "ip": "57.128.178.63",
@@ -6828,12 +6786,6 @@
     "org": "BlueVPS OU"
   },
   {
-    "ip": "79.124.7.236",
-    "port": 444,
-    "code": "BG",
-    "org": "DA International Group Ltd. - AlphaVPS"
-  },
-  {
     "ip": "93.157.106.107",
     "port": 443,
     "code": "BG",
@@ -7530,12 +7482,6 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "176.120.21.202",
-    "port": 2053,
-    "code": "KZ",
-    "org": "AdminVPS OOO"
-  },
-  {
     "ip": "45.88.90.13",
     "port": 443,
     "code": "KZ",
@@ -7654,12 +7600,6 @@
     "port": 2053,
     "code": "IN",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "192.46.213.36",
-    "port": 8443,
-    "code": "IN",
-    "org": "Akamai Connected Cloud / Linode"
   },
   {
     "ip": "146.56.48.138",
@@ -8862,12 +8802,6 @@
     "org": "u1host ltd"
   },
   {
-    "ip": "91.107.170.178",
-    "port": 2087,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "195.201.231.143",
     "port": 443,
     "code": "DE",
@@ -9112,12 +9046,6 @@
     "port": 2005,
     "code": "DE",
     "org": "netcup GmbH"
-  },
-  {
-    "ip": "77.91.77.11",
-    "port": 8443,
-    "code": "DE",
-    "org": "HyperCore LTD"
   },
   {
     "ip": "195.245.239.45",
@@ -9396,12 +9324,6 @@
     "org": "HOSTKEY B.V."
   },
   {
-    "ip": "185.100.159.170",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "164.90.209.253",
     "port": 8443,
     "code": "DE",
@@ -9606,12 +9528,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "85.208.139.88",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "194.48.250.224",
     "port": 443,
     "code": "DE",
@@ -9672,12 +9588,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "5.178.110.92",
-    "port": 2053,
-    "code": "DE",
-    "org": "ahbr company limited"
-  },
-  {
     "ip": "95.140.153.9",
     "port": 443,
     "code": "DE",
@@ -9688,12 +9598,6 @@
     "port": 443,
     "code": "DE",
     "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "212.114.194.76",
-    "port": 443,
-    "code": "DE",
-    "org": "KABEL-DEUTSCHLAND-CUSTOMER-SERVICES-28"
   },
   {
     "ip": "185.94.29.156",
@@ -9754,12 +9658,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Customer allocation HB Client 2916"
-  },
-  {
-    "ip": "193.23.197.183",
-    "port": 443,
-    "code": "DE",
-    "org": "Senko Digital LLC"
   },
   {
     "ip": "194.58.33.237",
@@ -9856,12 +9754,6 @@
     "port": 8443,
     "code": "DE",
     "org": "UltaHost Inc"
-  },
-  {
-    "ip": "212.114.194.74",
-    "port": 443,
-    "code": "DE",
-    "org": "KABEL-DEUTSCHLAND-CUSTOMER-SERVICES-28"
   },
   {
     "ip": "91.132.160.151",
@@ -10110,12 +10002,6 @@
     "org": "ALEKSEI FEDOROV PR KRUSEVAC"
   },
   {
-    "ip": "85.208.139.108",
-    "port": 443,
-    "code": "DE",
-    "org": "HOST TELECOM LTD"
-  },
-  {
     "ip": "195.206.242.60",
     "port": 2053,
     "code": "DE",
@@ -10264,12 +10150,6 @@
     "port": 443,
     "code": "DE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "172.86.67.91",
-    "port": 443,
-    "code": "DE",
-    "org": "RouterHosting LLC"
   },
   {
     "ip": "143.20.213.56",
@@ -11154,12 +11034,6 @@
     "org": "Customer allocation HB Client 2916"
   },
   {
-    "ip": "62.133.60.155",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "45.43.89.236",
     "port": 443,
     "code": "DE",
@@ -11232,12 +11106,6 @@
     "org": "H2.NEXUS Frankfurt Network"
   },
   {
-    "ip": "91.107.170.178",
-    "port": 8443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "57.129.47.40",
     "port": 8443,
     "code": "DE",
@@ -11278,12 +11146,6 @@
     "port": 443,
     "code": "DE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "85.208.139.98",
-    "port": 8443,
-    "code": "DE",
-    "org": "HOST TELECOM LTD"
   },
   {
     "ip": "185.103.252.250",
@@ -11458,12 +11320,6 @@
     "port": 443,
     "code": "DE",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "80.253.251.183",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "212.193.4.209",
@@ -11866,12 +11722,6 @@
     "port": 2083,
     "code": "DE",
     "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "212.114.194.78",
-    "port": 443,
-    "code": "DE",
-    "org": "M-net Telekommunikations GmbH"
   },
   {
     "ip": "77.91.77.218",
@@ -12534,12 +12384,6 @@
     "org": "dataforest GmbH"
   },
   {
-    "ip": "62.133.60.66",
-    "port": 8443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "91.107.183.226",
     "port": 2087,
     "code": "DE",
@@ -13116,12 +12960,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "77.110.107.199",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "37.1.197.77",
     "port": 2053,
     "code": "DE",
@@ -13218,12 +13056,6 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "64.188.69.86",
-    "port": 443,
-    "code": "DE",
-    "org": "Senko Digital LLC"
-  },
-  {
     "ip": "202.61.200.220",
     "port": 8088,
     "code": "DE",
@@ -13240,12 +13072,6 @@
     "port": 443,
     "code": "DE",
     "org": "M-TELECOM S. de R.L."
-  },
-  {
-    "ip": "89.208.97.241",
-    "port": 8443,
-    "code": "DE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "64.188.69.86",
@@ -14604,12 +14430,6 @@
     "org": "OVH GmbH"
   },
   {
-    "ip": "188.241.241.29",
-    "port": 2053,
-    "code": "DE",
-    "org": "HFM S.R.L"
-  },
-  {
     "ip": "5.187.0.232",
     "port": 8443,
     "code": "DE",
@@ -15374,12 +15194,6 @@
   {
     "ip": "51.195.119.65",
     "port": 8443,
-    "code": "DE",
-    "org": "OVH GmbH"
-  },
-  {
-    "ip": "51.195.119.195",
-    "port": 2053,
     "code": "DE",
     "org": "OVH GmbH"
   },
@@ -16462,12 +16276,6 @@
     "port": 8443,
     "code": "DE",
     "org": "nuxt.cloud hosting provider"
-  },
-  {
-    "ip": "193.23.218.64",
-    "port": 443,
-    "code": "DE",
-    "org": "Senko Digital LLC"
   },
   {
     "ip": "31.56.237.223",
@@ -17658,12 +17466,6 @@
     "org": "Ethernet Servers"
   },
   {
-    "ip": "194.87.71.42",
-    "port": 443,
-    "code": "DE",
-    "org": "LLC Baxet"
-  },
-  {
     "ip": "31.56.237.0",
     "port": 8443,
     "code": "DE",
@@ -17832,12 +17634,6 @@
     "org": "M-net Telekommunikations GmbH"
   },
   {
-    "ip": "171.22.173.223",
-    "port": 443,
-    "code": "DE",
-    "org": "MASSIVEGRID LTD"
-  },
-  {
     "ip": "57.129.63.158",
     "port": 2053,
     "code": "DE",
@@ -17914,12 +17710,6 @@
     "port": 443,
     "code": "DE",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "91.108.243.39",
-    "port": 443,
-    "code": "DE",
-    "org": "M-TELECOM S. de R.L."
   },
   {
     "ip": "143.20.213.4",
@@ -18372,12 +18162,6 @@
     "org": "WAIcore Ltd"
   },
   {
-    "ip": "95.169.182.20",
-    "port": 8443,
-    "code": "DE",
-    "org": "Keyweb AG"
-  },
-  {
     "ip": "194.76.173.106",
     "port": 2053,
     "code": "DE",
@@ -18666,12 +18450,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "81.19.141.75",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "104.207.131.222",
     "port": 8443,
     "code": "DE",
@@ -18736,12 +18514,6 @@
     "port": 443,
     "code": "DE",
     "org": "FIRST SERVER LIMITED"
-  },
-  {
-    "ip": "91.219.23.164",
-    "port": 2053,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "77.110.99.160",
@@ -19050,12 +18822,6 @@
     "org": "Customer allocation HB Client 2916"
   },
   {
-    "ip": "194.87.71.141",
-    "port": 443,
-    "code": "DE",
-    "org": "LLC Baxet"
-  },
-  {
     "ip": "84.200.89.58",
     "port": 443,
     "code": "DE",
@@ -19102,12 +18868,6 @@
     "port": 8443,
     "code": "DE",
     "org": "OVH GmbH"
-  },
-  {
-    "ip": "80.253.251.30",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "89.19.44.247",
@@ -19530,18 +19290,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "64.188.104.12",
-    "port": 443,
-    "code": "DE",
-    "org": "Senko Digital LLC"
-  },
-  {
-    "ip": "85.208.139.98",
-    "port": 8444,
-    "code": "DE",
-    "org": "HOST TELECOM LTD"
-  },
-  {
     "ip": "185.78.76.63",
     "port": 2053,
     "code": "DE",
@@ -19632,12 +19380,6 @@
     "org": "TK Rustelekom LLC"
   },
   {
-    "ip": "77.91.77.11",
-    "port": 2053,
-    "code": "DE",
-    "org": "HyperCore LTD"
-  },
-  {
     "ip": "109.120.179.82",
     "port": 8443,
     "code": "DE",
@@ -19684,12 +19426,6 @@
     "port": 2053,
     "code": "DE",
     "org": "Germany, Frankfurt"
-  },
-  {
-    "ip": "78.153.136.26",
-    "port": 8443,
-    "code": "DE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "116.203.122.202",
@@ -19894,18 +19630,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "89.208.97.241",
-    "port": 2053,
-    "code": "DE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "89.23.108.63",
-    "port": 2053,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "193.233.133.31",
@@ -20934,12 +20658,6 @@
     "org": "netcup GmbH"
   },
   {
-    "ip": "62.133.60.60",
-    "port": 2053,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "176.96.137.63",
     "port": 1008,
     "code": "DE",
@@ -21870,12 +21588,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "77.110.107.95",
-    "port": 443,
-    "code": "DE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "77.221.156.19",
     "port": 443,
     "code": "DE",
@@ -22102,12 +21814,6 @@
     "port": 443,
     "code": "TR",
     "org": "WorkTitans B.V."
-  },
-  {
-    "ip": "212.64.201.193",
-    "port": 443,
-    "code": "TR",
-    "org": "SUNUCUN BILGI ILETSIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI"
   },
   {
     "ip": "5.180.45.70",
@@ -22672,12 +22378,6 @@
     "port": 8443,
     "code": "TR",
     "org": "TEKNOSOS BILISIM HIZMETLERI VE TIC. LTD. STI."
-  },
-  {
-    "ip": "93.115.10.237",
-    "port": 8443,
-    "code": "TR",
-    "org": "ibrahim tufek"
   },
   {
     "ip": "94.131.123.237",
@@ -24610,12 +24310,6 @@
     "port": 8443,
     "code": "US",
     "org": "VDSKA-NET"
-  },
-  {
-    "ip": "5.181.3.16",
-    "port": 8443,
-    "code": "US",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "74.48.141.167",
@@ -26634,12 +26328,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "104.234.50.221",
-    "port": 2053,
-    "code": "US",
-    "org": "Private Customer"
-  },
-  {
     "ip": "107.175.245.68",
     "port": 50242,
     "code": "US",
@@ -27264,12 +26952,6 @@
     "org": "HOSTKEY"
   },
   {
-    "ip": "80.209.242.156",
-    "port": 2053,
-    "code": "US",
-    "org": "HOSTKEY"
-  },
-  {
     "ip": "38.180.40.69",
     "port": 8443,
     "code": "US",
@@ -27426,34 +27108,16 @@
     "org": "MULTACOM CORPORATION"
   },
   {
-    "ip": "158.101.24.17",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "15.204.10.80",
     "port": 49404,
     "code": "US",
     "org": "OVH US LLC"
   },
   {
-    "ip": "23.95.91.159",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "129.158.198.241",
     "port": 2053,
     "code": "US",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "107.172.87.247",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "167.88.160.144",
@@ -27514,12 +27178,6 @@
     "port": 8443,
     "code": "US",
     "org": "Brander Group Inc"
-  },
-  {
-    "ip": "138.2.235.193",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "130.185.164.211",
@@ -27688,12 +27346,6 @@
     "port": 8088,
     "code": "US",
     "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "104.234.61.49",
-    "port": 443,
-    "code": "US",
-    "org": "Virtual Machine Solutions LLC"
   },
   {
     "ip": "107.174.192.67",
@@ -28303,19 +27955,7 @@
   },
   {
     "ip": "74.48.179.37",
-    "port": 36358,
-    "code": "US",
-    "org": "MULTACOM CORPORATION"
-  },
-  {
-    "ip": "74.48.179.37",
     "port": 32380,
-    "code": "US",
-    "org": "MULTACOM CORPORATION"
-  },
-  {
-    "ip": "74.48.179.37",
-    "port": 36460,
     "code": "US",
     "org": "MULTACOM CORPORATION"
   },
@@ -28684,12 +28324,6 @@
     "port": 443,
     "code": "EE",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "185.23.236.111",
-    "port": 443,
-    "code": "EE",
-    "org": "IT-Develop DOO"
   },
   {
     "ip": "176.124.32.87",
@@ -29214,12 +28848,6 @@
     "org": "Smart Digital Ideas DOO"
   },
   {
-    "ip": "89.22.239.171",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.147.254.150",
     "port": 443,
     "code": "SE",
@@ -29536,12 +29164,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "193.148.58.74",
-    "port": 8443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "213.176.92.220",
@@ -30378,12 +30000,6 @@
     "org": "Pronet LLC"
   },
   {
-    "ip": "62.60.153.199",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "62.60.186.78",
     "port": 8443,
     "code": "SE",
@@ -30794,12 +30410,6 @@
   {
     "ip": "147.45.74.28",
     "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "147.45.72.46",
-    "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
   },
@@ -31944,22 +31554,10 @@
     "org": "Oneprovider.com - Zurich Infrastructure"
   },
   {
-    "ip": "107.189.3.96",
-    "port": 443,
-    "code": "CH",
-    "org": "BuyVM"
-  },
-  {
     "ip": "171.22.16.231",
     "port": 443,
     "code": "CH",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "107.189.31.214",
-    "port": 3443,
-    "code": "CH",
-    "org": "FranTech Solutions"
   },
   {
     "ip": "87.120.222.73",
@@ -32010,12 +31608,6 @@
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "104.244.78.95",
-    "port": 2083,
-    "code": "CH",
-    "org": "BuyVM"
-  },
-  {
     "ip": "5.182.36.223",
     "port": 443,
     "code": "CH",
@@ -32050,12 +31642,6 @@
     "port": 443,
     "code": "HK",
     "org": "Alibaba Cloud (Singapore) Private Limited"
-  },
-  {
-    "ip": "154.16.10.34",
-    "port": 8080,
-    "code": "HK",
-    "org": "Digital Energy Technologies Limited"
   },
   {
     "ip": "45.149.186.112",
@@ -32104,12 +31690,6 @@
     "port": 8443,
     "code": "HK",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "156.254.114.120",
-    "port": 30011,
-    "code": "HK",
-    "org": "StepGo Limited"
   },
   {
     "ip": "2.56.91.89",
@@ -34692,12 +34272,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "62.133.62.169",
-    "port": 8443,
-    "code": "FR",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "51.178.37.247",
     "port": 2053,
     "code": "FR",
@@ -34768,12 +34342,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "82.64.152.55",
-    "port": 20304,
-    "code": "FR",
-    "org": "Free SAS"
   },
   {
     "ip": "88.218.78.205",
@@ -37584,12 +37152,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "217.60.36.141",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "54.36.98.30",
     "port": 8443,
     "code": "FR",
@@ -38904,12 +38466,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "62.192.174.175",
-    "port": 2053,
-    "code": "LV",
-    "org": "SERVA ONE LTD"
-  },
-  {
     "ip": "185.82.126.254",
     "port": 2053,
     "code": "LV",
@@ -39690,12 +39246,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "95.181.167.228",
-    "port": 2053,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "85.192.31.30",
     "port": 443,
     "code": "FI",
@@ -39728,12 +39278,6 @@
   {
     "ip": "83.147.192.189",
     "port": 8443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.91.78.127",
-    "port": 443,
     "code": "FI",
     "org": "Aeza International LTD"
   },
@@ -41794,18 +41338,6 @@
     "port": 443,
     "code": "FI",
     "org": "QWINS LTD"
-  },
-  {
-    "ip": "198.105.124.193",
-    "port": 443,
-    "code": "FI",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "79.110.48.75",
-    "port": 443,
-    "code": "FI",
-    "org": "Individual Entrepreneur Anton Levin"
   },
   {
     "ip": "188.130.206.254",
@@ -44038,12 +43570,6 @@
     "port": 443,
     "code": "FI",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "41.220.16.216",
-    "port": 443,
-    "code": "ZW",
-    "org": "Serial Link for TelOne HQ"
   },
   {
     "ip": "186.67.70.55",
@@ -46800,12 +46326,6 @@
     "org": "CLODO CLOUD SERVICE CO. L.L.C"
   },
   {
-    "ip": "103.80.87.88",
-    "port": 443,
-    "code": "NL",
-    "org": "Soltia Consulting SL"
-  },
-  {
     "ip": "45.87.3.224",
     "port": 2053,
     "code": "NL",
@@ -47946,12 +47466,6 @@
     "org": "SERVERS TECH FZCO"
   },
   {
-    "ip": "212.34.148.122",
-    "port": 2053,
-    "code": "NL",
-    "org": "Amsterdam, Netherlands"
-  },
-  {
     "ip": "103.80.86.83",
     "port": 443,
     "code": "NL",
@@ -48556,18 +48070,6 @@
     "port": 8443,
     "code": "NL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "89.110.81.2",
-    "port": 2053,
-    "code": "NL",
-    "org": "Amsterdam, Netherlands"
-  },
-  {
-    "ip": "89.110.81.2",
-    "port": 8443,
-    "code": "NL",
-    "org": "Amsterdam, Netherlands"
   },
   {
     "ip": "89.110.83.77",
@@ -51306,12 +50808,6 @@
     "org": "Red Switches"
   },
   {
-    "ip": "94.131.112.176",
-    "port": 443,
-    "code": "NL",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "178.208.64.245",
     "port": 443,
     "code": "NL",
@@ -53610,12 +53106,6 @@
     "org": "JW Lucasweg 35"
   },
   {
-    "ip": "185.184.121.186",
-    "port": 443,
-    "code": "NL",
-    "org": "nuxt.cloud hosting provider"
-  },
-  {
     "ip": "89.110.65.5",
     "port": 8443,
     "code": "NL",
@@ -54544,12 +54034,6 @@
     "port": 8443,
     "code": "NL",
     "org": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "45.114.60.61",
-    "port": 443,
-    "code": "NL",
-    "org": "CLODO CLOUD SERVICE CO. L.L.C"
   },
   {
     "ip": "77.238.252.50",
@@ -56088,12 +55572,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "81.22.132.183",
-    "port": 443,
-    "code": "NL",
-    "org": "Internet Utilities Europe and Asia Limited"
-  },
-  {
     "ip": "185.193.158.66",
     "port": 8443,
     "code": "NL",
@@ -57010,12 +56488,6 @@
     "port": 443,
     "code": "NL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "194.61.120.53",
-    "port": 8443,
-    "code": "NL",
-    "org": "BlueVPS OU"
   },
   {
     "ip": "5.35.34.146",
@@ -58315,12 +57787,6 @@
   },
   {
     "ip": "91.84.101.222",
-    "port": 443,
-    "code": "NL",
-    "org": "Amsterdam, Netherlands"
-  },
-  {
-    "ip": "146.103.114.180",
     "port": 443,
     "code": "NL",
     "org": "Amsterdam, Netherlands"
@@ -60190,12 +59656,6 @@
     "port": 8443,
     "code": "NL",
     "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
-    "ip": "194.87.31.22",
-    "port": 8443,
-    "code": "NL",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "195.133.59.174",
@@ -62232,12 +61692,6 @@
     "org": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
-    "ip": "151.234.162.139",
-    "port": 2053,
-    "code": "NL",
-    "org": "Baxet Group Inc."
-  },
-  {
     "ip": "185.238.168.244",
     "port": 8443,
     "code": "NL",
@@ -62532,12 +61986,6 @@
     "org": "JSC TIMEWEB"
   },
   {
-    "ip": "77.233.221.253",
-    "port": 8443,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
     "ip": "188.225.73.242",
     "port": 8443,
     "code": "RU",
@@ -62704,12 +62152,6 @@
     "port": 2053,
     "code": "RU",
     "org": "veesp.com clients"
-  },
-  {
-    "ip": "195.58.54.223",
-    "port": 8443,
-    "code": "RU",
-    "org": "MT FINANCE LLC"
   },
   {
     "ip": "92.38.152.30",
