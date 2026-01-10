@@ -138,12 +138,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "89.251.9.5",
-    "port": 8443,
-    "code": "CA",
-    "org": "Deployish Limited"
-  },
-  {
     "ip": "148.113.200.194",
     "port": 2053,
     "code": "CA",
@@ -214,11 +208,5 @@
     "port": 443,
     "code": "CA",
     "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "185.36.228.14",
-    "port": 8443,
-    "code": "CA",
-    "org": "Deployish Limited"
   }
 ]

@@ -666,12 +666,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "51.89.166.116",
-    "port": 2087,
-    "code": "GB",
-    "org": "OVH Ltd"
-  },
-  {
     "ip": "57.129.137.237",
     "port": 8443,
     "code": "GB",
@@ -1782,12 +1776,6 @@
     "org": "MVPS LTD"
   },
   {
-    "ip": "141.147.92.143",
-    "port": 8443,
-    "code": "GB",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "57.128.176.90",
     "port": 443,
     "code": "GB",
@@ -2194,12 +2182,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "5.61.61.160",
-    "port": 443,
-    "code": "GB",
-    "org": "IROKO Networks Corporation"
   },
   {
     "ip": "158.220.88.180",
@@ -3064,11 +3046,5 @@
     "port": 443,
     "code": "GB",
     "org": "Heart Internet Ltd"
-  },
-  {
-    "ip": "185.128.138.179",
-    "port": 8443,
-    "code": "GB",
-    "org": "Deployish Limited"
   }
 ]
