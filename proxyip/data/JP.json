@@ -90,12 +90,6 @@
     "org": "AWS EC2 (ap-northeast-1)"
   },
   {
-    "ip": "18.183.158.211",
-    "port": 443,
-    "code": "JP",
-    "org": "AWS EC2 (ap-northeast-1)"
-  },
-  {
     "ip": "45.32.55.253",
     "port": 443,
     "code": "JP",
@@ -156,22 +150,10 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "64.176.42.125",
-    "port": 10001,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "138.2.39.24",
     "port": 443,
     "code": "JP",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "64.176.42.125",
-    "port": 10008,
-    "code": "JP",
-    "org": "The Constant Company, LLC"
   },
   {
     "ip": "152.69.199.70",
@@ -412,12 +394,6 @@
     "port": 2053,
     "code": "JP",
     "org": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "47.79.42.197",
-    "port": 443,
-    "code": "JP",
-    "org": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
     "ip": "141.147.159.250",

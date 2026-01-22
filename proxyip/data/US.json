@@ -1,11 +1,5 @@
 [
   {
-    "ip": "192.227.180.25",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "192.227.231.108",
     "port": 443,
     "code": "US",
@@ -96,12 +90,6 @@
     "org": "Bage Cloud LLC"
   },
   {
-    "ip": "167.99.58.113",
-    "port": 443,
-    "code": "US",
-    "org": "Digital Ocean"
-  },
-  {
     "ip": "172.245.53.232",
     "port": 443,
     "code": "US",
@@ -121,12 +109,6 @@
   },
   {
     "ip": "192.3.134.177",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
-    "ip": "192.3.155.203",
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
@@ -354,12 +336,6 @@
     "org": "MULTACOM CORPORATION"
   },
   {
-    "ip": "5.181.3.119",
-    "port": 8443,
-    "code": "US",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "129.146.46.164",
     "port": 443,
     "code": "US",
@@ -376,12 +352,6 @@
     "port": 28425,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "74.211.96.225",
-    "port": 8443,
-    "code": "US",
-    "org": "IT7 Networks Inc"
   },
   {
     "ip": "72.18.132.149",
@@ -612,12 +582,6 @@
     "org": "365 Group"
   },
   {
-    "ip": "170.205.38.77",
-    "port": 443,
-    "code": "US",
-    "org": "HostHatch LLC"
-  },
-  {
     "ip": "107.173.34.130",
     "port": 2053,
     "code": "US",
@@ -642,22 +606,10 @@
     "org": "www.fornex.com, Fornex Hosting S.L."
   },
   {
-    "ip": "172.83.159.4",
-    "port": 41389,
-    "code": "US",
-    "org": "Spartan Host Ltd"
-  },
-  {
     "ip": "192.227.231.52",
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "159.203.150.39",
-    "port": 443,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "172.82.16.99",
@@ -696,22 +648,10 @@
     "org": "Private Customer"
   },
   {
-    "ip": "172.83.159.4",
-    "port": 16478,
-    "code": "US",
-    "org": "Spartan Host Ltd"
-  },
-  {
     "ip": "172.235.49.135",
     "port": 17973,
     "code": "US",
     "org": "Linode"
-  },
-  {
-    "ip": "77.110.109.199",
-    "port": 443,
-    "code": "US",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "80.209.242.156",
@@ -760,12 +700,6 @@
     "port": 14828,
     "code": "US",
     "org": "IT7 Networks Inc"
-  },
-  {
-    "ip": "173.249.203.14",
-    "port": 443,
-    "code": "US",
-    "org": "Tzulo-PHX"
   },
   {
     "ip": "138.128.247.246",
@@ -1044,12 +978,6 @@
     "org": "Brander Group Inc."
   },
   {
-    "ip": "148.135.59.174",
-    "port": 54824,
-    "code": "US",
-    "org": "Brander Group Inc."
-  },
-  {
     "ip": "193.233.87.41",
     "port": 8443,
     "code": "US",
@@ -1164,12 +1092,6 @@
     "org": "IONOS Inc."
   },
   {
-    "ip": "54.189.161.131",
-    "port": 48850,
-    "code": "US",
-    "org": "Amazon.com, Inc."
-  },
-  {
     "ip": "47.251.70.15",
     "port": 28648,
     "code": "US",
@@ -1260,22 +1182,10 @@
     "org": "Amazon.com, Inc."
   },
   {
-    "ip": "132.145.217.215",
-    "port": 11082,
-    "code": "US",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "23.95.252.186",
     "port": 8443,
     "code": "US",
     "org": "HostPapa"
-  },
-  {
-    "ip": "132.145.217.215",
-    "port": 11002,
-    "code": "US",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "35.175.188.144",
@@ -1324,12 +1234,6 @@
     "port": 443,
     "code": "US",
     "org": "IONOS Inc."
-  },
-  {
-    "ip": "132.145.217.215",
-    "port": 11001,
-    "code": "US",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "152.70.143.175",
@@ -1488,12 +1392,6 @@
     "org": "Cluster Logic Inc"
   },
   {
-    "ip": "77.110.124.146",
-    "port": 443,
-    "code": "US",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "216.128.140.218",
     "port": 443,
     "code": "US",
@@ -1648,12 +1546,6 @@
     "port": 2053,
     "code": "US",
     "org": "3HCLOUD LLC"
-  },
-  {
-    "ip": "207.246.92.49",
-    "port": 443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "38.146.27.51",
@@ -1848,28 +1740,10 @@
     "org": "RedShield Security Ltd"
   },
   {
-    "ip": "155.248.193.100",
-    "port": 33189,
-    "code": "US",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "89.116.171.101",
     "port": 443,
     "code": "US",
     "org": "Ethernet Servers"
-  },
-  {
-    "ip": "130.185.164.215",
-    "port": 8443,
-    "code": "US",
-    "org": "Internet Utilities Europe and Asia Limited"
-  },
-  {
-    "ip": "77.110.124.132",
-    "port": 443,
-    "code": "US",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "158.101.5.192",
@@ -1924,12 +1798,6 @@
     "port": 11338,
     "code": "US",
     "org": "Sriyaan technology"
-  },
-  {
-    "ip": "23.106.155.178",
-    "port": 802,
-    "code": "US",
-    "org": "IT7 Networks Inc"
   },
   {
     "ip": "155.248.214.92",
@@ -2028,12 +1896,6 @@
     "org": "365.hosting"
   },
   {
-    "ip": "77.110.114.103",
-    "port": 2053,
-    "code": "US",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "91.149.239.70",
     "port": 443,
     "code": "US",
@@ -2112,12 +1974,6 @@
     "org": "HostPapa"
   },
   {
-    "ip": "23.94.43.51",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "23.94.56.111",
     "port": 20338,
     "code": "US",
@@ -2128,12 +1984,6 @@
     "port": 8443,
     "code": "US",
     "org": "365.hosting"
-  },
-  {
-    "ip": "69.197.140.66",
-    "port": 8443,
-    "code": "US",
-    "org": "365 Group LLC"
   },
   {
     "ip": "31.169.125.150",
@@ -2238,12 +2088,6 @@
     "org": "MASSIVEGRID LTD"
   },
   {
-    "ip": "104.234.50.19",
-    "port": 2053,
-    "code": "US",
-    "org": "Private Customer"
-  },
-  {
     "ip": "143.20.207.35",
     "port": 8443,
     "code": "US",
@@ -2292,22 +2136,10 @@
     "org": "Cloud Web Manage"
   },
   {
-    "ip": "77.110.114.56",
-    "port": 443,
-    "code": "US",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "162.120.69.85",
     "port": 8443,
     "code": "US",
     "org": "Brander Group Inc"
-  },
-  {
-    "ip": "77.110.109.7",
-    "port": 443,
-    "code": "US",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "129.153.112.108",
@@ -2404,12 +2236,6 @@
     "port": 443,
     "code": "US",
     "org": "Ace Data Centers, Inc."
-  },
-  {
-    "ip": "129.213.22.27",
-    "port": 11650,
-    "code": "US",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "195.123.241.122",
@@ -2674,12 +2500,6 @@
     "port": 8443,
     "code": "US",
     "org": "G-Core Labs S.A."
-  },
-  {
-    "ip": "144.172.101.205",
-    "port": 443,
-    "code": "US",
-    "org": "RouterHosting LLC"
   },
   {
     "ip": "43.130.134.123",
@@ -3090,12 +2910,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "95.181.173.131",
-    "port": 8443,
-    "code": "US",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "192.9.228.70",
     "port": 14123,
     "code": "US",
@@ -3298,12 +3112,6 @@
     "port": 65001,
     "code": "US",
     "org": "6 COLLYER QUAY"
-  },
-  {
-    "ip": "45.151.133.125",
-    "port": 41389,
-    "code": "US",
-    "org": "Spartan Host Ltd"
   },
   {
     "ip": "38.180.40.64",
@@ -3550,12 +3358,6 @@
     "port": 2059,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "167.99.58.113",
-    "port": 2096,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "107.173.34.130",
