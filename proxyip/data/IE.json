@@ -24,22 +24,10 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "172.245.97.149",
-    "port": 443,
-    "code": "IE",
-    "org": "HostPapa"
-  },
-  {
     "ip": "194.26.213.108",
     "port": 443,
     "code": "IE",
     "org": "MVPS LTD"
-  },
-  {
-    "ip": "194.87.245.135",
-    "port": 8443,
-    "code": "IE",
-    "org": "Reliable Communications s.r.o."
   },
   {
     "ip": "54.229.164.147",
@@ -60,24 +48,6 @@
     "org": "Amazon Data Services Ireland Limited"
   },
   {
-    "ip": "23.95.225.214",
-    "port": 8443,
-    "code": "IE",
-    "org": "RackNerd LLC"
-  },
-  {
-    "ip": "194.87.245.135",
-    "port": 2053,
-    "code": "IE",
-    "org": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "198.55.103.168",
-    "port": 443,
-    "code": "IE",
-    "org": "Cloudflare London, LLC"
-  },
-  {
     "ip": "52.19.7.141",
     "port": 2053,
     "code": "IE",
@@ -88,48 +58,6 @@
     "port": 2053,
     "code": "IE",
     "org": "Amazon.com, Inc."
-  },
-  {
-    "ip": "85.159.229.122",
-    "port": 443,
-    "code": "IE",
-    "org": "GLOBAL INTERNET SOLUTIONS LLC"
-  },
-  {
-    "ip": "185.231.207.113",
-    "port": 443,
-    "code": "IE",
-    "org": "WorkTitans B.V."
-  },
-  {
-    "ip": "194.87.245.253",
-    "port": 443,
-    "code": "IE",
-    "org": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "45.141.234.153",
-    "port": 443,
-    "code": "IE",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "194.87.245.181",
-    "port": 8443,
-    "code": "IE",
-    "org": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "107.172.145.153",
-    "port": 443,
-    "code": "IE",
-    "org": "RackNerd LLC"
-  },
-  {
-    "ip": "198.55.103.143",
-    "port": 443,
-    "code": "IE",
-    "org": "VPS ACE"
   },
   {
     "ip": "52.19.7.141",
@@ -148,23 +76,5 @@
     "port": 2053,
     "code": "IE",
     "org": "Amazon.com, Inc."
-  },
-  {
-    "ip": "194.87.245.181",
-    "port": 2053,
-    "code": "IE",
-    "org": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "185.231.207.114",
-    "port": 443,
-    "code": "IE",
-    "org": "WorkTitans B.V."
-  },
-  {
-    "ip": "198.55.102.125",
-    "port": 443,
-    "code": "IE",
-    "org": "VPS ACE"
   }
 ]
