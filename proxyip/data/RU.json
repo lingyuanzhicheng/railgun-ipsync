@@ -6,12 +6,6 @@
     "org": "S-INFORM Network"
   },
   {
-    "ip": "94.142.139.93",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "95.182.122.28",
     "port": 443,
     "code": "RU",
@@ -264,12 +258,6 @@
     "org": "JSC TIMEWEB"
   },
   {
-    "ip": "178.154.220.16",
-    "port": 8443,
-    "code": "RU",
-    "org": "Yandex.Cloud LLC"
-  },
-  {
     "ip": "95.163.240.203",
     "port": 8443,
     "code": "RU",
@@ -418,12 +406,6 @@
     "port": 8443,
     "code": "RU",
     "org": "Reg.Ru Hosting"
-  },
-  {
-    "ip": "194.190.153.158",
-    "port": 443,
-    "code": "RU",
-    "org": "Ugreshskaya st, 2c147"
   },
   {
     "ip": "193.168.227.151",
@@ -634,17 +616,5 @@
     "port": 8443,
     "code": "RU",
     "org": "JSC TIMEWEB"
-  },
-  {
-    "ip": "94.131.113.131",
-    "port": 2053,
-    "code": "RU",
-    "org": "UFO Hosting LLC"
-  },
-  {
-    "ip": "94.131.113.131",
-    "port": 8443,
-    "code": "RU",
-    "org": "UFO Hosting LLC"
   }
 ]
