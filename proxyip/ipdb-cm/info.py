@@ -3,8 +3,8 @@ import os
 import requests
 from pathlib import Path
 
-DATA_FILE = "proxyip/ipdb.v2/data.txt"
-OUTPUT_FILE = "proxyip/ipdb.v2/data.json"
+DATA_FILE = "proxyip/ipdb-cm/data.txt"
+OUTPUT_FILE = "proxyip/ipdb-cm/data.json"
 API_BASE = "https://check.moesite.workers.dev/ip-info"
 TOKEN = os.getenv("TOKEN")
 PORT = 443
