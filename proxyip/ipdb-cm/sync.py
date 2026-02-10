@@ -3,20 +3,34 @@ import os
 import requests
 from pathlib import Path
 
-IATA_FILE = "proxyip/ipdb.v2/iata.json"
-DATA_FILE = "proxyip/ipdb.v2/data.txt"
-API_BASE = "https://check.moesite.workers.dev/resolve"
+IATA_FILE = "proxyip/ipdb-cm/iata.json"
+DATA_FILE = "proxyip/ipdb-cm/data.txt"
+API_BASE = "https://check.railgun.top/resolve"
 TOKEN = os.getenv("TOKEN")
 
 def load_existing_ips():
     data_path = Path(DATA_FILE)
     if data_path.exists():
         with open(data_path, 'r', encoding='utf-8') as f:
-            return set(line.strip() for line in f if line.strip())
+            content = f.read()
+            ips = [line.strip() for line in content.split('\n') if line.strip()]
+            return set(ips)
     return set()
 
 def save_ips(new_ips):
     data_path = Path(DATA_FILE)
+    
+    if data_path.exists():
+        with open(data_path, 'rb') as f:
+            f.seek(0, 2)
+            pos = f.tell()
+            if pos > 0:
+                f.seek(pos - 1)
+                last_char = f.read(1)
+                if last_char != b'\n':
+                    with open(data_path, 'a', encoding='utf-8') as af:
+                        af.write('\n')
+    
     with open(data_path, 'a', encoding='utf-8') as f:
         for ip in new_ips:
             f.write(ip + '\n')
@@ -34,7 +48,7 @@ def resolve_domain(domain):
 
 def main():
     if not TOKEN:
-        print("Error: PROXYIP_TOKEN environment variable is not set")
+        print("Error: TOKEN environment variable is not set")
         return
     
     with open(IATA_FILE, 'r', encoding='utf-8') as f:
