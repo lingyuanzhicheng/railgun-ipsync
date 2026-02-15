@@ -114,12 +114,6 @@
     "org": "Aryaka Networks Inc, c/o Equinix SV4 255 Caspian Drive Sunnyvale, CA 94089, United States"
   },
   {
-    "ip": "45.77.4.176",
-    "port": 36983,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "192.227.138.249",
     "port": 8443,
     "code": "US",
@@ -312,12 +306,6 @@
     "org": "Comcast Cable Communications, LLC"
   },
   {
-    "ip": "74.48.145.83",
-    "port": 31556,
-    "code": "US",
-    "org": "MULTACOM CORPORATION"
-  },
-  {
     "ip": "74.48.4.29",
     "port": 37731,
     "code": "US",
@@ -330,12 +318,6 @@
     "org": "MULTACOM CORPORATION"
   },
   {
-    "ip": "64.225.2.218",
-    "port": 8443,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "31.59.136.248",
     "port": 2053,
     "code": "US",
@@ -346,12 +328,6 @@
     "port": 58869,
     "code": "US",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "192.243.113.150",
-    "port": 2096,
-    "code": "US",
-    "org": "Cloudflare London, LLC"
   },
   {
     "ip": "74.48.66.211",
@@ -486,12 +462,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "64.225.2.218",
-    "port": 2053,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "72.18.132.149",
     "port": 8443,
     "code": "US",
@@ -550,12 +520,6 @@
     "port": 8443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "65.49.195.163",
-    "port": 14828,
-    "code": "US",
-    "org": "IT7 Networks Inc"
   },
   {
     "ip": "138.128.247.246",
@@ -620,12 +584,6 @@
   {
     "ip": "192.227.178.102",
     "port": 8443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
-    "ip": "192.3.44.158",
-    "port": 38613,
     "code": "US",
     "org": "RackNerd LLC"
   },
@@ -720,22 +678,10 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "97.64.26.199",
-    "port": 8443,
-    "code": "US",
-    "org": "IT7 Networks Inc"
-  },
-  {
     "ip": "148.177.146.71",
     "port": 443,
     "code": "US",
     "org": "Johnson & Johnson"
-  },
-  {
-    "ip": "80.209.243.89",
-    "port": 8443,
-    "code": "US",
-    "org": "HOSTKEY"
   },
   {
     "ip": "141.148.164.46",
@@ -796,12 +742,6 @@
     "port": 443,
     "code": "US",
     "org": "Aryaka Networks Inc, c/o Equinix SV4 255 Caspian Drive Sunnyvale, CA 94089, United States"
-  },
-  {
-    "ip": "205.172.56.151",
-    "port": 443,
-    "code": "US",
-    "org": "HOSTKEY"
   },
   {
     "ip": "148.135.118.112",
@@ -1212,12 +1152,6 @@
     "org": "Hostwinds LLC."
   },
   {
-    "ip": "64.176.210.187",
-    "port": 443,
-    "code": "US",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "67.209.183.236",
     "port": 443,
     "code": "US",
@@ -1386,12 +1320,6 @@
     "org": "Google LLC"
   },
   {
-    "ip": "65.49.203.14",
-    "port": 443,
-    "code": "US",
-    "org": "IT7 Networks Inc"
-  },
-  {
     "ip": "35.185.54.229",
     "port": 27271,
     "code": "US",
@@ -1516,12 +1444,6 @@
     "port": 81,
     "code": "US",
     "org": "INXY LTD."
-  },
-  {
-    "ip": "37.1.210.238",
-    "port": 443,
-    "code": "US",
-    "org": "IROKO Networks Corporation"
   },
   {
     "ip": "185.72.8.152",
@@ -1842,12 +1764,6 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "95.169.26.188",
-    "port": 38557,
-    "code": "US",
-    "org": "Cluster Logic Inc"
-  },
-  {
     "ip": "198.23.150.223",
     "port": 443,
     "code": "US",
@@ -2110,12 +2026,6 @@
     "port": 56393,
     "code": "US",
     "org": "ColoCrossing"
-  },
-  {
-    "ip": "104.234.50.223",
-    "port": 2053,
-    "code": "US",
-    "org": "Private Customer"
   },
   {
     "ip": "104.168.87.41",
@@ -2778,12 +2688,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "107.173.80.146",
-    "port": 2059,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "107.173.34.130",
     "port": 8443,
     "code": "US",
@@ -3358,12 +3262,6 @@
     "port": 443,
     "code": "US",
     "org": "Linode, LLC"
-  },
-  {
-    "ip": "192.243.113.150",
-    "port": 2053,
-    "code": "US",
-    "org": "Cloudflare London, LLC"
   },
   {
     "ip": "207.246.94.121",

@@ -66,18 +66,6 @@
     "org": "Amazon Data Services Canada"
   },
   {
-    "ip": "140.238.158.238",
-    "port": 8080,
-    "code": "CA",
-    "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "140.238.158.238",
-    "port": 443,
-    "code": "CA",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "148.113.200.194",
     "port": 2053,
     "code": "CA",
@@ -106,12 +94,6 @@
     "port": 8443,
     "code": "CA",
     "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "172.105.26.112",
-    "port": 2443,
-    "code": "CA",
-    "org": "Linode"
   },
   {
     "ip": "148.113.172.98",
