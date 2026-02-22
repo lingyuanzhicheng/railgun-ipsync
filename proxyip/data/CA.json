@@ -6,32 +6,8 @@
     "org": "OVH Hosting, Inc."
   },
   {
-    "ip": "172.98.207.58",
-    "port": 443,
-    "code": "CA",
-    "org": "CENTRILOGICCANADA"
-  },
-  {
     "ip": "198.27.67.95",
     "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "213.255.209.207",
-    "port": 443,
-    "code": "CA",
-    "org": "Cloud Web Manage"
-  },
-  {
-    "ip": "40.233.116.225",
-    "port": 443,
-    "code": "CA",
-    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
-  },
-  {
-    "ip": "148.113.204.36",
-    "port": 2053,
     "code": "CA",
     "org": "OVH Hosting, Inc."
   },
@@ -54,12 +30,6 @@
     "org": "Amazon Data Services Canada"
   },
   {
-    "ip": "35.182.226.236",
-    "port": 443,
-    "code": "CA",
-    "org": "Amazon Data Services Canada"
-  },
-  {
     "ip": "35.183.216.163",
     "port": 2053,
     "code": "CA",
@@ -78,27 +48,9 @@
     "org": "Amazon Data Services Canada"
   },
   {
-    "ip": "213.255.209.189",
-    "port": 443,
-    "code": "CA",
-    "org": "Cloud Web Manage"
-  },
-  {
     "ip": "45.133.18.31",
     "port": 443,
     "code": "CA",
     "org": "ITGLOBAL.COM NL B.V."
-  },
-  {
-    "ip": "148.113.204.36",
-    "port": 8443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "148.113.172.98",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
   }
 ]
