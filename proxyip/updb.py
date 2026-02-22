@@ -7,15 +7,18 @@ DATA_SOURCES = {
 }
 
 DATA_FILE = "proxyip/data.json"
+BASE_DIR = Path("proxyip")
 
 def load_json_file(file_path):
-    if file_path.exists():
-        with open(file_path, 'r', encoding='utf-8') as f:
+    path = Path(file_path)
+    if path.exists():
+        with open(path, 'r', encoding='utf-8') as f:
             return json.load(f)
     return []
 
 def save_json_file(file_path, data):
-    with open(file_path, 'w', encoding='utf-8') as f:
+    path = Path(file_path)
+    with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def get_existing_entries(main_data):
