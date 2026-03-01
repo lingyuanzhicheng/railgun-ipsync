@@ -36,12 +36,6 @@
     "org": "Alibaba Cloud - SG"
   },
   {
-    "ip": "139.162.4.242",
-    "port": 8443,
-    "code": "SG",
-    "org": "Linode, LLC"
-  },
-  {
     "ip": "5.34.176.119",
     "port": 81,
     "code": "SG",
@@ -121,12 +115,6 @@
   },
   {
     "ip": "194.36.179.5",
-    "port": 2053,
-    "code": "SG",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
-    "ip": "194.36.179.17",
     "port": 2053,
     "code": "SG",
     "org": "FIRST SERVER LIMITED"
@@ -228,12 +216,6 @@
     "org": "Amazon Technologies Inc."
   },
   {
-    "ip": "64.235.43.213",
-    "port": 443,
-    "code": "SG",
-    "org": "Singapore SG Datacenter"
-  },
-  {
     "ip": "104.248.145.216",
     "port": 443,
     "code": "SG",
@@ -286,5 +268,83 @@
     "port": 443,
     "code": "SG",
     "org": "Google LLC"
+  },
+  {
+    "ip": "139.180.159.133",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "13.250.131.37",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "8.219.195.31",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "157.230.244.86",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "161.118.213.45",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "178.128.26.136",
+    "port": 443,
+    "code": "SG",
+    "org": "Digitalocean"
+  },
+  {
+    "ip": "205.198.72.53",
+    "port": 443,
+    "code": "SG",
+    "org": "Eons Data Communications Limited"
+  },
+  {
+    "ip": "4.194.211.60",
+    "port": 443,
+    "code": "SG",
+    "org": "Microsoft Azure Cloud (southeastasia)"
+  },
+  {
+    "ip": "5.223.61.71",
+    "port": 443,
+    "code": "SG",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "47.82.155.79",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba.com LLC"
+  },
+  {
+    "ip": "103.241.62.245",
+    "port": 443,
+    "code": "SG",
+    "org": "MyRepublic Ltd."
+  },
+  {
+    "ip": "129.150.46.113",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "149.28.159.222",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "ip": "94.131.109.36",
-    "port": 443,
-    "code": "DE",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "135.125.191.9",
     "port": 443,
     "code": "DE",
@@ -66,12 +60,6 @@
     "org": "AWS EC2 (eu-central-1)"
   },
   {
-    "ip": "51.77.71.46",
-    "port": 443,
-    "code": "DE",
-    "org": "Sharangiia Nana"
-  },
-  {
     "ip": "82.152.8.127",
     "port": 443,
     "code": "DE",
@@ -82,12 +70,6 @@
     "port": 443,
     "code": "DE",
     "org": "xorek.cloud International LTD"
-  },
-  {
-    "ip": "195.201.231.143",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "162.19.224.15",
@@ -310,12 +292,6 @@
     "port": 2053,
     "code": "DE",
     "org": "Timeweb, LLP"
-  },
-  {
-    "ip": "91.107.172.37",
-    "port": 2053,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "87.120.166.14",
@@ -594,12 +570,6 @@
     "org": "Hostbrr Solutions"
   },
   {
-    "ip": "5.252.25.44",
-    "port": 8443,
-    "code": "DE",
-    "org": "G-Core Labs Customer assignment"
-  },
-  {
     "ip": "57.129.47.78",
     "port": 8443,
     "code": "DE",
@@ -610,12 +580,6 @@
     "port": 2053,
     "code": "DE",
     "org": "LV FIRSTCLOUD"
-  },
-  {
-    "ip": "94.125.101.247",
-    "port": 443,
-    "code": "DE",
-    "org": "HOST TELECOM LTD"
   },
   {
     "ip": "91.199.118.208",
@@ -700,12 +664,6 @@
     "port": 8443,
     "code": "DE",
     "org": "WAIcore Ltd"
-  },
-  {
-    "ip": "195.245.239.197",
-    "port": 443,
-    "code": "DE",
-    "org": "Snowd Security OU"
   },
   {
     "ip": "143.20.213.162",
@@ -894,12 +852,6 @@
     "org": "OVH GmbH"
   },
   {
-    "ip": "89.169.54.138",
-    "port": 443,
-    "code": "DE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "64.238.203.69",
     "port": 8443,
     "code": "DE",
@@ -928,12 +880,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "94.159.100.110",
-    "port": 443,
-    "code": "DE",
-    "org": "H2NEXUS LTD"
   },
   {
     "ip": "113.30.190.244",
@@ -1044,12 +990,6 @@
     "org": "Layer7 Networks GmbH"
   },
   {
-    "ip": "185.189.58.222",
-    "port": 443,
-    "code": "DE",
-    "org": "MassiveGRID"
-  },
-  {
     "ip": "143.20.213.127",
     "port": 8443,
     "code": "DE",
@@ -1096,12 +1036,6 @@
     "port": 443,
     "code": "DE",
     "org": "FIRST SERVER LIMITED"
-  },
-  {
-    "ip": "94.159.106.166",
-    "port": 443,
-    "code": "DE",
-    "org": "H2NEXUS LTD"
   },
   {
     "ip": "94.159.109.104",
@@ -1326,12 +1260,6 @@
     "org": "H2NEXUS LTD"
   },
   {
-    "ip": "94.159.98.207",
-    "port": 443,
-    "code": "DE",
-    "org": "H2NEXUS LTD"
-  },
-  {
     "ip": "37.120.186.102",
     "port": 8443,
     "code": "DE",
@@ -1540,12 +1468,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Internet Utilities Europe and Asia Limited"
-  },
-  {
-    "ip": "195.133.47.144",
-    "port": 8443,
-    "code": "DE",
-    "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
     "ip": "57.129.47.59",
@@ -1830,12 +1752,6 @@
     "org": "Customer allocation HB Client 2916"
   },
   {
-    "ip": "195.245.239.195",
-    "port": 443,
-    "code": "DE",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "89.40.117.130",
     "port": 443,
     "code": "DE",
@@ -1848,34 +1764,16 @@
     "org": "Customer allocation HB Client 2916"
   },
   {
-    "ip": "168.119.166.165",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "57.129.47.18",
     "port": 8443,
     "code": "DE",
     "org": "OVH GmbH"
   },
   {
-    "ip": "89.23.106.212",
-    "port": 443,
-    "code": "DE",
-    "org": "ZTV CORP LLC"
-  },
-  {
     "ip": "91.199.118.211",
     "port": 8443,
     "code": "DE",
     "org": "Customer allocation HB Client 11647"
-  },
-  {
-    "ip": "159.69.185.118",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "89.19.44.239",
@@ -2034,12 +1932,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "162.55.169.245",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "49.12.212.65",
     "port": 8443,
     "code": "DE",
@@ -2170,12 +2062,6 @@
     "port": 49153,
     "code": "DE",
     "org": "netcup GmbH"
-  },
-  {
-    "ip": "185.17.123.114",
-    "port": 443,
-    "code": "DE",
-    "org": "TK Rustelekom LLC"
   },
   {
     "ip": "88.198.82.151",
@@ -2778,18 +2664,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "185.189.58.206",
-    "port": 443,
-    "code": "DE",
-    "org": "MassiveGRID"
-  },
-  {
-    "ip": "91.99.112.34",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "89.19.209.6",
     "port": 443,
     "code": "DE",
@@ -3066,12 +2940,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "3.78.24.246",
-    "port": 2053,
-    "code": "DE",
-    "org": "A100 ROW GmbH"
-  },
-  {
     "ip": "94.159.99.56",
     "port": 443,
     "code": "DE",
@@ -3088,12 +2956,6 @@
     "port": 443,
     "code": "DE",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "5.187.4.103",
-    "port": 8443,
-    "code": "DE",
-    "org": "www.fornex.com, Fornex Hosting S.L."
   },
   {
     "ip": "91.107.246.122",
@@ -3148,12 +3010,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Customer allocation HB Client 2916"
-  },
-  {
-    "ip": "3.78.24.246",
-    "port": 8443,
-    "code": "DE",
-    "org": "A100 ROW GmbH"
   },
   {
     "ip": "146.190.179.152",
@@ -3522,22 +3378,10 @@
     "org": "Customer allocation HB Client 2916"
   },
   {
-    "ip": "194.147.148.70",
-    "port": 8443,
-    "code": "DE",
-    "org": "IT-DELUX ltd."
-  },
-  {
     "ip": "167.71.45.93",
     "port": 8443,
     "code": "DE",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "194.147.148.70",
-    "port": 2053,
-    "code": "DE",
-    "org": "IT-DELUX ltd."
   },
   {
     "ip": "162.19.158.102",
@@ -3690,12 +3534,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "5.187.3.181",
-    "port": 2053,
-    "code": "DE",
-    "org": "www.fornex.com, Fornex Hosting S.L."
-  },
-  {
     "ip": "79.132.143.192",
     "port": 8443,
     "code": "DE",
@@ -3816,12 +3654,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "5.187.4.103",
-    "port": 2053,
-    "code": "DE",
-    "org": "www.fornex.com, Fornex Hosting S.L."
-  },
-  {
     "ip": "5.187.4.45",
     "port": 443,
     "code": "DE",
@@ -3886,12 +3718,6 @@
     "port": 443,
     "code": "DE",
     "org": "NKtelecom INC"
-  },
-  {
-    "ip": "45.83.129.40",
-    "port": 2053,
-    "code": "DE",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "193.23.210.225",
@@ -4194,12 +4020,6 @@
     "org": "H2NEXUS LTD"
   },
   {
-    "ip": "171.22.120.166",
-    "port": 2053,
-    "code": "DE",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "94.159.110.149",
     "port": 443,
     "code": "DE",
@@ -4434,12 +4254,6 @@
     "org": "Customer allocation HB Client 2916"
   },
   {
-    "ip": "31.169.127.161",
-    "port": 443,
-    "code": "DE",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "143.20.213.4",
     "port": 8443,
     "code": "DE",
@@ -4492,12 +4306,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Customer allocation HB Client 2916"
-  },
-  {
-    "ip": "94.159.96.228",
-    "port": 443,
-    "code": "DE",
-    "org": "H2NEXUS LTD"
   },
   {
     "ip": "91.239.157.213",
@@ -4582,12 +4390,6 @@
     "port": 2053,
     "code": "DE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "5.39.249.146",
-    "port": 443,
-    "code": "DE",
-    "org": "ahbr company limited"
   },
   {
     "ip": "138.124.10.246",
@@ -4702,12 +4504,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Customer allocation HB Client 2916"
-  },
-  {
-    "ip": "37.221.125.112",
-    "port": 443,
-    "code": "DE",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "176.96.137.80",
@@ -5088,12 +4884,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "87.120.92.127",
-    "port": 443,
-    "code": "DE",
-    "org": "WAIcore Ltd"
-  },
-  {
     "ip": "64.238.203.108",
     "port": 8443,
     "code": "DE",
@@ -5316,12 +5106,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "89.169.6.114",
-    "port": 2053,
-    "code": "DE",
-    "org": "Medvedev Vladislav Olegovich"
-  },
-  {
     "ip": "46.101.220.197",
     "port": 8443,
     "code": "DE",
@@ -5352,12 +5136,6 @@
     "org": "ahbr company limited"
   },
   {
-    "ip": "195.133.47.144",
-    "port": 2053,
-    "code": "DE",
-    "org": "GLB Bulut Teknolojisi Limited Sirketi"
-  },
-  {
     "ip": "5.187.0.73",
     "port": 2053,
     "code": "DE",
@@ -5365,12 +5143,6 @@
   },
   {
     "ip": "5.187.0.73",
-    "port": 8443,
-    "code": "DE",
-    "org": "www.fornex.com, Fornex Hosting S.L."
-  },
-  {
-    "ip": "5.187.3.181",
     "port": 8443,
     "code": "DE",
     "org": "www.fornex.com, Fornex Hosting S.L."
@@ -5422,12 +5194,6 @@
     "port": 4443,
     "code": "DE",
     "org": "ANX Holding GmbH"
-  },
-  {
-    "ip": "159.100.22.101",
-    "port": 2053,
-    "code": "DE",
-    "org": "UltaHost Inc"
   },
   {
     "ip": "51.195.101.75",
@@ -5604,12 +5370,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "92.246.139.197",
-    "port": 2053,
-    "code": "DE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "57.129.16.72",
     "port": 8443,
     "code": "DE",
@@ -5670,12 +5430,6 @@
     "org": "lease for Timeweb"
   },
   {
-    "ip": "5.252.25.44",
-    "port": 2053,
-    "code": "DE",
-    "org": "G-Core Labs Customer assignment"
-  },
-  {
     "ip": "95.140.154.101",
     "port": 8443,
     "code": "DE",
@@ -5710,12 +5464,6 @@
     "port": 8443,
     "code": "DE",
     "org": "OVH GmbH"
-  },
-  {
-    "ip": "23.88.112.241",
-    "port": 2053,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "159.69.250.58",
@@ -5794,12 +5542,6 @@
     "port": 2053,
     "code": "DE",
     "org": "AEZA GROUP Ltd"
-  },
-  {
-    "ip": "89.23.106.212",
-    "port": 2053,
-    "code": "DE",
-    "org": "ZTV CORP LLC"
   },
   {
     "ip": "89.19.44.48",
@@ -5892,12 +5634,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "185.246.223.68",
-    "port": 443,
-    "code": "DE",
-    "org": "play2go.cloud - Cheap and reliable hosting"
-  },
-  {
     "ip": "64.238.203.124",
     "port": 8443,
     "code": "DE",
@@ -5914,12 +5650,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Customer allocation HB Client 2916"
-  },
-  {
-    "ip": "94.159.105.19",
-    "port": 8443,
-    "code": "DE",
-    "org": "H2.NEXUS Frankfurt Network"
   },
   {
     "ip": "152.53.142.246",
@@ -6054,12 +5784,6 @@
     "org": "ZTV CORP LLC"
   },
   {
-    "ip": "152.53.84.52",
-    "port": 443,
-    "code": "DE",
-    "org": "ANX Holding GmbH"
-  },
-  {
     "ip": "109.120.177.193",
     "port": 443,
     "code": "DE",
@@ -6160,5 +5884,101 @@
     "port": 43333,
     "code": "DE",
     "org": "networksu sasu"
+  },
+  {
+    "ip": "162.19.241.200",
+    "port": 443,
+    "code": "DE",
+    "org": "OVH GmbH"
+  },
+  {
+    "ip": "195.133.64.185",
+    "port": 443,
+    "code": "DE",
+    "org": "Cloud Hosting Solutions, Limited"
+  },
+  {
+    "ip": "45.154.207.101",
+    "port": 443,
+    "code": "DE",
+    "org": "Oneprovider.com"
+  },
+  {
+    "ip": "80.240.20.43",
+    "port": 443,
+    "code": "DE",
+    "org": "Vultr Holdings LLC Frankfurt"
+  },
+  {
+    "ip": "159.89.10.241",
+    "port": 443,
+    "code": "DE",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "167.17.182.178",
+    "port": 443,
+    "code": "DE",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "185.125.102.120",
+    "port": 443,
+    "code": "DE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "185.233.80.66",
+    "port": 443,
+    "code": "DE",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "5.182.87.164",
+    "port": 443,
+    "code": "DE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "38.180.165.83",
+    "port": 443,
+    "code": "DE",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.14.247.67",
+    "port": 443,
+    "code": "DE",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "80.244.13.197",
+    "port": 443,
+    "code": "DE",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "80.244.13.201",
+    "port": 443,
+    "code": "DE",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "89.19.208.156",
+    "port": 443,
+    "code": "DE",
+    "org": "Timeweb, LLP"
+  },
+  {
+    "ip": "103.13.211.83",
+    "port": 443,
+    "code": "DE",
+    "org": ""
+  },
+  {
+    "ip": "103.109.234.41",
+    "port": 443,
+    "code": "DE",
+    "org": "Weyro LTD"
   }
 ]

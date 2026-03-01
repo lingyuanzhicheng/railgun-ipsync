@@ -12,12 +12,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "37.128.207.235",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "45.43.76.107",
     "port": 443,
     "code": "LV",
@@ -96,19 +90,7 @@
     "org": "Veesp"
   },
   {
-    "ip": "188.253.17.85",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "195.135.252.244",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "195.135.253.29",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -168,22 +150,10 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "77.73.233.100",
-    "port": 443,
-    "code": "LV",
-    "org": "Cloudflare London, LLC"
-  },
-  {
     "ip": "5.34.209.219",
     "port": 8443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "62.192.174.170",
-    "port": 2053,
-    "code": "LV",
-    "org": "SERVA ONE LTD"
   },
   {
     "ip": "84.21.172.188",
@@ -264,22 +234,10 @@
     "org": "FreeNet L.L.C-FZ"
   },
   {
-    "ip": "216.173.69.143",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "45.142.215.61",
     "port": 443,
     "code": "LV",
     "org": "LIR Limited"
-  },
-  {
-    "ip": "213.21.222.224",
-    "port": 443,
-    "code": "LV",
-    "org": "Versija SIA"
   },
   {
     "ip": "84.21.172.81",
@@ -354,12 +312,6 @@
     "org": "SERVA ONE LTD"
   },
   {
-    "ip": "62.192.174.170",
-    "port": 8443,
-    "code": "LV",
-    "org": "SERVA ONE LTD"
-  },
-  {
     "ip": "45.133.216.25",
     "port": 2053,
     "code": "LV",
@@ -394,12 +346,6 @@
     "port": 8443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "85.203.39.55",
-    "port": 443,
-    "code": "LV",
-    "org": "EstNOC-Global"
   },
   {
     "ip": "62.192.174.31",
@@ -520,12 +466,6 @@
     "port": 8443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "213.21.227.183",
-    "port": 443,
-    "code": "LV",
-    "org": "Versija SIA"
   },
   {
     "ip": "216.173.68.7",
@@ -798,12 +738,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "45.43.76.184",
-    "port": 2053,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "188.253.19.164",
     "port": 443,
     "code": "LV",
@@ -814,12 +748,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "91.239.23.197",
-    "port": 443,
-    "code": "LV",
-    "org": "Dmitrii Vladimirovich Malkov"
   },
   {
     "ip": "195.135.253.83",
@@ -876,25 +804,7 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "5.34.214.83",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "188.253.23.211",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "46.32.187.62",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "5.34.212.92",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -918,22 +828,10 @@
     "org": "LIR Limited"
   },
   {
-    "ip": "45.43.79.160",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "45.43.76.218",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "185.8.60.108",
-    "port": 443,
-    "code": "LV",
-    "org": "CloudHosting Data Center"
   },
   {
     "ip": "46.32.185.253",
@@ -1018,5 +916,35 @@
     "port": 443,
     "code": "LV",
     "org": "Friendhosting LTD"
+  },
+  {
+    "ip": "185.8.60.113",
+    "port": 443,
+    "code": "LV",
+    "org": "CloudHosting SIA"
+  },
+  {
+    "ip": "92.118.170.191",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "217.60.1.138",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "217.60.4.249",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.56.27.184",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
   }
 ]

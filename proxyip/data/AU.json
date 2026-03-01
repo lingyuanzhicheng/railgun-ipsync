@@ -58,5 +58,17 @@
     "port": 443,
     "code": "AU",
     "org": "Amazon Corporate Services Pty Ltd"
+  },
+  {
+    "ip": "176.97.68.17",
+    "port": 443,
+    "code": "AU",
+    "org": ""
+  },
+  {
+    "ip": "192.9.175.224",
+    "port": 443,
+    "code": "AU",
+    "org": "Oracle Cloud Infrastructure (ap-sydney-1)"
   }
 ]

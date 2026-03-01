@@ -102,12 +102,6 @@
     "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "5.10.218.136",
-    "port": 2053,
-    "code": "PL",
-    "org": "IPHOSTER OU"
-  },
-  {
     "ip": "57.128.215.214",
     "port": 2053,
     "code": "PL",
@@ -193,12 +187,6 @@
   },
   {
     "ip": "45.82.255.128",
-    "port": 443,
-    "code": "PL",
-    "org": "WorkTitans B.V."
-  },
-  {
-    "ip": "2.56.125.59",
     "port": 443,
     "code": "PL",
     "org": "WorkTitans B.V."
@@ -378,12 +366,6 @@
     "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
-    "ip": "185.226.181.239",
-    "port": 2053,
-    "code": "PL",
-    "org": "NET 185 226 181 0 24"
-  },
-  {
     "ip": "145.239.88.255",
     "port": 8443,
     "code": "PL",
@@ -438,12 +420,6 @@
     "org": "OVH Sp. z o. o."
   },
   {
-    "ip": "138.124.19.138",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "89.46.235.32",
     "port": 8443,
     "code": "PL",
@@ -478,12 +454,6 @@
     "port": 2053,
     "code": "PL",
     "org": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "91.149.253.65",
-    "port": 443,
-    "code": "PL",
-    "org": "BG-NETWORK"
   },
   {
     "ip": "193.124.41.165",
@@ -594,21 +564,93 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "5.10.218.136",
-    "port": 8443,
-    "code": "PL",
-    "org": "IPHOSTER OU"
-  },
-  {
     "ip": "5.10.218.222",
     "port": 443,
     "code": "PL",
     "org": "IPHOSTER OU"
   },
   {
-    "ip": "212.162.155.139",
+    "ip": "185.253.45.68",
     "port": 443,
     "code": "PL",
-    "org": "Podaon SIA"
+    "org": "Friendhosting LTD"
+  },
+  {
+    "ip": "37.252.6.119",
+    "port": 443,
+    "code": "PL",
+    "org": "IROKO Networks Corporation"
+  },
+  {
+    "ip": "217.30.10.55",
+    "port": 443,
+    "code": "PL",
+    "org": "Melbikomas UAB"
+  },
+  {
+    "ip": "31.169.126.65",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "31.169.126.66",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "45.15.126.160",
+    "port": 443,
+    "code": "PL",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "45.149.63.149",
+    "port": 443,
+    "code": "PL",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "51.38.132.136",
+    "port": 443,
+    "code": "PL",
+    "org": "OVH Sp. z o. o"
+  },
+  {
+    "ip": "77.83.246.88",
+    "port": 443,
+    "code": "PL",
+    "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "82.40.38.216",
+    "port": 443,
+    "code": "PL",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "91.108.249.8",
+    "port": 443,
+    "code": "PL",
+    "org": ""
+  },
+  {
+    "ip": "91.108.250.177",
+    "port": 443,
+    "code": "PL",
+    "org": ""
+  },
+  {
+    "ip": "212.192.11.187",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "212.192.11.208",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
   }
 ]

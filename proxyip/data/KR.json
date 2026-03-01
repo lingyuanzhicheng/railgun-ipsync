@@ -30,12 +30,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "146.56.182.217",
-    "port": 54266,
-    "code": "KR",
-    "org": "Oracle Corporation , Global software solutions , California , USA"
-  },
-  {
     "ip": "146.56.99.255",
     "port": 56789,
     "code": "KR",
@@ -120,12 +114,6 @@
     "org": "Oracle Corp UK Ltd"
   },
   {
-    "ip": "211.219.241.28",
-    "port": 31337,
-    "code": "KR",
-    "org": "KT"
-  },
-  {
     "ip": "152.67.209.237",
     "port": 22053,
     "code": "KR",
@@ -178,12 +166,6 @@
     "port": 13644,
     "code": "KR",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "221.139.87.28",
-    "port": 443,
-    "code": "KR",
-    "org": "SK Broadband Co Ltd"
   },
   {
     "ip": "129.154.54.67",
@@ -310,5 +292,29 @@
     "port": 34237,
     "code": "KR",
     "org": "Oracle Corporation"
+  },
+  {
+    "ip": "64.110.75.145",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "152.70.253.44",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "129.154.201.131",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "146.56.188.74",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   }
 ]

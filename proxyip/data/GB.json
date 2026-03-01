@@ -162,18 +162,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "77.221.138.199",
-    "port": 8443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "83.147.216.182",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.221.140.186",
     "port": 443,
     "code": "GB",
@@ -412,12 +400,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "138.68.182.97",
-    "port": 8443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "57.129.137.90",
@@ -2674,5 +2656,29 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
+  },
+  {
+    "ip": "103.13.208.242",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudwebmanage EU LO"
+  },
+  {
+    "ip": "79.72.91.32",
+    "port": 443,
+    "code": "GB",
+    "org": "Oracle Cloud Infrastructure (uk-london-1)"
+  },
+  {
+    "ip": "130.185.144.78",
+    "port": 443,
+    "code": "GB",
+    "org": "Iomart Hosting Limited"
+  },
+  {
+    "ip": "132.145.29.208",
+    "port": 443,
+    "code": "GB",
+    "org": "Oracle Cloud Infrastructure (uk-london-1)"
   }
 ]

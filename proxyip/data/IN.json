@@ -64,5 +64,17 @@
     "port": 80,
     "code": "IN",
     "org": "Cloudflare London, LLC"
+  },
+  {
+    "ip": "152.67.190.105",
+    "port": 443,
+    "code": "IN",
+    "org": "Oracle Cloud Infrastructure (ap-hyderabad-1)"
+  },
+  {
+    "ip": "34.131.52.73",
+    "port": 443,
+    "code": "IN",
+    "org": "Google Cloud (asia-south2)"
   }
 ]
