@@ -150,12 +150,6 @@
     "org": "BlueVPS OU"
   },
   {
-    "ip": "104.225.153.70",
-    "port": 443,
-    "code": "US",
-    "org": "Cluster Logic Inc"
-  },
-  {
     "ip": "192.3.251.89",
     "port": 443,
     "code": "US",
@@ -166,12 +160,6 @@
     "port": 8443,
     "code": "US",
     "org": "Internet Utilities Europe and Asia Limited"
-  },
-  {
-    "ip": "96.45.184.9",
-    "port": 2096,
-    "code": "US",
-    "org": "IT7 Networks Inc"
   },
   {
     "ip": "193.46.217.173",
@@ -228,12 +216,6 @@
     "org": "Exabytes Network (Singapore) Pte Ltd"
   },
   {
-    "ip": "45.82.161.142",
-    "port": 8443,
-    "code": "US",
-    "org": "G-Core Labs S.A."
-  },
-  {
     "ip": "31.57.118.168",
     "port": 8443,
     "code": "US",
@@ -268,12 +250,6 @@
     "port": 58869,
     "code": "US",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "74.48.66.211",
-    "port": 443,
-    "code": "US",
-    "org": "MULTACOM CORPORATION"
   },
   {
     "ip": "192.3.127.51",
@@ -564,12 +540,6 @@
     "org": "BG-NETWORK"
   },
   {
-    "ip": "146.235.231.239",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "46.21.159.253",
     "port": 8443,
     "code": "US",
@@ -696,12 +666,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "91.90.195.38",
-    "port": 443,
-    "code": "US",
-    "org": "Friendhosting LTD"
-  },
-  {
     "ip": "45.82.161.175",
     "port": 8443,
     "code": "US",
@@ -718,12 +682,6 @@
     "port": 8443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "152.70.113.150",
-    "port": 52125,
-    "code": "US",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "34.168.95.100",
@@ -888,12 +846,6 @@
     "org": "HOSTKEY"
   },
   {
-    "ip": "155.138.238.22",
-    "port": 8443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "37.1.209.186",
     "port": 443,
     "code": "US",
@@ -916,12 +868,6 @@
     "port": 2053,
     "code": "US",
     "org": "HOSTKEY"
-  },
-  {
-    "ip": "155.138.227.121",
-    "port": 8443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "172.93.163.177",
@@ -958,12 +904,6 @@
     "port": 443,
     "code": "US",
     "org": "Kaopu Cloud HK Limited"
-  },
-  {
-    "ip": "144.202.28.122",
-    "port": 8443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "154.17.225.73",
@@ -1072,12 +1012,6 @@
     "port": 443,
     "code": "US",
     "org": "RedShield Security Ltd"
-  },
-  {
-    "ip": "89.116.171.101",
-    "port": 443,
-    "code": "US",
-    "org": "Ethernet Servers"
   },
   {
     "ip": "158.101.5.192",
@@ -1272,12 +1206,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "193.122.152.253",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "46.17.107.199",
     "port": 443,
     "code": "US",
@@ -1342,12 +1270,6 @@
     "port": 42539,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "198.12.95.66",
-    "port": 8443,
-    "code": "US",
-    "org": "HostPapa"
   },
   {
     "ip": "172.93.46.36",
@@ -1524,28 +1446,10 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "15.204.10.80",
-    "port": 53089,
-    "code": "US",
-    "org": "OVH US LLC"
-  },
-  {
-    "ip": "15.204.10.80",
-    "port": 24906,
-    "code": "US",
-    "org": "OVH US LLC"
-  },
-  {
     "ip": "107.173.147.41",
     "port": 36082,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "15.204.10.80",
-    "port": 36683,
-    "code": "US",
-    "org": "OVH US LLC"
   },
   {
     "ip": "150.230.33.247",
@@ -1602,12 +1506,6 @@
     "org": "Interserver, Inc"
   },
   {
-    "ip": "45.82.161.178",
-    "port": 8443,
-    "code": "US",
-    "org": "G-Core Labs S.A."
-  },
-  {
     "ip": "45.15.124.7",
     "port": 12217,
     "code": "US",
@@ -1630,12 +1528,6 @@
     "port": 65002,
     "code": "US",
     "org": "6 COLLYER QUAY"
-  },
-  {
-    "ip": "45.82.161.170",
-    "port": 8443,
-    "code": "US",
-    "org": "G-Core Labs S.A."
   },
   {
     "ip": "43.130.134.123",
@@ -1770,12 +1662,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "47.89.136.31",
-    "port": 36301,
-    "code": "US",
-    "org": "Alibaba Cloud - US"
-  },
-  {
     "ip": "107.174.202.20",
     "port": 443,
     "code": "US",
@@ -1840,12 +1726,6 @@
     "port": 59170,
     "code": "US",
     "org": "Alibaba Cloud - US"
-  },
-  {
-    "ip": "45.82.161.169",
-    "port": 8443,
-    "code": "US",
-    "org": "G-Core Labs S.A."
   },
   {
     "ip": "107.173.181.236",
@@ -1924,18 +1804,6 @@
     "port": 443,
     "code": "US",
     "org": "Amazon Data Services Northern Virginia"
-  },
-  {
-    "ip": "66.112.217.201",
-    "port": 443,
-    "code": "US",
-    "org": "IT7 Networks Inc"
-  },
-  {
-    "ip": "155.138.217.97",
-    "port": 8443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "192.9.228.70",
@@ -2124,12 +1992,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "66.253.7.79",
-    "port": 443,
-    "code": "US",
-    "org": "I-2000, Inc."
-  },
-  {
     "ip": "157.245.215.195",
     "port": 8443,
     "code": "US",
@@ -2206,12 +2068,6 @@
     "port": 3306,
     "code": "US",
     "org": "Hurricane Electric LLC"
-  },
-  {
-    "ip": "141.148.164.136",
-    "port": 34532,
-    "code": "US",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "152.67.235.3",
@@ -2406,18 +2262,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "103.35.189.55",
-    "port": 443,
-    "code": "US",
-    "org": "WorkTitans B.V"
-  },
-  {
-    "ip": "107.161.168.27",
-    "port": 443,
-    "code": "US",
-    "org": "YottaSrc"
-  },
-  {
     "ip": "107.173.254.105",
     "port": 443,
     "code": "US",
@@ -2434,5 +2278,83 @@
     "port": 443,
     "code": "US",
     "org": "ColoCrossing"
+  },
+  {
+    "ip": "107.174.121.46",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "172.245.5.195",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "38.180.141.87",
+    "port": 443,
+    "code": "US",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "107.173.248.16",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "150.136.105.229",
+    "port": 443,
+    "code": "US",
+    "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
+  },
+  {
+    "ip": "141.98.168.164",
+    "port": 443,
+    "code": "US",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "142.171.230.71",
+    "port": 443,
+    "code": "US",
+    "org": "TELUS Communications Inc"
+  },
+  {
+    "ip": "144.202.108.119",
+    "port": 443,
+    "code": "US",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "185.238.250.204",
+    "port": 443,
+    "code": "US",
+    "org": ""
+  },
+  {
+    "ip": "198.199.86.20",
+    "port": 443,
+    "code": "US",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "45.58.43.34",
+    "port": 443,
+    "code": "US",
+    "org": "Atlantic.Net - Santa Clara, CA"
+  },
+  {
+    "ip": "96.44.158.249",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "104.131.81.68",
+    "port": 443,
+    "code": "US",
+    "org": "Digital Ocean"
   }
 ]

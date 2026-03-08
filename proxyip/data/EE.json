@@ -78,12 +78,6 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "45.12.28.10",
-    "port": 443,
-    "code": "EE",
-    "org": "Brainoza OU"
-  },
-  {
     "ip": "193.42.112.66",
     "port": 2053,
     "code": "EE",
@@ -394,5 +388,11 @@
     "port": 43009,
     "code": "EE",
     "org": "Fiber Grid INC"
+  },
+  {
+    "ip": "178.130.46.42",
+    "port": 443,
+    "code": "EE",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

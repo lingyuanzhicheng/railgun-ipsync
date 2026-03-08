@@ -1,11 +1,5 @@
 [
   {
-    "ip": "92.241.18.106",
-    "port": 443,
-    "code": "RU",
-    "org": "S-INFORM Network"
-  },
-  {
     "ip": "95.182.122.28",
     "port": 443,
     "code": "RU",
@@ -48,18 +42,6 @@
     "org": "LLC Vpsville"
   },
   {
-    "ip": "147.45.48.209",
-    "port": 8443,
-    "code": "RU",
-    "org": "GLOBAL INTERNET SOLUTIONS LLC"
-  },
-  {
-    "ip": "84.252.74.134",
-    "port": 8443,
-    "code": "RU",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "217.114.7.97",
     "port": 2053,
     "code": "RU",
@@ -70,12 +52,6 @@
     "port": 8443,
     "code": "RU",
     "org": "JSC TIMEWEB"
-  },
-  {
-    "ip": "89.248.207.37",
-    "port": 8443,
-    "code": "RU",
-    "org": "Selectel Network"
   },
   {
     "ip": "176.57.211.166",
@@ -130,12 +106,6 @@
     "port": 443,
     "code": "RU",
     "org": "JSC TIMEWEB"
-  },
-  {
-    "ip": "185.5.248.61",
-    "port": 443,
-    "code": "RU",
-    "org": "PSERVERS Enterprise Network"
   },
   {
     "ip": "91.107.127.205",
@@ -196,18 +166,6 @@
     "port": 8443,
     "code": "RU",
     "org": "Reg.Ru Hosting"
-  },
-  {
-    "ip": "194.87.252.135",
-    "port": 8443,
-    "code": "RU",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "194.87.252.135",
-    "port": 2053,
-    "code": "RU",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "85.193.90.131",
@@ -324,12 +282,6 @@
     "org": "Comfortel Ltd."
   },
   {
-    "ip": "195.133.88.80",
-    "port": 443,
-    "code": "RU",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "188.68.223.17",
     "port": 443,
     "code": "RU",
@@ -414,12 +366,6 @@
     "org": "JSC TIMEWEB"
   },
   {
-    "ip": "84.252.74.134",
-    "port": 2053,
-    "code": "RU",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "45.9.75.166",
     "port": 443,
     "code": "RU",
@@ -462,18 +408,6 @@
     "org": ""
   },
   {
-    "ip": "89.248.207.37",
-    "port": 443,
-    "code": "RU",
-    "org": "Selectel"
-  },
-  {
-    "ip": "31.129.48.139",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "31.129.49.103",
     "port": 443,
     "code": "RU",
@@ -490,12 +424,6 @@
     "port": 443,
     "code": "RU",
     "org": "Mikhail Shchurov"
-  },
-  {
-    "ip": "95.215.108.223",
-    "port": 443,
-    "code": "RU",
-    "org": "Global Internet Solutions LLC"
   },
   {
     "ip": "185.84.162.225",
@@ -598,5 +526,65 @@
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "195.66.114.35",
+    "port": 443,
+    "code": "RU",
+    "org": "FirstByte"
+  },
+  {
+    "ip": "85.198.109.141",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "92.53.107.11",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "147.45.99.92",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "185.128.106.8",
+    "port": 443,
+    "code": "RU",
+    "org": "MediaServicePlus LLC"
+  },
+  {
+    "ip": "185.128.106.28",
+    "port": 443,
+    "code": "RU",
+    "org": "MediaServicePlus LLC"
+  },
+  {
+    "ip": "185.170.10.35",
+    "port": 443,
+    "code": "RU",
+    "org": "ServTech LTD"
+  },
+  {
+    "ip": "193.168.227.154",
+    "port": 443,
+    "code": "RU",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "5.129.246.116",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "45.9.75.235",
+    "port": 443,
+    "code": "RU",
+    "org": "Firstbyte Hosting"
   }
 ]

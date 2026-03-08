@@ -78,12 +78,6 @@
     "org": "Newserverlife LLC"
   },
   {
-    "ip": "45.144.51.167",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "45.144.48.33",
     "port": 8443,
     "code": "PL",
@@ -150,12 +144,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "45.144.51.160",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "151.115.61.151",
     "port": 2053,
     "code": "PL",
@@ -184,12 +172,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "45.82.255.128",
-    "port": 443,
-    "code": "PL",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "57.128.198.82",
@@ -232,12 +214,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "80.211.249.240",
-    "port": 8443,
-    "code": "PL",
-    "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
     "ip": "176.124.33.59",
@@ -307,12 +283,6 @@
   },
   {
     "ip": "31.133.0.150",
-    "port": 2053,
-    "code": "PL",
-    "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
-    "ip": "31.133.0.100",
     "port": 2053,
     "code": "PL",
     "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
@@ -582,12 +552,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
-  },
-  {
     "ip": "31.169.126.65",
     "port": 443,
     "code": "PL",
@@ -652,5 +616,29 @@
     "port": 443,
     "code": "PL",
     "org": "Snowd Security OU"
+  },
+  {
+    "ip": "212.192.11.200",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "91.108.237.23",
+    "port": 443,
+    "code": "PL",
+    "org": ""
+  },
+  {
+    "ip": "139.28.97.134",
+    "port": 443,
+    "code": "PL",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "146.59.94.159",
+    "port": 443,
+    "code": "PL",
+    "org": "OVH Sp. z o. o"
   }
 ]

@@ -60,12 +60,6 @@
     "org": "Amazon Data Services Singapore"
   },
   {
-    "ip": "38.180.249.123",
-    "port": 443,
-    "code": "SG",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "91.192.81.154",
     "port": 2053,
     "code": "SG",
@@ -120,12 +114,6 @@
     "org": "FIRST SERVER LIMITED"
   },
   {
-    "ip": "167.88.172.224",
-    "port": 443,
-    "code": "SG",
-    "org": "RouterHosting LLC"
-  },
-  {
     "ip": "146.235.19.79",
     "port": 28983,
     "code": "SG",
@@ -160,12 +148,6 @@
     "port": 8443,
     "code": "SG",
     "org": "SGP_VULTR_CUST"
-  },
-  {
-    "ip": "51.79.158.58",
-    "port": 8443,
-    "code": "SG",
-    "org": "OVH Singapore PTE. LTD"
   },
   {
     "ip": "167.99.73.22",
@@ -234,18 +216,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "152.42.236.151",
-    "port": 2053,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "152.42.236.151",
-    "port": 8443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "31.192.238.71",
     "port": 8443,
     "code": "SG",
@@ -300,22 +270,10 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "178.128.26.136",
-    "port": 443,
-    "code": "SG",
-    "org": "Digitalocean"
-  },
-  {
     "ip": "205.198.72.53",
     "port": 443,
     "code": "SG",
     "org": "Eons Data Communications Limited"
-  },
-  {
-    "ip": "4.194.211.60",
-    "port": 443,
-    "code": "SG",
-    "org": "Microsoft Azure Cloud (southeastasia)"
   },
   {
     "ip": "5.223.61.71",
@@ -346,5 +304,65 @@
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "166.88.233.145",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.158",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.170",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.171",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.201",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.231",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "43.160.195.223",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "43.163.90.17",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
+  },
+  {
+    "ip": "45.32.123.219",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "213.35.107.73",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
   }
 ]

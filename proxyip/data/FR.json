@@ -36,12 +36,6 @@
     "org": "SEVIN Jacques"
   },
   {
-    "ip": "178.32.58.147",
-    "port": 443,
-    "code": "FR",
-    "org": "OVH Ltd"
-  },
-  {
     "ip": "217.60.39.223",
     "port": 443,
     "code": "FR",
@@ -124,12 +118,6 @@
     "port": 8443,
     "code": "FR",
     "org": "Contabo GmbH"
-  },
-  {
-    "ip": "77.221.153.69",
-    "port": 443,
-    "code": "FR",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "109.199.126.6",
@@ -804,12 +792,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "46.8.224.150",
-    "port": 2053,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "51.91.248.99",
     "port": 443,
     "code": "FR",
@@ -850,12 +832,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "46.8.224.150",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "51.77.141.212",
@@ -1146,12 +1122,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "217.60.36.31",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "162.19.79.59",
     "port": 8443,
     "code": "FR",
@@ -1228,12 +1198,6 @@
     "port": 2053,
     "code": "FR",
     "org": "RACKNERD-FR"
-  },
-  {
-    "ip": "92.119.125.107",
-    "port": 8443,
-    "code": "FR",
-    "org": "RackNerd, LLC"
   },
   {
     "ip": "141.94.78.246",
@@ -1758,12 +1722,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "92.119.125.11",
-    "port": 8443,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
     "ip": "193.70.0.150",
     "port": 8443,
     "code": "FR",
@@ -1848,12 +1806,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "158.178.193.78",
-    "port": 82,
-    "code": "FR",
-    "org": "Cloudflare, Inc."
-  },
-  {
     "ip": "185.193.89.62",
     "port": 443,
     "code": "FR",
@@ -1876,12 +1828,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "92.119.125.80",
-    "port": 8443,
-    "code": "FR",
-    "org": "RACKNERD-FR"
   },
   {
     "ip": "51.38.227.155",
@@ -2700,12 +2646,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "95.182.96.30",
-    "port": 2053,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "51.210.149.2",
     "port": 8443,
     "code": "FR",
@@ -2812,12 +2752,6 @@
     "port": 443,
     "code": "FR",
     "org": "RACKNERD-FR"
-  },
-  {
-    "ip": "144.24.195.115",
-    "port": 23010,
-    "code": "FR",
-    "org": "Oracle Corp UK Ltd"
   },
   {
     "ip": "94.23.153.167",
@@ -3252,12 +3186,6 @@
     "org": "HostRoyale Technologies Pvt Ltd"
   },
   {
-    "ip": "88.218.78.34",
-    "port": 443,
-    "code": "FR",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "217.60.39.10",
     "port": 443,
     "code": "FR",
@@ -3276,22 +3204,10 @@
     "org": "Privacy Technologies OU"
   },
   {
-    "ip": "170.168.90.132",
-    "port": 443,
-    "code": "FR",
-    "org": "Privacy Technologies OU"
-  },
-  {
     "ip": "193.42.60.235",
     "port": 443,
     "code": "FR",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "194.4.49.233",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V"
   },
   {
     "ip": "51.91.248.38",
@@ -3337,6 +3253,36 @@
   },
   {
     "ip": "95.182.96.158",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "149.33.1.252",
+    "port": 443,
+    "code": "FR",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "51.91.252.174",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.254.50",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "45.84.88.74",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.8.224.72",
     "port": 443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"

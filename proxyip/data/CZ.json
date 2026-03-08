@@ -90,12 +90,6 @@
     "org": "SmartApe OU"
   },
   {
-    "ip": "194.87.137.88",
-    "port": 443,
-    "code": "CZ",
-    "org": "Baxet Group Inc."
-  },
-  {
     "ip": "194.58.46.104",
     "port": 443,
     "code": "CZ",
@@ -126,12 +120,6 @@
     "org": "HOST-TELECOM.COM s.r.o."
   },
   {
-    "ip": "80.211.201.68",
-    "port": 443,
-    "code": "CZ",
-    "org": "INTERNET CZ, a.s."
-  },
-  {
     "ip": "176.74.219.73",
     "port": 8443,
     "code": "CZ",
@@ -142,5 +130,11 @@
     "port": 443,
     "code": "CZ",
     "org": "SmartApe OU"
+  },
+  {
+    "ip": "46.229.253.146",
+    "port": 443,
+    "code": "CZ",
+    "org": ""
   }
 ]

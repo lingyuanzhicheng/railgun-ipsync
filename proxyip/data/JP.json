@@ -48,12 +48,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "217.142.236.93",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "3.112.21.102",
     "port": 443,
     "code": "JP",
@@ -110,12 +104,6 @@
   {
     "ip": "138.2.39.24",
     "port": 443,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
-    "ip": "152.69.199.70",
-    "port": 8443,
     "code": "JP",
     "org": "Oracle Corporation"
   },
@@ -466,5 +454,35 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "13.230.34.30",
+    "port": 443,
+    "code": "JP",
+    "org": "AWS EC2 (ap-northeast-1)"
+  },
+  {
+    "ip": "138.2.45.232",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "140.238.51.35",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "8.216.5.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   }
 ]

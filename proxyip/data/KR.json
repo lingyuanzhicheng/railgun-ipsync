@@ -246,12 +246,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "144.24.84.212",
-    "port": 49888,
-    "code": "KR",
-    "org": "Oracle Corp UK Ltd"
-  },
-  {
     "ip": "116.93.199.28",
     "port": 12020,
     "code": "KR",
@@ -294,12 +288,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "64.110.75.145",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "152.70.253.44",
     "port": 443,
     "code": "KR",
@@ -316,5 +304,29 @@
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "168.107.28.77",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "130.162.132.38",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "146.56.96.1",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "152.67.208.8",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   }
 ]

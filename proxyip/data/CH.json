@@ -216,12 +216,6 @@
     "org": "Amazon Data Services Switzerland"
   },
   {
-    "ip": "95.183.51.10",
-    "port": 2053,
-    "code": "CH",
-    "org": "Solar Communications GmbH"
-  },
-  {
     "ip": "171.22.16.253",
     "port": 443,
     "code": "CH",
@@ -258,12 +252,6 @@
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "95.183.51.10",
-    "port": 8443,
-    "code": "CH",
-    "org": "Solar Communications GmbH"
-  },
-  {
     "ip": "185.195.69.19",
     "port": 443,
     "code": "CH",
@@ -282,22 +270,10 @@
     "org": "Datasource AG"
   },
   {
-    "ip": "185.195.69.200",
-    "port": 2053,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "45.95.232.18",
     "port": 2053,
     "code": "CH",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "5.182.36.223",
-    "port": 443,
-    "code": "CH",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "45.85.93.21",
@@ -394,5 +370,11 @@
     "port": 443,
     "code": "CH",
     "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "213.176.18.42",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

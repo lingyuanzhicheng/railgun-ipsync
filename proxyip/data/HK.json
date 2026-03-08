@@ -30,22 +30,10 @@
     "org": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
-    "ip": "192.142.4.76",
-    "port": 2053,
-    "code": "HK",
-    "org": "Ultahost Inc"
-  },
-  {
     "ip": "45.38.42.198",
     "port": 2053,
     "code": "HK",
     "org": "STARK INDUSTRIES SOLUTIONS LTD"
-  },
-  {
-    "ip": "46.8.78.122",
-    "port": 8443,
-    "code": "HK",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "2.56.91.89",
@@ -78,12 +66,6 @@
     "org": "LEASEWEB HONG KONG LIMITED"
   },
   {
-    "ip": "5.180.98.146",
-    "port": 22827,
-    "code": "HK",
-    "org": "TEN"
-  },
-  {
     "ip": "8.218.36.133",
     "port": 9010,
     "code": "HK",
@@ -100,12 +82,6 @@
     "port": 4432,
     "code": "HK",
     "org": "Alibaba Cloud - HK"
-  },
-  {
-    "ip": "192.142.4.33",
-    "port": 8443,
-    "code": "HK",
-    "org": "Ultahost Inc"
   },
   {
     "ip": "223.16.138.113",
@@ -198,12 +174,6 @@
     "org": "Alibaba.com LLC"
   },
   {
-    "ip": "43.161.254.121",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
     "ip": "47.57.182.141",
     "port": 443,
     "code": "HK",
@@ -232,5 +202,41 @@
     "port": 443,
     "code": "HK",
     "org": "Adcdata Limited"
+  },
+  {
+    "ip": "183.179.153.217",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Broadband Network Limited"
+  },
+  {
+    "ip": "31.57.155.87",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "31.57.155.147",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "31.57.155.193",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "103.192.179.132",
+    "port": 443,
+    "code": "HK",
+    "org": "HK Dingdian Network Limited"
+  },
+  {
+    "ip": "43.128.37.98",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
   }
 ]
