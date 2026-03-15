@@ -24,12 +24,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "131.186.26.129",
-    "port": 30443,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "146.56.99.255",
     "port": 56789,
     "code": "KR",
@@ -40,12 +34,6 @@
     "port": 20443,
     "code": "KR",
     "org": "Oracle Corporation , Global software solutions , California , USA"
-  },
-  {
-    "ip": "131.186.22.50",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "152.69.229.175",
@@ -246,12 +234,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "116.93.199.28",
-    "port": 12020,
-    "code": "KR",
-    "org": "SK Broadband Co Ltd"
-  },
-  {
     "ip": "132.226.23.92",
     "port": 22053,
     "code": "KR",
@@ -294,22 +276,10 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "129.154.201.131",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "146.56.188.74",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
-    "ip": "168.107.28.77",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   },
   {
     "ip": "130.162.132.38",
@@ -318,13 +288,37 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "146.56.96.1",
+    "ip": "152.67.208.8",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   },
   {
-    "ip": "152.67.208.8",
+    "ip": "168.107.46.112",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "119.205.235.58",
+    "port": 443,
+    "code": "KR",
+    "org": "Korea Telecom"
+  },
+  {
+    "ip": "221.139.87.28",
+    "port": 443,
+    "code": "KR",
+    "org": "SK Broadband Co Ltd"
+  },
+  {
+    "ip": "144.24.68.111",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "168.107.62.234",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"

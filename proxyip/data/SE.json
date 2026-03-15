@@ -78,24 +78,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "212.113.101.250",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "83.147.254.95",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "78.40.117.50",
-    "port": 2053,
-    "code": "SE",
-    "org": "ALEXHOST SRL"
-  },
-  {
     "ip": "77.110.97.193",
     "port": 443,
     "code": "SE",
@@ -198,12 +180,6 @@
     "org": "Smart Digital Ideas DOO"
   },
   {
-    "ip": "138.124.34.176",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.110.96.166",
     "port": 8443,
     "code": "SE",
@@ -289,12 +265,6 @@
   },
   {
     "ip": "91.186.219.122",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "138.124.34.221",
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
@@ -412,12 +382,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "62.60.230.30",
-    "port": 443,
-    "code": "SE",
-    "org": "Smart Digital Ideas DOO"
   },
   {
     "ip": "77.110.97.230",
@@ -738,12 +702,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "91.186.217.29",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "147.45.76.29",
     "port": 443,
     "code": "SE",
@@ -864,12 +822,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "89.22.235.182",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "91.186.219.143",
     "port": 2053,
     "code": "SE",
@@ -922,18 +874,6 @@
     "port": 443,
     "code": "SE",
     "org": "SweHosting"
-  },
-  {
-    "ip": "109.120.132.113",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "109.120.132.113",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "193.188.20.196",
@@ -994,12 +934,6 @@
     "port": 443,
     "code": "SE",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "65.20.113.182",
-    "port": 443,
-    "code": "SE",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "91.223.169.237",
@@ -1072,5 +1006,137 @@
     "port": 443,
     "code": "SE",
     "org": "Play2go International Limited"
+  },
+  {
+    "ip": "83.219.250.221",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "87.121.105.12",
+    "port": 443,
+    "code": "SE",
+    "org": "Play2go International Limited"
+  },
+  {
+    "ip": "87.121.105.56",
+    "port": 443,
+    "code": "SE",
+    "org": "Play2go International Limited"
+  },
+  {
+    "ip": "91.223.169.74",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudwebmanage EU ST"
+  },
+  {
+    "ip": "103.177.249.23",
+    "port": 443,
+    "code": "SE",
+    "org": "Hostup AB"
+  },
+  {
+    "ip": "142.111.244.42",
+    "port": 443,
+    "code": "SE",
+    "org": "IB Compute Systems Inc"
+  },
+  {
+    "ip": "185.229.221.92",
+    "port": 443,
+    "code": "SE",
+    "org": "Raul Gabriel Ghita"
+  },
+  {
+    "ip": "192.145.30.224",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "5.178.109.158",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "37.252.8.202",
+    "port": 443,
+    "code": "SE",
+    "org": "ISPIRIA Networks Ltd"
+  },
+  {
+    "ip": "62.182.193.252",
+    "port": 443,
+    "code": "SE",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "78.40.117.201",
+    "port": 443,
+    "code": "SE",
+    "org": "Yelles AB"
+  },
+  {
+    "ip": "213.21.252.69",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "89.169.35.198",
+    "port": 443,
+    "code": "SE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "89.169.32.238",
+    "port": 443,
+    "code": "SE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "45.93.9.182",
+    "port": 443,
+    "code": "SE",
+    "org": "Alexhost SRL"
+  },
+  {
+    "ip": "64.188.81.49",
+    "port": 443,
+    "code": "SE",
+    "org": "1Cent Host"
+  },
+  {
+    "ip": "70.34.195.28",
+    "port": 443,
+    "code": "SE",
+    "org": "Vultr"
+  },
+  {
+    "ip": "78.40.117.112",
+    "port": 443,
+    "code": "SE",
+    "org": "Yelles AB"
+  },
+  {
+    "ip": "89.125.243.148",
+    "port": 443,
+    "code": "SE",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "176.125.241.19",
+    "port": 443,
+    "code": "SE",
+    "org": "Alexhost SRL"
+  },
+  {
+    "ip": "176.125.241.116",
+    "port": 443,
+    "code": "SE",
+    "org": "Alexhost SRL"
   }
 ]

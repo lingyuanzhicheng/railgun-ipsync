@@ -78,12 +78,6 @@
     "org": "Newserverlife LLC"
   },
   {
-    "ip": "45.144.48.33",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "45.144.50.4",
     "port": 443,
     "code": "PL",
@@ -138,12 +132,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "138.124.20.52",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "151.115.61.151",
     "port": 2053,
     "code": "PL",
@@ -178,12 +166,6 @@
     "port": 8443,
     "code": "PL",
     "org": "OVH Sp. z o. o."
-  },
-  {
-    "ip": "45.144.48.42",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
   },
   {
     "ip": "77.83.246.133",
@@ -306,12 +288,6 @@
     "org": "Newserverlife LLC"
   },
   {
-    "ip": "213.5.128.147",
-    "port": 443,
-    "code": "PL",
-    "org": "MB Lirutis"
-  },
-  {
     "ip": "45.144.48.58",
     "port": 443,
     "code": "PL",
@@ -402,18 +378,6 @@
     "org": "Cloudflare London, LLC"
   },
   {
-    "ip": "91.149.253.213",
-    "port": 2053,
-    "code": "PL",
-    "org": "BG-NETWORK"
-  },
-  {
-    "ip": "91.149.253.213",
-    "port": 8443,
-    "code": "PL",
-    "org": "BG-NETWORK"
-  },
-  {
     "ip": "185.253.44.97",
     "port": 443,
     "code": "PL",
@@ -486,22 +450,10 @@
     "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
-    "ip": "45.144.48.158",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "45.144.51.166",
     "port": 8443,
     "code": "PL",
     "org": "Newserverlife LLC"
-  },
-  {
-    "ip": "45.149.63.36",
-    "port": 2053,
-    "code": "PL",
-    "org": "NET 45 149 63 0 24"
   },
   {
     "ip": "45.149.63.112",
@@ -532,12 +484,6 @@
     "port": 8443,
     "code": "PL",
     "org": "IROKO Networks Corporation"
-  },
-  {
-    "ip": "5.10.218.222",
-    "port": 443,
-    "code": "PL",
-    "org": "IPHOSTER OU"
   },
   {
     "ip": "185.253.45.68",
@@ -606,12 +552,6 @@
     "org": ""
   },
   {
-    "ip": "212.192.11.187",
-    "port": 443,
-    "code": "PL",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "212.192.11.208",
     "port": 443,
     "code": "PL",
@@ -640,5 +580,17 @@
     "port": 443,
     "code": "PL",
     "org": "OVH Sp. z o. o"
+  },
+  {
+    "ip": "138.124.19.10",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "178.17.59.141",
+    "port": 443,
+    "code": "PL",
+    "org": "Qwins LTD"
   }
 ]

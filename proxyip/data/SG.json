@@ -126,12 +126,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "138.2.69.236",
-    "port": 23334,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "54.255.217.120",
     "port": 8192,
     "code": "SG",
@@ -214,12 +208,6 @@
     "port": 587,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "31.192.238.71",
-    "port": 8443,
-    "code": "SG",
-    "org": "PDK LLC"
   },
   {
     "ip": "167.71.198.82",
@@ -306,42 +294,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "166.88.233.145",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.158",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.170",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.171",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.201",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.231",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "43.160.195.223",
     "port": 443,
     "code": "SG",
@@ -354,15 +306,33 @@
     "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
   },
   {
-    "ip": "45.32.123.219",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "213.35.107.73",
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
+  },
+  {
+    "ip": "8.222.193.153",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "139.180.140.39",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "158.178.234.153",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "45.76.152.246",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
   }
 ]

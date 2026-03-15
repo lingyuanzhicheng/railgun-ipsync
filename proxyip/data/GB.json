@@ -150,12 +150,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "212.113.103.4",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.221.136.180",
     "port": 443,
     "code": "GB",
@@ -270,12 +264,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "89.169.10.12",
-    "port": 443,
-    "code": "GB",
-    "org": "Medvedev Vladislav Olegovich"
-  },
-  {
     "ip": "57.129.137.86",
     "port": 8443,
     "code": "GB",
@@ -370,12 +358,6 @@
     "port": 8443,
     "code": "GB",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "193.32.176.44",
-    "port": 443,
-    "code": "GB",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "57.128.183.40",
@@ -508,12 +490,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "188.166.154.9",
-    "port": 443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "57.129.137.237",
@@ -2634,9 +2610,87 @@
     "org": "AWS EC2 (eu-west-2)"
   },
   {
-    "ip": "193.149.190.234",
+    "ip": "95.179.228.112",
     "port": 443,
     "code": "GB",
-    "org": "BL Networks"
+    "org": "Vultr Holdings LLC London"
+  },
+  {
+    "ip": "213.165.84.165",
+    "port": 443,
+    "code": "GB",
+    "org": "IONOS SE"
+  },
+  {
+    "ip": "185.44.67.167",
+    "port": 443,
+    "code": "GB",
+    "org": "MassiveGRID"
+  },
+  {
+    "ip": "37.221.127.139",
+    "port": 443,
+    "code": "GB",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "212.38.166.211",
+    "port": 443,
+    "code": "GB",
+    "org": "Ipserver World LTD"
+  },
+  {
+    "ip": "142.93.47.216",
+    "port": 443,
+    "code": "GB",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "165.227.237.209",
+    "port": 443,
+    "code": "GB",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "195.54.161.20",
+    "port": 443,
+    "code": "GB",
+    "org": "BV Na22"
+  },
+  {
+    "ip": "2.56.179.4",
+    "port": 443,
+    "code": "GB",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "64.176.186.194",
+    "port": 443,
+    "code": "GB",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "67.159.56.85",
+    "port": 443,
+    "code": "GB",
+    "org": "FDCservers.net"
+  },
+  {
+    "ip": "78.129.253.133",
+    "port": 443,
+    "code": "GB",
+    "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "91.227.62.50",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "91.227.62.67",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
   }
 ]

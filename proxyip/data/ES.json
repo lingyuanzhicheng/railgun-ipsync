@@ -156,12 +156,6 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "145.249.109.53",
-    "port": 443,
-    "code": "ES",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "185.232.205.169",
     "port": 443,
     "code": "ES",
@@ -172,5 +166,11 @@
     "port": 42208,
     "code": "ES",
     "org": "Fiber Grid INC"
+  },
+  {
+    "ip": "185.21.11.91",
+    "port": 443,
+    "code": "ES",
+    "org": "Fornex Hosting S.L"
   }
 ]

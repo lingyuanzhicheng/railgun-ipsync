@@ -72,12 +72,6 @@
     "org": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
-    "ip": "118.141.64.192",
-    "port": 36619,
-    "code": "HK",
-    "org": "HGC Global Communications Limited"
-  },
-  {
     "ip": "47.240.15.210",
     "port": 4432,
     "code": "HK",
@@ -162,12 +156,6 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "38.207.132.101",
-    "port": 443,
-    "code": "HK",
-    "org": "Nearoute Limited"
-  },
-  {
     "ip": "43.103.6.144",
     "port": 443,
     "code": "HK",
@@ -198,22 +186,10 @@
     "org": "Aleksei Fedorov PR Krusevac"
   },
   {
-    "ip": "217.60.38.213",
-    "port": 443,
-    "code": "HK",
-    "org": "Adcdata Limited"
-  },
-  {
     "ip": "183.179.153.217",
     "port": 443,
     "code": "HK",
     "org": "Hong Kong Broadband Network Limited"
-  },
-  {
-    "ip": "31.57.155.87",
-    "port": 443,
-    "code": "HK",
-    "org": ""
   },
   {
     "ip": "31.57.155.147",
@@ -238,5 +214,83 @@
     "port": 443,
     "code": "HK",
     "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "34.92.187.216",
+    "port": 443,
+    "code": "HK",
+    "org": "Google Cloud (asia-east2)"
+  },
+  {
+    "ip": "8.218.189.27",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "38.207.160.227",
+    "port": 443,
+    "code": "HK",
+    "org": "VMISS Inc"
+  },
+  {
+    "ip": "31.57.155.158",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "152.32.171.162",
+    "port": 443,
+    "code": "HK",
+    "org": "Ucloud Information Technology (hk) Limited"
+  },
+  {
+    "ip": "112.119.8.12",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Telecommunications (HKT) Limited"
+  },
+  {
+    "ip": "154.3.33.43",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "154.16.10.81",
+    "port": 443,
+    "code": "HK",
+    "org": "Digital Energy Technologies Limited"
+  },
+  {
+    "ip": "154.38.116.8",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Communications International Co., Limited"
+  },
+  {
+    "ip": "8.218.226.31",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "38.180.189.220",
+    "port": 443,
+    "code": "HK",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "47.76.146.102",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba Cloud - HK"
+  },
+  {
+    "ip": "95.40.173.149",
+    "port": 443,
+    "code": "HK",
+    "org": "AWS EC2 (ap-east-1)"
   }
 ]

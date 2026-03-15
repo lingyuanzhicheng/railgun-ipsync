@@ -66,12 +66,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "46.36.219.80",
-    "port": 443,
-    "code": "EE",
-    "org": "Network for hosting services"
-  },
-  {
     "ip": "38.180.248.29",
     "port": 443,
     "code": "EE",
@@ -82,12 +76,6 @@
     "port": 2053,
     "code": "EE",
     "org": "IT-Develop DOO"
-  },
-  {
-    "ip": "69.12.83.248",
-    "port": 8443,
-    "code": "EE",
-    "org": "RAKAR INVESTMENTS HOLDING B.V."
   },
   {
     "ip": "46.36.218.151",
@@ -240,12 +228,6 @@
     "org": "Brainoza OU"
   },
   {
-    "ip": "159.253.19.232",
-    "port": 443,
-    "code": "EE",
-    "org": "Network for hosting services"
-  },
-  {
     "ip": "185.36.141.193",
     "port": 443,
     "code": "EE",
@@ -262,12 +244,6 @@
     "port": 2053,
     "code": "EE",
     "org": "Brainoza OU"
-  },
-  {
-    "ip": "46.36.217.216",
-    "port": 443,
-    "code": "EE",
-    "org": "Network for hosting services"
   },
   {
     "ip": "194.26.141.30",
@@ -342,12 +318,6 @@
     "org": "Brainoza OU"
   },
   {
-    "ip": "46.22.211.37",
-    "port": 443,
-    "code": "EE",
-    "org": "Aktsiaselts WaveCom"
-  },
-  {
     "ip": "5.101.180.145",
     "port": 443,
     "code": "EE",
@@ -394,5 +364,11 @@
     "port": 443,
     "code": "EE",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "193.228.128.110",
+    "port": 443,
+    "code": "EE",
+    "org": "Global Internet Solutions LLC"
   }
 ]
