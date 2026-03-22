@@ -222,12 +222,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "141.147.162.24",
-    "port": 1235,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "158.101.154.245",
     "port": 47001,
     "code": "JP",
@@ -322,12 +316,6 @@
     "port": 50443,
     "code": "JP",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "103.238.129.215",
-    "port": 42734,
-    "code": "JP",
-    "org": "ByteVirt LLC"
   },
   {
     "ip": "168.138.197.147",
@@ -462,12 +450,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "161.129.34.23",
-    "port": 443,
-    "code": "JP",
-    "org": "JU-LINK-US"
-  },
-  {
     "ip": "45.66.129.201",
     "port": 443,
     "code": "JP",
@@ -493,12 +475,6 @@
   },
   {
     "ip": "64.176.54.102",
-    "port": 443,
-    "code": "JP",
-    "org": "The Constant Company, LLC"
-  },
-  {
-    "ip": "64.176.55.11",
     "port": 443,
     "code": "JP",
     "org": "The Constant Company, LLC"
@@ -550,5 +526,23 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "82.40.47.114",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   }
 ]

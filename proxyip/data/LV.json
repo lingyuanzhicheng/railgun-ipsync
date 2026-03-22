@@ -60,12 +60,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "94.158.219.126",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "94.158.219.166",
     "port": 443,
     "code": "LV",
@@ -121,12 +115,6 @@
   },
   {
     "ip": "5.34.211.150",
-    "port": 443,
-    "code": "LV",
-    "org": "Parsun Network Solutions PTY LTD"
-  },
-  {
-    "ip": "5.34.215.12",
     "port": 443,
     "code": "LV",
     "org": "Parsun Network Solutions PTY LTD"
@@ -432,12 +420,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "216.173.68.7",
-    "port": 433,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "195.135.255.177",
     "port": 443,
     "code": "LV",
@@ -450,22 +432,10 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "5.34.212.179",
-    "port": 8443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "45.133.216.88",
     "port": 8443,
     "code": "LV",
     "org": "FreeNet L.L.C-FZ"
-  },
-  {
-    "ip": "188.253.23.248",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
   },
   {
     "ip": "5.34.212.223",
@@ -475,12 +445,6 @@
   },
   {
     "ip": "37.128.207.133",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "5.34.215.232",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -511,12 +475,6 @@
   },
   {
     "ip": "45.43.77.239",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "195.135.252.170",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -738,12 +696,6 @@
     "org": "Green Floid LLC"
   },
   {
-    "ip": "5.34.209.105",
-    "port": 2053,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "5.34.209.219",
     "port": 2053,
     "code": "LV",
@@ -784,12 +736,6 @@
     "port": 443,
     "code": "LV",
     "org": "Friendhosting LTD"
-  },
-  {
-    "ip": "185.8.60.113",
-    "port": 443,
-    "code": "LV",
-    "org": "CloudHosting SIA"
   },
   {
     "ip": "92.118.170.191",
@@ -948,9 +894,21 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "5.39.250.18",
+    "ip": "188.253.22.220",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "138.124.182.174",
     "port": 443,
     "code": "LV",
     "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "193.68.89.220",
+    "port": 443,
+    "code": "LV",
+    "org": "Versija Ltd."
   }
 ]

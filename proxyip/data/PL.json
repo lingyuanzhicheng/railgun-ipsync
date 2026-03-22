@@ -204,12 +204,6 @@
     "org": "BlueVPS OU"
   },
   {
-    "ip": "45.149.63.235",
-    "port": 2053,
-    "code": "PL",
-    "org": "NET 45 149 63 0 24"
-  },
-  {
     "ip": "31.133.0.124",
     "port": 2053,
     "code": "PL",
@@ -336,12 +330,6 @@
     "org": "Newserverlife LLC"
   },
   {
-    "ip": "38.180.111.12",
-    "port": 443,
-    "code": "PL",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "91.149.253.249",
     "port": 443,
     "code": "PL",
@@ -382,18 +370,6 @@
     "port": 443,
     "code": "PL",
     "org": "Friendhosting LTD"
-  },
-  {
-    "ip": "193.124.41.165",
-    "port": 2053,
-    "code": "PL",
-    "org": "Reliable Communications s.r.o."
-  },
-  {
-    "ip": "193.124.41.165",
-    "port": 8443,
-    "code": "PL",
-    "org": "Reliable Communications s.r.o."
   },
   {
     "ip": "37.252.11.17",
@@ -592,5 +568,23 @@
     "port": 443,
     "code": "PL",
     "org": "Qwins LTD"
+  },
+  {
+    "ip": "103.167.234.26",
+    "port": 443,
+    "code": "PL",
+    "org": "AlbHost SH.P.K"
+  },
+  {
+    "ip": "144.31.4.243",
+    "port": 443,
+    "code": "PL",
+    "org": "H2nexus LTD"
+  },
+  {
+    "ip": "191.101.184.50",
+    "port": 443,
+    "code": "PL",
+    "org": "Serva ONE LTD"
   }
 ]

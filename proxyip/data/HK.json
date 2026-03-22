@@ -18,12 +18,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "103.194.107.166",
-    "port": 443,
-    "code": "HK",
-    "org": "Antbox Networks Limited"
-  },
-  {
     "ip": "47.82.92.52",
     "port": 443,
     "code": "HK",
@@ -132,12 +126,6 @@
     "org": "Hong Kong Broadband Network Ltd"
   },
   {
-    "ip": "118.141.20.85",
-    "port": 443,
-    "code": "HK",
-    "org": "HGC Global Communications Limited"
-  },
-  {
     "ip": "8.217.180.234",
     "port": 443,
     "code": "HK",
@@ -186,12 +174,6 @@
     "org": "Aleksei Fedorov PR Krusevac"
   },
   {
-    "ip": "183.179.153.217",
-    "port": 443,
-    "code": "HK",
-    "org": "Hong Kong Broadband Network Limited"
-  },
-  {
     "ip": "31.57.155.147",
     "port": 443,
     "code": "HK",
@@ -210,12 +192,6 @@
     "org": "HK Dingdian Network Limited"
   },
   {
-    "ip": "43.128.37.98",
-    "port": 443,
-    "code": "HK",
-    "org": "Tencent Cloud Computing"
-  },
-  {
     "ip": "34.92.187.216",
     "port": 443,
     "code": "HK",
@@ -226,12 +202,6 @@
     "port": 443,
     "code": "HK",
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
-    "ip": "38.207.160.227",
-    "port": 443,
-    "code": "HK",
-    "org": "VMISS Inc"
   },
   {
     "ip": "31.57.155.158",
@@ -292,5 +262,17 @@
     "port": 443,
     "code": "HK",
     "org": "AWS EC2 (ap-east-1)"
+  },
+  {
+    "ip": "123.254.106.203",
+    "port": 443,
+    "code": "HK",
+    "org": "Cloudie Limited"
+  },
+  {
+    "ip": "43.154.131.189",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
   }
 ]

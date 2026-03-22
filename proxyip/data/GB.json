@@ -126,37 +126,7 @@
     "org": "Hydra Communications Ltd"
   },
   {
-    "ip": "79.137.205.248",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.221.136.206",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "62.60.159.140",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.221.140.167",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.221.136.180",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.221.140.186",
     "port": 443,
     "code": "GB",
     "org": "Aeza International LTD"
@@ -508,12 +478,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "91.199.32.224",
-    "port": 2053,
-    "code": "GB",
-    "org": "HR SYSHEAD"
   },
   {
     "ip": "104.194.140.98",
@@ -952,12 +916,6 @@
     "port": 443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "91.199.32.45",
-    "port": 8443,
-    "code": "GB",
-    "org": "HR SYSHEAD"
   },
   {
     "ip": "57.128.183.35",
@@ -1662,12 +1620,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "2.56.179.171",
-    "port": 443,
-    "code": "GB",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "159.65.94.176",
     "port": 8080,
     "code": "GB",
@@ -1720,12 +1672,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "2.56.179.239",
-    "port": 443,
-    "code": "GB",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "57.128.177.22",
@@ -1990,12 +1936,6 @@
     "port": 443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "91.199.32.45",
-    "port": 2053,
-    "code": "GB",
-    "org": "HR SYSHEAD"
   },
   {
     "ip": "57.128.176.147",
@@ -2640,12 +2580,6 @@
     "org": "Ipserver World LTD"
   },
   {
-    "ip": "142.93.47.216",
-    "port": 443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "165.227.237.209",
     "port": 443,
     "code": "GB",
@@ -2689,6 +2623,24 @@
   },
   {
     "ip": "91.227.62.67",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "91.227.62.149",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "194.147.16.51",
+    "port": 443,
+    "code": "GB",
+    "org": "Ipxo"
+  },
+  {
+    "ip": "91.227.62.63",
     "port": 443,
     "code": "GB",
     "org": "Xantho UAB"

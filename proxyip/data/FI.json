@@ -72,12 +72,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "109.206.236.23",
-    "port": 443,
-    "code": "FI",
-    "org": "Neterra Ltd"
-  },
-  {
     "ip": "185.92.183.157",
     "port": 443,
     "code": "FI",
@@ -145,12 +139,6 @@
   },
   {
     "ip": "77.221.159.219",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "91.103.140.81",
     "port": 443,
     "code": "FI",
     "org": "Aeza International LTD"
@@ -224,12 +212,6 @@
   {
     "ip": "83.147.192.189",
     "port": 8443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.110.98.56",
-    "port": 443,
     "code": "FI",
     "org": "Aeza International LTD"
   },
@@ -372,12 +354,6 @@
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "77.83.247.48",
-    "port": 8443,
-    "code": "FI",
-    "org": "Oy Crea Nova Hosting Solution Ltd"
-  },
-  {
     "ip": "93.152.207.12",
     "port": 443,
     "code": "FI",
@@ -484,12 +460,6 @@
     "port": 8443,
     "code": "FI",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "104.252.127.253",
-    "port": 8443,
-    "code": "FI",
-    "org": "EGIHosting"
   },
   {
     "ip": "31.59.41.129",
@@ -660,12 +630,6 @@
     "org": "PSERVERS Enterprise Network"
   },
   {
-    "ip": "31.59.41.99",
-    "port": 2053,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "185.231.206.61",
     "port": 443,
     "code": "FI",
@@ -724,12 +688,6 @@
     "port": 8443,
     "code": "FI",
     "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
-    "ip": "185.42.163.251",
-    "port": 443,
-    "code": "FI",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "188.130.206.93",
@@ -1320,12 +1278,6 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "45.91.193.35",
-    "port": 8443,
-    "code": "FI",
-    "org": "CloudBackbone"
-  },
-  {
     "ip": "213.159.68.140",
     "port": 2053,
     "code": "FI",
@@ -1384,12 +1336,6 @@
     "port": 8443,
     "code": "FI",
     "org": "EGIHosting"
-  },
-  {
-    "ip": "31.57.93.174",
-    "port": 2053,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "31.56.113.71",
@@ -1686,12 +1632,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "104.252.127.253",
-    "port": 2053,
-    "code": "FI",
-    "org": "EGIHosting"
-  },
-  {
     "ip": "66.151.35.153",
     "port": 8443,
     "code": "FI",
@@ -1716,12 +1656,6 @@
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "83.147.252.14",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "188.130.206.37",
     "port": 2053,
     "code": "FI",
@@ -1732,12 +1666,6 @@
     "port": 2053,
     "code": "FI",
     "org": "PSERVERS Enterprise Network"
-  },
-  {
-    "ip": "31.57.93.174",
-    "port": 8443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "193.164.155.27",
@@ -1909,12 +1837,6 @@
   },
   {
     "ip": "31.57.62.175",
-    "port": 8443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "31.59.41.99",
     "port": 8443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
@@ -2196,12 +2118,6 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "95.217.163.123",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "95.217.185.57",
     "port": 443,
     "code": "FI",
@@ -2406,12 +2322,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "194.39.110.4",
-    "port": 443,
-    "code": "FI",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "194.39.110.50",
     "port": 443,
     "code": "FI",
@@ -2449,6 +2359,126 @@
   },
   {
     "ip": "31.57.26.33",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "141.105.143.37",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "157.180.16.20",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "43.245.225.23",
+    "port": 443,
+    "code": "FI",
+    "org": "HOSTKEY"
+  },
+  {
+    "ip": "185.230.190.148",
+    "port": 443,
+    "code": "FI",
+    "org": "ZTV-CORP"
+  },
+  {
+    "ip": "194.34.236.205",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "212.237.218.227",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "78.153.139.207",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "66.151.35.81",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "85.209.129.168",
+    "port": 443,
+    "code": "FI",
+    "org": "Qwins LTD"
+  },
+  {
+    "ip": "95.217.134.104",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "144.31.132.199",
+    "port": 443,
+    "code": "FI",
+    "org": "CHSL Helsinki"
+  },
+  {
+    "ip": "167.17.40.47",
+    "port": 443,
+    "code": "FI",
+    "org": "Moula World"
+  },
+  {
+    "ip": "168.222.253.184",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "195.96.156.92",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "217.60.60.38",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "2.56.173.3",
+    "port": 443,
+    "code": "FI",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "31.57.105.140",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.59.41.115",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "37.27.24.143",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "46.8.230.145",
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"

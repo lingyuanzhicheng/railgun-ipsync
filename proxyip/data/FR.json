@@ -66,12 +66,6 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "45.85.146.60",
-    "port": 443,
-    "code": "FR",
-    "org": ""
-  },
-  {
     "ip": "81.19.137.33",
     "port": 443,
     "code": "FR",
@@ -92,12 +86,6 @@
   {
     "ip": "38.242.229.125",
     "port": 8443,
-    "code": "FR",
-    "org": "Contabo GmbH"
-  },
-  {
-    "ip": "207.180.235.19",
-    "port": 443,
     "code": "FR",
     "org": "Contabo GmbH"
   },
@@ -336,12 +324,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "217.60.36.212",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "37.59.96.48",
     "port": 443,
     "code": "FR",
@@ -478,12 +460,6 @@
     "port": 8443,
     "code": "FR",
     "org": "VPS static ips"
-  },
-  {
-    "ip": "31.59.121.150",
-    "port": 2053,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "94.23.78.200",
@@ -906,12 +882,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "217.60.36.183",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "51.91.254.22",
     "port": 443,
     "code": "FR",
@@ -964,12 +934,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "194.4.49.85",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "152.228.135.72",
@@ -1284,12 +1248,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "45.156.27.152",
-    "port": 8443,
-    "code": "FR",
-    "org": "as56971 network"
-  },
-  {
     "ip": "193.42.62.215",
     "port": 2053,
     "code": "FR",
@@ -1390,12 +1348,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "217.60.36.183",
-    "port": 2053,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "193.70.0.150",
@@ -1594,12 +1546,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "94.131.9.65",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "51.91.103.130",
@@ -2136,12 +2082,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "45.156.27.152",
-    "port": 2053,
-    "code": "FR",
-    "org": "as56971 network"
-  },
-  {
     "ip": "51.91.251.153",
     "port": 8443,
     "code": "FR",
@@ -2292,12 +2232,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "212.83.190.180",
-    "port": 443,
-    "code": "FR",
-    "org": "Scaleway Dedibox IPFO"
-  },
-  {
     "ip": "31.59.121.155",
     "port": 2053,
     "code": "FR",
@@ -2374,12 +2308,6 @@
     "port": 2053,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "194.24.161.146",
-    "port": 4090,
-    "code": "FR",
-    "org": "Layer7 Networks GmbH"
   },
   {
     "ip": "194.116.217.120",
@@ -2628,12 +2556,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "217.60.37.196",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "51.91.255.23",
     "port": 8443,
     "code": "FR",
@@ -2868,12 +2790,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "217.60.36.212",
-    "port": 2053,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "51.91.248.218",
     "port": 443,
     "code": "FR",
@@ -2944,12 +2860,6 @@
     "port": 10020,
     "code": "FR",
     "org": "HostRoyale Technologies Pvt Ltd"
-  },
-  {
-    "ip": "217.60.39.10",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "138.124.31.203",
@@ -3154,5 +3064,125 @@
     "port": 443,
     "code": "FR",
     "org": "Ipxo LLC"
+  },
+  {
+    "ip": "138.124.70.157",
+    "port": 443,
+    "code": "FR",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "158.178.215.52",
+    "port": 443,
+    "code": "FR",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "217.60.5.200",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "45.84.88.160",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "51.91.252.34",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.254.158",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "94.232.247.36",
+    "port": 443,
+    "code": "FR",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "94.232.247.119",
+    "port": 443,
+    "code": "FR",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "51.91.250.245",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.253.62",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "54.37.38.254",
+    "port": 443,
+    "code": "FR",
+    "org": "ITINSELL SaRL"
+  },
+  {
+    "ip": "37.59.97.136",
+    "port": 443,
+    "code": "FR",
+    "org": "VPS static ips"
+  },
+  {
+    "ip": "51.91.249.126",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.249.209",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.251.87",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.253.230",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "62.133.62.66",
+    "port": 443,
+    "code": "FR",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "88.218.78.48",
+    "port": 443,
+    "code": "FR",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "207.180.226.101",
+    "port": 443,
+    "code": "FR",
+    "org": "Contabo GmbH"
+  },
+  {
+    "ip": "20.33.23.66",
+    "port": 443,
+    "code": "FR",
+    "org": "Microsoft Azure Cloud (francecentral)"
   }
 ]

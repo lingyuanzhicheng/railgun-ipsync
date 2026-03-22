@@ -1,11 +1,5 @@
 [
   {
-    "ip": "64.176.227.171",
-    "port": 443,
-    "code": "KR",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "129.154.215.121",
     "port": 443,
     "code": "KR",
@@ -204,12 +198,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "103.86.44.120",
-    "port": 65432,
-    "code": "KR",
-    "org": "MOACK DC"
-  },
-  {
     "ip": "59.6.239.208",
     "port": 12203,
     "code": "KR",
@@ -258,12 +246,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "222.114.57.191",
-    "port": 50001,
-    "code": "KR",
-    "org": "Korea Telecom"
-  },
-  {
     "ip": "131.186.22.39",
     "port": 34237,
     "code": "KR",
@@ -294,33 +276,21 @@
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   },
   {
-    "ip": "168.107.46.112",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
-  },
-  {
     "ip": "119.205.235.58",
     "port": 443,
     "code": "KR",
     "org": "Korea Telecom"
   },
   {
-    "ip": "221.139.87.28",
-    "port": 443,
-    "code": "KR",
-    "org": "SK Broadband Co Ltd"
-  },
-  {
-    "ip": "144.24.68.111",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
-  },
-  {
     "ip": "168.107.62.234",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "45.93.30.168",
+    "port": 443,
+    "code": "KR",
+    "org": "Xnnet Limited"
   }
 ]

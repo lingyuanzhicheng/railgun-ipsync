@@ -108,12 +108,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "194.36.179.5",
-    "port": 2053,
-    "code": "SG",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "146.235.19.79",
     "port": 28983,
     "code": "SG",
@@ -234,12 +228,6 @@
     "org": ""
   },
   {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "8.219.195.31",
     "port": 443,
     "code": "SG",
@@ -256,12 +244,6 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "205.198.72.53",
-    "port": 443,
-    "code": "SG",
-    "org": "Eons Data Communications Limited"
   },
   {
     "ip": "5.223.61.71",
@@ -334,5 +316,47 @@
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "166.88.233.145",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.201",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.231",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "166.88.233.253",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "31.57.155.57",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "52.221.156.212",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "52.230.95.97",
+    "port": 443,
+    "code": "SG",
+    "org": "Microsoft Azure Cloud (southeastasia)"
   }
 ]
