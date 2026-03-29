@@ -276,12 +276,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "130.185.249.22",
-    "port": 8080,
-    "code": "GB",
-    "org": "DA International Group Ltd."
-  },
-  {
     "ip": "57.128.182.61",
     "port": 8443,
     "code": "GB",
@@ -1578,12 +1572,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "185.245.83.41",
-    "port": 31687,
-    "code": "GB",
-    "org": "CLOUVIDER Virtual Machines"
-  },
-  {
     "ip": "57.128.178.164",
     "port": 8443,
     "code": "GB",
@@ -1654,12 +1642,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "95.164.18.132",
-    "port": 81,
-    "code": "GB",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "91.228.10.248",
@@ -2562,12 +2544,6 @@
     "org": "IONOS SE"
   },
   {
-    "ip": "185.44.67.167",
-    "port": 443,
-    "code": "GB",
-    "org": "MassiveGRID"
-  },
-  {
     "ip": "37.221.127.139",
     "port": 443,
     "code": "GB",
@@ -2610,12 +2586,6 @@
     "org": "FDCservers.net"
   },
   {
-    "ip": "78.129.253.133",
-    "port": 443,
-    "code": "GB",
-    "org": "Eli Lilly and Company Limited"
-  },
-  {
     "ip": "91.227.62.50",
     "port": 443,
     "code": "GB",
@@ -2644,5 +2614,35 @@
     "port": 443,
     "code": "GB",
     "org": "Xantho UAB"
+  },
+  {
+    "ip": "91.107.127.205",
+    "port": 443,
+    "code": "GB",
+    "org": "Stat Solutions"
+  },
+  {
+    "ip": "37.157.242.6",
+    "port": 443,
+    "code": "GB",
+    "org": "Redstation Limited"
+  },
+  {
+    "ip": "45.140.167.43",
+    "port": 443,
+    "code": "GB",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "82.153.48.54",
+    "port": 443,
+    "code": "GB",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "51.195.192.214",
+    "port": 443,
+    "code": "GB",
+    "org": "OVH Ltd"
   }
 ]

@@ -48,12 +48,6 @@
     "org": "ByteVirt LLC"
   },
   {
-    "ip": "101.32.116.73",
-    "port": 443,
-    "code": "SG",
-    "org": "16 COLLYER QUAY"
-  },
-  {
     "ip": "13.250.31.132",
     "port": 443,
     "code": "SG",
@@ -222,12 +216,6 @@
     "org": "Google LLC"
   },
   {
-    "ip": "139.180.159.133",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "8.219.195.31",
     "port": 443,
     "code": "SG",
@@ -318,45 +306,33 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "166.88.233.145",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.201",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.231",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "166.88.233.253",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "31.57.155.57",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "52.221.156.212",
     "port": 443,
     "code": "SG",
     "org": "AWS EC2 (ap-southeast-1)"
   },
   {
-    "ip": "52.230.95.97",
+    "ip": "8.219.155.125",
     "port": 443,
     "code": "SG",
-    "org": "Microsoft Azure Cloud (southeastasia)"
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "43.134.174.114",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "45.77.255.153",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "38.180.9.42",
+    "port": 443,
+    "code": "SG",
+    "org": "3NT SOLUTIONS LLP"
   }
 ]

@@ -132,12 +132,6 @@
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
-    "ip": "45.143.200.162",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "45.95.232.18",
     "port": 8443,
     "code": "CH",
@@ -160,12 +154,6 @@
     "port": 443,
     "code": "CH",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "38.244.144.150",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "91.192.102.120",
@@ -424,5 +412,23 @@
     "port": 443,
     "code": "CH",
     "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "45.95.232.241",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.59.117.92",
+    "port": 443,
+    "code": "CH",
+    "org": "anyNode"
+  },
+  {
+    "ip": "82.38.64.162",
+    "port": 443,
+    "code": "CH",
+    "org": "Hostkey B.V"
   }
 ]

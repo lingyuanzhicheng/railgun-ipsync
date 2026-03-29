@@ -30,12 +30,6 @@
     "org": "SAKURA"
   },
   {
-    "ip": "155.248.181.189",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "158.101.145.82",
     "port": 443,
     "code": "JP",
@@ -492,12 +486,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "45.135.160.57",
-    "port": 443,
-    "code": "JP",
-    "org": ""
-  },
-  {
     "ip": "43.133.26.158",
     "port": 443,
     "code": "JP",
@@ -522,12 +510,6 @@
     "org": "DDPS Networks, LLC"
   },
   {
-    "ip": "161.33.38.253",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "64.110.101.125",
     "port": 443,
     "code": "JP",
@@ -540,9 +522,15 @@
     "org": ""
   },
   {
-    "ip": "168.138.212.80",
+    "ip": "161.129.34.23",
     "port": 443,
     "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+    "org": "JU-LINK-US"
+  },
+  {
+    "ip": "172.235.211.171",
+    "port": 443,
+    "code": "JP",
+    "org": "Akamai Technologies, Inc."
   }
 ]

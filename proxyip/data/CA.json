@@ -6,18 +6,6 @@
     "org": "OVH Hosting, Inc."
   },
   {
-    "ip": "198.27.67.95",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "91.194.11.78",
-    "port": 81,
-    "code": "CA",
-    "org": "DGTL TECH UK LLP"
-  },
-  {
     "ip": "40.177.65.8",
     "port": 443,
     "code": "CA",
@@ -34,5 +22,11 @@
     "port": 443,
     "code": "CA",
     "org": "CENTRILOGICCANADA"
+  },
+  {
+    "ip": "204.216.107.15",
+    "port": 443,
+    "code": "CA",
+    "org": "Oracle Cloud Infrastructure (ca-montreal-1)"
   }
 ]

@@ -72,12 +72,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "185.92.183.157",
-    "port": 443,
-    "code": "FI",
-    "org": ""
-  },
-  {
     "ip": "185.92.183.217",
     "port": 443,
     "code": "FI",
@@ -198,12 +192,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "85.192.31.30",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "109.107.190.58",
     "port": 443,
     "code": "FI",
@@ -236,12 +224,6 @@
   {
     "ip": "83.147.252.227",
     "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.110.98.232",
-    "port": 8443,
     "code": "FI",
     "org": "Aeza International LTD"
   },
@@ -432,12 +414,6 @@
     "org": "HOSTKEY B.V."
   },
   {
-    "ip": "95.182.99.62",
-    "port": 8443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "185.102.136.128",
     "port": 443,
     "code": "FI",
@@ -538,12 +514,6 @@
     "port": 443,
     "code": "FI",
     "org": "Baxet Group Inc."
-  },
-  {
-    "ip": "45.156.22.52",
-    "port": 2053,
-    "code": "FI",
-    "org": "as56971 network"
   },
   {
     "ip": "94.156.116.239",
@@ -888,12 +858,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "193.233.113.59",
-    "port": 2053,
-    "code": "FI",
-    "org": "Partner Hosting LTD"
-  },
-  {
     "ip": "45.38.170.27",
     "port": 8443,
     "code": "FI",
@@ -1090,12 +1054,6 @@
     "port": 2053,
     "code": "FI",
     "org": "EGIHosting"
-  },
-  {
-    "ip": "46.243.1.194",
-    "port": 443,
-    "code": "FI",
-    "org": "I-SERVERS LTD"
   },
   {
     "ip": "46.8.64.82",
@@ -1374,12 +1332,6 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "77.221.144.67",
-    "port": 443,
-    "code": "FI",
-    "org": "New Hosting Technologies LLC"
-  },
-  {
     "ip": "188.215.31.178",
     "port": 8443,
     "code": "FI",
@@ -1498,12 +1450,6 @@
     "port": 8443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "185.104.250.157",
-    "port": 443,
-    "code": "FI",
-    "org": "PSERVERS Enterprise Network"
   },
   {
     "ip": "31.58.171.230",
@@ -1986,12 +1932,6 @@
     "org": "as56971 network"
   },
   {
-    "ip": "31.59.41.129",
-    "port": 8443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "46.8.71.249",
     "port": 443,
     "code": "FI",
@@ -2026,12 +1966,6 @@
     "port": 443,
     "code": "FI",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "87.121.86.4",
-    "port": 8443,
-    "code": "FI",
-    "org": "1Cent Host"
   },
   {
     "ip": "91.184.243.7",
@@ -2130,12 +2064,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "46.62.148.243",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "65.21.16.187",
     "port": 443,
     "code": "FI",
@@ -2170,12 +2098,6 @@
     "port": 443,
     "code": "FI",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "46.62.139.251",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "65.21.16.186",
@@ -2290,18 +2212,6 @@
     "port": 443,
     "code": "FI",
     "org": "HETZNER-DC"
-  },
-  {
-    "ip": "95.217.101.153",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "109.107.171.46",
-    "port": 443,
-    "code": "FI",
-    "org": "Aleksei Fedorov PR Krusevac"
   },
   {
     "ip": "138.124.15.220",
@@ -2482,5 +2392,179 @@
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "65.109.200.234",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "65.109.214.233",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "94.183.189.133",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "135.181.84.31",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "138.124.80.223",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "43.245.225.176",
+    "port": 443,
+    "code": "FI",
+    "org": "HOSTKEY"
+  },
+  {
+    "ip": "65.21.186.167",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "193.168.198.220",
+    "port": 443,
+    "code": "FI",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "193.233.199.177",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "217.60.60.49",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.26.96",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.59.106.7",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "45.156.22.114",
+    "port": 443,
+    "code": "FI",
+    "org": "LLC Flex"
+  },
+  {
+    "ip": "46.8.238.38",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "151.245.140.204",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "91.186.213.30",
+    "port": 443,
+    "code": "FI",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "91.211.114.208",
+    "port": 443,
+    "code": "FI",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "92.118.234.39",
+    "port": 443,
+    "code": "FI",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "104.252.127.58",
+    "port": 443,
+    "code": "FI",
+    "org": "EGIHosting"
+  },
+  {
+    "ip": "31.56.205.254",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.106.15",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "45.12.146.114",
+    "port": 443,
+    "code": "FI",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "64.188.73.236",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "185.242.247.80",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "5.180.172.78",
+    "port": 443,
+    "code": "FI",
+    "org": ""
+  },
+  {
+    "ip": "31.59.168.24",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "65.109.213.219",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "81.177.214.104",
+    "port": 443,
+    "code": "FI",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "95.164.55.74",
+    "port": 443,
+    "code": "FI",
+    "org": "Qwins LTD"
   }
 ]

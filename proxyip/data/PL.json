@@ -6,36 +6,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "91.239.148.34",
-    "port": 443,
-    "code": "PL",
-    "org": "Internet Utilities NA LLC"
-  },
-  {
-    "ip": "91.239.148.53",
-    "port": 443,
-    "code": "PL",
-    "org": "Internet Utilities NA LLC"
-  },
-  {
-    "ip": "91.239.148.133",
-    "port": 443,
-    "code": "PL",
-    "org": "Internet Utilities NA LLC"
-  },
-  {
-    "ip": "192.124.180.156",
-    "port": 443,
-    "code": "PL",
-    "org": "DLine Media LLC"
-  },
-  {
-    "ip": "193.124.41.203",
-    "port": 443,
-    "code": "PL",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "217.182.79.55",
     "port": 443,
     "code": "PL",
@@ -234,12 +204,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "91.239.148.53",
-    "port": 42053,
-    "code": "PL",
-    "org": "SERVA ONE LTD"
-  },
-  {
     "ip": "31.133.0.143",
     "port": 2053,
     "code": "PL",
@@ -268,12 +232,6 @@
     "port": 2053,
     "code": "PL",
     "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
-    "ip": "147.135.209.171",
-    "port": 443,
-    "code": "PL",
-    "org": "OVH Sp. z o. o."
   },
   {
     "ip": "45.144.51.133",
@@ -372,22 +330,10 @@
     "org": "Friendhosting LTD"
   },
   {
-    "ip": "37.252.11.17",
-    "port": 443,
-    "code": "PL",
-    "org": "IROKO Networks Corporation"
-  },
-  {
     "ip": "57.128.198.82",
     "port": 2053,
     "code": "PL",
     "org": "OVH Sp. z o. o."
-  },
-  {
-    "ip": "80.211.249.79",
-    "port": 2053,
-    "code": "PL",
-    "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
     "ip": "95.164.90.133",
@@ -409,12 +355,6 @@
   },
   {
     "ip": "45.144.51.139",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
-    "ip": "45.144.51.79",
     "port": 8443,
     "code": "PL",
     "org": "Newserverlife LLC"
@@ -474,12 +414,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "31.169.126.65",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "31.169.126.66",
     "port": 443,
     "code": "PL",
@@ -516,18 +450,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "91.108.249.8",
-    "port": 443,
-    "code": "PL",
-    "org": ""
-  },
-  {
-    "ip": "91.108.250.177",
-    "port": 443,
-    "code": "PL",
-    "org": ""
-  },
-  {
     "ip": "212.192.11.208",
     "port": 443,
     "code": "PL",
@@ -552,22 +474,10 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "146.59.94.159",
-    "port": 443,
-    "code": "PL",
-    "org": "OVH Sp. z o. o"
-  },
-  {
     "ip": "138.124.19.10",
     "port": 443,
     "code": "PL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "178.17.59.141",
-    "port": 443,
-    "code": "PL",
-    "org": "Qwins LTD"
   },
   {
     "ip": "103.167.234.26",
@@ -586,5 +496,41 @@
     "port": 443,
     "code": "PL",
     "org": "Serva ONE LTD"
+  },
+  {
+    "ip": "217.30.10.55",
+    "port": 443,
+    "code": "PL",
+    "org": "Melbikomas UAB"
+  },
+  {
+    "ip": "45.43.137.179",
+    "port": 443,
+    "code": "PL",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "138.124.20.93",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "151.241.227.21",
+    "port": 443,
+    "code": "PL",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "2.56.125.59",
+    "port": 443,
+    "code": "PL",
+    "org": "STARK INDUSTRIES SOLUTIONS LTD"
+  },
+  {
+    "ip": "138.124.64.13",
+    "port": 443,
+    "code": "PL",
+    "org": ""
   }
 ]

@@ -18,12 +18,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "47.82.92.52",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba Cloud (Singapore) Private Limited"
-  },
-  {
     "ip": "45.38.42.198",
     "port": 2053,
     "code": "HK",
@@ -102,12 +96,6 @@
     "org": "ihc.hk vps in Hong Kong"
   },
   {
-    "ip": "36.50.90.241",
-    "port": 47790,
-    "code": "HK",
-    "org": "IoT Innovation Technologies Company Limited"
-  },
-  {
     "ip": "154.18.161.172",
     "port": 18443,
     "code": "HK",
@@ -162,28 +150,10 @@
     "org": "Alibaba Cloud - HK"
   },
   {
-    "ip": "103.219.195.184",
-    "port": 443,
-    "code": "HK",
-    "org": "Bage Cloud LLC"
-  },
-  {
     "ip": "176.98.181.71",
     "port": 443,
     "code": "HK",
     "org": "Aleksei Fedorov PR Krusevac"
-  },
-  {
-    "ip": "31.57.155.147",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
-    "ip": "31.57.155.193",
-    "port": 443,
-    "code": "HK",
-    "org": ""
   },
   {
     "ip": "103.192.179.132",
@@ -204,34 +174,16 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "31.57.155.158",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
     "ip": "152.32.171.162",
     "port": 443,
     "code": "HK",
     "org": "Ucloud Information Technology (hk) Limited"
   },
   {
-    "ip": "112.119.8.12",
-    "port": 443,
-    "code": "HK",
-    "org": "Hong Kong Telecommunications (HKT) Limited"
-  },
-  {
     "ip": "154.3.33.43",
     "port": 443,
     "code": "HK",
     "org": ""
-  },
-  {
-    "ip": "154.16.10.81",
-    "port": 443,
-    "code": "HK",
-    "org": "Digital Energy Technologies Limited"
   },
   {
     "ip": "154.38.116.8",
@@ -244,12 +196,6 @@
     "port": 443,
     "code": "HK",
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
-    "ip": "38.180.189.220",
-    "port": 443,
-    "code": "HK",
-    "org": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "47.76.146.102",
@@ -270,9 +216,21 @@
     "org": "Cloudie Limited"
   },
   {
-    "ip": "43.154.131.189",
+    "ip": "152.32.172.205",
     "port": 443,
     "code": "HK",
-    "org": "Tencent Cloud Computing"
+    "org": "Ucloud Information Technology (hk) Limited"
+  },
+  {
+    "ip": "159.138.138.87",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "38.47.123.127",
+    "port": 443,
+    "code": "HK",
+    "org": "VMISS Inc"
   }
 ]
