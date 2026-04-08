@@ -270,12 +270,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "91.121.54.50",
-    "port": 700,
-    "code": "FR",
-    "org": "OVH SAS"
-  },
-  {
     "ip": "51.91.252.193",
     "port": 8443,
     "code": "FR",
@@ -412,12 +406,6 @@
     "port": 443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "95.182.97.7",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "51.91.252.44",
@@ -598,12 +586,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "188.130.207.158",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "51.210.150.65",
@@ -886,12 +868,6 @@
     "port": 443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "34.155.19.30",
-    "port": 2053,
-    "code": "FR",
-    "org": "Google LLC"
   },
   {
     "ip": "51.77.140.38",
@@ -2592,12 +2568,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "193.233.133.76",
-    "port": 8443,
-    "code": "FR",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "88.218.78.87",
     "port": 8443,
     "code": "FR",
@@ -2659,12 +2629,6 @@
   },
   {
     "ip": "94.183.187.207",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "95.182.96.158",
     "port": 443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"
@@ -2938,5 +2902,101 @@
     "port": 443,
     "code": "FR",
     "org": "OVH"
+  },
+  {
+    "ip": "31.56.48.199",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "95.182.96.122",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "45.84.88.226",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "88.218.78.167",
+    "port": 443,
+    "code": "FR",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "94.183.187.160",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "51.178.137.248",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "54.37.39.40",
+    "port": 443,
+    "code": "FR",
+    "org": "ITINSELL SaRL"
+  },
+  {
+    "ip": "51.91.158.180",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "62.60.246.98",
+    "port": 443,
+    "code": "FR",
+    "org": "RTM GmbH"
+  },
+  {
+    "ip": "51.178.27.222",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "163.172.157.35",
+    "port": 443,
+    "code": "FR",
+    "org": "ONLINE"
+  },
+  {
+    "ip": "31.56.176.211",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "152.228.216.172",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.252.191",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "51.91.253.60",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "194.146.12.230",
+    "port": 443,
+    "code": "FR",
+    "org": "Contabo GmbH"
   }
 ]

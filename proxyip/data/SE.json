@@ -132,12 +132,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "45.80.231.249",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.221.143.56",
     "port": 8443,
     "code": "SE",
@@ -162,19 +156,7 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "172.234.99.142",
-    "port": 443,
-    "code": "SE",
-    "org": "Linode"
-  },
-  {
     "ip": "91.186.219.122",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "45.80.231.249",
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
@@ -390,12 +372,6 @@
     "org": "O.M.C. COMPUTERS & COMMUNICATIONS LTD"
   },
   {
-    "ip": "83.147.254.17",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "91.186.219.214",
     "port": 443,
     "code": "SE",
@@ -421,12 +397,6 @@
   },
   {
     "ip": "109.120.132.6",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "109.120.132.127",
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
@@ -478,12 +448,6 @@
     "port": 2053,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "193.148.58.72",
-    "port": 2053,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "188.126.77.155",
@@ -654,12 +618,6 @@
     "org": "SweHosting"
   },
   {
-    "ip": "193.188.20.196",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.147.254.243",
     "port": 443,
     "code": "SE",
@@ -738,22 +696,10 @@
     "org": "HZ Na30"
   },
   {
-    "ip": "78.40.116.84",
-    "port": 443,
-    "code": "SE",
-    "org": "Yelles AB"
-  },
-  {
     "ip": "176.97.77.161",
     "port": 443,
     "code": "SE",
     "org": "IROKO Networks Corporation"
-  },
-  {
-    "ip": "87.121.105.174",
-    "port": 443,
-    "code": "SE",
-    "org": "Play2go International Limited"
   },
   {
     "ip": "83.219.250.221",
@@ -810,12 +756,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "78.40.117.201",
-    "port": 443,
-    "code": "SE",
-    "org": "Yelles AB"
-  },
-  {
     "ip": "89.169.35.198",
     "port": 443,
     "code": "SE",
@@ -828,34 +768,10 @@
     "org": "xorek.cloud International LTD"
   },
   {
-    "ip": "45.93.9.182",
-    "port": 443,
-    "code": "SE",
-    "org": "Alexhost SRL"
-  },
-  {
-    "ip": "64.188.81.49",
-    "port": 443,
-    "code": "SE",
-    "org": "1Cent Host"
-  },
-  {
     "ip": "70.34.195.28",
     "port": 443,
     "code": "SE",
     "org": "Vultr"
-  },
-  {
-    "ip": "78.40.117.112",
-    "port": 443,
-    "code": "SE",
-    "org": "Yelles AB"
-  },
-  {
-    "ip": "213.21.246.165",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "45.80.230.220",
@@ -946,5 +862,53 @@
     "port": 443,
     "code": "SE",
     "org": "ISPIRIA Networks Ltd"
+  },
+  {
+    "ip": "89.22.237.38",
+    "port": 443,
+    "code": "SE",
+    "org": "Servers Tech Fzco"
+  },
+  {
+    "ip": "91.186.217.49",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "193.232.178.176",
+    "port": 443,
+    "code": "SE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "95.141.241.216",
+    "port": 443,
+    "code": "SE",
+    "org": "Hostup AB"
+  },
+  {
+    "ip": "77.110.96.142",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "109.120.135.55",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "213.21.251.234",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "46.226.164.173",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
   }
 ]

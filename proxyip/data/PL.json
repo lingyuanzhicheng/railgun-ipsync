@@ -96,12 +96,6 @@
     "org": "OVH Sp. z o. o."
   },
   {
-    "ip": "37.252.7.161",
-    "port": 2053,
-    "code": "PL",
-    "org": "IROKO Networks Corporation"
-  },
-  {
     "ip": "151.115.61.151",
     "port": 2053,
     "code": "PL",
@@ -112,18 +106,6 @@
     "port": 443,
     "code": "PL",
     "org": "BREEZLE LLC"
-  },
-  {
-    "ip": "151.115.58.191",
-    "port": 4443,
-    "code": "PL",
-    "org": "Scaleway - Warsaw, Poland"
-  },
-  {
-    "ip": "2.56.125.126",
-    "port": 443,
-    "code": "PL",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "31.169.126.240",
@@ -318,12 +300,6 @@
     "org": "EDIS Infrastructure in Poland"
   },
   {
-    "ip": "31.169.126.130",
-    "port": 443,
-    "code": "PL",
-    "org": "Cloudflare London, LLC"
-  },
-  {
     "ip": "185.253.44.97",
     "port": 443,
     "code": "PL",
@@ -366,12 +342,6 @@
     "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
-    "ip": "45.144.51.166",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "45.149.63.112",
     "port": 2053,
     "code": "PL",
@@ -394,12 +364,6 @@
     "port": 8443,
     "code": "PL",
     "org": "OVH Sp. z o. o."
-  },
-  {
-    "ip": "37.252.7.161",
-    "port": 8443,
-    "code": "PL",
-    "org": "IROKO Networks Corporation"
   },
   {
     "ip": "185.253.45.68",
@@ -498,12 +462,6 @@
     "org": "Serva ONE LTD"
   },
   {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
-  },
-  {
     "ip": "45.43.137.179",
     "port": 443,
     "code": "PL",
@@ -529,6 +487,18 @@
   },
   {
     "ip": "138.124.64.13",
+    "port": 443,
+    "code": "PL",
+    "org": ""
+  },
+  {
+    "ip": "192.124.180.156",
+    "port": 443,
+    "code": "PL",
+    "org": "DLine Media LLC"
+  },
+  {
+    "ip": "151.244.111.47",
     "port": 443,
     "code": "PL",
     "org": ""

@@ -42,12 +42,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "3.112.21.102",
-    "port": 443,
-    "code": "JP",
-    "org": "AWS EC2 (ap-northeast-1)"
-  },
-  {
     "ip": "45.32.55.253",
     "port": 443,
     "code": "JP",
@@ -174,12 +168,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "82.163.16.229",
-    "port": 26803,
-    "code": "JP",
-    "org": "AKILE LTD"
-  },
-  {
     "ip": "158.101.146.3",
     "port": 54516,
     "code": "JP",
@@ -208,12 +196,6 @@
     "port": 443,
     "code": "JP",
     "org": "The Constant Company, LLC"
-  },
-  {
-    "ip": "152.70.82.101",
-    "port": 18650,
-    "code": "JP",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "158.101.154.245",
@@ -402,12 +384,6 @@
     "org": "Azumino Network Community TV"
   },
   {
-    "ip": "18.183.158.211",
-    "port": 443,
-    "code": "JP",
-    "org": "AWS EC2 (ap-northeast-1)"
-  },
-  {
     "ip": "138.2.59.112",
     "port": 443,
     "code": "JP",
@@ -418,12 +394,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "13.230.34.30",
-    "port": 443,
-    "code": "JP",
-    "org": "AWS EC2 (ap-northeast-1)"
   },
   {
     "ip": "140.238.51.35",
@@ -442,24 +412,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "45.66.129.201",
-    "port": 443,
-    "code": "JP",
-    "org": "Virtual Machine Solutions LLC"
-  },
-  {
-    "ip": "45.76.107.78",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "45.76.203.234",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "64.176.50.149",
@@ -516,21 +468,27 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "82.40.47.114",
-    "port": 443,
-    "code": "JP",
-    "org": ""
-  },
-  {
-    "ip": "161.129.34.23",
-    "port": 443,
-    "code": "JP",
-    "org": "JU-LINK-US"
-  },
-  {
     "ip": "172.235.211.171",
     "port": 443,
     "code": "JP",
     "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "155.248.181.189",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "47.79.94.192",
+    "port": 443,
+    "code": "JP",
+    "org": "Alibaba.com LLC"
+  },
+  {
+    "ip": "66.42.32.115",
+    "port": 443,
+    "code": "JP",
+    "org": "Choopa, LLC"
   }
 ]

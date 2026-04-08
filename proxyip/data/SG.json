@@ -72,22 +72,10 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "194.127.193.124",
-    "port": 24467,
-    "code": "SG",
-    "org": "Greencloud LLC"
-  },
-  {
     "ip": "129.150.58.86",
     "port": 57621,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "194.36.178.36",
-    "port": 2053,
-    "code": "SG",
-    "org": "FIRST SERVER LIMITED"
   },
   {
     "ip": "139.99.124.165",
@@ -120,12 +108,6 @@
     "org": "Amazon Data Services Japan"
   },
   {
-    "ip": "213.35.108.135",
-    "port": 12596,
-    "code": "SG",
-    "org": "Oracle Svenska AB"
-  },
-  {
     "ip": "66.42.51.60",
     "port": 8443,
     "code": "SG",
@@ -154,12 +136,6 @@
     "port": 443,
     "code": "SG",
     "org": "Viewqwest Pte Ltd"
-  },
-  {
-    "ip": "5.223.47.32",
-    "port": 443,
-    "code": "SG",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "168.138.171.70",
@@ -234,22 +210,10 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "5.223.61.71",
-    "port": 443,
-    "code": "SG",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "47.82.155.79",
     "port": 443,
     "code": "SG",
     "org": "Alibaba.com LLC"
-  },
-  {
-    "ip": "103.241.62.245",
-    "port": 443,
-    "code": "SG",
-    "org": "MyRepublic Ltd."
   },
   {
     "ip": "129.150.46.113",
@@ -268,18 +232,6 @@
     "port": 443,
     "code": "SG",
     "org": ""
-  },
-  {
-    "ip": "43.163.90.17",
-    "port": 443,
-    "code": "SG",
-    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
-  },
-  {
-    "ip": "213.35.107.73",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "8.222.193.153",
@@ -330,9 +282,51 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "38.180.9.42",
+    "ip": "13.250.131.37",
     "port": 443,
     "code": "SG",
-    "org": "3NT SOLUTIONS LLP"
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "43.160.251.110",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
+  },
+  {
+    "ip": "139.180.208.63",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "8.222.185.236",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "47.236.119.109",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba Cloud LLC"
+  },
+  {
+    "ip": "43.134.87.15",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "101.32.116.73",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "104.250.118.76",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalFyre Internet Solutions"
   }
 ]

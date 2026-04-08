@@ -12,12 +12,6 @@
     "org": "263 Global Communication Limited"
   },
   {
-    "ip": "217.60.248.66",
-    "port": 443,
-    "code": "HK",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "45.38.42.198",
     "port": 2053,
     "code": "HK",
@@ -108,12 +102,6 @@
     "org": "6 COLLYER QUAY"
   },
   {
-    "ip": "58.176.95.46",
-    "port": 443,
-    "code": "HK",
-    "org": "Hong Kong Broadband Network Ltd"
-  },
-  {
     "ip": "8.217.180.234",
     "port": 443,
     "code": "HK",
@@ -130,12 +118,6 @@
     "port": 443,
     "code": "HK",
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
-    "ip": "43.103.6.144",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com LLC"
   },
   {
     "ip": "47.57.182.141",
@@ -216,21 +198,39 @@
     "org": "Cloudie Limited"
   },
   {
-    "ip": "152.32.172.205",
-    "port": 443,
-    "code": "HK",
-    "org": "Ucloud Information Technology (hk) Limited"
-  },
-  {
     "ip": "159.138.138.87",
     "port": 443,
     "code": "HK",
     "org": ""
   },
   {
-    "ip": "38.47.123.127",
+    "ip": "118.141.20.85",
     "port": 443,
     "code": "HK",
-    "org": "VMISS Inc"
+    "org": "HGC Global Communications Limited"
+  },
+  {
+    "ip": "152.32.133.246",
+    "port": 443,
+    "code": "HK",
+    "org": "Ucloud Information Technology (hk) Limited"
+  },
+  {
+    "ip": "43.161.216.23",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "68.64.176.135",
+    "port": 443,
+    "code": "HK",
+    "org": "PacketExchange"
+  },
+  {
+    "ip": "43.154.131.189",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
   }
 ]

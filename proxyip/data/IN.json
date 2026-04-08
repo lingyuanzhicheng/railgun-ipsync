@@ -6,12 +6,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "134.195.137.107",
-    "port": 22473,
-    "code": "IN",
-    "org": "ReadyDedis, LLC"
-  },
-  {
     "ip": "64.227.174.213",
     "port": 2053,
     "code": "IN",
@@ -52,5 +46,17 @@
     "port": 443,
     "code": "IN",
     "org": "P.D.R Solutions FZC"
+  },
+  {
+    "ip": "152.67.190.105",
+    "port": 443,
+    "code": "IN",
+    "org": "Oracle Cloud Infrastructure (ap-hyderabad-1)"
+  },
+  {
+    "ip": "172.236.187.52",
+    "port": 443,
+    "code": "IN",
+    "org": "Akamai Technologies, Inc."
   }
 ]

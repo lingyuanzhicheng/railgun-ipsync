@@ -282,12 +282,6 @@
     "org": "Reg.Ru Hosting"
   },
   {
-    "ip": "194.87.190.216",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
     "ip": "45.139.184.183",
     "port": 2053,
     "code": "RU",
@@ -414,12 +408,6 @@
     "org": "Cloud.ru"
   },
   {
-    "ip": "84.252.75.245",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "85.193.94.192",
     "port": 443,
     "code": "RU",
@@ -522,12 +510,6 @@
     "org": "Firstbyte Hosting"
   },
   {
-    "ip": "193.124.64.83",
-    "port": 443,
-    "code": "RU",
-    "org": "MTW : RUCLOUD"
-  },
-  {
     "ip": "193.168.227.150",
     "port": 443,
     "code": "RU",
@@ -538,12 +520,6 @@
     "port": 443,
     "code": "RU",
     "org": "TW Cloud"
-  },
-  {
-    "ip": "2.56.241.158",
-    "port": 443,
-    "code": "RU",
-    "org": "Beget LLC"
   },
   {
     "ip": "2.59.42.215",
@@ -654,12 +630,6 @@
     "org": "Hosting technology LTD"
   },
   {
-    "ip": "89.232.177.26",
-    "port": 443,
-    "code": "RU",
-    "org": "Cloud.ru"
-  },
-  {
     "ip": "185.4.65.55",
     "port": 443,
     "code": "RU",
@@ -688,18 +658,6 @@
     "port": 443,
     "code": "RU",
     "org": "Comfortel Ltd"
-  },
-  {
-    "ip": "82.148.30.224",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
-    "ip": "93.93.207.155",
-    "port": 443,
-    "code": "RU",
-    "org": "Timeweb.Cloud LLC"
   },
   {
     "ip": "95.182.120.255",
@@ -798,12 +756,6 @@
     "org": "Global Internet Solutions LLC"
   },
   {
-    "ip": "45.153.71.149",
-    "port": 443,
-    "code": "RU",
-    "org": "TimeWeb Ltd"
-  },
-  {
     "ip": "46.8.21.188",
     "port": 443,
     "code": "RU",
@@ -846,22 +798,10 @@
     "org": "Beget LLC"
   },
   {
-    "ip": "45.90.217.144",
-    "port": 443,
-    "code": "RU",
-    "org": "Firstbyte Hosting"
-  },
-  {
     "ip": "45.129.2.201",
     "port": 443,
     "code": "RU",
     "org": "iNet Ltd"
-  },
-  {
-    "ip": "45.131.40.149",
-    "port": 443,
-    "code": "RU",
-    "org": "Selectel"
   },
   {
     "ip": "92.51.38.43",
@@ -870,15 +810,123 @@
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "185.104.251.143",
-    "port": 443,
-    "code": "RU",
-    "org": "First Server Limited"
-  },
-  {
     "ip": "185.151.243.200",
     "port": 443,
     "code": "RU",
     "org": ""
+  },
+  {
+    "ip": "89.248.207.37",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "139.28.223.56",
+    "port": 443,
+    "code": "RU",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "88.210.53.139",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "194.190.152.149",
+    "port": 443,
+    "code": "RU",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "178.20.41.204",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "185.26.121.79",
+    "port": 443,
+    "code": "RU",
+    "org": "Hostland ltd"
+  },
+  {
+    "ip": "195.133.46.207",
+    "port": 443,
+    "code": "RU",
+    "org": "MT FINANCE LLC"
+  },
+  {
+    "ip": "185.231.245.195",
+    "port": 443,
+    "code": "RU",
+    "org": "Argotel ltd"
+  },
+  {
+    "ip": "193.168.227.144",
+    "port": 443,
+    "code": "RU",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "87.251.78.202",
+    "port": 443,
+    "code": "RU",
+    "org": "Cloud Hosting Solutions, Limited"
+  },
+  {
+    "ip": "193.168.227.157",
+    "port": 443,
+    "code": "RU",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "212.41.15.119",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "212.74.227.162",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "79.141.73.189",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "147.45.100.192",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "147.45.153.169",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "176.108.247.128",
+    "port": 443,
+    "code": "RU",
+    "org": "Cloud.ru"
+  },
+  {
+    "ip": "89.223.64.33",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "91.184.244.230",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
   }
 ]

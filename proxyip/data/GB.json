@@ -384,12 +384,6 @@
     "org": "HR SYSHEAD"
   },
   {
-    "ip": "138.68.141.220",
-    "port": 8443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "57.129.137.79",
     "port": 8443,
     "code": "GB",
@@ -598,12 +592,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "95.179.236.51",
-    "port": 443,
-    "code": "GB",
-    "org": "11 Hanbury St"
   },
   {
     "ip": "217.154.53.220",
@@ -1396,12 +1384,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "45.61.138.147",
-    "port": 443,
-    "code": "GB",
-    "org": "BL Networks GB"
   },
   {
     "ip": "178.157.82.110",
@@ -2484,12 +2466,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "138.68.141.220",
-    "port": 2053,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "57.129.137.92",
     "port": 443,
     "code": "GB",
@@ -2560,12 +2536,6 @@
     "port": 443,
     "code": "GB",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "195.54.161.20",
-    "port": 443,
-    "code": "GB",
-    "org": "BV Na22"
   },
   {
     "ip": "2.56.179.4",
@@ -2640,9 +2610,69 @@
     "org": "Private Customer"
   },
   {
-    "ip": "51.195.192.214",
+    "ip": "185.44.67.167",
     "port": 443,
     "code": "GB",
-    "org": "OVH Ltd"
+    "org": "MassiveGRID"
+  },
+  {
+    "ip": "195.54.161.101",
+    "port": 443,
+    "code": "GB",
+    "org": "BV Na22"
+  },
+  {
+    "ip": "78.129.253.133",
+    "port": 443,
+    "code": "GB",
+    "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "45.89.111.20",
+    "port": 443,
+    "code": "GB",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "78.129.253.115",
+    "port": 443,
+    "code": "GB",
+    "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "87.117.247.29",
+    "port": 443,
+    "code": "GB",
+    "org": "NodeDeploy LTD"
+  },
+  {
+    "ip": "91.227.62.165",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "146.19.230.133",
+    "port": 443,
+    "code": "GB",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "161.35.162.102",
+    "port": 443,
+    "code": "GB",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "217.179.49.217",
+    "port": 443,
+    "code": "GB",
+    "org": "Vdska FL1"
+  },
+  {
+    "ip": "35.176.187.206",
+    "port": 443,
+    "code": "GB",
+    "org": "AWS EC2 (eu-west-2)"
   }
 ]

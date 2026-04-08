@@ -48,12 +48,6 @@
     "org": "Servinga"
   },
   {
-    "ip": "186.190.215.89",
-    "port": 443,
-    "code": "CH",
-    "org": "objx.net"
-  },
-  {
     "ip": "38.180.85.203",
     "port": 443,
     "code": "CH",
@@ -108,12 +102,6 @@
     "org": "Green Floid LLC"
   },
   {
-    "ip": "171.22.16.196",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "87.120.222.199",
     "port": 443,
     "code": "CH",
@@ -136,12 +124,6 @@
     "port": 8443,
     "code": "CH",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "37.143.131.234",
-    "port": 8443,
-    "code": "CH",
-    "org": "Oneprovider.com - Zurich Infrastructure"
   },
   {
     "ip": "31.7.63.135",
@@ -324,12 +306,6 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "38.244.145.50",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "213.176.18.42",
     "port": 443,
     "code": "CH",
@@ -340,12 +316,6 @@
     "port": 443,
     "code": "CH",
     "org": "Serva ONE LTD"
-  },
-  {
-    "ip": "45.148.102.70",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "83.228.193.229",
@@ -420,15 +390,15 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.59.117.92",
-    "port": 443,
-    "code": "CH",
-    "org": "anyNode"
-  },
-  {
     "ip": "82.38.64.162",
     "port": 443,
     "code": "CH",
     "org": "Hostkey B.V"
+  },
+  {
+    "ip": "45.143.200.162",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

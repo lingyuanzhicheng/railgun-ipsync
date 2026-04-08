@@ -28,5 +28,17 @@
     "port": 443,
     "code": "CA",
     "org": "Oracle Cloud Infrastructure (ca-montreal-1)"
+  },
+  {
+    "ip": "159.203.2.180",
+    "port": 443,
+    "code": "CA",
+    "org": "Digital Ocean"
+  },
+  {
+    "ip": "68.233.122.42",
+    "port": 443,
+    "code": "CA",
+    "org": "Oracle Cloud Infrastructure (ca-montreal-1)"
   }
 ]
