@@ -36,12 +36,6 @@
     "org": "SEVIN Jacques"
   },
   {
-    "ip": "217.60.39.223",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "37.59.96.47",
     "port": 443,
     "code": "FR",
@@ -702,12 +696,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "31.59.121.188",
-    "port": 8443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "51.91.100.9",
     "port": 8443,
     "code": "FR",
@@ -1258,12 +1246,6 @@
     "port": 443,
     "code": "FR",
     "org": "VPS static ips"
-  },
-  {
-    "ip": "185.120.59.81",
-    "port": 2053,
-    "code": "FR",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "51.91.254.177",
@@ -2286,12 +2268,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "185.120.59.81",
-    "port": 8443,
-    "code": "FR",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "51.91.253.57",
     "port": 8443,
     "code": "FR",
@@ -2544,12 +2520,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "159.255.38.207",
-    "port": 443,
-    "code": "FR",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "152.228.216.146",
     "port": 8443,
     "code": "FR",
@@ -2560,12 +2530,6 @@
     "port": 8443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "147.45.42.217",
-    "port": 8443,
-    "code": "FR",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "88.218.78.87",
@@ -2676,12 +2640,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "217.60.63.118",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "45.12.133.190",
     "port": 443,
     "code": "FR",
@@ -2704,12 +2662,6 @@
     "port": 443,
     "code": "FR",
     "org": "Closco Ltd"
-  },
-  {
-    "ip": "31.58.76.47",
-    "port": 443,
-    "code": "FR",
-    "org": "goldIPv4"
   },
   {
     "ip": "37.59.96.23",
@@ -2760,12 +2712,6 @@
     "org": "F5 Distributed cloud services"
   },
   {
-    "ip": "206.206.77.97",
-    "port": 443,
-    "code": "FR",
-    "org": "Ipxo LLC"
-  },
-  {
     "ip": "138.124.70.157",
     "port": 443,
     "code": "FR",
@@ -2776,12 +2722,6 @@
     "port": 443,
     "code": "FR",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "217.60.5.200",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "51.91.252.34",
@@ -2916,22 +2856,10 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "45.84.88.226",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "88.218.78.167",
     "port": 443,
     "code": "FR",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "94.183.187.160",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "51.178.137.248",
@@ -2964,18 +2892,6 @@
     "org": "OVH"
   },
   {
-    "ip": "163.172.157.35",
-    "port": 443,
-    "code": "FR",
-    "org": "ONLINE"
-  },
-  {
-    "ip": "31.56.176.211",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "152.228.216.172",
     "port": 443,
     "code": "FR",
@@ -2998,5 +2914,23 @@
     "port": 443,
     "code": "FR",
     "org": "Contabo GmbH"
+  },
+  {
+    "ip": "167.86.97.39",
+    "port": 443,
+    "code": "FR",
+    "org": "Contabo GmbH"
+  },
+  {
+    "ip": "45.112.195.127",
+    "port": 443,
+    "code": "FR",
+    "org": "Private person"
+  },
+  {
+    "ip": "51.91.249.198",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
   }
 ]

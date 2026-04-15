@@ -42,12 +42,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "45.32.55.253",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "45.76.198.248",
     "port": 443,
     "code": "JP",
@@ -432,18 +426,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "152.69.197.207",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "43.133.26.158",
-    "port": 443,
-    "code": "JP",
-    "org": ""
-  },
-  {
     "ip": "101.36.105.226",
     "port": 443,
     "code": "JP",
@@ -460,12 +442,6 @@
     "port": 443,
     "code": "JP",
     "org": "DDPS Networks, LLC"
-  },
-  {
-    "ip": "64.110.101.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
     "ip": "172.235.211.171",
@@ -486,9 +462,21 @@
     "org": "Alibaba.com LLC"
   },
   {
-    "ip": "66.42.32.115",
+    "ip": "45.66.129.201",
     "port": 443,
     "code": "JP",
-    "org": "Choopa, LLC"
+    "org": "Virtual Machine Solutions LLC"
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "172.238.6.57",
+    "port": 443,
+    "code": "JP",
+    "org": "Akamai Technologies, Inc."
   }
 ]

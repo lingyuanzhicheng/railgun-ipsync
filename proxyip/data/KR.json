@@ -1,11 +1,5 @@
 [
   {
-    "ip": "131.186.17.132",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "193.123.253.225",
     "port": 4333,
     "code": "KR",
@@ -270,9 +264,9 @@
     "org": "Korea Telecom"
   },
   {
-    "ip": "168.107.62.234",
+    "ip": "64.110.75.145",
     "port": 443,
     "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   }
 ]

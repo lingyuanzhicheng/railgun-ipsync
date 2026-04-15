@@ -1,11 +1,5 @@
 [
   {
-    "ip": "125.7.24.251",
-    "port": 443,
-    "code": "AU",
-    "org": ""
-  },
-  {
     "ip": "152.67.125.174",
     "port": 443,
     "code": "AU",
@@ -24,12 +18,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "192.9.183.128",
-    "port": 45673,
-    "code": "AU",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "152.67.101.72",
     "port": 23010,
     "code": "AU",
@@ -44,12 +32,6 @@
   {
     "ip": "192.9.190.80",
     "port": 23862,
-    "code": "AU",
-    "org": "Oracle Corporation"
-  },
-  {
-    "ip": "152.69.174.99",
-    "port": 25248,
     "code": "AU",
     "org": "Oracle Corporation"
   },
@@ -94,5 +76,11 @@
     "port": 443,
     "code": "AU",
     "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "207.211.157.214",
+    "port": 443,
+    "code": "AU",
+    "org": "Oracle Cloud Infrastructure (ap-melbourne-1)"
   }
 ]

@@ -114,12 +114,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "57.128.198.82",
-    "port": 8443,
-    "code": "PL",
-    "org": "OVH Sp. z o. o."
-  },
-  {
     "ip": "77.83.246.133",
     "port": 24443,
     "code": "PL",
@@ -306,12 +300,6 @@
     "org": "Friendhosting LTD"
   },
   {
-    "ip": "57.128.198.82",
-    "port": 2053,
-    "code": "PL",
-    "org": "OVH Sp. z o. o."
-  },
-  {
     "ip": "95.164.90.133",
     "port": 443,
     "code": "PL",
@@ -364,12 +352,6 @@
     "port": 8443,
     "code": "PL",
     "org": "OVH Sp. z o. o."
-  },
-  {
-    "ip": "185.253.45.68",
-    "port": 443,
-    "code": "PL",
-    "org": "Friendhosting LTD"
   },
   {
     "ip": "37.252.6.119",
@@ -450,12 +432,6 @@
     "org": "AlbHost SH.P.K"
   },
   {
-    "ip": "144.31.4.243",
-    "port": 443,
-    "code": "PL",
-    "org": "H2nexus LTD"
-  },
-  {
     "ip": "191.101.184.50",
     "port": 443,
     "code": "PL",
@@ -502,5 +478,41 @@
     "port": 443,
     "code": "PL",
     "org": ""
+  },
+  {
+    "ip": "89.125.93.217",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "95.156.204.82",
+    "port": 443,
+    "code": "PL",
+    "org": "EDIS GmbH"
+  },
+  {
+    "ip": "151.245.112.24",
+    "port": 443,
+    "code": "PL",
+    "org": "3K33 sp. z o.o"
+  },
+  {
+    "ip": "196.240.109.90",
+    "port": 443,
+    "code": "PL",
+    "org": "Fiber Grid"
+  },
+  {
+    "ip": "196.240.109.98",
+    "port": 443,
+    "code": "PL",
+    "org": "Fiber Grid"
+  },
+  {
+    "ip": "212.119.43.76",
+    "port": 443,
+    "code": "PL",
+    "org": "Fastwarp LLP"
   }
 ]

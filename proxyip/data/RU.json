@@ -1,21 +1,9 @@
 [
   {
-    "ip": "95.182.122.28",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
-  },
-  {
     "ip": "185.105.117.222",
     "port": 443,
     "code": "RU",
     "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "194.87.190.216",
-    "port": 8443,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
   },
   {
     "ip": "194.67.204.158",
@@ -49,12 +37,6 @@
   },
   {
     "ip": "85.193.91.193",
-    "port": 8443,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
-    "ip": "109.73.195.158",
     "port": 8443,
     "code": "RU",
     "org": "JSC TIMEWEB"
@@ -162,12 +144,6 @@
     "org": "FIRST SERVER LIMITED"
   },
   {
-    "ip": "95.182.120.208",
-    "port": 2053,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
-  },
-  {
     "ip": "45.9.75.173",
     "port": 443,
     "code": "RU",
@@ -190,12 +166,6 @@
     "port": 2053,
     "code": "RU",
     "org": "Domain names registrar REG.RU, Ltd"
-  },
-  {
-    "ip": "95.182.120.208",
-    "port": 8443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
   },
   {
     "ip": "194.113.104.187",
@@ -300,12 +270,6 @@
     "org": "PSERVERS Enterprise Network"
   },
   {
-    "ip": "109.73.195.158",
-    "port": 2053,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
     "ip": "45.9.75.166",
     "port": 443,
     "code": "RU",
@@ -346,12 +310,6 @@
     "port": 443,
     "code": "RU",
     "org": "Selectel"
-  },
-  {
-    "ip": "185.84.162.225",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "185.128.106.27",
@@ -400,12 +358,6 @@
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "82.202.141.131",
-    "port": 443,
-    "code": "RU",
-    "org": "Cloud.ru"
   },
   {
     "ip": "85.193.94.192",
@@ -534,12 +486,6 @@
     "org": "Firstbyte Hosting"
   },
   {
-    "ip": "80.87.110.43",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "82.202.131.249",
     "port": 443,
     "code": "RU",
@@ -618,12 +564,6 @@
     "org": "Novotelecom ltd."
   },
   {
-    "ip": "46.8.21.7",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
-  },
-  {
     "ip": "195.2.79.253",
     "port": 443,
     "code": "RU",
@@ -648,22 +588,10 @@
     "org": "NetCrafters OU"
   },
   {
-    "ip": "88.212.254.54",
-    "port": 443,
-    "code": "RU",
-    "org": "Edinaya SET Limited Liability Company"
-  },
-  {
     "ip": "212.193.35.100",
     "port": 443,
     "code": "RU",
     "org": "Comfortel Ltd"
-  },
-  {
-    "ip": "95.182.120.255",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
   },
   {
     "ip": "185.128.106.42",
@@ -756,22 +684,10 @@
     "org": "Global Internet Solutions LLC"
   },
   {
-    "ip": "46.8.21.188",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
-  },
-  {
     "ip": "77.73.66.223",
     "port": 443,
     "code": "RU",
     "org": ""
-  },
-  {
-    "ip": "95.182.120.53",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
   },
   {
     "ip": "176.124.200.14",
@@ -784,18 +700,6 @@
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "94.159.114.163",
-    "port": 443,
-    "code": "RU",
-    "org": "\"NetCom-R\" LLC"
-  },
-  {
-    "ip": "194.156.118.127",
-    "port": 443,
-    "code": "RU",
-    "org": "Beget LLC"
   },
   {
     "ip": "45.129.2.201",
@@ -856,12 +760,6 @@
     "port": 443,
     "code": "RU",
     "org": "MT FINANCE LLC"
-  },
-  {
-    "ip": "185.231.245.195",
-    "port": 443,
-    "code": "RU",
-    "org": "Argotel ltd"
   },
   {
     "ip": "193.168.227.144",
@@ -928,5 +826,23 @@
     "port": 443,
     "code": "RU",
     "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "85.239.49.65",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "185.218.0.16",
+    "port": 443,
+    "code": "RU",
+    "org": "Sprinthost LLC"
+  },
+  {
+    "ip": "194.87.151.151",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
   }
 ]

@@ -66,15 +66,27 @@
     "org": "HOST-TELECOM.COM s.r.o."
   },
   {
-    "ip": "91.199.160.142",
-    "port": 443,
-    "code": "CZ",
-    "org": "SmartApe OU"
-  },
-  {
     "ip": "46.229.253.146",
     "port": 443,
     "code": "CZ",
     "org": ""
+  },
+  {
+    "ip": "222.167.255.158",
+    "port": 443,
+    "code": "CZ",
+    "org": "Netutils"
+  },
+  {
+    "ip": "222.167.255.163",
+    "port": 443,
+    "code": "CZ",
+    "org": "Netutils"
+  },
+  {
+    "ip": "222.167.255.164",
+    "port": 443,
+    "code": "CZ",
+    "org": "Netutils"
   }
 ]

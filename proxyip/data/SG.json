@@ -234,12 +234,6 @@
     "org": ""
   },
   {
-    "ip": "8.222.193.153",
-    "port": 443,
-    "code": "SG",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
     "ip": "139.180.140.39",
     "port": 443,
     "code": "SG",
@@ -282,12 +276,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "43.160.251.110",
     "port": 443,
     "code": "SG",
@@ -324,9 +312,9 @@
     "org": ""
   },
   {
-    "ip": "104.250.118.76",
+    "ip": "143.198.211.180",
     "port": 443,
     "code": "SG",
-    "org": "DigitalFyre Internet Solutions"
+    "org": "DigitalOcean, LLC"
   }
 ]

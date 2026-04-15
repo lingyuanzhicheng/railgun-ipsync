@@ -54,12 +54,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "193.42.112.66",
-    "port": 2053,
-    "code": "EE",
-    "org": "IT-Develop DOO"
-  },
-  {
     "ip": "46.36.218.151",
     "port": 443,
     "code": "EE",
@@ -264,34 +258,16 @@
     "org": "HostPapa"
   },
   {
-    "ip": "185.36.140.105",
-    "port": 443,
-    "code": "EE",
-    "org": "Brainoza OU"
-  },
-  {
     "ip": "5.101.180.145",
     "port": 443,
     "code": "EE",
     "org": "Network for hosting services"
   },
   {
-    "ip": "5.45.112.46",
-    "port": 443,
-    "code": "EE",
-    "org": "IPv6 network for hosting services"
-  },
-  {
     "ip": "5.42.221.160",
     "port": 8443,
     "code": "EE",
     "org": "Host-World OU"
-  },
-  {
-    "ip": "193.42.112.66",
-    "port": 8443,
-    "code": "EE",
-    "org": "IT-Develop DOO"
   },
   {
     "ip": "5.101.180.125",
@@ -310,11 +286,5 @@
     "port": 43009,
     "code": "EE",
     "org": "Fiber Grid INC"
-  },
-  {
-    "ip": "193.228.128.110",
-    "port": 443,
-    "code": "EE",
-    "org": "Global Internet Solutions LLC"
   }
 ]
