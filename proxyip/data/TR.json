@@ -30,18 +30,6 @@
     "org": "ibrahim tufek"
   },
   {
-    "ip": "188.132.129.84",
-    "port": 8443,
-    "code": "TR",
-    "org": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
-  },
-  {
-    "ip": "188.132.129.84",
-    "port": 2053,
-    "code": "TR",
-    "org": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
-  },
-  {
     "ip": "93.115.10.218",
     "port": 2053,
     "code": "TR",
@@ -54,22 +42,10 @@
     "org": "Reliable Communications s.r.o."
   },
   {
-    "ip": "104.239.87.213",
-    "port": 2053,
-    "code": "TR",
-    "org": "Baxet Group Inc."
-  },
-  {
     "ip": "188.132.232.192",
     "port": 8443,
     "code": "TR",
     "org": "SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI"
-  },
-  {
-    "ip": "104.239.87.213",
-    "port": 8443,
-    "code": "TR",
-    "org": "Baxet Group Inc."
   },
   {
     "ip": "212.192.6.248",
@@ -138,15 +114,15 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "45.67.202.36",
-    "port": 443,
-    "code": "TR",
-    "org": "Turkcell Iletisim Hizmetleri"
-  },
-  {
     "ip": "45.151.69.77",
     "port": 443,
     "code": "TR",
     "org": "Superonline Iletisim Hizmetleri A.S."
+  },
+  {
+    "ip": "176.120.73.5",
+    "port": 443,
+    "code": "TR",
+    "org": "WorkTitans B.V"
   }
 ]

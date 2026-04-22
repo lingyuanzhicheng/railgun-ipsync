@@ -61,12 +61,6 @@
   },
   {
     "ip": "223.16.138.113",
-    "port": 10002,
-    "code": "HK",
-    "org": "HGC Global Communications Limited"
-  },
-  {
-    "ip": "223.16.138.113",
     "port": 12457,
     "code": "HK",
     "org": "HGC Global Communications Limited"
@@ -168,12 +162,6 @@
     "org": "Hong Kong Communications International Co., Limited"
   },
   {
-    "ip": "8.218.226.31",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
     "ip": "47.76.146.102",
     "port": 443,
     "code": "HK",
@@ -184,12 +172,6 @@
     "port": 443,
     "code": "HK",
     "org": "AWS EC2 (ap-east-1)"
-  },
-  {
-    "ip": "123.254.106.203",
-    "port": 443,
-    "code": "HK",
-    "org": "Cloudie Limited"
   },
   {
     "ip": "159.138.138.87",
@@ -216,21 +198,57 @@
     "org": "Tencent Cloud Computing"
   },
   {
-    "ip": "38.207.160.227",
-    "port": 443,
-    "code": "HK",
-    "org": "VMISS Inc"
-  },
-  {
-    "ip": "124.244.50.35",
-    "port": 443,
-    "code": "HK",
-    "org": "Hong Kong Broadband Network Ltd"
-  },
-  {
     "ip": "152.32.172.205",
     "port": 443,
     "code": "HK",
     "org": "Ucloud Information Technology (hk) Limited"
+  },
+  {
+    "ip": "38.207.132.101",
+    "port": 443,
+    "code": "HK",
+    "org": "Nearoute Limited"
+  },
+  {
+    "ip": "43.168.16.112",
+    "port": 443,
+    "code": "HK",
+    "org": "ACE SG"
+  },
+  {
+    "ip": "45.196.235.225",
+    "port": 443,
+    "code": "HK",
+    "org": "Akile LTD"
+  },
+  {
+    "ip": "103.74.192.228",
+    "port": 443,
+    "code": "HK",
+    "org": "baud linker network co., limited"
+  },
+  {
+    "ip": "2.56.91.167",
+    "port": 443,
+    "code": "HK",
+    "org": "Adcdata Limited"
+  },
+  {
+    "ip": "8.218.118.182",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "47.243.100.85",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba Cloud - HK"
+  },
+  {
+    "ip": "143.20.204.5",
+    "port": 443,
+    "code": "HK",
+    "org": "Alice Networks LTD"
   }
 ]

@@ -18,12 +18,6 @@
     "org": "Reg.Ru Hosting"
   },
   {
-    "ip": "95.163.241.219",
-    "port": 8443,
-    "code": "RU",
-    "org": "Reg.Ru Hosting"
-  },
-  {
     "ip": "45.139.184.183",
     "port": 8443,
     "code": "RU",
@@ -67,12 +61,6 @@
   },
   {
     "ip": "194.58.98.15",
-    "port": 8443,
-    "code": "RU",
-    "org": "Reg.Ru Hosting"
-  },
-  {
-    "ip": "95.163.236.206",
     "port": 8443,
     "code": "RU",
     "org": "Reg.Ru Hosting"
@@ -358,12 +346,6 @@
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "85.193.94.192",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "85.198.109.141",
@@ -702,12 +684,6 @@
     "org": "Firstbyte Hosting"
   },
   {
-    "ip": "45.129.2.201",
-    "port": 443,
-    "code": "RU",
-    "org": "iNet Ltd"
-  },
-  {
     "ip": "92.51.38.43",
     "port": 443,
     "code": "RU",
@@ -730,12 +706,6 @@
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "88.210.53.139",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
   },
   {
     "ip": "194.190.152.149",
@@ -768,12 +738,6 @@
     "org": "Firstbyte Hosting"
   },
   {
-    "ip": "87.251.78.202",
-    "port": 443,
-    "code": "RU",
-    "org": "Cloud Hosting Solutions, Limited"
-  },
-  {
     "ip": "193.168.227.157",
     "port": 443,
     "code": "RU",
@@ -798,22 +762,10 @@
     "org": ""
   },
   {
-    "ip": "147.45.100.192",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
-  },
-  {
     "ip": "147.45.153.169",
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
-  },
-  {
-    "ip": "176.108.247.128",
-    "port": 443,
-    "code": "RU",
-    "org": "Cloud.ru"
   },
   {
     "ip": "89.223.64.33",
@@ -822,27 +774,33 @@
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "91.184.244.230",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
     "ip": "85.239.49.65",
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "185.218.0.16",
-    "port": 443,
-    "code": "RU",
-    "org": "Sprinthost LLC"
-  },
-  {
     "ip": "194.87.151.151",
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "94.159.114.163",
+    "port": 443,
+    "code": "RU",
+    "org": "\"NetCom-R\" LLC"
+  },
+  {
+    "ip": "5.129.195.16",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "94.139.251.21",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
   }
 ]

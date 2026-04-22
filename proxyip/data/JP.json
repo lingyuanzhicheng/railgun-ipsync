@@ -30,12 +30,6 @@
     "org": "SAKURA"
   },
   {
-    "ip": "158.101.145.82",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "168.138.46.67",
     "port": 443,
     "code": "JP",
@@ -204,12 +198,6 @@
     "org": "CEGRGO-DigitalVM LLC - Tokyo"
   },
   {
-    "ip": "140.83.59.158",
-    "port": 15805,
-    "code": "JP",
-    "org": "imported inetnum object for OCPL-1"
-  },
-  {
     "ip": "158.101.152.6",
     "port": 2919,
     "code": "JP",
@@ -238,12 +226,6 @@
     "port": 22735,
     "code": "JP",
     "org": "imported inetnum object for OCPL-1"
-  },
-  {
-    "ip": "202.84.53.85",
-    "port": 19999,
-    "code": "JP",
-    "org": "Azumino Network Community TV"
   },
   {
     "ip": "140.83.83.65",
@@ -294,22 +276,10 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "45.76.192.129",
-    "port": 24434,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "168.138.192.16",
     "port": 54584,
     "code": "JP",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "193.123.161.116",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "138.3.217.167",
@@ -334,12 +304,6 @@
     "port": 587,
     "code": "JP",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "138.2.12.103",
-    "port": 14453,
-    "code": "JP",
-    "org": "Cloudflare London, LLC"
   },
   {
     "ip": "45.77.25.6",
@@ -370,12 +334,6 @@
     "port": 587,
     "code": "JP",
     "org": "Cloudflare, Inc."
-  },
-  {
-    "ip": "202.84.53.85",
-    "port": 12145,
-    "code": "JP",
-    "org": "Azumino Network Community TV"
   },
   {
     "ip": "138.2.59.112",
@@ -438,22 +396,10 @@
     "org": "DDPS Networks, LLC"
   },
   {
-    "ip": "158.51.109.218",
-    "port": 443,
-    "code": "JP",
-    "org": "DDPS Networks, LLC"
-  },
-  {
     "ip": "172.235.211.171",
     "port": 443,
     "code": "JP",
     "org": "Akamai Technologies, Inc."
-  },
-  {
-    "ip": "155.248.181.189",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
     "ip": "47.79.94.192",
@@ -468,15 +414,51 @@
     "org": "Virtual Machine Solutions LLC"
   },
   {
-    "ip": "168.138.212.80",
+    "ip": "172.238.6.57",
+    "port": 443,
+    "code": "JP",
+    "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "66.42.32.115",
+    "port": 443,
+    "code": "JP",
+    "org": "Choopa, LLC"
+  },
+  {
+    "ip": "89.125.244.207",
+    "port": 443,
+    "code": "JP",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "138.2.31.37",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "172.238.6.57",
+    "ip": "138.3.214.171",
     "port": 443,
     "code": "JP",
-    "org": "Akamai Technologies, Inc."
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "153.121.58.207",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA"
+  },
+  {
+    "ip": "158.51.109.180",
+    "port": 443,
+    "code": "JP",
+    "org": "DDPS Networks, LLC"
+  },
+  {
+    "ip": "161.33.7.163",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   }
 ]

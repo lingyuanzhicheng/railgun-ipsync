@@ -1,11 +1,5 @@
 [
   {
-    "ip": "45.85.93.49",
-    "port": 443,
-    "code": "CH",
-    "org": "Internet Utilities Europe and Asia Limited"
-  },
-  {
     "ip": "91.90.193.138",
     "port": 443,
     "code": "CH",
@@ -168,22 +162,10 @@
     "org": "Amazon Data Services Switzerland"
   },
   {
-    "ip": "171.22.16.253",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "45.143.200.19",
     "port": 443,
     "code": "CH",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "37.143.131.234",
-    "port": 2053,
-    "code": "CH",
-    "org": "Oneprovider.com - Zurich Infrastructure"
   },
   {
     "ip": "171.22.16.231",
@@ -294,12 +276,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.85.93.59",
-    "port": 443,
-    "code": "CH",
-    "org": "Serva ONE LTD"
-  },
-  {
     "ip": "83.228.193.229",
     "port": 443,
     "code": "CH",
@@ -366,22 +342,10 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "45.95.232.241",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "82.38.64.162",
     "port": 443,
     "code": "CH",
     "org": "Hostkey B.V"
-  },
-  {
-    "ip": "45.143.200.162",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "45.148.102.70",
@@ -402,21 +366,51 @@
     "org": "anyNode"
   },
   {
-    "ip": "45.95.232.191",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.148.102.250",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "87.120.222.39",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.143.200.82",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.143.200.245",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.85.93.45",
+    "port": 443,
+    "code": "CH",
+    "org": "Serva ONE LTD"
+  },
+  {
+    "ip": "87.120.222.125",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "94.131.12.65",
+    "port": 443,
+    "code": "CH",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "171.22.16.237",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "51.34.85.34",
+    "port": 443,
+    "code": "CH",
+    "org": "Amazon Technologies Inc"
   }
 ]

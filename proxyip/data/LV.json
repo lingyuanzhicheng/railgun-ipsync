@@ -84,12 +84,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "5.34.209.219",
-    "port": 8443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "46.32.187.228",
     "port": 443,
     "code": "LV",
@@ -246,12 +240,6 @@
     "org": "Beget LLC"
   },
   {
-    "ip": "178.248.75.6",
-    "port": 443,
-    "code": "LV",
-    "org": "SERVA ONE LTD"
-  },
-  {
     "ip": "31.128.33.253",
     "port": 443,
     "code": "LV",
@@ -301,12 +289,6 @@
   },
   {
     "ip": "216.173.70.192",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "195.135.255.177",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -370,12 +352,6 @@
     "port": 443,
     "code": "LV",
     "org": "Baxet Group Inc."
-  },
-  {
-    "ip": "185.82.127.156",
-    "port": 443,
-    "code": "LV",
-    "org": "Sia Nano IT"
   },
   {
     "ip": "90.156.255.45",
@@ -486,12 +462,6 @@
     "org": "Sia Nano IT"
   },
   {
-    "ip": "5.34.209.219",
-    "port": 2053,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "103.231.73.153",
     "port": 443,
     "code": "LV",
@@ -558,12 +528,6 @@
     "org": "Versija SIA"
   },
   {
-    "ip": "217.60.6.24",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "62.76.239.244",
     "port": 443,
     "code": "LV",
@@ -600,19 +564,7 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "217.60.3.200",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "217.60.4.19",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "217.60.6.227",
     "port": 443,
     "code": "LV",
     "org": "CGI GLOBAL LIMITED"
@@ -630,40 +582,16 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "188.253.22.220",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "193.68.89.220",
     "port": 443,
     "code": "LV",
     "org": "Versija Ltd."
   },
   {
-    "ip": "31.57.29.93",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.57.158.134",
     "port": 443,
     "code": "LV",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "62.76.239.66",
-    "port": 443,
-    "code": "LV",
-    "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "91.204.75.99",
-    "port": 443,
-    "code": "LV",
-    "org": "Individual Entrepreneur Anton Levin"
   },
   {
     "ip": "31.56.27.96",
@@ -690,12 +618,6 @@
     "org": "Global Internet Solutions LLC"
   },
   {
-    "ip": "31.56.28.190",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "94.158.219.248",
     "port": 443,
     "code": "LV",
@@ -708,9 +630,27 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "168.222.255.105",
+    "ip": "45.142.215.24",
     "port": 443,
     "code": "LV",
-    "org": "Individual Entrepreneur Anton Levin"
+    "org": "Thehosting"
+  },
+  {
+    "ip": "217.177.45.178",
+    "port": 443,
+    "code": "LV",
+    "org": "Vdska LV1"
+  },
+  {
+    "ip": "188.253.19.186",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "5.39.250.14",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
   }
 ]

@@ -108,22 +108,10 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "77.110.96.166",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.221.143.56",
     "port": 8443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "70.34.205.63",
-    "port": 443,
-    "code": "SE",
-    "org": "The Constant Company, LLC"
   },
   {
     "ip": "95.143.196.18",
@@ -552,12 +540,6 @@
     "org": "Smart Digital Ideas DOO"
   },
   {
-    "ip": "172.234.96.64",
-    "port": 8443,
-    "code": "SE",
-    "org": "Linode"
-  },
-  {
     "ip": "77.221.143.34",
     "port": 8443,
     "code": "SE",
@@ -684,12 +666,6 @@
     "org": "Play2go International Limited"
   },
   {
-    "ip": "87.121.105.56",
-    "port": 443,
-    "code": "SE",
-    "org": "Play2go International Limited"
-  },
-  {
     "ip": "91.223.169.74",
     "port": 443,
     "code": "SE",
@@ -774,22 +750,10 @@
     "org": "Raul Gabriel Ghita"
   },
   {
-    "ip": "38.180.56.54",
-    "port": 443,
-    "code": "SE",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "103.110.66.169",
     "port": 443,
     "code": "SE",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "46.226.165.169",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "89.169.33.230",
@@ -904,5 +868,53 @@
     "port": 443,
     "code": "SE",
     "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "46.226.161.155",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "64.112.127.151",
+    "port": 443,
+    "code": "SE",
+    "org": "Hostup AB"
+  },
+  {
+    "ip": "91.186.212.186",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "138.124.71.139",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "13.53.54.165",
+    "port": 443,
+    "code": "SE",
+    "org": "AWS EC2 (eu-north-1)"
+  },
+  {
+    "ip": "89.22.235.215",
+    "port": 443,
+    "code": "SE",
+    "org": "Servers Tech Fzco"
+  },
+  {
+    "ip": "213.21.252.159",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "172.232.149.77",
+    "port": 443,
+    "code": "SE",
+    "org": "Akamai Technologies, Inc."
   }
 ]
