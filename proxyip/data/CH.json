@@ -114,12 +114,6 @@
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
-    "ip": "45.95.232.18",
-    "port": 8443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "194.156.102.142",
     "port": 443,
     "code": "CH",
@@ -162,12 +156,6 @@
     "org": "Amazon Data Services Switzerland"
   },
   {
-    "ip": "45.143.200.19",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "171.22.16.231",
     "port": 443,
     "code": "CH",
@@ -190,12 +178,6 @@
     "port": 8443,
     "code": "CH",
     "org": "Datasource AG"
-  },
-  {
-    "ip": "45.95.232.18",
-    "port": 2053,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "5.182.36.39",
@@ -262,12 +244,6 @@
     "port": 443,
     "code": "CH",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "38.180.162.104",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "213.176.18.42",
@@ -396,12 +372,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "94.131.12.65",
-    "port": 443,
-    "code": "CH",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "171.22.16.237",
     "port": 443,
     "code": "CH",
@@ -412,5 +382,41 @@
     "port": 443,
     "code": "CH",
     "org": "Amazon Technologies Inc"
+  },
+  {
+    "ip": "45.85.93.49",
+    "port": 443,
+    "code": "CH",
+    "org": "Serva ONE LTD"
+  },
+  {
+    "ip": "45.148.102.244",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "213.176.18.108",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "37.143.131.122",
+    "port": 443,
+    "code": "CH",
+    "org": "Oneprovider.com"
+  },
+  {
+    "ip": "186.190.215.78",
+    "port": 443,
+    "code": "CH",
+    "org": "objx.net"
+  },
+  {
+    "ip": "199.68.196.131",
+    "port": 443,
+    "code": "CH",
+    "org": "Fornex Hosting S.L."
   }
 ]

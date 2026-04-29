@@ -90,12 +90,6 @@
     "org": "Cloudflare London, LLC"
   },
   {
-    "ip": "193.122.126.64",
-    "port": 53777,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "158.180.72.60",
     "port": 443,
     "code": "KR",
@@ -106,12 +100,6 @@
     "port": 12427,
     "code": "KR",
     "org": "Korea Telecom"
-  },
-  {
-    "ip": "132.145.88.82",
-    "port": 38066,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "138.2.122.197",
@@ -130,12 +118,6 @@
     "port": 13644,
     "code": "KR",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "129.154.54.67",
-    "port": 19567,
-    "code": "KR",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "123.111.169.70",
@@ -252,12 +234,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "146.56.173.243",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "193.123.233.168",
     "port": 443,
     "code": "KR",
@@ -265,6 +241,12 @@
   },
   {
     "ip": "64.110.81.226",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "146.56.180.103",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"

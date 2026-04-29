@@ -114,12 +114,6 @@
     "org": "Hydra Communications Ltd"
   },
   {
-    "ip": "77.221.136.206",
-    "port": 443,
-    "code": "GB",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "57.129.137.231",
     "port": 8443,
     "code": "GB",
@@ -382,12 +376,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "91.199.32.86",
-    "port": 2053,
-    "code": "GB",
-    "org": "HR SYSHEAD"
   },
   {
     "ip": "57.129.137.209",
@@ -2490,18 +2478,6 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "212.38.166.211",
-    "port": 443,
-    "code": "GB",
-    "org": "Ipserver World LTD"
-  },
-  {
-    "ip": "165.227.237.209",
-    "port": 443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "64.176.186.194",
     "port": 443,
     "code": "GB",
@@ -2632,5 +2608,23 @@
     "port": 443,
     "code": "GB",
     "org": "Private Customer"
+  },
+  {
+    "ip": "84.8.145.58",
+    "port": 443,
+    "code": "GB",
+    "org": "Oracle Cloud Infrastructure (uk-london-1)"
+  },
+  {
+    "ip": "188.166.144.219",
+    "port": 443,
+    "code": "GB",
+    "org": "Digitalocean"
+  },
+  {
+    "ip": "37.157.242.193",
+    "port": 443,
+    "code": "GB",
+    "org": "Redstation Limited"
   }
 ]

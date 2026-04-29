@@ -18,12 +18,6 @@
     "org": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
   },
   {
-    "ip": "62.133.63.61",
-    "port": 443,
-    "code": "TR",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "93.115.10.218",
     "port": 8443,
     "code": "TR",
@@ -34,12 +28,6 @@
     "port": 2053,
     "code": "TR",
     "org": "ibrahim tufek"
-  },
-  {
-    "ip": "194.87.39.174",
-    "port": 2053,
-    "code": "TR",
-    "org": "Reliable Communications s.r.o."
   },
   {
     "ip": "188.132.232.192",
@@ -124,5 +112,11 @@
     "port": 443,
     "code": "TR",
     "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "45.67.202.36",
+    "port": 443,
+    "code": "TR",
+    "org": "Turkcell Iletisim Hizmetleri"
   }
 ]

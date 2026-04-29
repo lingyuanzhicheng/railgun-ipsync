@@ -42,12 +42,6 @@
     "org": "Green Floid LLC"
   },
   {
-    "ip": "89.34.227.122",
-    "port": 50000,
-    "code": "SG",
-    "org": "ByteVirt LLC"
-  },
-  {
     "ip": "13.250.31.132",
     "port": 443,
     "code": "SG",
@@ -228,12 +222,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "45.76.152.246",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "52.221.156.212",
     "port": 443,
     "code": "SG",
@@ -256,18 +244,6 @@
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "43.160.251.110",
-    "port": 443,
-    "code": "SG",
-    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
-  },
-  {
-    "ip": "139.180.208.63",
-    "port": 443,
-    "code": "SG",
-    "org": ""
   },
   {
     "ip": "8.222.185.236",
@@ -322,5 +298,11 @@
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "13.250.131.37",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
   }
 ]

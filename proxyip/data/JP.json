@@ -6,12 +6,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "103.106.0.123",
-    "port": 443,
-    "code": "JP",
-    "org": "DD CO LTD"
-  },
-  {
     "ip": "109.123.231.212",
     "port": 443,
     "code": "JP",
@@ -196,12 +190,6 @@
     "port": 44004,
     "code": "JP",
     "org": "CEGRGO-DigitalVM LLC - Tokyo"
-  },
-  {
-    "ip": "158.101.152.6",
-    "port": 2919,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "158.101.76.55",
@@ -402,12 +390,6 @@
     "org": "Akamai Technologies, Inc."
   },
   {
-    "ip": "47.79.94.192",
-    "port": 443,
-    "code": "JP",
-    "org": "Alibaba.com LLC"
-  },
-  {
     "ip": "45.66.129.201",
     "port": 443,
     "code": "JP",
@@ -438,12 +420,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "138.3.214.171",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "153.121.58.207",
     "port": 443,
     "code": "JP",
@@ -456,9 +432,27 @@
     "org": "DDPS Networks, LLC"
   },
   {
-    "ip": "161.33.7.163",
+    "ip": "155.248.181.189",
     "port": 443,
     "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "23.106.129.66",
+    "port": 443,
+    "code": "JP",
+    "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "64.176.36.61",
+    "port": 443,
+    "code": "JP",
+    "org": "Vultr Holdings, LLC"
   }
 ]

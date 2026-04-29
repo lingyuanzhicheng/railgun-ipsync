@@ -60,18 +60,6 @@
     "org": "Alibaba Cloud - HK"
   },
   {
-    "ip": "223.16.138.113",
-    "port": 12457,
-    "code": "HK",
-    "org": "HGC Global Communications Limited"
-  },
-  {
-    "ip": "223.16.138.113",
-    "port": 10201,
-    "code": "HK",
-    "org": "HGC Global Communications Limited"
-  },
-  {
     "ip": "141.11.91.67",
     "port": 8080,
     "code": "HK",
@@ -94,12 +82,6 @@
     "port": 26666,
     "code": "HK",
     "org": "6 COLLYER QUAY"
-  },
-  {
-    "ip": "8.217.180.234",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
     "ip": "8.223.63.150",
@@ -144,18 +126,6 @@
     "org": "Google Cloud (asia-east2)"
   },
   {
-    "ip": "8.218.189.27",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
-    "ip": "154.3.33.43",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
     "ip": "154.38.116.8",
     "port": 443,
     "code": "HK",
@@ -192,34 +162,16 @@
     "org": "PacketExchange"
   },
   {
-    "ip": "43.154.131.189",
-    "port": 443,
-    "code": "HK",
-    "org": "Tencent Cloud Computing"
-  },
-  {
     "ip": "152.32.172.205",
     "port": 443,
     "code": "HK",
     "org": "Ucloud Information Technology (hk) Limited"
   },
   {
-    "ip": "38.207.132.101",
-    "port": 443,
-    "code": "HK",
-    "org": "Nearoute Limited"
-  },
-  {
     "ip": "43.168.16.112",
     "port": 443,
     "code": "HK",
     "org": "ACE SG"
-  },
-  {
-    "ip": "45.196.235.225",
-    "port": 443,
-    "code": "HK",
-    "org": "Akile LTD"
   },
   {
     "ip": "103.74.192.228",
@@ -240,15 +192,21 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "47.243.100.85",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba Cloud - HK"
-  },
-  {
     "ip": "143.20.204.5",
     "port": 443,
     "code": "HK",
     "org": "Alice Networks LTD"
+  },
+  {
+    "ip": "124.244.50.35",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Broadband Network Ltd"
+  },
+  {
+    "ip": "154.3.36.36",
+    "port": 443,
+    "code": "HK",
+    "org": ""
   }
 ]
