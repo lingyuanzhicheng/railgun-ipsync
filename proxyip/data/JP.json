@@ -108,12 +108,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "8.209.220.50",
-    "port": 21273,
-    "code": "JP",
-    "org": "Shiodome Sumitomo Blog 1-9-2 TOKYO"
-  },
-  {
     "ip": "138.2.18.82",
     "port": 8880,
     "code": "JP",
@@ -294,12 +288,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "45.77.25.6",
-    "port": 27854,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "217.142.250.195",
     "port": 587,
     "code": "JP",
@@ -310,12 +298,6 @@
     "port": 587,
     "code": "JP",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "45.77.25.6",
-    "port": 48828,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "140.238.38.81",
@@ -390,12 +372,6 @@
     "org": "Akamai Technologies, Inc."
   },
   {
-    "ip": "45.66.129.201",
-    "port": 443,
-    "code": "JP",
-    "org": "Virtual Machine Solutions LLC"
-  },
-  {
     "ip": "172.238.6.57",
     "port": 443,
     "code": "JP",
@@ -418,12 +394,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "153.121.58.207",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
   },
   {
     "ip": "158.51.109.180",
@@ -454,5 +424,11 @@
     "port": 443,
     "code": "JP",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "138.3.214.171",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   }
 ]

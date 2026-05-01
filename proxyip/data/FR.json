@@ -1266,12 +1266,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "141.145.216.142",
-    "port": 2087,
-    "code": "FR",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "51.77.214.109",
     "port": 2053,
     "code": "FR",
@@ -2860,5 +2854,29 @@
     "port": 443,
     "code": "FR",
     "org": "Cloud Backbone"
+  },
+  {
+    "ip": "94.131.9.65",
+    "port": 443,
+    "code": "FR",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "51.178.162.166",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "94.183.187.37",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.56.176.44",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
   }
 ]

@@ -162,12 +162,6 @@
     "org": "3HCLOUD LLC"
   },
   {
-    "ip": "170.130.40.242",
-    "port": 8443,
-    "code": "US",
-    "org": "Eonix Corporation"
-  },
-  {
     "ip": "192.9.139.160",
     "port": 443,
     "code": "US",
@@ -256,12 +250,6 @@
     "port": 7800,
     "code": "US",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "43.153.61.80",
-    "port": 40874,
-    "code": "US",
-    "org": "6 COLLYER QUAY"
   },
   {
     "ip": "192.80.63.51",
@@ -684,12 +672,6 @@
     "org": "INXY LTD."
   },
   {
-    "ip": "23.227.193.153",
-    "port": 443,
-    "code": "US",
-    "org": "HIVELOCITY, Inc."
-  },
-  {
     "ip": "130.185.164.214",
     "port": 8443,
     "code": "US",
@@ -714,22 +696,10 @@
     "org": "MULTACOM CORPORATION"
   },
   {
-    "ip": "23.95.61.179",
-    "port": 15160,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "45.83.140.133",
     "port": 2053,
     "code": "US",
     "org": "WorkTitans B.V."
-  },
-  {
-    "ip": "23.95.18.12",
-    "port": 18443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "23.94.213.132",
@@ -1044,12 +1014,6 @@
     "org": "ITGLOBAL.COM NL B.V."
   },
   {
-    "ip": "107.174.204.129",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "107.174.198.228",
     "port": 8443,
     "code": "US",
@@ -1150,12 +1114,6 @@
     "port": 7700,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "209.124.84.15",
-    "port": 443,
-    "code": "US",
-    "org": "A2 Hosting, Inc."
   },
   {
     "ip": "107.173.30.154",
@@ -1536,12 +1494,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "38.180.203.118",
-    "port": 443,
-    "code": "US",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "64.181.255.215",
     "port": 443,
     "code": "US",
@@ -1680,12 +1632,6 @@
     "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
   },
   {
-    "ip": "141.148.161.95",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Cloud Infrastructure (us-phoenix-1)"
-  },
-  {
     "ip": "107.175.183.121",
     "port": 443,
     "code": "US",
@@ -1702,12 +1648,6 @@
     "port": 443,
     "code": "US",
     "org": "Nodisto IT, LLC"
-  },
-  {
-    "ip": "104.168.87.172",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "192.3.209.49",
@@ -1762,12 +1702,6 @@
     "port": 443,
     "code": "US",
     "org": ""
-  },
-  {
-    "ip": "107.174.242.250",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "107.175.232.157",
@@ -1864,12 +1798,6 @@
     "port": 443,
     "code": "US",
     "org": "AWS EC2 (us-east-2)"
-  },
-  {
-    "ip": "107.174.127.156",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "107.174.121.46",
@@ -1986,12 +1914,6 @@
     "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
   },
   {
-    "ip": "23.94.103.194",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "185.106.95.125",
     "port": 443,
     "code": "US",
@@ -2026,5 +1948,101 @@
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
+  },
+  {
+    "ip": "46.17.107.199",
+    "port": 443,
+    "code": "US",
+    "org": "First Server Limited"
+  },
+  {
+    "ip": "107.175.206.50",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.173.87.103",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "185.45.195.145",
+    "port": 443,
+    "code": "US",
+    "org": "HostSailor US Services"
+  },
+  {
+    "ip": "149.28.62.21",
+    "port": 443,
+    "code": "US",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "35.230.79.26",
+    "port": 443,
+    "code": "US",
+    "org": "Google Cloud (us-west1)"
+  },
+  {
+    "ip": "107.175.194.31",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "172.245.54.238",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "172.245.111.196",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "74.119.194.201",
+    "port": 443,
+    "code": "US",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "77.110.126.244",
+    "port": 443,
+    "code": "US",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "94.131.101.135",
+    "port": 443,
+    "code": "US",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "96.8.121.109",
+    "port": 443,
+    "code": "US",
+    "org": "New Wave NetConnect, LLC"
+  },
+  {
+    "ip": "107.174.36.103",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "142.171.118.101",
+    "port": 443,
+    "code": "US",
+    "org": "TELUS Communications Inc"
+  },
+  {
+    "ip": "144.31.207.191",
+    "port": 443,
+    "code": "US",
+    "org": "Play2go International Limited"
   }
 ]

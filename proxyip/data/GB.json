@@ -2556,12 +2556,6 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "78.129.253.115",
-    "port": 443,
-    "code": "GB",
-    "org": "Eli Lilly and Company Limited"
-  },
-  {
     "ip": "87.117.247.29",
     "port": 443,
     "code": "GB",
@@ -2626,5 +2620,23 @@
     "port": 443,
     "code": "GB",
     "org": "Redstation Limited"
+  },
+  {
+    "ip": "64.176.180.194",
+    "port": 443,
+    "code": "GB",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "91.132.95.212",
+    "port": 443,
+    "code": "GB",
+    "org": "EDIS GmbH"
+  },
+  {
+    "ip": "91.227.62.62",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
   }
 ]

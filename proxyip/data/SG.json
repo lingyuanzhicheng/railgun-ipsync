@@ -222,12 +222,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "52.221.156.212",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "8.219.155.125",
     "port": 443,
     "code": "SG",
@@ -282,12 +276,6 @@
     "org": "AWS EC2 (ap-southeast-1)"
   },
   {
-    "ip": "45.32.122.212",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "160.22.79.179",
     "port": 443,
     "code": "SG",
@@ -300,9 +288,15 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "13.250.131.37",
+    "ip": "129.150.46.113",
     "port": 443,
     "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "43.160.234.53",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
   }
 ]

@@ -234,21 +234,21 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "193.123.233.168",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "64.110.81.226",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "146.56.180.103",
+    "ip": "193.123.233.175",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "103.78.133.103",
+    "port": 443,
+    "code": "KR",
+    "org": "Kcinfra"
   }
 ]

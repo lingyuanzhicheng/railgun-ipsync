@@ -96,12 +96,6 @@
     "org": "Reg.Ru Hosting"
   },
   {
-    "ip": "185.128.106.14",
-    "port": 51820,
-    "code": "RU",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "185.211.170.101",
     "port": 8443,
     "code": "RU",
@@ -390,12 +384,6 @@
     "org": "UFO Hosting LLC"
   },
   {
-    "ip": "141.105.70.209",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "185.128.107.175",
     "port": 443,
     "code": "RU",
@@ -508,12 +496,6 @@
     "port": 443,
     "code": "RU",
     "org": "Global Internet Solutions LLC"
-  },
-  {
-    "ip": "77.73.66.223",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "176.124.200.14",
@@ -660,9 +642,21 @@
     "org": "Hosting technology LTD"
   },
   {
-    "ip": "193.124.182.35",
+    "ip": "45.129.2.201",
     "port": 443,
     "code": "RU",
-    "org": "First Server Limited"
+    "org": "iNet Ltd"
+  },
+  {
+    "ip": "5.129.245.158",
+    "port": 443,
+    "code": "RU",
+    "org": "TW Cloud"
+  },
+  {
+    "ip": "94.139.251.15",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
   }
 ]

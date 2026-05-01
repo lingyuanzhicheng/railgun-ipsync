@@ -474,12 +474,6 @@
     "org": "Smart Digital Ideas DOO"
   },
   {
-    "ip": "77.221.143.34",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "62.60.149.222",
     "port": 8443,
     "code": "SE",
@@ -628,18 +622,6 @@
     "port": 443,
     "code": "SE",
     "org": "xorek.cloud International LTD"
-  },
-  {
-    "ip": "70.34.195.28",
-    "port": 443,
-    "code": "SE",
-    "org": "Vultr"
-  },
-  {
-    "ip": "45.80.230.220",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "93.115.23.184",
@@ -798,12 +780,6 @@
     "org": "AWS EC2 (eu-north-1)"
   },
   {
-    "ip": "89.22.235.215",
-    "port": 443,
-    "code": "SE",
-    "org": "Servers Tech Fzco"
-  },
-  {
     "ip": "213.21.252.159",
     "port": 443,
     "code": "SE",
@@ -856,5 +832,41 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
+  },
+  {
+    "ip": "5.178.109.158",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "144.31.230.112",
+    "port": 443,
+    "code": "SE",
+    "org": "Play2go International Limited"
+  },
+  {
+    "ip": "91.186.212.246",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "91.186.218.54",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "109.120.133.252",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "188.126.76.3",
+    "port": 443,
+    "code": "SE",
+    "org": "ISPIRIA Networks Ltd"
   }
 ]

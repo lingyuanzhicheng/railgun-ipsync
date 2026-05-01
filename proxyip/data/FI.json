@@ -192,12 +192,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "83.147.252.227",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "79.137.248.111",
     "port": 443,
     "code": "FI",
@@ -414,22 +408,10 @@
     "org": "BG-NETWORK"
   },
   {
-    "ip": "94.156.116.117",
-    "port": 2053,
-    "code": "FI",
-    "org": "InterLIR-Marketplace"
-  },
-  {
     "ip": "185.193.102.119",
     "port": 443,
     "code": "FI",
     "org": "RCS Technologies FZE LLC"
-  },
-  {
-    "ip": "94.156.116.117",
-    "port": 8443,
-    "code": "FI",
-    "org": "InterLIR-Marketplace"
   },
   {
     "ip": "95.164.55.242",
@@ -582,12 +564,6 @@
     "org": "HOSTKEY B.V."
   },
   {
-    "ip": "185.92.183.41",
-    "port": 8443,
-    "code": "FI",
-    "org": "as56971 network"
-  },
-  {
     "ip": "104.252.127.63",
     "port": 2053,
     "code": "FI",
@@ -706,12 +682,6 @@
     "port": 2053,
     "code": "FI",
     "org": "EGIHosting"
-  },
-  {
-    "ip": "93.152.207.116",
-    "port": 443,
-    "code": "FI",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "109.107.171.147",
@@ -856,12 +826,6 @@
     "port": 8443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "65.109.192.28",
-    "port": 12216,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "45.91.193.198",
@@ -2178,12 +2142,6 @@
     "org": "HETZNER-DC"
   },
   {
-    "ip": "185.40.7.224",
-    "port": 443,
-    "code": "FI",
-    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
-  },
-  {
     "ip": "31.57.105.139",
     "port": 443,
     "code": "FI",
@@ -2518,5 +2476,83 @@
     "port": 443,
     "code": "FI",
     "org": "Snowd Security OU"
+  },
+  {
+    "ip": "31.57.107.13",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.58.137.94",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "77.42.94.136",
+    "port": 443,
+    "code": "FI",
+    "org": "HETZNER-DC"
+  },
+  {
+    "ip": "85.192.61.175",
+    "port": 443,
+    "code": "FI",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "65.109.182.62",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "95.164.55.75",
+    "port": 443,
+    "code": "FI",
+    "org": "Qwins LTD"
+  },
+  {
+    "ip": "95.182.115.237",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "185.254.158.117",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "193.23.201.26",
+    "port": 443,
+    "code": "FI",
+    "org": "Play2go International Limited"
+  },
+  {
+    "ip": "193.47.60.247",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "212.237.219.183",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "45.38.143.195",
+    "port": 443,
+    "code": "FI",
+    "org": "EGIHosting"
+  },
+  {
+    "ip": "65.21.159.37",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner"
   }
 ]
