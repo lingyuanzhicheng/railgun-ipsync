@@ -78,12 +78,6 @@
     "org": "Oracle Corp UK Ltd"
   },
   {
-    "ip": "152.67.209.237",
-    "port": 22053,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "146.56.42.21",
     "port": 7777,
     "code": "KR",
@@ -100,12 +94,6 @@
     "port": 12427,
     "code": "KR",
     "org": "Korea Telecom"
-  },
-  {
-    "ip": "138.2.122.197",
-    "port": 39863,
-    "code": "KR",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "132.226.21.116",
@@ -210,12 +198,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "130.162.132.38",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "152.67.208.8",
     "port": 443,
     "code": "KR",
@@ -226,12 +208,6 @@
     "port": 443,
     "code": "KR",
     "org": "Korea Telecom"
-  },
-  {
-    "ip": "64.110.75.145",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
     "ip": "64.110.81.226",
@@ -250,5 +226,11 @@
     "port": 443,
     "code": "KR",
     "org": "Kcinfra"
+  },
+  {
+    "ip": "146.56.180.103",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   }
 ]

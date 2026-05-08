@@ -402,12 +402,6 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "212.192.11.200",
-    "port": 443,
-    "code": "PL",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "91.108.237.23",
     "port": 443,
     "code": "PL",
@@ -516,33 +510,27 @@
     "org": "Oneprovider.com"
   },
   {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
-  },
-  {
     "ip": "81.90.17.57",
     "port": 443,
     "code": "PL",
     "org": "Intezio Networks Warsaw"
   },
   {
-    "ip": "5.157.22.38",
-    "port": 443,
-    "code": "PL",
-    "org": ""
-  },
-  {
-    "ip": "45.43.137.116",
-    "port": 443,
-    "code": "PL",
-    "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "82.26.91.197",
     "port": 443,
     "code": "PL",
     "org": "Hostkey B.V"
+  },
+  {
+    "ip": "38.180.111.12",
+    "port": 443,
+    "code": "PL",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "196.240.109.90",
+    "port": 443,
+    "code": "PL",
+    "org": "Fiber Grid"
   }
 ]

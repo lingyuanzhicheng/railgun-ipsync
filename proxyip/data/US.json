@@ -150,12 +150,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "74.48.89.211",
-    "port": 443,
-    "code": "US",
-    "org": "MULTACOM CORPORATION"
-  },
-  {
     "ip": "64.137.9.20",
     "port": 443,
     "code": "US",
@@ -486,12 +480,6 @@
     "org": "Google LLC"
   },
   {
-    "ip": "193.233.87.9",
-    "port": 8443,
-    "code": "US",
-    "org": "VDSKA-NET"
-  },
-  {
     "ip": "173.44.141.156",
     "port": 8443,
     "code": "US",
@@ -502,12 +490,6 @@
     "port": 443,
     "code": "US",
     "org": "Google LLC"
-  },
-  {
-    "ip": "139.60.162.153",
-    "port": 443,
-    "code": "US",
-    "org": "HOSTKEY"
   },
   {
     "ip": "37.1.209.186",
@@ -858,12 +840,6 @@
     "org": "MULTACOM CORPORATION"
   },
   {
-    "ip": "159.65.162.90",
-    "port": 4431,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "195.123.240.40",
     "port": 81,
     "code": "US",
@@ -988,12 +964,6 @@
     "port": 443,
     "code": "US",
     "org": "Hostwinds LLC."
-  },
-  {
-    "ip": "104.168.35.194",
-    "port": 56393,
-    "code": "US",
-    "org": "ColoCrossing"
   },
   {
     "ip": "104.168.87.41",
@@ -1216,12 +1186,6 @@
     "port": 65001,
     "code": "US",
     "org": "6 COLLYER QUAY"
-  },
-  {
-    "ip": "193.233.87.9",
-    "port": 2053,
-    "code": "US",
-    "org": "VDSKA-NET"
   },
   {
     "ip": "192.9.156.27",
@@ -1608,12 +1572,6 @@
     "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
   },
   {
-    "ip": "198.12.74.78",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "172.245.182.112",
     "port": 443,
     "code": "US",
@@ -1708,12 +1666,6 @@
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "45.83.140.160",
-    "port": 443,
-    "code": "US",
-    "org": "WorkTitans B.V"
   },
   {
     "ip": "141.148.187.195",
@@ -1884,12 +1836,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "23.94.208.112",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "64.188.27.145",
     "port": 443,
     "code": "US",
@@ -1908,12 +1854,6 @@
     "org": "MPServ"
   },
   {
-    "ip": "150.136.243.175",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
-  },
-  {
     "ip": "185.106.95.125",
     "port": 443,
     "code": "US",
@@ -1930,12 +1870,6 @@
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "69.63.209.60",
-    "port": 443,
-    "code": "US",
-    "org": ""
   },
   {
     "ip": "107.173.146.206",
@@ -1974,22 +1908,10 @@
     "org": "HostSailor US Services"
   },
   {
-    "ip": "149.28.62.21",
-    "port": 443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "35.230.79.26",
     "port": 443,
     "code": "US",
     "org": "Google Cloud (us-west1)"
-  },
-  {
-    "ip": "107.175.194.31",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "172.245.54.238",
@@ -2044,5 +1966,107 @@
     "port": 443,
     "code": "US",
     "org": "Play2go International Limited"
+  },
+  {
+    "ip": "155.94.173.121",
+    "port": 443,
+    "code": "US",
+    "org": "ContactJam"
+  },
+  {
+    "ip": "206.223.84.247",
+    "port": 443,
+    "code": "US",
+    "org": "Atlantic Cellular Management Company"
+  },
+  {
+    "ip": "23.94.194.181",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "104.223.54.68",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "107.174.204.129",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.94.43.51",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.174.242.250",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.172.16.110",
+    "port": 443,
+    "code": "US",
+    "org": "ielanpromarketing"
+  },
+  {
+    "ip": "107.173.165.210",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.95.130.10",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "43.170.25.96",
+    "port": 443,
+    "code": "US",
+    "org": "ACE SG"
+  },
+  {
+    "ip": "104.168.56.73",
+    "port": 443,
+    "code": "US",
+    "org": ""
+  },
+  {
+    "ip": "104.168.88.177",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "154.29.153.213",
+    "port": 443,
+    "code": "US",
+    "org": "NetLab"
+  },
+  {
+    "ip": "159.89.91.17",
+    "port": 443,
+    "code": "US",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "185.28.175.51",
+    "port": 443,
+    "code": "US",
+    "org": "Vdska US2"
+  },
+  {
+    "ip": "5.180.24.182",
+    "port": 443,
+    "code": "US",
+    "org": "WorkTitans B.V"
   }
 ]

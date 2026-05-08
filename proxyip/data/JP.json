@@ -6,12 +6,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "109.123.231.212",
-    "port": 443,
-    "code": "JP",
-    "org": "Contabo GmbH"
-  },
-  {
     "ip": "149.28.21.106",
     "port": 443,
     "code": "JP",
@@ -150,12 +144,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "141.147.159.250",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "139.162.102.152",
     "port": 7002,
     "code": "JP",
@@ -270,12 +258,6 @@
     "org": "Oracle Network Information Services"
   },
   {
-    "ip": "109.123.231.212",
-    "port": 2053,
-    "code": "JP",
-    "org": "Contabo GmbH"
-  },
-  {
     "ip": "103.75.118.144",
     "port": 2053,
     "code": "JP",
@@ -318,12 +300,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "140.238.51.35",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "8.216.5.125",
     "port": 443,
     "code": "JP",
@@ -334,12 +310,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "64.176.50.149",
-    "port": 443,
-    "code": "JP",
-    "org": "The Constant Company, LLC"
   },
   {
     "ip": "64.176.54.102",
@@ -354,18 +324,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "101.36.105.226",
-    "port": 443,
-    "code": "JP",
-    "org": "Ucloud Information Technology"
-  },
-  {
-    "ip": "158.51.109.181",
-    "port": 443,
-    "code": "JP",
-    "org": "DDPS Networks, LLC"
-  },
-  {
     "ip": "172.235.211.171",
     "port": 443,
     "code": "JP",
@@ -376,12 +334,6 @@
     "port": 443,
     "code": "JP",
     "org": "Akamai Technologies, Inc."
-  },
-  {
-    "ip": "66.42.32.115",
-    "port": 443,
-    "code": "JP",
-    "org": "Choopa, LLC"
   },
   {
     "ip": "89.125.244.207",
@@ -396,30 +348,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "158.51.109.180",
-    "port": 443,
-    "code": "JP",
-    "org": "DDPS Networks, LLC"
-  },
-  {
-    "ip": "155.248.181.189",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "168.138.212.80",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "23.106.129.66",
-    "port": 443,
-    "code": "JP",
-    "org": "IT7 Networks Inc"
-  },
-  {
     "ip": "64.176.36.61",
     "port": 443,
     "code": "JP",
@@ -430,5 +358,29 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "45.66.129.201",
+    "port": 443,
+    "code": "JP",
+    "org": "Virtual Machine Solutions LLC"
+  },
+  {
+    "ip": "45.8.114.99",
+    "port": 443,
+    "code": "JP",
+    "org": "Greencloud LLC"
+  },
+  {
+    "ip": "153.121.58.207",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA"
   }
 ]

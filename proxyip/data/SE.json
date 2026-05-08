@@ -204,12 +204,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "138.124.49.18",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "91.186.217.158",
     "port": 443,
     "code": "SE",
@@ -271,12 +265,6 @@
   },
   {
     "ip": "83.147.254.245",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "138.124.25.162",
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
@@ -480,18 +468,6 @@
     "org": "Smart Digital Ideas DOO"
   },
   {
-    "ip": "185.230.143.122",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "147.45.76.82",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.147.254.243",
     "port": 443,
     "code": "SE",
@@ -652,12 +628,6 @@
     "port": 443,
     "code": "SE",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "89.169.33.230",
-    "port": 443,
-    "code": "SE",
-    "org": "xorek.cloud International LTD"
   },
   {
     "ip": "91.186.216.59",
@@ -868,5 +838,23 @@
     "port": 443,
     "code": "SE",
     "org": "ISPIRIA Networks Ltd"
+  },
+  {
+    "ip": "70.34.195.28",
+    "port": 443,
+    "code": "SE",
+    "org": "Vultr"
+  },
+  {
+    "ip": "89.22.235.215",
+    "port": 443,
+    "code": "SE",
+    "org": "Servers Tech Fzco"
+  },
+  {
+    "ip": "109.120.134.104",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
   }
 ]

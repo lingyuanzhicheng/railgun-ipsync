@@ -18,12 +18,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "31.57.105.238",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.57.106.47",
     "port": 443,
     "code": "FI",
@@ -210,12 +204,6 @@
     "org": "Smart Digital Ideas DOO"
   },
   {
-    "ip": "83.147.252.155",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.147.192.190",
     "port": 443,
     "code": "FI",
@@ -232,12 +220,6 @@
     "port": 443,
     "code": "FI",
     "org": "H2NEXUS LTD"
-  },
-  {
-    "ip": "185.94.167.181",
-    "port": 8443,
-    "code": "FI",
-    "org": "PSERVERS Enterprise Network"
   },
   {
     "ip": "84.19.3.71",
@@ -696,12 +678,6 @@
     "org": "I-SERVERS LTD"
   },
   {
-    "ip": "212.87.222.32",
-    "port": 443,
-    "code": "FI",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "212.87.222.245",
     "port": 8443,
     "code": "FI",
@@ -822,12 +798,6 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "31.56.196.240",
-    "port": 8443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "45.91.193.198",
     "port": 8443,
     "code": "FI",
@@ -838,12 +808,6 @@
     "port": 443,
     "code": "FI",
     "org": "H2NEXUS LTD"
-  },
-  {
-    "ip": "46.8.228.74",
-    "port": 2053,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "31.57.61.182",
@@ -1146,19 +1110,7 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "151.242.43.34",
-    "port": 2053,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.57.62.175",
-    "port": 2053,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "31.56.196.240",
     "port": 2053,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
@@ -1212,12 +1164,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "185.94.167.181",
-    "port": 2053,
-    "code": "FI",
-    "org": "PSERVERS Enterprise Network"
-  },
-  {
     "ip": "193.164.155.27",
     "port": 2053,
     "code": "FI",
@@ -1232,12 +1178,6 @@
   {
     "ip": "46.8.71.206",
     "port": 2053,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "46.8.228.74",
-    "port": 8443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
   },
@@ -1470,12 +1410,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "79.137.206.101",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.147.192.104",
     "port": 443,
     "code": "FI",
@@ -1510,12 +1444,6 @@
     "port": 443,
     "code": "FI",
     "org": "Hostkey B.V"
-  },
-  {
-    "ip": "37.27.36.208",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "194.39.110.17",
@@ -2004,12 +1932,6 @@
     "org": "Neterra Ltd"
   },
   {
-    "ip": "109.206.236.167",
-    "port": 443,
-    "code": "FI",
-    "org": "Neterra Ltd"
-  },
-  {
     "ip": "95.85.250.216",
     "port": 443,
     "code": "FI",
@@ -2418,12 +2340,6 @@
     "org": "Upcloud FI Hel1"
   },
   {
-    "ip": "135.181.111.205",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner"
-  },
-  {
     "ip": "151.241.229.124",
     "port": 443,
     "code": "FI",
@@ -2448,12 +2364,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "45.12.135.117",
-    "port": 443,
-    "code": "FI",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "45.12.151.21",
     "port": 443,
     "code": "FI",
@@ -2464,12 +2374,6 @@
     "port": 443,
     "code": "FI",
     "org": "WorkTitans B.V"
-  },
-  {
-    "ip": "64.188.125.13",
-    "port": 443,
-    "code": "FI",
-    "org": "u1host Finland"
   },
   {
     "ip": "89.125.81.129",
@@ -2488,12 +2392,6 @@
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "77.42.94.136",
-    "port": 443,
-    "code": "FI",
-    "org": "HETZNER-DC"
   },
   {
     "ip": "85.192.61.175",
@@ -2554,5 +2452,47 @@
     "port": 443,
     "code": "FI",
     "org": "Hetzner"
+  },
+  {
+    "ip": "46.20.106.214",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "46.62.164.80",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "89.125.210.106",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "95.81.93.80",
+    "port": 443,
+    "code": "FI",
+    "org": "First Server Limited"
+  },
+  {
+    "ip": "109.206.236.211",
+    "port": 443,
+    "code": "FI",
+    "org": "Neterra Ltd"
+  },
+  {
+    "ip": "185.239.142.73",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "193.164.155.76",
+    "port": 443,
+    "code": "FI",
+    "org": "As56971"
   }
 ]

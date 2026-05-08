@@ -420,12 +420,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "31.130.149.85",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
-  },
-  {
     "ip": "83.147.255.88",
     "port": 443,
     "code": "RU",
@@ -576,12 +570,6 @@
     "org": "\"NetCom-R\" LLC"
   },
   {
-    "ip": "94.139.251.21",
-    "port": 443,
-    "code": "RU",
-    "org": "Yandex.Cloud LLC"
-  },
-  {
     "ip": "88.210.53.139",
     "port": 443,
     "code": "RU",
@@ -592,12 +580,6 @@
     "port": 443,
     "code": "RU",
     "org": "OnTelecom LLC"
-  },
-  {
-    "ip": "87.251.78.202",
-    "port": 443,
-    "code": "RU",
-    "org": "Cloud Hosting Solutions, Limited"
   },
   {
     "ip": "194.156.118.127",
@@ -630,12 +612,6 @@
     "org": "JSC Datacenter"
   },
   {
-    "ip": "212.67.10.224",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "89.110.91.224",
     "port": 443,
     "code": "RU",
@@ -654,9 +630,15 @@
     "org": "TW Cloud"
   },
   {
-    "ip": "94.139.251.15",
+    "ip": "77.73.66.223",
     "port": 443,
     "code": "RU",
-    "org": "Yandex.Cloud LLC"
+    "org": ""
+  },
+  {
+    "ip": "193.124.183.69",
+    "port": 443,
+    "code": "RU",
+    "org": "First Server Limited"
   }
 ]

@@ -6,12 +6,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "139.59.239.116",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "168.138.165.174",
     "port": 443,
     "code": "SG",
@@ -52,12 +46,6 @@
     "port": 2053,
     "code": "SG",
     "org": "Melbikomas UAB"
-  },
-  {
-    "ip": "213.35.100.31",
-    "port": 47112,
-    "code": "SG",
-    "org": "Oracle Svenska AB"
   },
   {
     "ip": "178.128.80.43",
@@ -112,12 +100,6 @@
     "port": 443,
     "code": "SG",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "138.2.95.33",
-    "port": 17465,
-    "code": "SG",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "138.2.95.61",
@@ -288,15 +270,27 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "129.150.46.113",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "43.160.234.53",
     "port": 443,
     "code": "SG",
     "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
+  },
+  {
+    "ip": "13.250.131.37",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "52.221.156.212",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "101.32.116.73",
+    "port": 443,
+    "code": "SG",
+    "org": ""
   }
 ]

@@ -576,12 +576,6 @@
     "org": "IONOS SE"
   },
   {
-    "ip": "45.63.100.255",
-    "port": 2053,
-    "code": "GB",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "57.129.131.166",
     "port": 8443,
     "code": "GB",
@@ -670,12 +664,6 @@
     "port": 443,
     "code": "GB",
     "org": "IOMART MANAGED SERVICES LIMITED"
-  },
-  {
-    "ip": "45.63.100.255",
-    "port": 8443,
-    "code": "GB",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "57.129.137.245",
@@ -2460,12 +2448,6 @@
     "org": "AWS EC2 (eu-west-2)"
   },
   {
-    "ip": "95.179.228.112",
-    "port": 443,
-    "code": "GB",
-    "org": "Vultr Holdings LLC London"
-  },
-  {
     "ip": "213.165.84.165",
     "port": 443,
     "code": "GB",
@@ -2574,12 +2556,6 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "161.35.162.102",
-    "port": 443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "35.176.187.206",
     "port": 443,
     "code": "GB",
@@ -2622,12 +2598,6 @@
     "org": "Redstation Limited"
   },
   {
-    "ip": "64.176.180.194",
-    "port": 443,
-    "code": "GB",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "91.132.95.212",
     "port": 443,
     "code": "GB",
@@ -2638,5 +2608,17 @@
     "port": 443,
     "code": "GB",
     "org": "Xantho UAB"
+  },
+  {
+    "ip": "78.129.253.115",
+    "port": 443,
+    "code": "GB",
+    "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "78.129.165.129",
+    "port": 443,
+    "code": "GB",
+    "org": "DC5 aci shared"
   }
 ]
