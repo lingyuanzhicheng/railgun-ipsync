@@ -2532,12 +2532,6 @@
     "org": "Microsoft Azure Cloud (francecentral)"
   },
   {
-    "ip": "147.45.42.132",
-    "port": 443,
-    "code": "FR",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "51.178.141.191",
     "port": 443,
     "code": "FR",
@@ -2634,22 +2628,10 @@
     "org": "OVH"
   },
   {
-    "ip": "94.131.9.65",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "51.178.162.166",
     "port": 443,
     "code": "FR",
     "org": "OVH"
-  },
-  {
-    "ip": "94.131.118.92",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V"
   },
   {
     "ip": "77.110.106.93",
@@ -2664,9 +2646,87 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "144.24.200.164",
+    "ip": "31.56.48.199",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "45.84.88.74",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "217.60.37.34",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "94.183.186.27",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "94.183.186.102",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "94.183.187.37",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.56.176.44",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "185.10.19.237",
+    "port": 443,
+    "code": "FR",
+    "org": ""
+  },
+  {
+    "ip": "5.189.161.87",
+    "port": 443,
+    "code": "FR",
+    "org": "Contabo GmbH"
+  },
+  {
+    "ip": "45.81.243.217",
+    "port": 443,
+    "code": "FR",
+    "org": "Unique IP Solutions private Limited"
+  },
+  {
+    "ip": "82.22.50.218",
+    "port": 443,
+    "code": "FR",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "129.151.245.96",
     "port": 443,
     "code": "FR",
     "org": "Oracle Corporation"
+  },
+  {
+    "ip": "62.60.153.87",
+    "port": 443,
+    "code": "FR",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "62.60.153.148",
+    "port": 443,
+    "code": "FR",
+    "org": "NetCrafters OU"
   }
 ]

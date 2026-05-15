@@ -78,12 +78,6 @@
     "org": "Network for hosting services"
   },
   {
-    "ip": "93.123.39.55",
-    "port": 443,
-    "code": "EE",
-    "org": "EE-NETWORK"
-  },
-  {
     "ip": "176.97.74.41",
     "port": 8443,
     "code": "EE",
@@ -244,5 +238,11 @@
     "port": 443,
     "code": "EE",
     "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "178.130.46.58",
+    "port": 443,
+    "code": "EE",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

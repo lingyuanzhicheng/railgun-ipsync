@@ -180,12 +180,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "31.133.0.143",
-    "port": 2053,
-    "code": "PL",
-    "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
     "ip": "31.133.0.55",
     "port": 2053,
     "code": "PL",
@@ -256,12 +250,6 @@
     "port": 2053,
     "code": "PL",
     "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
-    "ip": "45.144.51.127",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
   },
   {
     "ip": "91.149.253.249",
@@ -384,12 +372,6 @@
     "org": "OVH Sp. z o. o"
   },
   {
-    "ip": "77.83.246.88",
-    "port": 443,
-    "code": "PL",
-    "org": "Global Internet Solutions LLC"
-  },
-  {
     "ip": "82.40.38.216",
     "port": 443,
     "code": "PL",
@@ -406,12 +388,6 @@
     "port": 443,
     "code": "PL",
     "org": ""
-  },
-  {
-    "ip": "138.124.19.10",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "103.167.234.26",
@@ -442,24 +418,6 @@
     "port": 443,
     "code": "PL",
     "org": "Hostkey B.V"
-  },
-  {
-    "ip": "2.56.125.59",
-    "port": 443,
-    "code": "PL",
-    "org": "STARK INDUSTRIES SOLUTIONS LTD"
-  },
-  {
-    "ip": "138.124.64.13",
-    "port": 443,
-    "code": "PL",
-    "org": ""
-  },
-  {
-    "ip": "151.244.111.47",
-    "port": 443,
-    "code": "PL",
-    "org": ""
   },
   {
     "ip": "89.125.93.217",
@@ -510,12 +468,6 @@
     "org": "Oneprovider.com"
   },
   {
-    "ip": "81.90.17.57",
-    "port": 443,
-    "code": "PL",
-    "org": "Intezio Networks Warsaw"
-  },
-  {
     "ip": "82.26.91.197",
     "port": 443,
     "code": "PL",
@@ -528,9 +480,39 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "196.240.109.90",
+    "ip": "45.82.255.2",
     "port": 443,
     "code": "PL",
-    "org": "Fiber Grid"
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "82.38.65.88",
+    "port": 443,
+    "code": "PL",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "144.31.2.167",
+    "port": 443,
+    "code": "PL",
+    "org": "H2nexus LTD"
+  },
+  {
+    "ip": "188.255.163.120",
+    "port": 443,
+    "code": "PL",
+    "org": "Ipxo"
+  },
+  {
+    "ip": "212.119.43.55",
+    "port": 443,
+    "code": "PL",
+    "org": "Fastwarp LLP"
+  },
+  {
+    "ip": "217.60.25.191",
+    "port": 443,
+    "code": "PL",
+    "org": "GoldIPv4"
   }
 ]

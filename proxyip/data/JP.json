@@ -318,12 +318,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "141.147.144.109",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "172.235.211.171",
     "port": 443,
     "code": "JP",
@@ -360,27 +354,63 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "64.110.101.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "45.66.129.201",
     "port": 443,
     "code": "JP",
     "org": "Virtual Machine Solutions LLC"
   },
   {
-    "ip": "45.8.114.99",
+    "ip": "47.79.94.192",
     "port": 443,
     "code": "JP",
-    "org": "Greencloud LLC"
+    "org": "Alibaba.com LLC"
   },
   {
-    "ip": "153.121.58.207",
+    "ip": "168.138.212.80",
     "port": 443,
     "code": "JP",
-    "org": "SAKURA"
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "139.180.203.76",
+    "port": 443,
+    "code": "JP",
+    "org": "TYO Vultr"
+  },
+  {
+    "ip": "140.245.86.172",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "158.51.109.250",
+    "port": 443,
+    "code": "JP",
+    "org": "DDPS Networks, LLC"
+  },
+  {
+    "ip": "172.104.97.39",
+    "port": 443,
+    "code": "JP",
+    "org": "Linode"
+  },
+  {
+    "ip": "45.76.54.215",
+    "port": 443,
+    "code": "JP",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "64.176.56.68",
+    "port": 443,
+    "code": "JP",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "66.245.216.191",
+    "port": 443,
+    "code": "JP",
+    "org": "The Constant Company, LLC"
   }
 ]

@@ -1,17 +1,5 @@
 [
   {
-    "ip": "185.105.117.222",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "194.67.204.158",
-    "port": 8443,
-    "code": "RU",
-    "org": "PSERVERS Enterprise Network"
-  },
-  {
     "ip": "37.140.199.59",
     "port": 8443,
     "code": "RU",
@@ -168,12 +156,6 @@
     "org": "TimeWeb Ltd."
   },
   {
-    "ip": "185.125.219.164",
-    "port": 443,
-    "code": "RU",
-    "org": "PSERVERS Enterprise Network"
-  },
-  {
     "ip": "217.114.7.17",
     "port": 8443,
     "code": "RU",
@@ -232,18 +214,6 @@
     "port": 2053,
     "code": "RU",
     "org": "LLC Vpsville"
-  },
-  {
-    "ip": "194.67.204.158",
-    "port": 2053,
-    "code": "RU",
-    "org": "PSERVERS Enterprise Network"
-  },
-  {
-    "ip": "185.125.219.18",
-    "port": 2053,
-    "code": "RU",
-    "org": "PSERVERS Enterprise Network"
   },
   {
     "ip": "185.20.225.208",
@@ -316,12 +286,6 @@
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
-  },
-  {
-    "ip": "92.241.18.106",
-    "port": 443,
-    "code": "RU",
-    "org": "S-INFORM Network"
   },
   {
     "ip": "31.129.48.139",
@@ -438,12 +402,6 @@
     "org": "Selectel"
   },
   {
-    "ip": "188.68.218.66",
-    "port": 443,
-    "code": "RU",
-    "org": "Selectel"
-  },
-  {
     "ip": "45.144.30.222",
     "port": 443,
     "code": "RU",
@@ -454,18 +412,6 @@
     "port": 443,
     "code": "RU",
     "org": "TimeWeb Ltd"
-  },
-  {
-    "ip": "185.125.219.207",
-    "port": 443,
-    "code": "RU",
-    "org": "Ihor Servers"
-  },
-  {
-    "ip": "185.170.10.35",
-    "port": 443,
-    "code": "RU",
-    "org": "ServTech LTD"
   },
   {
     "ip": "80.87.198.98",
@@ -582,12 +528,6 @@
     "org": "OnTelecom LLC"
   },
   {
-    "ip": "194.156.118.127",
-    "port": 443,
-    "code": "RU",
-    "org": "Beget LLC"
-  },
-  {
     "ip": "185.104.251.143",
     "port": 443,
     "code": "RU",
@@ -612,18 +552,6 @@
     "org": "JSC Datacenter"
   },
   {
-    "ip": "89.110.91.224",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
-    "ip": "45.129.2.201",
-    "port": 443,
-    "code": "RU",
-    "org": "iNet Ltd"
-  },
-  {
     "ip": "5.129.245.158",
     "port": 443,
     "code": "RU",
@@ -640,5 +568,77 @@
     "port": 443,
     "code": "RU",
     "org": "First Server Limited"
+  },
+  {
+    "ip": "185.68.247.233",
+    "port": 443,
+    "code": "RU",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "185.170.10.32",
+    "port": 443,
+    "code": "RU",
+    "org": "ServTech LTD"
+  },
+  {
+    "ip": "193.3.23.128",
+    "port": 443,
+    "code": "RU",
+    "org": "FOP Hornostay Mykhaylo Ivanovych"
+  },
+  {
+    "ip": "194.87.151.237",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "31.200.248.163",
+    "port": 443,
+    "code": "RU",
+    "org": "Start2 LLC"
+  },
+  {
+    "ip": "46.229.215.23",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "79.174.80.62",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "82.146.38.33",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC IOT"
+  },
+  {
+    "ip": "89.223.121.23",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "93.183.71.229",
+    "port": 443,
+    "code": "RU",
+    "org": "ZTV Corp"
+  },
+  {
+    "ip": "109.172.46.142",
+    "port": 443,
+    "code": "RU",
+    "org": "Beget LLC"
+  },
+  {
+    "ip": "155.212.216.242",
+    "port": 443,
+    "code": "RU",
+    "org": "Beget LLC"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "ip": "151.244.93.6",
-    "port": 443,
-    "code": "ME",
-    "org": "Private Customer"
-  },
-  {
     "ip": "147.90.26.6",
     "port": 443,
     "code": "ME",
@@ -49,12 +43,6 @@
   },
   {
     "ip": "147.90.26.78",
-    "port": 443,
-    "code": "ME",
-    "org": "Private Customer"
-  },
-  {
-    "ip": "151.244.93.92",
     "port": 443,
     "code": "ME",
     "org": "Private Customer"
@@ -258,12 +246,6 @@
     "org": "Private Customer"
   },
   {
-    "ip": "151.244.93.4",
-    "port": 443,
-    "code": "ME",
-    "org": "Private Customer"
-  },
-  {
     "ip": "147.90.26.23",
     "port": 443,
     "code": "ME",
@@ -325,6 +307,36 @@
   },
   {
     "ip": "147.90.26.57",
+    "port": 443,
+    "code": "ME",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "147.90.26.49",
+    "port": 443,
+    "code": "ME",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "147.90.26.77",
+    "port": 443,
+    "code": "ME",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "147.90.26.82",
+    "port": 443,
+    "code": "ME",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "147.90.26.17",
+    "port": 443,
+    "code": "ME",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "147.90.26.21",
     "port": 443,
     "code": "ME",
     "org": "Private Customer"

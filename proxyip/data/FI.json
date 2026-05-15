@@ -18,12 +18,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "31.57.106.47",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.57.106.126",
     "port": 443,
     "code": "FI",
@@ -31,12 +25,6 @@
   },
   {
     "ip": "31.57.106.178",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "46.8.70.254",
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
@@ -366,12 +354,6 @@
     "org": "as56971 network"
   },
   {
-    "ip": "91.108.189.141",
-    "port": 443,
-    "code": "FI",
-    "org": "HostVDS.com Cloud Service Provider"
-  },
-  {
     "ip": "91.149.219.230",
     "port": 2053,
     "code": "FI",
@@ -394,12 +376,6 @@
     "port": 443,
     "code": "FI",
     "org": "RCS Technologies FZE LLC"
-  },
-  {
-    "ip": "95.164.55.242",
-    "port": 8443,
-    "code": "FI",
-    "org": "QWINS LTD"
   },
   {
     "ip": "185.233.82.159",
@@ -538,12 +514,6 @@
     "port": 443,
     "code": "FI",
     "org": "UpCloud Cloud Servers"
-  },
-  {
-    "ip": "193.84.3.188",
-    "port": 443,
-    "code": "FI",
-    "org": "HOSTKEY B.V."
   },
   {
     "ip": "104.252.127.63",
@@ -1014,12 +984,6 @@
     "org": "PSERVERS Enterprise Network"
   },
   {
-    "ip": "45.156.22.48",
-    "port": 2053,
-    "code": "FI",
-    "org": "as56971 network"
-  },
-  {
     "ip": "93.152.207.163",
     "port": 443,
     "code": "FI",
@@ -1260,12 +1224,6 @@
     "org": "HostVDS.com Cloud Provider"
   },
   {
-    "ip": "95.164.55.242",
-    "port": 2053,
-    "code": "FI",
-    "org": "QWINS LTD"
-  },
-  {
     "ip": "213.159.68.140",
     "port": 8443,
     "code": "FI",
@@ -1483,12 +1441,6 @@
   },
   {
     "ip": "138.124.0.218",
-    "port": 443,
-    "code": "FI",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "192.145.29.62",
     "port": 443,
     "code": "FI",
     "org": "Baykov Ilya Sergeevich"
@@ -2046,22 +1998,10 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "95.164.55.73",
-    "port": 443,
-    "code": "FI",
-    "org": "Qwins LTD"
-  },
-  {
     "ip": "94.131.100.210",
     "port": 443,
     "code": "FI",
     "org": "WorkTitans B.V"
-  },
-  {
-    "ip": "77.42.66.7",
-    "port": 443,
-    "code": "FI",
-    "org": "HETZNER-DC"
   },
   {
     "ip": "31.57.105.139",
@@ -2094,12 +2034,6 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "213.165.59.61",
-    "port": 443,
-    "code": "FI",
-    "org": "WAIcore Ltd"
-  },
-  {
     "ip": "217.60.62.18",
     "port": 443,
     "code": "FI",
@@ -2122,12 +2056,6 @@
     "port": 443,
     "code": "FI",
     "org": "EGIHosting"
-  },
-  {
-    "ip": "46.8.232.48",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "89.125.81.30",
@@ -2220,12 +2148,6 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "31.57.26.96",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "66.151.35.226",
     "port": 443,
     "code": "FI",
@@ -2254,12 +2176,6 @@
     "port": 443,
     "code": "FI",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "5.180.172.78",
-    "port": 443,
-    "code": "FI",
-    "org": ""
   },
   {
     "ip": "46.62.192.61",
@@ -2358,12 +2274,6 @@
     "org": "Play2go LTD"
   },
   {
-    "ip": "31.56.113.177",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "45.12.151.21",
     "port": 443,
     "code": "FI",
@@ -2380,12 +2290,6 @@
     "port": 443,
     "code": "FI",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "31.57.107.13",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "31.58.137.94",
@@ -2494,5 +2398,83 @@
     "port": 443,
     "code": "FI",
     "org": "As56971"
+  },
+  {
+    "ip": "212.87.222.32",
+    "port": 443,
+    "code": "FI",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "195.96.156.240",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "202.71.12.226",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "217.60.62.9",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "2.27.32.166",
+    "port": 443,
+    "code": "FI",
+    "org": "Xorek.Cloud Helsinki"
+  },
+  {
+    "ip": "31.56.197.121",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "64.188.93.3",
+    "port": 443,
+    "code": "FI",
+    "org": "u1host Finland"
+  },
+  {
+    "ip": "82.26.171.234",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "91.204.74.232",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "138.124.75.161",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "144.31.239.104",
+    "port": 443,
+    "code": "FI",
+    "org": "SERV.HOST GROUP LTD"
+  },
+  {
+    "ip": "185.156.108.133",
+    "port": 443,
+    "code": "FI",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "185.228.232.247",
+    "port": 443,
+    "code": "FI",
+    "org": "ZTV CORP LLC"
   }
 ]

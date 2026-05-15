@@ -48,18 +48,6 @@
     "org": "Melbikomas UAB"
   },
   {
-    "ip": "178.128.80.43",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "129.150.58.86",
-    "port": 57621,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "139.99.124.165",
     "port": 443,
     "code": "SG",
@@ -154,12 +142,6 @@
     "port": 1443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "34.143.159.175",
-    "port": 443,
-    "code": "SG",
-    "org": "Google LLC"
   },
   {
     "ip": "8.219.195.31",
@@ -270,27 +252,57 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "43.160.234.53",
-    "port": 443,
-    "code": "SG",
-    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
-  },
-  {
     "ip": "13.250.131.37",
     "port": 443,
     "code": "SG",
     "org": "AWS EC2 (ap-southeast-1)"
   },
   {
-    "ip": "52.221.156.212",
+    "ip": "52.230.95.97",
     "port": 443,
     "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
+    "org": "Microsoft Azure Cloud (southeastasia)"
   },
   {
-    "ip": "101.32.116.73",
+    "ip": "159.223.62.202",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "167.172.87.155",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "167.172.95.164",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "192.206.117.225",
+    "port": 443,
+    "code": "SG",
+    "org": "Onidel Pty Ltd"
+  },
+  {
+    "ip": "104.248.157.201",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "139.180.216.166",
     "port": 443,
     "code": "SG",
     "org": ""
+  },
+  {
+    "ip": "143.198.93.1",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
   }
 ]

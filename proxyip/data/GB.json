@@ -1,11 +1,5 @@
 [
   {
-    "ip": "37.221.127.254",
-    "port": 443,
-    "code": "GB",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "46.101.29.160",
     "port": 443,
     "code": "GB",
@@ -534,12 +528,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "91.199.32.191",
-    "port": 2053,
-    "code": "GB",
-    "org": "HR SYSHEAD"
-  },
-  {
     "ip": "57.128.178.63",
     "port": 443,
     "code": "GB",
@@ -658,12 +646,6 @@
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "82.145.63.59",
-    "port": 443,
-    "code": "GB",
-    "org": "IOMART MANAGED SERVICES LIMITED"
   },
   {
     "ip": "57.129.137.245",
@@ -2430,12 +2412,6 @@
     "org": "Oracle Cloud Infrastructure (uk-london-1)"
   },
   {
-    "ip": "130.185.144.78",
-    "port": 443,
-    "code": "GB",
-    "org": "Iomart Hosting Limited"
-  },
-  {
     "ip": "132.145.29.208",
     "port": 443,
     "code": "GB",
@@ -2466,12 +2442,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "67.159.56.85",
-    "port": 443,
-    "code": "GB",
-    "org": "FDCservers.net"
-  },
-  {
     "ip": "91.227.62.50",
     "port": 443,
     "code": "GB",
@@ -2479,12 +2449,6 @@
   },
   {
     "ip": "91.227.62.67",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.227.62.149",
     "port": 443,
     "code": "GB",
     "org": "Xantho UAB"
@@ -2620,5 +2584,17 @@
     "port": 443,
     "code": "GB",
     "org": "DC5 aci shared"
+  },
+  {
+    "ip": "167.99.196.50",
+    "port": 443,
+    "code": "GB",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "34.39.62.53",
+    "port": 443,
+    "code": "GB",
+    "org": "Google Cloud (europe-west2)"
   }
 ]
