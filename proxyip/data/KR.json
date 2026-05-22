@@ -120,12 +120,6 @@
     "org": "Cloudflare, Inc."
   },
   {
-    "ip": "1.249.45.86",
-    "port": 12112,
-    "code": "KR",
-    "org": "SK Broadband Co Ltd"
-  },
-  {
     "ip": "158.247.250.157",
     "port": 81,
     "code": "KR",
@@ -222,12 +216,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "64.110.75.145",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "130.162.132.38",
     "port": 443,
     "code": "KR",
@@ -238,5 +226,11 @@
     "port": 443,
     "code": "KR",
     "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "45.93.30.168",
+    "port": 443,
+    "code": "KR",
+    "org": "Xnnet Limited"
   }
 ]

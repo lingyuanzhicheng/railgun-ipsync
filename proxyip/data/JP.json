@@ -282,12 +282,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "140.238.38.81",
-    "port": 587,
-    "code": "JP",
-    "org": "Cloudflare, Inc."
-  },
-  {
     "ip": "138.2.59.112",
     "port": 443,
     "code": "JP",
@@ -298,12 +292,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "8.216.5.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
     "ip": "161.33.190.243",
@@ -324,12 +312,6 @@
     "org": "Akamai Technologies, Inc."
   },
   {
-    "ip": "172.238.6.57",
-    "port": 443,
-    "code": "JP",
-    "org": "Akamai Technologies, Inc."
-  },
-  {
     "ip": "89.125.244.207",
     "port": 443,
     "code": "JP",
@@ -342,22 +324,10 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "64.176.36.61",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "138.3.214.171",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "45.66.129.201",
-    "port": 443,
-    "code": "JP",
-    "org": "Virtual Machine Solutions LLC"
   },
   {
     "ip": "47.79.94.192",
@@ -372,34 +342,10 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "139.180.203.76",
-    "port": 443,
-    "code": "JP",
-    "org": "TYO Vultr"
-  },
-  {
-    "ip": "140.245.86.172",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "158.51.109.250",
-    "port": 443,
-    "code": "JP",
-    "org": "DDPS Networks, LLC"
-  },
-  {
     "ip": "172.104.97.39",
     "port": 443,
     "code": "JP",
     "org": "Linode"
-  },
-  {
-    "ip": "45.76.54.215",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "64.176.56.68",
@@ -408,9 +354,9 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "66.245.216.191",
+    "ip": "38.47.105.76",
     "port": 443,
     "code": "JP",
-    "org": "The Constant Company, LLC"
+    "org": "VMISS Inc"
   }
 ]

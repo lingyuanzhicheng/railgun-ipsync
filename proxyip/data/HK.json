@@ -48,12 +48,6 @@
     "org": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
-    "ip": "47.240.15.210",
-    "port": 4432,
-    "code": "HK",
-    "org": "Alibaba Cloud - HK"
-  },
-  {
     "ip": "141.11.91.67",
     "port": 8080,
     "code": "HK",
@@ -108,34 +102,10 @@
     "org": "HK Dingdian Network Limited"
   },
   {
-    "ip": "154.38.116.8",
-    "port": 443,
-    "code": "HK",
-    "org": "Hong Kong Communications International Co., Limited"
-  },
-  {
-    "ip": "47.76.146.102",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba Cloud - HK"
-  },
-  {
     "ip": "159.138.138.87",
     "port": 443,
     "code": "HK",
     "org": ""
-  },
-  {
-    "ip": "152.32.133.246",
-    "port": 443,
-    "code": "HK",
-    "org": "Ucloud Information Technology (hk) Limited"
-  },
-  {
-    "ip": "68.64.176.135",
-    "port": 443,
-    "code": "HK",
-    "org": "PacketExchange"
   },
   {
     "ip": "43.168.16.112",
@@ -162,12 +132,6 @@
     "org": "Alice Networks LTD"
   },
   {
-    "ip": "123.254.106.203",
-    "port": 443,
-    "code": "HK",
-    "org": "Cloudie Limited"
-  },
-  {
     "ip": "223.17.51.108",
     "port": 443,
     "code": "HK",
@@ -192,15 +156,57 @@
     "org": "Alibaba Cloud - HK"
   },
   {
-    "ip": "157.254.22.120",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
     "ip": "213.159.70.18",
     "port": 443,
     "code": "HK",
     "org": "Adcdata Limited"
+  },
+  {
+    "ip": "38.207.132.101",
+    "port": 443,
+    "code": "HK",
+    "org": "Nearoute Limited"
+  },
+  {
+    "ip": "124.244.50.35",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Broadband Network Ltd"
+  },
+  {
+    "ip": "43.154.131.189",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "45.196.235.225",
+    "port": 443,
+    "code": "HK",
+    "org": "Akile LTD"
+  },
+  {
+    "ip": "47.239.231.121",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba Cloud - HK"
+  },
+  {
+    "ip": "74.119.193.221",
+    "port": 443,
+    "code": "HK",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "154.219.104.17",
+    "port": 443,
+    "code": "HK",
+    "org": "Vape"
+  },
+  {
+    "ip": "47.239.189.60",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba Cloud - HK"
   }
 ]

@@ -42,12 +42,6 @@
     "org": "FreeNet L.L.C-FZ"
   },
   {
-    "ip": "45.142.215.61",
-    "port": 443,
-    "code": "LV",
-    "org": "LIR Limited"
-  },
-  {
     "ip": "84.21.172.81",
     "port": 443,
     "code": "LV",
@@ -61,12 +55,6 @@
   },
   {
     "ip": "216.173.71.171",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "45.43.79.121",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -145,12 +133,6 @@
   },
   {
     "ip": "195.135.253.121",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "212.6.44.238",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -276,12 +258,6 @@
     "org": "Sia Nano IT"
   },
   {
-    "ip": "103.231.73.153",
-    "port": 443,
-    "code": "LV",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "31.128.34.85",
     "port": 587,
     "code": "LV",
@@ -292,12 +268,6 @@
     "port": 2053,
     "code": "LV",
     "org": "Green Floid LLC"
-  },
-  {
-    "ip": "193.124.254.121",
-    "port": 443,
-    "code": "LV",
-    "org": "Riga-Riga-LV"
   },
   {
     "ip": "217.60.4.19",
@@ -354,22 +324,10 @@
     "org": "NetGrid Host LTD"
   },
   {
-    "ip": "213.21.222.117",
-    "port": 443,
-    "code": "LV",
-    "org": "Versija SIA"
-  },
-  {
     "ip": "193.124.254.99",
     "port": 443,
     "code": "LV",
     "org": "Riga-Riga-LV"
-  },
-  {
-    "ip": "213.165.63.87",
-    "port": 443,
-    "code": "LV",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "217.60.2.201",
@@ -378,15 +336,21 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "5.39.250.14",
-    "port": 443,
-    "code": "LV",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "31.58.77.150",
     "port": 443,
     "code": "LV",
     "org": "Cloud Backbone"
+  },
+  {
+    "ip": "45.142.215.24",
+    "port": 443,
+    "code": "LV",
+    "org": "Thehosting"
+  },
+  {
+    "ip": "195.135.254.135",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
   }
 ]

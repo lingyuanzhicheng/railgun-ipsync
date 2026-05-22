@@ -12,12 +12,6 @@
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
-    "ip": "94.131.12.15",
-    "port": 443,
-    "code": "CH",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "146.70.71.157",
     "port": 443,
     "code": "CH",
@@ -264,12 +258,6 @@
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
-    "ip": "45.59.114.151",
-    "port": 443,
-    "code": "CH",
-    "org": "anyNode"
-  },
-  {
     "ip": "45.143.200.135",
     "port": 443,
     "code": "CH",
@@ -424,5 +412,41 @@
     "port": 443,
     "code": "CH",
     "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "45.143.200.141",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "186.190.215.78",
+    "port": 443,
+    "code": "CH",
+    "org": "objx.net"
+  },
+  {
+    "ip": "87.120.222.63",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "194.87.18.208",
+    "port": 443,
+    "code": "CH",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "45.143.200.211",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "138.124.244.95",
+    "port": 443,
+    "code": "CH",
+    "org": "Plant Holding GmbH"
   }
 ]

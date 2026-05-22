@@ -2430,12 +2430,6 @@
     "org": "IONOS SE"
   },
   {
-    "ip": "37.221.127.139",
-    "port": 443,
-    "code": "GB",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "64.176.186.194",
     "port": 443,
     "code": "GB",
@@ -2482,12 +2476,6 @@
     "port": 443,
     "code": "GB",
     "org": "WorkTitans B.V"
-  },
-  {
-    "ip": "195.54.161.101",
-    "port": 443,
-    "code": "GB",
-    "org": "BV Na22"
   },
   {
     "ip": "78.129.253.133",
@@ -2586,15 +2574,33 @@
     "org": "DC5 aci shared"
   },
   {
-    "ip": "167.99.196.50",
-    "port": 443,
-    "code": "GB",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "34.39.62.53",
     "port": 443,
     "code": "GB",
     "org": "Google Cloud (europe-west2)"
+  },
+  {
+    "ip": "95.179.228.112",
+    "port": 443,
+    "code": "GB",
+    "org": "Vultr Holdings LLC London"
+  },
+  {
+    "ip": "91.227.62.149",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "130.94.78.163",
+    "port": 443,
+    "code": "GB",
+    "org": "NTT America"
+  },
+  {
+    "ip": "140.235.74.26",
+    "port": 443,
+    "code": "GB",
+    "org": "berrybyte"
   }
 ]
