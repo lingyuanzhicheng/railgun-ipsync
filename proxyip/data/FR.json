@@ -966,12 +966,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "88.218.78.205",
-    "port": 8443,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
     "ip": "152.228.135.27",
     "port": 2053,
     "code": "FR",
@@ -2322,12 +2316,6 @@
     "org": "HostRoyale Technologies Pvt Ltd"
   },
   {
-    "ip": "138.124.31.203",
-    "port": 443,
-    "code": "FR",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "193.42.60.235",
     "port": 443,
     "code": "FR",
@@ -2544,12 +2532,6 @@
     "org": "OVH"
   },
   {
-    "ip": "88.218.78.167",
-    "port": 443,
-    "code": "FR",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "51.178.137.248",
     "port": 443,
     "code": "FR",
@@ -2724,12 +2706,6 @@
     "org": "Cloud Backbone"
   },
   {
-    "ip": "163.172.157.35",
-    "port": 443,
-    "code": "FR",
-    "org": "ONLINE"
-  },
-  {
     "ip": "144.24.200.164",
     "port": 443,
     "code": "FR",
@@ -2742,9 +2718,33 @@
     "org": "OVH"
   },
   {
-    "ip": "194.116.217.20",
+    "ip": "94.183.187.207",
     "port": 443,
     "code": "FR",
-    "org": "As56971"
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "94.131.118.92",
+    "port": 443,
+    "code": "FR",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "37.60.232.144",
+    "port": 443,
+    "code": "FR",
+    "org": "Contabo GmbH"
+  },
+  {
+    "ip": "94.183.188.150",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "62.60.246.90",
+    "port": 443,
+    "code": "FR",
+    "org": "RTM GmbH"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "ip": "138.2.64.229",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "168.138.165.174",
     "port": 443,
     "code": "SG",
@@ -82,12 +76,6 @@
     "port": 8443,
     "code": "SG",
     "org": "SGP_VULTR_CUST"
-  },
-  {
-    "ip": "167.99.73.22",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "138.2.95.61",
@@ -180,28 +168,10 @@
     "org": ""
   },
   {
-    "ip": "158.178.234.153",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "8.219.155.125",
     "port": 443,
     "code": "SG",
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
-    "ip": "43.134.174.114",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "45.77.255.153",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "8.222.185.236",
@@ -240,12 +210,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "159.223.62.202",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "167.172.87.155",
     "port": 443,
     "code": "SG",
@@ -262,11 +226,5 @@
     "port": 443,
     "code": "SG",
     "org": "Streamline Servers Pty Ltd"
-  },
-  {
-    "ip": "8.219.232.55",
-    "port": 443,
-    "code": "SG",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   }
 ]

@@ -2466,12 +2466,6 @@
     "org": "Stat Solutions"
   },
   {
-    "ip": "37.157.242.6",
-    "port": 443,
-    "code": "GB",
-    "org": "Redstation Limited"
-  },
-  {
     "ip": "45.140.167.43",
     "port": 443,
     "code": "GB",
@@ -2514,18 +2508,6 @@
     "org": "AWS EC2 (eu-west-2)"
   },
   {
-    "ip": "18.130.235.174",
-    "port": 443,
-    "code": "GB",
-    "org": "AWS EC2 (eu-west-2)"
-  },
-  {
-    "ip": "37.221.125.103",
-    "port": 443,
-    "code": "GB",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "5.83.218.80",
     "port": 443,
     "code": "GB",
@@ -2542,12 +2524,6 @@
     "port": 443,
     "code": "GB",
     "org": "Digitalocean"
-  },
-  {
-    "ip": "37.157.242.193",
-    "port": 443,
-    "code": "GB",
-    "org": "Redstation Limited"
   },
   {
     "ip": "91.132.95.212",
@@ -2592,15 +2568,27 @@
     "org": "Xantho UAB"
   },
   {
-    "ip": "130.94.78.163",
-    "port": 443,
-    "code": "GB",
-    "org": "NTT America"
-  },
-  {
     "ip": "140.235.74.26",
     "port": 443,
     "code": "GB",
     "org": "berrybyte"
+  },
+  {
+    "ip": "130.185.144.78",
+    "port": 443,
+    "code": "GB",
+    "org": "Iomart Hosting Limited"
+  },
+  {
+    "ip": "82.39.133.67",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "185.217.110.23",
+    "port": 443,
+    "code": "GB",
+    "org": "Kirino LLC"
   }
 ]

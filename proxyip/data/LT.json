@@ -24,12 +24,6 @@
     "org": "SolusVM priskirti adresai"
   },
   {
-    "ip": "212.192.23.24",
-    "port": 443,
-    "code": "LT",
-    "org": "Baxet Group Inc."
-  },
-  {
     "ip": "5.199.173.195",
     "port": 443,
     "code": "LT",
@@ -64,5 +58,17 @@
     "port": 443,
     "code": "LT",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
+  },
+  {
+    "ip": "212.192.22.177",
+    "port": 443,
+    "code": "LT",
+    "org": "Litlink UAB"
+  },
+  {
+    "ip": "144.31.243.19",
+    "port": 443,
+    "code": "LT",
+    "org": "SERV.HOST GROUP LTD"
   }
 ]

@@ -12,12 +12,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "195.20.208.151",
-    "port": 2053,
-    "code": "LV",
-    "org": "Friendhosting LTD"
-  },
-  {
     "ip": "94.158.218.48",
     "port": 443,
     "code": "LV",
@@ -270,12 +264,6 @@
     "org": "Green Floid LLC"
   },
   {
-    "ip": "217.60.4.19",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "193.68.89.220",
     "port": 443,
     "code": "LV",
@@ -300,12 +288,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "85.159.228.118",
-    "port": 443,
-    "code": "LV",
-    "org": "Global Internet Solutions LLC"
-  },
-  {
     "ip": "94.158.219.248",
     "port": 443,
     "code": "LV",
@@ -322,12 +304,6 @@
     "port": 443,
     "code": "LV",
     "org": "NetGrid Host LTD"
-  },
-  {
-    "ip": "193.124.254.99",
-    "port": 443,
-    "code": "LV",
-    "org": "Riga-Riga-LV"
   },
   {
     "ip": "217.60.2.201",
@@ -349,6 +325,24 @@
   },
   {
     "ip": "195.135.254.135",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "217.60.2.69",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "103.231.73.153",
+    "port": 443,
+    "code": "LV",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "195.135.253.164",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"

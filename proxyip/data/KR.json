@@ -126,12 +126,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "129.154.223.89",
-    "port": 15800,
-    "code": "KR",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "130.162.130.105",
     "port": 443,
     "code": "KR",
@@ -180,12 +174,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "129.154.48.176",
-    "port": 36355,
-    "code": "KR",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "146.56.188.74",
     "port": 443,
     "code": "KR",
@@ -204,18 +192,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "103.78.133.103",
-    "port": 443,
-    "code": "KR",
-    "org": "Kcinfra"
-  },
-  {
-    "ip": "146.56.180.103",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "130.162.132.38",
     "port": 443,
     "code": "KR",
@@ -228,9 +204,9 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "45.93.30.168",
+    "ip": "43.133.253.45",
     "port": 443,
     "code": "KR",
-    "org": "Xnnet Limited"
+    "org": "Tencent Cloud Computing"
   }
 ]

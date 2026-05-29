@@ -60,12 +60,6 @@
     "org": "ihc.hk vps in Hong Kong"
   },
   {
-    "ip": "154.18.161.172",
-    "port": 18443,
-    "code": "HK",
-    "org": "Hytron Network Services Limited"
-  },
-  {
     "ip": "43.154.124.136",
     "port": 26666,
     "code": "HK",
@@ -132,22 +126,10 @@
     "org": "Alice Networks LTD"
   },
   {
-    "ip": "223.17.51.108",
-    "port": 443,
-    "code": "HK",
-    "org": "HGC Global Communications Limited"
-  },
-  {
     "ip": "151.244.132.39",
     "port": 443,
     "code": "HK",
     "org": ""
-  },
-  {
-    "ip": "38.190.210.250",
-    "port": 443,
-    "code": "HK",
-    "org": "Solustack Limited"
   },
   {
     "ip": "47.243.183.61",
@@ -156,34 +138,10 @@
     "org": "Alibaba Cloud - HK"
   },
   {
-    "ip": "213.159.70.18",
-    "port": 443,
-    "code": "HK",
-    "org": "Adcdata Limited"
-  },
-  {
-    "ip": "38.207.132.101",
-    "port": 443,
-    "code": "HK",
-    "org": "Nearoute Limited"
-  },
-  {
     "ip": "124.244.50.35",
     "port": 443,
     "code": "HK",
     "org": "Hong Kong Broadband Network Ltd"
-  },
-  {
-    "ip": "43.154.131.189",
-    "port": 443,
-    "code": "HK",
-    "org": "Tencent Cloud Computing"
-  },
-  {
-    "ip": "45.196.235.225",
-    "port": 443,
-    "code": "HK",
-    "org": "Akile LTD"
   },
   {
     "ip": "47.239.231.121",
@@ -198,15 +156,27 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "154.219.104.17",
-    "port": 443,
-    "code": "HK",
-    "org": "Vape"
-  },
-  {
     "ip": "47.239.189.60",
     "port": 443,
     "code": "HK",
     "org": "Alibaba Cloud - HK"
+  },
+  {
+    "ip": "103.219.193.123",
+    "port": 443,
+    "code": "HK",
+    "org": "Bage Cloud LLC"
+  },
+  {
+    "ip": "154.44.27.15",
+    "port": 443,
+    "code": "HK",
+    "org": "NetLab Global"
+  },
+  {
+    "ip": "154.38.116.8",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Communications International Co., Limited"
   }
 ]

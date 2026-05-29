@@ -174,12 +174,6 @@
     "org": "CEGRGO-DigitalVM LLC - Tokyo"
   },
   {
-    "ip": "158.101.76.55",
-    "port": 21953,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "132.145.127.203",
     "port": 2053,
     "code": "JP",
@@ -228,12 +222,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "150.230.204.21",
-    "port": 10243,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "158.101.89.113",
     "port": 50443,
     "code": "JP",
@@ -242,12 +230,6 @@
   {
     "ip": "168.138.197.147",
     "port": 12345,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "168.138.192.16",
-    "port": 54584,
     "code": "JP",
     "org": "Oracle Public Cloud"
   },
@@ -324,12 +306,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "138.3.214.171",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "47.79.94.192",
     "port": 443,
     "code": "JP",
@@ -348,15 +324,21 @@
     "org": "Linode"
   },
   {
-    "ip": "64.176.56.68",
-    "port": 443,
-    "code": "JP",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "38.47.105.76",
     "port": 443,
     "code": "JP",
     "org": "VMISS Inc"
+  },
+  {
+    "ip": "155.248.181.189",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "158.101.78.162",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   }
 ]
