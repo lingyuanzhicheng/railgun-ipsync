@@ -312,12 +312,6 @@
     "org": "Alibaba.com LLC"
   },
   {
-    "ip": "168.138.212.80",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "172.104.97.39",
     "port": 443,
     "code": "JP",
@@ -330,15 +324,33 @@
     "org": "VMISS Inc"
   },
   {
-    "ip": "155.248.181.189",
+    "ip": "158.101.78.162",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "158.101.78.162",
+    "ip": "8.216.5.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "140.83.86.166",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "138.3.214.171",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "64.176.56.68",
+    "port": 443,
+    "code": "JP",
+    "org": "The Constant Company, LLC"
   }
 ]

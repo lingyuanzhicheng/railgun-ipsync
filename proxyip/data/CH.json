@@ -234,12 +234,6 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "213.176.18.42",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "83.228.193.229",
     "port": 443,
     "code": "CH",
@@ -336,12 +330,6 @@
     "org": "Serva ONE LTD"
   },
   {
-    "ip": "87.120.222.125",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "171.22.16.237",
     "port": 443,
     "code": "CH",
@@ -414,27 +402,27 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "186.190.215.78",
-    "port": 443,
-    "code": "CH",
-    "org": "objx.net"
-  },
-  {
     "ip": "45.143.200.211",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "138.124.244.95",
-    "port": 443,
-    "code": "CH",
-    "org": "Plant Holding GmbH"
-  },
-  {
     "ip": "45.59.117.92",
     "port": 443,
     "code": "CH",
     "org": "anyNode"
+  },
+  {
+    "ip": "140.238.170.32",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "45.95.232.20",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

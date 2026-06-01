@@ -18,12 +18,6 @@
     "org": "ITGLOBAL.COM NL B.V."
   },
   {
-    "ip": "172.98.207.58",
-    "port": 443,
-    "code": "CA",
-    "org": "CENTRILOGICCANADA"
-  },
-  {
     "ip": "204.216.107.15",
     "port": 443,
     "code": "CA",
@@ -78,12 +72,6 @@
     "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
   },
   {
-    "ip": "150.242.90.205",
-    "port": 443,
-    "code": "CA",
-    "org": "IT7 Networks Inc"
-  },
-  {
     "ip": "65.49.232.101",
     "port": 443,
     "code": "CA",
@@ -94,5 +82,17 @@
     "port": 443,
     "code": "CA",
     "org": ""
+  },
+  {
+    "ip": "137.184.168.43",
+    "port": 443,
+    "code": "CA",
+    "org": "Digital Ocean"
+  },
+  {
+    "ip": "157.230.68.193",
+    "port": 443,
+    "code": "CA",
+    "org": "DigitalOcean, LLC"
   }
 ]

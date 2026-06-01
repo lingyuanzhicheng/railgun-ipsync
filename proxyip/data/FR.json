@@ -1008,12 +1008,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "94.131.9.202",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "51.210.151.193",
     "port": 8443,
     "code": "FR",
@@ -1560,18 +1554,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "88.218.76.250",
-    "port": 8443,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
-    "ip": "88.218.76.250",
-    "port": 2053,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
     "ip": "51.91.100.56",
     "port": 8443,
     "code": "FR",
@@ -1828,12 +1810,6 @@
     "port": 443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "193.42.60.128",
-    "port": 443,
-    "code": "FR",
-    "org": "Mo's Operations GmbH"
   },
   {
     "ip": "51.91.254.173",
@@ -2682,12 +2658,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "62.60.153.87",
-    "port": 443,
-    "code": "FR",
-    "org": "NetCrafters OU"
-  },
-  {
     "ip": "62.60.153.148",
     "port": 443,
     "code": "FR",
@@ -2746,5 +2716,23 @@
     "port": 443,
     "code": "FR",
     "org": "RTM GmbH"
+  },
+  {
+    "ip": "145.223.69.87",
+    "port": 443,
+    "code": "FR",
+    "org": ""
+  },
+  {
+    "ip": "185.10.17.137",
+    "port": 443,
+    "code": "FR",
+    "org": "FR NSC Solutions"
+  },
+  {
+    "ip": "2.58.56.125",
+    "port": 443,
+    "code": "FR",
+    "org": "Mifsud Florian"
   }
 ]

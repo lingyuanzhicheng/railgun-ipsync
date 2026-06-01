@@ -96,12 +96,6 @@
     "org": "Domain names registrar REG.RU, Ltd"
   },
   {
-    "ip": "185.211.170.101",
-    "port": 2053,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
     "ip": "89.111.172.106",
     "port": 2053,
     "code": "RU",
@@ -372,12 +366,6 @@
     "org": "\"NetCom-R\" LLC"
   },
   {
-    "ip": "88.210.53.139",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
     "ip": "185.218.0.16",
     "port": 443,
     "code": "RU",
@@ -438,12 +426,6 @@
     "org": "S-INFORM Network"
   },
   {
-    "ip": "185.105.117.222",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "185.170.10.35",
     "port": 443,
     "code": "RU",
@@ -486,28 +468,10 @@
     "org": "Beget LLC"
   },
   {
-    "ip": "89.248.207.37",
-    "port": 443,
-    "code": "RU",
-    "org": "Selectel"
-  },
-  {
-    "ip": "31.129.48.139",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "31.129.49.103",
     "port": 443,
     "code": "RU",
     "org": "Selectel"
-  },
-  {
-    "ip": "95.47.190.252",
-    "port": 443,
-    "code": "RU",
-    "org": "Mikhail Shchurov"
   },
   {
     "ip": "147.45.99.92",
@@ -516,34 +480,16 @@
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "185.125.219.207",
-    "port": 443,
-    "code": "RU",
-    "org": "Ihor Servers"
-  },
-  {
     "ip": "80.87.198.98",
     "port": 443,
     "code": "RU",
     "org": "JSC Datacenter"
   },
   {
-    "ip": "77.73.66.223",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "212.41.15.119",
     "port": 443,
     "code": "RU",
     "org": ""
-  },
-  {
-    "ip": "45.129.2.201",
-    "port": 443,
-    "code": "RU",
-    "org": "iNet Ltd"
   },
   {
     "ip": "178.20.41.204",
@@ -594,12 +540,6 @@
     "org": "JSC IOT"
   },
   {
-    "ip": "88.210.35.66",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
     "ip": "194.87.107.79",
     "port": 443,
     "code": "RU",
@@ -612,22 +552,10 @@
     "org": "Selectel"
   },
   {
-    "ip": "104.128.129.145",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "185.246.217.72",
     "port": 443,
     "code": "RU",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "85.239.60.207",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "185.154.192.200",
@@ -646,5 +574,77 @@
     "port": 443,
     "code": "RU",
     "org": "ROSNET"
+  },
+  {
+    "ip": "79.174.13.53",
+    "port": 443,
+    "code": "RU",
+    "org": "Aoiot"
+  },
+  {
+    "ip": "176.118.214.216",
+    "port": 443,
+    "code": "RU",
+    "org": "OnTelecom LLC"
+  },
+  {
+    "ip": "176.124.200.14",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "194.156.118.127",
+    "port": 443,
+    "code": "RU",
+    "org": "Beget LLC"
+  },
+  {
+    "ip": "91.184.244.230",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "83.217.214.34",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "95.85.240.234",
+    "port": 443,
+    "code": "RU",
+    "org": "Yakovlev Denis Alexandrovich"
+  },
+  {
+    "ip": "79.137.184.183",
+    "port": 443,
+    "code": "RU",
+    "org": "AZERTA.RU Hosting LLC"
+  },
+  {
+    "ip": "31.25.29.199",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC \"Elektronnaya Set\""
+  },
+  {
+    "ip": "185.212.148.65",
+    "port": 443,
+    "code": "RU",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "193.160.209.49",
+    "port": 443,
+    "code": "RU",
+    "org": "Timeweb.Cloud LLC"
+  },
+  {
+    "ip": "217.114.12.143",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC Skynet"
   }
 ]

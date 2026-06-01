@@ -222,9 +222,15 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "141.11.43.124",
+    "ip": "138.2.64.229",
     "port": 443,
     "code": "SG",
-    "org": "Streamline Servers Pty Ltd"
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "45.77.255.153",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
   }
 ]

@@ -108,12 +108,6 @@
     "org": "BREEZLE LLC"
   },
   {
-    "ip": "31.169.126.240",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "77.83.246.133",
     "port": 24443,
     "code": "PL",
@@ -462,12 +456,6 @@
     "org": "Fastwarp LLP"
   },
   {
-    "ip": "217.60.25.191",
-    "port": 443,
-    "code": "PL",
-    "org": "GoldIPv4"
-  },
-  {
     "ip": "138.124.64.13",
     "port": 443,
     "code": "PL",
@@ -510,15 +498,21 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "95.85.254.27",
-    "port": 443,
-    "code": "PL",
-    "org": "1Cent Host"
-  },
-  {
     "ip": "2.59.163.33",
     "port": 443,
     "code": "PL",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "38.180.111.12",
+    "port": 443,
+    "code": "PL",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "78.10.222.98",
+    "port": 443,
+    "code": "PL",
+    "org": "DIALOGNET"
   }
 ]

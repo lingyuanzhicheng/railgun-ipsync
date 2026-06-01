@@ -288,12 +288,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "78.129.185.37",
-    "port": 443,
-    "code": "GB",
-    "org": "IOMART MANAGED SERVICES LIMITED"
-  },
-  {
     "ip": "141.147.85.167",
     "port": 8443,
     "code": "GB",
@@ -756,12 +750,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "18.133.198.66",
-    "port": 443,
-    "code": "GB",
-    "org": "Amazon Data Services UK"
-  },
-  {
     "ip": "57.128.181.82",
     "port": 8443,
     "code": "GB",
@@ -880,12 +868,6 @@
     "port": 443,
     "code": "GB",
     "org": "Baxet Group Inc."
-  },
-  {
-    "ip": "78.129.184.87",
-    "port": 443,
-    "code": "GB",
-    "org": "Rapidswitch"
   },
   {
     "ip": "57.128.177.218",
@@ -2472,12 +2454,6 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "78.129.253.133",
-    "port": 443,
-    "code": "GB",
-    "org": "Eli Lilly and Company Limited"
-  },
-  {
     "ip": "45.89.111.20",
     "port": 443,
     "code": "GB",
@@ -2538,12 +2514,6 @@
     "org": "Xantho UAB"
   },
   {
-    "ip": "78.129.253.115",
-    "port": 443,
-    "code": "GB",
-    "org": "Eli Lilly and Company Limited"
-  },
-  {
     "ip": "78.129.165.129",
     "port": 443,
     "code": "GB",
@@ -2560,12 +2530,6 @@
     "port": 443,
     "code": "GB",
     "org": "Vultr Holdings LLC London"
-  },
-  {
-    "ip": "91.227.62.149",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
   },
   {
     "ip": "140.235.74.26",
@@ -2587,6 +2551,24 @@
   },
   {
     "ip": "185.217.110.23",
+    "port": 443,
+    "code": "GB",
+    "org": "Kirino LLC"
+  },
+  {
+    "ip": "89.125.196.212",
+    "port": 443,
+    "code": "GB",
+    "org": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "185.132.39.46",
+    "port": 443,
+    "code": "GB",
+    "org": "Fasthosts Internet Limited"
+  },
+  {
+    "ip": "185.212.62.204",
     "port": 443,
     "code": "GB",
     "org": "Kirino LLC"

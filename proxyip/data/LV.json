@@ -96,18 +96,6 @@
     "org": "Sia Nano IT"
   },
   {
-    "ip": "31.128.32.98",
-    "port": 443,
-    "code": "LV",
-    "org": "Beget LLC"
-  },
-  {
-    "ip": "31.128.33.253",
-    "port": 443,
-    "code": "LV",
-    "org": "Beget LLC"
-  },
-  {
     "ip": "178.248.75.57",
     "port": 443,
     "code": "LV",
@@ -142,12 +130,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "45.133.216.88",
-    "port": 8443,
-    "code": "LV",
-    "org": "FreeNet L.L.C-FZ"
   },
   {
     "ip": "5.34.209.231",
@@ -346,5 +328,17 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
+  },
+  {
+    "ip": "46.21.80.141",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "213.155.12.173",
+    "port": 443,
+    "code": "LV",
+    "org": "Vdska LV1"
   }
 ]

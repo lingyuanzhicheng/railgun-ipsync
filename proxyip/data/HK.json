@@ -1,11 +1,5 @@
 [
   {
-    "ip": "103.219.194.43",
-    "port": 443,
-    "code": "HK",
-    "org": "Bage Cloud LLC"
-  },
-  {
     "ip": "156.230.12.71",
     "port": 443,
     "code": "HK",
@@ -66,18 +60,6 @@
     "org": "6 COLLYER QUAY"
   },
   {
-    "ip": "8.223.63.150",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
-    "ip": "8.223.63.189",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
     "ip": "47.239.4.246",
     "port": 443,
     "code": "HK",
@@ -132,12 +114,6 @@
     "org": ""
   },
   {
-    "ip": "47.243.183.61",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba Cloud - HK"
-  },
-  {
     "ip": "124.244.50.35",
     "port": 443,
     "code": "HK",
@@ -156,27 +132,39 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "47.239.189.60",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba Cloud - HK"
-  },
-  {
     "ip": "103.219.193.123",
     "port": 443,
     "code": "HK",
     "org": "Bage Cloud LLC"
   },
   {
-    "ip": "154.44.27.15",
-    "port": 443,
-    "code": "HK",
-    "org": "NetLab Global"
-  },
-  {
     "ip": "154.38.116.8",
     "port": 443,
     "code": "HK",
     "org": "Hong Kong Communications International Co., Limited"
+  },
+  {
+    "ip": "123.254.106.203",
+    "port": 443,
+    "code": "HK",
+    "org": "Cloudie Limited"
+  },
+  {
+    "ip": "43.154.131.189",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "43.248.10.72",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Alpha Intl LTD"
+  },
+  {
+    "ip": "38.190.210.250",
+    "port": 443,
+    "code": "HK",
+    "org": "Solustack Limited"
   }
 ]
