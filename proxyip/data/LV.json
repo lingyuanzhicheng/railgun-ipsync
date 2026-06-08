@@ -6,12 +6,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "46.32.187.228",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "94.158.218.48",
     "port": 443,
     "code": "LV",
@@ -28,12 +22,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "45.133.216.245",
-    "port": 8443,
-    "code": "LV",
-    "org": "FreeNet L.L.C-FZ"
   },
   {
     "ip": "84.21.172.81",
@@ -121,12 +109,6 @@
   },
   {
     "ip": "5.34.211.94",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "216.173.70.192",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
@@ -324,12 +306,6 @@
     "org": "WorkTitans B.V"
   },
   {
-    "ip": "195.135.253.164",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "46.21.80.141",
     "port": 443,
     "code": "LV",
@@ -340,5 +316,23 @@
     "port": 443,
     "code": "LV",
     "org": "Vdska LV1"
+  },
+  {
+    "ip": "94.158.219.126",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "213.21.222.117",
+    "port": 443,
+    "code": "LV",
+    "org": "Versija SIA"
+  },
+  {
+    "ip": "185.113.139.65",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
   }
 ]

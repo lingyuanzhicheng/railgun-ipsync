@@ -12,12 +12,6 @@
     "org": "OVH"
   },
   {
-    "ip": "141.94.220.210",
-    "port": 443,
-    "code": "FR",
-    "org": "OVH"
-  },
-  {
     "ip": "152.228.134.60",
     "port": 443,
     "code": "FR",
@@ -1024,12 +1018,6 @@
     "port": 2053,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "94.131.9.241",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "51.178.141.36",
@@ -2676,12 +2664,6 @@
     "org": "Cloud Backbone"
   },
   {
-    "ip": "144.24.200.164",
-    "port": 443,
-    "code": "FR",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "51.91.253.57",
     "port": 443,
     "code": "FR",
@@ -2692,12 +2674,6 @@
     "port": 443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "94.131.118.92",
-    "port": 443,
-    "code": "FR",
-    "org": "WorkTitans B.V"
   },
   {
     "ip": "37.60.232.144",
@@ -2734,5 +2710,23 @@
     "port": 443,
     "code": "FR",
     "org": "Mifsud Florian"
+  },
+  {
+    "ip": "163.172.157.35",
+    "port": 443,
+    "code": "FR",
+    "org": "ONLINE"
+  },
+  {
+    "ip": "2.27.169.61",
+    "port": 443,
+    "code": "FR",
+    "org": "Ipxo"
+  },
+  {
+    "ip": "2.27.169.216",
+    "port": 443,
+    "code": "FR",
+    "org": "Ipxo"
   }
 ]

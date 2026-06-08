@@ -180,18 +180,6 @@
     "org": "JSC TIMEWEB"
   },
   {
-    "ip": "46.229.212.218",
-    "port": 2053,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
-    "ip": "46.229.212.218",
-    "port": 8443,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
     "ip": "217.18.60.228",
     "port": 443,
     "code": "RU",
@@ -240,22 +228,10 @@
     "org": "TW Cloud"
   },
   {
-    "ip": "2.59.42.215",
-    "port": 443,
-    "code": "RU",
-    "org": "TimeWeb Ltd"
-  },
-  {
     "ip": "45.90.218.109",
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "93.77.177.164",
-    "port": 443,
-    "code": "RU",
-    "org": "Yandex.Cloud LLC"
   },
   {
     "ip": "103.113.68.210",
@@ -414,12 +390,6 @@
     "org": ""
   },
   {
-    "ip": "93.183.71.229",
-    "port": 443,
-    "code": "RU",
-    "org": "ZTV Corp"
-  },
-  {
     "ip": "92.241.18.106",
     "port": 443,
     "code": "RU",
@@ -448,12 +418,6 @@
     "port": 443,
     "code": "RU",
     "org": "Beget LLC"
-  },
-  {
-    "ip": "85.239.58.104",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "89.169.4.156",
@@ -508,12 +472,6 @@
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
-  },
-  {
-    "ip": "217.25.220.208",
-    "port": 443,
-    "code": "RU",
-    "org": "Omskie kabelnye seti Ltd."
   },
   {
     "ip": "91.184.247.38",
@@ -646,5 +604,23 @@
     "port": 443,
     "code": "RU",
     "org": "LLC Skynet"
+  },
+  {
+    "ip": "95.47.190.252",
+    "port": 443,
+    "code": "RU",
+    "org": "Mikhail Shchurov"
+  },
+  {
+    "ip": "77.73.66.223",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "45.129.2.201",
+    "port": 443,
+    "code": "RU",
+    "org": "iNet Ltd"
   }
 ]

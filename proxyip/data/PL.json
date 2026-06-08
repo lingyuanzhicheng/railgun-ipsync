@@ -456,12 +456,6 @@
     "org": "Fastwarp LLP"
   },
   {
-    "ip": "138.124.64.13",
-    "port": 443,
-    "code": "PL",
-    "org": ""
-  },
-  {
     "ip": "81.90.17.57",
     "port": 443,
     "code": "PL",
@@ -478,18 +472,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
-  },
-  {
-    "ip": "77.83.246.88",
-    "port": 443,
-    "code": "PL",
-    "org": "Global Internet Solutions LLC"
   },
   {
     "ip": "91.149.253.249",
@@ -514,5 +496,11 @@
     "port": 443,
     "code": "PL",
     "org": "DIALOGNET"
+  },
+  {
+    "ip": "95.85.254.27",
+    "port": 443,
+    "code": "PL",
+    "org": "1Cent Host"
   }
 ]

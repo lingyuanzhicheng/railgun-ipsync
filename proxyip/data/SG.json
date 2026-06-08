@@ -54,12 +54,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "146.235.19.79",
-    "port": 28983,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "138.2.89.238",
     "port": 43254,
     "code": "SG",
@@ -102,12 +96,6 @@
     "org": "Amazon Technologies Inc."
   },
   {
-    "ip": "104.248.145.216",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "146.235.18.248",
     "port": 45137,
     "code": "SG",
@@ -130,12 +118,6 @@
     "port": 1443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "8.219.195.31",
-    "port": 443,
-    "code": "SG",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
     "ip": "157.230.244.86",
@@ -232,5 +214,29 @@
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "13.250.131.37",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "43.134.174.114",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "139.180.222.3",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "141.11.43.124",
+    "port": 443,
+    "code": "SG",
+    "org": "Streamline Servers Pty Ltd"
   }
 ]

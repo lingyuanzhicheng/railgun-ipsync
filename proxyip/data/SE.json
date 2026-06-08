@@ -120,22 +120,10 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "16.16.45.85",
-    "port": 8443,
-    "code": "SE",
-    "org": "Amazon Data Services Sweden"
-  },
-  {
     "ip": "45.80.231.240",
     "port": 8443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "16.16.45.85",
-    "port": 2053,
-    "code": "SE",
-    "org": "Amazon Data Services Sweden"
   },
   {
     "ip": "77.110.97.230",
@@ -277,12 +265,6 @@
   },
   {
     "ip": "109.120.134.216",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "109.120.135.100",
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
@@ -552,12 +534,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "213.21.251.234",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "46.226.164.173",
     "port": 443,
     "code": "SE",
@@ -594,12 +570,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "13.53.54.165",
-    "port": 443,
-    "code": "SE",
-    "org": "AWS EC2 (eu-north-1)"
-  },
-  {
     "ip": "172.232.149.77",
     "port": 443,
     "code": "SE",
@@ -634,12 +604,6 @@
     "port": 443,
     "code": "SE",
     "org": "NetCrafters OU"
-  },
-  {
-    "ip": "109.120.133.252",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "188.126.76.3",
@@ -708,12 +672,6 @@
     "org": "Servers Tech Fzco"
   },
   {
-    "ip": "62.182.199.47",
-    "port": 443,
-    "code": "SE",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "89.22.229.126",
     "port": 443,
     "code": "SE",
@@ -730,12 +688,6 @@
     "port": 443,
     "code": "SE",
     "org": "node-hosting"
-  },
-  {
-    "ip": "147.45.73.148",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "77.221.138.225",
@@ -772,11 +724,5 @@
     "port": 443,
     "code": "SE",
     "org": "Servers Tech Fzco"
-  },
-  {
-    "ip": "213.21.229.174",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
   }
 ]
