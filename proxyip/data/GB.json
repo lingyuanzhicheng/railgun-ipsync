@@ -426,12 +426,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "104.194.140.98",
-    "port": 2053,
-    "code": "GB",
-    "org": "RouterHosting LLC"
-  },
-  {
     "ip": "57.128.183.77",
     "port": 8443,
     "code": "GB",
@@ -576,22 +570,10 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "104.194.140.98",
-    "port": 8443,
-    "code": "GB",
-    "org": "RouterHosting LLC"
-  },
-  {
     "ip": "57.128.183.248",
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
-  },
-  {
-    "ip": "104.238.170.163",
-    "port": 2053,
-    "code": "GB",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "57.129.137.218",
@@ -886,12 +868,6 @@
     "port": 443,
     "code": "GB",
     "org": "BG-NETWORK"
-  },
-  {
-    "ip": "147.45.179.237",
-    "port": 443,
-    "code": "GB",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "57.129.137.52",
@@ -1428,12 +1404,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "51.89.224.186",
-    "port": 8443,
-    "code": "GB",
-    "org": "OVH Ltd"
-  },
-  {
     "ip": "57.129.137.202",
     "port": 8443,
     "code": "GB",
@@ -1627,12 +1597,6 @@
   },
   {
     "ip": "57.128.179.111",
-    "port": 8443,
-    "code": "GB",
-    "org": "OVH Ltd"
-  },
-  {
-    "ip": "57.128.165.222",
     "port": 8443,
     "code": "GB",
     "org": "OVH Ltd"
@@ -2388,12 +2352,6 @@
     "org": "IONOS SE"
   },
   {
-    "ip": "64.176.186.194",
-    "port": 443,
-    "code": "GB",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "91.227.62.50",
     "port": 443,
     "code": "GB",
@@ -2518,5 +2476,65 @@
     "port": 443,
     "code": "GB",
     "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "31.76.251.29",
+    "port": 443,
+    "code": "GB",
+    "org": "EE Limited"
+  },
+  {
+    "ip": "82.152.213.126",
+    "port": 443,
+    "code": "GB",
+    "org": "GCI Network Solutions Limited"
+  },
+  {
+    "ip": "82.152.213.127",
+    "port": 443,
+    "code": "GB",
+    "org": "GCI Network Solutions Limited"
+  },
+  {
+    "ip": "151.243.183.9",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "151.243.183.11",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "151.243.183.49",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "151.243.183.90",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "151.243.183.189",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "151.243.183.191",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "185.122.167.228",
+    "port": 443,
+    "code": "GB",
+    "org": "MassiveGRID"
   }
 ]

@@ -204,12 +204,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "141.148.153.223",
-    "port": 36818,
-    "code": "US",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "141.148.181.105",
     "port": 38945,
     "code": "US",
@@ -232,12 +226,6 @@
     "port": 8443,
     "code": "US",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "47.88.15.127",
-    "port": 443,
-    "code": "US",
-    "org": "Alibaba Cloud - US"
   },
   {
     "ip": "47.253.87.21",
@@ -354,28 +342,10 @@
     "org": "Hurricane Electric LLC"
   },
   {
-    "ip": "154.17.225.73",
-    "port": 443,
-    "code": "US",
-    "org": "DMIT Cloud Services"
-  },
-  {
     "ip": "134.209.166.201",
     "port": 2053,
     "code": "US",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "38.146.27.51",
-    "port": 443,
-    "code": "US",
-    "org": "UltaHost"
-  },
-  {
-    "ip": "184.169.181.217",
-    "port": 443,
-    "code": "US",
-    "org": "Amazon.com, Inc."
   },
   {
     "ip": "18.222.50.18",
@@ -502,12 +472,6 @@
     "port": 443,
     "code": "US",
     "org": "F5 Networks SARL"
-  },
-  {
-    "ip": "192.227.237.81",
-    "port": 443,
-    "code": "US",
-    "org": "HostPapa"
   },
   {
     "ip": "172.93.46.36",
@@ -984,12 +948,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "107.173.254.105",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "107.175.209.186",
     "port": 443,
     "code": "US",
@@ -1056,12 +1014,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "166.1.60.137",
-    "port": 443,
-    "code": "US",
-    "org": "IB Compute Systems Inc"
-  },
-  {
     "ip": "149.28.56.202",
     "port": 443,
     "code": "US",
@@ -1098,22 +1050,10 @@
     "org": ""
   },
   {
-    "ip": "216.180.125.171",
-    "port": 443,
-    "code": "US",
-    "org": "Host4nerd LLC"
-  },
-  {
     "ip": "143.47.96.200",
     "port": 443,
     "code": "US",
     "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
-  },
-  {
-    "ip": "107.175.183.121",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "163.192.47.170",
@@ -1278,12 +1218,6 @@
     "org": "HostPapa"
   },
   {
-    "ip": "107.173.15.138",
-    "port": 443,
-    "code": "US",
-    "org": "MPServ"
-  },
-  {
     "ip": "185.106.95.125",
     "port": 443,
     "code": "US",
@@ -1380,12 +1314,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "38.146.28.146",
-    "port": 443,
-    "code": "US",
-    "org": ""
-  },
-  {
     "ip": "45.61.150.169",
     "port": 443,
     "code": "US",
@@ -1432,12 +1360,6 @@
     "port": 443,
     "code": "US",
     "org": "Code 200, UAB"
-  },
-  {
-    "ip": "38.244.24.6",
-    "port": 443,
-    "code": "US",
-    "org": "NetLab"
   },
   {
     "ip": "72.249.204.157",
@@ -1566,12 +1488,6 @@
     "org": "TELUS Communications Inc"
   },
   {
-    "ip": "206.223.84.247",
-    "port": 443,
-    "code": "US",
-    "org": "Atlantic Cellular Management Company"
-  },
-  {
     "ip": "139.60.162.211",
     "port": 443,
     "code": "US",
@@ -1608,12 +1524,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "104.168.88.177",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "96.44.177.208",
     "port": 443,
     "code": "US",
@@ -1632,12 +1542,6 @@
     "org": "Global Cloud Line"
   },
   {
-    "ip": "38.207.171.182",
-    "port": 443,
-    "code": "US",
-    "org": "NetLab Global"
-  },
-  {
     "ip": "38.207.169.105",
     "port": 443,
     "code": "US",
@@ -1650,15 +1554,243 @@
     "org": "NetLab Global"
   },
   {
-    "ip": "146.19.167.192",
-    "port": 443,
-    "code": "US",
-    "org": "MB \"Ipumanija\""
-  },
-  {
     "ip": "192.9.157.76",
     "port": 443,
     "code": "US",
     "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
+  },
+  {
+    "ip": "35.197.23.75",
+    "port": 443,
+    "code": "US",
+    "org": "Google Cloud (us-west1)"
+  },
+  {
+    "ip": "107.173.248.16",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.172.190.151",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "104.223.54.68",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "107.173.87.103",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.94.43.51",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "35.230.79.26",
+    "port": 443,
+    "code": "US",
+    "org": "Google Cloud (us-west1)"
+  },
+  {
+    "ip": "107.172.87.247",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.175.194.31",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.94.103.194",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "192.161.163.105",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "107.174.85.164",
+    "port": 443,
+    "code": "US",
+    "org": "ColoCrossing"
+  },
+  {
+    "ip": "103.99.178.14",
+    "port": 443,
+    "code": "US",
+    "org": "Host EDU Private Limited"
+  },
+  {
+    "ip": "129.213.150.222",
+    "port": 443,
+    "code": "US",
+    "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
+  },
+  {
+    "ip": "38.75.221.206",
+    "port": 443,
+    "code": "US",
+    "org": "Code 200, UAB"
+  },
+  {
+    "ip": "38.105.28.250",
+    "port": 443,
+    "code": "US",
+    "org": "Aiyun Communications LLC"
+  },
+  {
+    "ip": "45.61.148.34",
+    "port": 443,
+    "code": "US",
+    "org": "FranTech Solutions"
+  },
+  {
+    "ip": "69.12.74.137",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "78.111.88.107",
+    "port": 443,
+    "code": "US",
+    "org": ""
+  },
+  {
+    "ip": "107.172.87.42",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.174.40.115",
+    "port": 443,
+    "code": "US",
+    "org": "ColoCrossing"
+  },
+  {
+    "ip": "128.199.0.28",
+    "port": 443,
+    "code": "US",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "134.199.142.254",
+    "port": 443,
+    "code": "US",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "154.64.235.210",
+    "port": 443,
+    "code": "US",
+    "org": "Cogent Communications"
+  },
+  {
+    "ip": "192.3.212.40",
+    "port": 443,
+    "code": "US",
+    "org": ""
+  },
+  {
+    "ip": "192.204.41.127",
+    "port": 443,
+    "code": "US",
+    "org": "NTT DATA"
+  },
+  {
+    "ip": "216.167.68.73",
+    "port": 443,
+    "code": "US",
+    "org": "NTT America, Inc"
+  },
+  {
+    "ip": "2.26.5.52",
+    "port": 443,
+    "code": "US",
+    "org": "Ace Data Centers II, LLC"
+  },
+  {
+    "ip": "2.26.55.79",
+    "port": 443,
+    "code": "US",
+    "org": "Ace Data Centers II, LLC"
+  },
+  {
+    "ip": "186.246.45.92",
+    "port": 443,
+    "code": "US",
+    "org": "Globenet Cabos Submarinos America Inc"
+  },
+  {
+    "ip": "46.202.61.45",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.50",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.53",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.55",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.63",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.65",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.66",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.72",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
+  },
+  {
+    "ip": "46.202.61.121",
+    "port": 443,
+    "code": "US",
+    "org": "JSC \"Ukrtelecom\""
   }
 ]

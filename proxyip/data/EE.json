@@ -126,12 +126,6 @@
     "org": "Brainoza OU"
   },
   {
-    "ip": "69.12.83.134",
-    "port": 443,
-    "code": "EE",
-    "org": "HostPapa"
-  },
-  {
     "ip": "38.180.248.167",
     "port": 8443,
     "code": "EE",
@@ -190,5 +184,11 @@
     "port": 443,
     "code": "EE",
     "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "95.85.245.89",
+    "port": 443,
+    "code": "EE",
+    "org": "1Cent Host"
   }
 ]

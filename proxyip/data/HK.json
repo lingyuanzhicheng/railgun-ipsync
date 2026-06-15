@@ -1,17 +1,5 @@
 [
   {
-    "ip": "156.230.12.71",
-    "port": 443,
-    "code": "HK",
-    "org": "263 Global Communication Limited"
-  },
-  {
-    "ip": "2.56.91.89",
-    "port": 8443,
-    "code": "HK",
-    "org": "ihc.hk vps in Hong Kong"
-  },
-  {
     "ip": "8.210.96.197",
     "port": 12902,
     "code": "HK",
@@ -24,22 +12,10 @@
     "org": "Alibaba Cloud - HK"
   },
   {
-    "ip": "192.131.142.161",
-    "port": 46639,
-    "code": "HK",
-    "org": "LEASEWEB HONG KONG LIMITED"
-  },
-  {
     "ip": "141.11.91.67",
     "port": 8080,
     "code": "HK",
     "org": "HYTRON NETWORK HK"
-  },
-  {
-    "ip": "2.56.91.89",
-    "port": 2053,
-    "code": "HK",
-    "org": "ihc.hk vps in Hong Kong"
   },
   {
     "ip": "43.154.124.136",
@@ -108,12 +84,6 @@
     "org": "Hong Kong Broadband Network Ltd"
   },
   {
-    "ip": "74.119.193.221",
-    "port": 443,
-    "code": "HK",
-    "org": "WorkTitans B.V"
-  },
-  {
     "ip": "103.219.193.123",
     "port": 443,
     "code": "HK",
@@ -124,12 +94,6 @@
     "port": 443,
     "code": "HK",
     "org": "Hong Kong Communications International Co., Limited"
-  },
-  {
-    "ip": "123.254.106.203",
-    "port": 443,
-    "code": "HK",
-    "org": "Cloudie Limited"
   },
   {
     "ip": "43.154.131.189",
@@ -148,5 +112,47 @@
     "port": 443,
     "code": "HK",
     "org": "Alibaba.com LLC"
+  },
+  {
+    "ip": "38.190.210.250",
+    "port": 443,
+    "code": "HK",
+    "org": "Solustack Limited"
+  },
+  {
+    "ip": "222.167.217.43",
+    "port": 443,
+    "code": "HK",
+    "org": "PEG TECH INC"
+  },
+  {
+    "ip": "109.121.39.70",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "209.33.160.242",
+    "port": 443,
+    "code": "HK",
+    "org": "Bage Cloud LLC"
+  },
+  {
+    "ip": "23.156.153.57",
+    "port": 443,
+    "code": "HK",
+    "org": "ZYC Network LLC"
+  },
+  {
+    "ip": "45.149.92.150",
+    "port": 443,
+    "code": "HK",
+    "org": ""
+  },
+  {
+    "ip": "64.90.12.218",
+    "port": 443,
+    "code": "HK",
+    "org": "NetLab Global"
   }
 ]

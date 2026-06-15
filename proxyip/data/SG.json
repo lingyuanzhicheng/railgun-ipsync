@@ -1,11 +1,5 @@
 [
   {
-    "ip": "168.138.165.174",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "178.128.86.3",
     "port": 443,
     "code": "SG",
@@ -198,22 +192,10 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "167.172.95.164",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "138.2.64.229",
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "45.77.255.153",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "13.250.131.37",
@@ -228,15 +210,15 @@
     "org": ""
   },
   {
-    "ip": "139.180.222.3",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "141.11.43.124",
     "port": 443,
     "code": "SG",
     "org": "Streamline Servers Pty Ltd"
+  },
+  {
+    "ip": "8.219.195.31",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   }
 ]

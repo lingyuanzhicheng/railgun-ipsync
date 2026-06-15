@@ -282,12 +282,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "45.148.102.70",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "38.244.145.50",
     "port": 443,
     "code": "CH",
@@ -378,12 +372,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "179.43.176.195",
-    "port": 443,
-    "code": "CH",
-    "org": "Private Layer Inc"
-  },
-  {
     "ip": "45.143.200.141",
     "port": 443,
     "code": "CH",
@@ -406,5 +394,29 @@
     "port": 443,
     "code": "CH",
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "213.176.18.42",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "87.120.222.125",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "186.190.215.78",
+    "port": 443,
+    "code": "CH",
+    "org": "objx.net"
+  },
+  {
+    "ip": "82.38.135.128",
+    "port": 443,
+    "code": "CH",
+    "org": "Hostkey B.V"
   }
 ]

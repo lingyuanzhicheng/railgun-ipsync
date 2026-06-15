@@ -66,12 +66,6 @@
     "org": "Baxet Group Inc."
   },
   {
-    "ip": "94.131.123.173",
-    "port": 443,
-    "code": "TR",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "188.132.232.192",
     "port": 2053,
     "code": "TR",
@@ -84,15 +78,15 @@
     "org": "WorkTitans B.V."
   },
   {
-    "ip": "45.67.202.36",
-    "port": 443,
-    "code": "TR",
-    "org": "Turkcell Iletisim Hizmetleri"
-  },
-  {
     "ip": "94.141.97.10",
     "port": 443,
     "code": "TR",
     "org": "SP3 Itglobal"
+  },
+  {
+    "ip": "193.106.196.250",
+    "port": 443,
+    "code": "TR",
+    "org": "Turkcell Iletisim Hizmetleri"
   }
 ]
