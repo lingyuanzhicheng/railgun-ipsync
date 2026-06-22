@@ -288,12 +288,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "141.147.85.167",
-    "port": 8443,
-    "code": "GB",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "57.128.183.40",
     "port": 8443,
     "code": "GB",
@@ -2484,57 +2478,21 @@
     "org": "EE Limited"
   },
   {
-    "ip": "82.152.213.126",
-    "port": 443,
-    "code": "GB",
-    "org": "GCI Network Solutions Limited"
-  },
-  {
-    "ip": "82.152.213.127",
-    "port": 443,
-    "code": "GB",
-    "org": "GCI Network Solutions Limited"
-  },
-  {
-    "ip": "151.243.183.9",
-    "port": 443,
-    "code": "GB",
-    "org": ""
-  },
-  {
-    "ip": "151.243.183.11",
-    "port": 443,
-    "code": "GB",
-    "org": ""
-  },
-  {
-    "ip": "151.243.183.49",
-    "port": 443,
-    "code": "GB",
-    "org": ""
-  },
-  {
-    "ip": "151.243.183.90",
-    "port": 443,
-    "code": "GB",
-    "org": ""
-  },
-  {
-    "ip": "151.243.183.189",
-    "port": 443,
-    "code": "GB",
-    "org": ""
-  },
-  {
-    "ip": "151.243.183.191",
-    "port": 443,
-    "code": "GB",
-    "org": ""
-  },
-  {
     "ip": "185.122.167.228",
     "port": 443,
     "code": "GB",
     "org": "MassiveGRID"
+  },
+  {
+    "ip": "147.45.179.237",
+    "port": 443,
+    "code": "GB",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "104.194.146.86",
+    "port": 443,
+    "code": "GB",
+    "org": "RouterHosting LLC"
   }
 ]

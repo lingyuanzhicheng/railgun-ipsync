@@ -84,12 +84,6 @@
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
-    "ip": "38.180.84.86",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "91.245.225.79",
     "port": 8443,
     "code": "CH",
@@ -282,12 +276,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "38.244.145.50",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "87.120.222.39",
     "port": 443,
     "code": "CH",
@@ -418,5 +406,11 @@
     "port": 443,
     "code": "CH",
     "org": "Hostkey B.V"
+  },
+  {
+    "ip": "141.227.150.38",
+    "port": 443,
+    "code": "CH",
+    "org": "OVH CH"
   }
 ]

@@ -18,12 +18,6 @@
     "org": "Oracle Corporation , Global software solutions , California , USA"
   },
   {
-    "ip": "211.48.77.114",
-    "port": 12312,
-    "code": "KR",
-    "org": "Korea Telecom"
-  },
-  {
     "ip": "217.142.138.61",
     "port": 37914,
     "code": "KR",
@@ -76,12 +70,6 @@
     "port": 7777,
     "code": "KR",
     "org": "Cloudflare London, LLC"
-  },
-  {
-    "ip": "158.180.72.60",
-    "port": 443,
-    "code": "KR",
-    "org": "oracle"
   },
   {
     "ip": "132.226.21.116",
@@ -186,12 +174,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "130.162.132.38",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "146.56.180.103",
     "port": 443,
     "code": "KR",
@@ -240,15 +222,27 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "168.110.113.248",
+    "ip": "211.49.57.161",
+    "port": 443,
+    "code": "KR",
+    "org": "broadNnet"
+  },
+  {
+    "ip": "64.110.75.145",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "144.24.68.111",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   },
   {
-    "ip": "211.49.57.161",
+    "ip": "152.67.210.234",
     "port": 443,
     "code": "KR",
-    "org": "broadNnet"
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   }
 ]

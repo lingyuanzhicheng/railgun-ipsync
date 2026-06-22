@@ -108,12 +108,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "138.2.78.38",
-    "port": 1443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "157.230.244.86",
     "port": 443,
     "code": "SG",
@@ -130,12 +124,6 @@
     "port": 443,
     "code": "SG",
     "org": "Alibaba.com LLC"
-  },
-  {
-    "ip": "149.28.159.222",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "43.160.195.223",
@@ -198,12 +186,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "43.134.174.114",
     "port": 443,
     "code": "SG",
@@ -220,5 +202,17 @@
     "port": 443,
     "code": "SG",
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "168.138.165.174",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Public Cloud"
+  },
+  {
+    "ip": "52.230.95.97",
+    "port": 443,
+    "code": "SG",
+    "org": "Microsoft Azure Cloud (southeastasia)"
   }
 ]

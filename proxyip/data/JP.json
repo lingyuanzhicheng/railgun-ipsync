@@ -60,12 +60,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "168.138.198.7",
-    "port": 27560,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "103.106.228.126",
     "port": 2053,
     "code": "JP",
@@ -76,12 +70,6 @@
     "port": 45638,
     "code": "JP",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "8.216.121.234",
-    "port": 51922,
-    "code": "JP",
-    "org": "Alibaba Cloud (Singapore) Private Limited"
   },
   {
     "ip": "138.2.32.76",
@@ -132,12 +120,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "158.101.146.3",
-    "port": 54516,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "139.162.102.152",
     "port": 7002,
     "code": "JP",
@@ -184,18 +166,6 @@
     "port": 22735,
     "code": "JP",
     "org": "imported inetnum object for OCPL-1"
-  },
-  {
-    "ip": "140.83.83.65",
-    "port": 9872,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
-    "ip": "158.101.146.3",
-    "port": 44872,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "141.147.183.49",
@@ -276,12 +246,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "64.176.54.102",
-    "port": 443,
-    "code": "JP",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "172.235.211.171",
     "port": 443,
     "code": "JP",
@@ -300,52 +264,10 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "47.79.94.192",
-    "port": 443,
-    "code": "JP",
-    "org": "Alibaba.com LLC"
-  },
-  {
     "ip": "38.47.105.76",
     "port": 443,
     "code": "JP",
     "org": "VMISS Inc"
-  },
-  {
-    "ip": "64.110.101.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "155.248.181.189",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "38.207.130.136",
-    "port": 443,
-    "code": "JP",
-    "org": "Akile LTD"
-  },
-  {
-    "ip": "153.121.76.150",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
-    "ip": "154.36.155.155",
-    "port": 443,
-    "code": "JP",
-    "org": "NetLab Global"
-  },
-  {
-    "ip": "154.36.186.28",
-    "port": 443,
-    "code": "JP",
-    "org": "NetLab Global"
   },
   {
     "ip": "160.16.57.18",
@@ -412,5 +334,17 @@
     "port": 443,
     "code": "JP",
     "org": "SAKURA"
+  },
+  {
+    "ip": "138.3.214.171",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "8.211.167.113",
+    "port": 443,
+    "code": "JP",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   }
 ]

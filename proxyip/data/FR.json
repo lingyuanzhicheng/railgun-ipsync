@@ -390,12 +390,6 @@
     "org": "Blockchain Games N.V."
   },
   {
-    "ip": "135.125.123.246",
-    "port": 5432,
-    "code": "FR",
-    "org": "OVH SAS"
-  },
-  {
     "ip": "51.91.250.152",
     "port": 8443,
     "code": "FR",
@@ -2508,12 +2502,6 @@
     "org": "ITINSELL SaRL"
   },
   {
-    "ip": "62.60.246.98",
-    "port": 443,
-    "code": "FR",
-    "org": "RTM GmbH"
-  },
-  {
     "ip": "51.178.27.222",
     "port": 443,
     "code": "FR",
@@ -2658,12 +2646,6 @@
     "org": "OVH"
   },
   {
-    "ip": "37.60.232.144",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
-  },
-  {
     "ip": "94.183.188.150",
     "port": 443,
     "code": "FR",
@@ -2692,12 +2674,6 @@
     "port": 443,
     "code": "FR",
     "org": "Mifsud Florian"
-  },
-  {
-    "ip": "163.172.157.35",
-    "port": 443,
-    "code": "FR",
-    "org": "ONLINE"
   },
   {
     "ip": "2.27.169.61",
@@ -2764,5 +2740,41 @@
     "port": 443,
     "code": "FR",
     "org": "Ipxo"
+  },
+  {
+    "ip": "212.113.121.197",
+    "port": 443,
+    "code": "FR",
+    "org": "TimeWeb Ltd"
+  },
+  {
+    "ip": "185.234.100.241",
+    "port": 443,
+    "code": "FR",
+    "org": "Jogcorp"
+  },
+  {
+    "ip": "46.8.225.124",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "51.91.253.245",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "82.70.234.100",
+    "port": 443,
+    "code": "FR",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "147.90.14.132",
+    "port": 443,
+    "code": "FR",
+    "org": "Hostkey B.V"
   }
 ]

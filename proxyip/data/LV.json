@@ -168,12 +168,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "91.197.3.157",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "185.82.126.216",
     "port": 2053,
     "code": "LV",
@@ -264,12 +258,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "217.60.2.69",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "46.21.80.141",
     "port": 443,
     "code": "LV",
@@ -340,5 +328,23 @@
     "port": 443,
     "code": "LV",
     "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "188.253.19.40",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "31.56.27.128",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "213.139.229.211",
+    "port": 443,
+    "code": "LV",
+    "org": "Beget LLC"
   }
 ]
