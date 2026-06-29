@@ -48,18 +48,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "212.113.102.199",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.221.143.56",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "45.82.80.96",
     "port": 443,
     "code": "SE",
@@ -67,12 +55,6 @@
   },
   {
     "ip": "91.186.217.193",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "77.221.143.56",
     "port": 8443,
     "code": "SE",
     "org": "Aeza International LTD"
@@ -162,12 +144,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "78.40.117.10",
-    "port": 2053,
-    "code": "SE",
-    "org": "ALEXHOST SRL"
-  },
-  {
     "ip": "41.216.182.105",
     "port": 443,
     "code": "SE",
@@ -240,12 +216,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "212.113.102.199",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "147.45.76.29",
     "port": 443,
     "code": "SE",
@@ -310,12 +280,6 @@
     "port": 2053,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "91.186.219.143",
-    "port": 2053,
-    "code": "SE",
-    "org": "Smart Digital Ideas DOO"
   },
   {
     "ip": "62.60.149.222",
@@ -388,12 +352,6 @@
     "port": 443,
     "code": "SE",
     "org": "Play2go International Limited"
-  },
-  {
-    "ip": "91.223.169.74",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudwebmanage EU ST"
   },
   {
     "ip": "142.111.244.42",
@@ -570,12 +528,6 @@
     "org": "Vultr"
   },
   {
-    "ip": "89.22.235.215",
-    "port": 443,
-    "code": "SE",
-    "org": "Servers Tech Fzco"
-  },
-  {
     "ip": "89.22.229.126",
     "port": 443,
     "code": "SE",
@@ -586,12 +538,6 @@
     "port": 443,
     "code": "SE",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "194.238.57.103",
-    "port": 443,
-    "code": "SE",
-    "org": "node-hosting"
   },
   {
     "ip": "192.145.30.224",
@@ -630,12 +576,6 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "109.120.133.252",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "91.186.212.228",
     "port": 443,
     "code": "SE",
@@ -646,12 +586,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "64.188.81.171",
-    "port": 443,
-    "code": "SE",
-    "org": "1Cent Host"
   },
   {
     "ip": "2.26.7.243",
@@ -706,5 +640,23 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
+  },
+  {
+    "ip": "138.124.85.225",
+    "port": 443,
+    "code": "SE",
+    "org": "IBCS"
+  },
+  {
+    "ip": "62.60.250.39",
+    "port": 443,
+    "code": "SE",
+    "org": "RTM GmbH"
+  },
+  {
+    "ip": "89.22.227.108",
+    "port": 443,
+    "code": "SE",
+    "org": "Servers Tech Fzco"
   }
 ]

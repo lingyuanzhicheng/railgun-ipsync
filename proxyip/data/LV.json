@@ -12,12 +12,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "194.87.89.41",
-    "port": 443,
-    "code": "LV",
-    "org": "Baxet Group Inc."
-  },
-  {
     "ip": "46.32.184.75",
     "port": 443,
     "code": "LV",
@@ -40,12 +34,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "194.58.34.139",
-    "port": 443,
-    "code": "LV",
-    "org": "Baxet Group Inc."
   },
   {
     "ip": "195.135.252.139",
@@ -174,12 +162,6 @@
     "org": "Sia Nano IT"
   },
   {
-    "ip": "185.135.86.217",
-    "port": 8443,
-    "code": "LV",
-    "org": "Melbikomas UAB"
-  },
-  {
     "ip": "90.156.254.74",
     "port": 443,
     "code": "LV",
@@ -282,12 +264,6 @@
     "org": "Versija SIA"
   },
   {
-    "ip": "37.233.85.74",
-    "port": 443,
-    "code": "LV",
-    "org": "Beget LLC"
-  },
-  {
     "ip": "45.43.76.227",
     "port": 443,
     "code": "LV",
@@ -298,12 +274,6 @@
     "port": 443,
     "code": "LV",
     "org": "Beget LLC"
-  },
-  {
-    "ip": "169.40.6.27",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
   },
   {
     "ip": "188.92.78.188",
@@ -342,9 +312,15 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "213.139.229.211",
+    "ip": "62.76.239.244",
     "port": 443,
     "code": "LV",
-    "org": "Beget LLC"
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "195.135.253.164",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
   }
 ]

@@ -54,12 +54,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "138.2.39.24",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "103.106.228.126",
     "port": 2053,
     "code": "JP",
@@ -162,12 +156,6 @@
     "org": "imported inetnum object for OCPL-1"
   },
   {
-    "ip": "140.83.57.183",
-    "port": 22735,
-    "code": "JP",
-    "org": "imported inetnum object for OCPL-1"
-  },
-  {
     "ip": "141.147.183.49",
     "port": 29876,
     "code": "JP",
@@ -240,12 +228,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "161.33.190.243",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "172.235.211.171",
     "port": 443,
     "code": "JP",
@@ -256,24 +238,6 @@
     "port": 443,
     "code": "JP",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "138.2.31.37",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "38.47.105.76",
-    "port": 443,
-    "code": "JP",
-    "org": "VMISS Inc"
-  },
-  {
-    "ip": "160.16.57.18",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
   },
   {
     "ip": "160.16.59.9",
@@ -288,30 +252,6 @@
     "org": "SAKURA"
   },
   {
-    "ip": "161.33.46.100",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "198.13.33.61",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "217.142.254.144",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "45.32.51.156",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "89.125.244.195",
     "port": 443,
     "code": "JP",
@@ -322,12 +262,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "151.241.128.175",
-    "port": 443,
-    "code": "JP",
-    "org": "IPXO"
   },
   {
     "ip": "153.121.32.71",
@@ -346,5 +280,47 @@
     "port": 443,
     "code": "JP",
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "168.138.46.67",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "64.176.54.102",
+    "port": 443,
+    "code": "JP",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "153.121.76.150",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA"
+  },
+  {
+    "ip": "154.36.155.155",
+    "port": 443,
+    "code": "JP",
+    "org": "NetLab Global"
+  },
+  {
+    "ip": "142.248.139.180",
+    "port": 443,
+    "code": "JP",
+    "org": "Hong Kong Communications International Co., Limited"
   }
 ]

@@ -1,11 +1,5 @@
 [
   {
-    "ip": "46.29.234.109",
-    "port": 8443,
-    "code": "LT",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "85.206.172.44",
     "port": 443,
     "code": "LT",
@@ -34,5 +28,11 @@
     "port": 443,
     "code": "LT",
     "org": "Litlink UAB"
+  },
+  {
+    "ip": "144.31.243.19",
+    "port": 443,
+    "code": "LT",
+    "org": "SERV.HOST GROUP LTD"
   }
 ]

@@ -102,12 +102,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "130.162.130.105",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "59.6.239.208",
     "port": 12203,
     "code": "KR",
@@ -116,12 +110,6 @@
   {
     "ip": "144.24.87.69",
     "port": 50001,
-    "code": "KR",
-    "org": "Oracle Corporation"
-  },
-  {
-    "ip": "129.154.212.17",
-    "port": 20180,
     "code": "KR",
     "org": "Oracle Corporation"
   },
@@ -150,12 +138,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "146.56.188.74",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
-  },
-  {
     "ip": "119.205.235.58",
     "port": 443,
     "code": "KR",
@@ -172,12 +154,6 @@
     "port": 443,
     "code": "KR",
     "org": "The Constant Company, LLC"
-  },
-  {
-    "ip": "146.56.180.103",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
     "ip": "211.49.57.175",
@@ -222,12 +198,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "211.49.57.161",
-    "port": 443,
-    "code": "KR",
-    "org": "broadNnet"
-  },
-  {
     "ip": "64.110.75.145",
     "port": 443,
     "code": "KR",
@@ -244,5 +214,11 @@
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "47.80.60.254",
+    "port": 443,
+    "code": "KR",
+    "org": "Delta Centric LLC, Zenlayer Inc"
   }
 ]
