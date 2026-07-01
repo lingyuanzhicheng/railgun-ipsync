@@ -306,12 +306,6 @@
     "org": "FIRST SERVER LIMITED"
   },
   {
-    "ip": "87.239.250.229",
-    "port": 8443,
-    "code": "FI",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
     "ip": "45.12.146.12",
     "port": 443,
     "code": "FI",
@@ -320,12 +314,6 @@
   {
     "ip": "87.239.251.89",
     "port": 443,
-    "code": "FI",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
-    "ip": "87.239.250.229",
-    "port": 2053,
     "code": "FI",
     "org": "FIRST SERVER LIMITED"
   },
@@ -436,12 +424,6 @@
     "port": 443,
     "code": "FI",
     "org": "HOSTKEY B.V."
-  },
-  {
-    "ip": "45.12.151.185",
-    "port": 443,
-    "code": "FI",
-    "org": "WorkTitans B.V."
   },
   {
     "ip": "185.236.24.10",
@@ -676,12 +658,6 @@
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "45.12.70.200",
-    "port": 443,
-    "code": "FI",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "45.12.146.156",
@@ -1018,12 +994,6 @@
     "port": 443,
     "code": "FI",
     "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
-    "ip": "31.13.208.213",
-    "port": 443,
-    "code": "FI",
-    "org": "Play2go LTD"
   },
   {
     "ip": "31.58.137.94",
@@ -1488,12 +1458,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "31.57.92.60",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.57.105.139",
     "port": 443,
     "code": "FI",
@@ -1744,5 +1708,149 @@
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "95.217.135.173",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "65.21.62.180",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "37.27.113.239",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "46.8.232.48",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "92.118.233.182",
+    "port": 443,
+    "code": "FI",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "212.237.219.183",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "65.21.159.37",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "81.19.139.230",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "84.22.150.176",
+    "port": 443,
+    "code": "FI",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "62.60.249.50",
+    "port": 443,
+    "code": "FI",
+    "org": "RTM GmbH"
+  },
+  {
+    "ip": "23.236.111.30",
+    "port": 443,
+    "code": "FI",
+    "org": "ZENLA-1"
+  },
+  {
+    "ip": "45.12.151.17",
+    "port": 443,
+    "code": "FI",
+    "org": "WorkTitans B.V"
+  },
+  {
+    "ip": "82.40.57.224",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "94.156.116.67",
+    "port": 443,
+    "code": "FI",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "109.206.243.100",
+    "port": 443,
+    "code": "FI",
+    "org": "Xorek.Cloud Helsinki"
+  },
+  {
+    "ip": "135.136.181.199",
+    "port": 443,
+    "code": "FI",
+    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
+  },
+  {
+    "ip": "141.105.143.115",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "185.94.167.223",
+    "port": 443,
+    "code": "FI",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "193.23.201.59",
+    "port": 443,
+    "code": "FI",
+    "org": "Play2go International Limited"
+  },
+  {
+    "ip": "23.236.111.4",
+    "port": 443,
+    "code": "FI",
+    "org": "ZENLA-1"
+  },
+  {
+    "ip": "31.56.206.141",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.105.51",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.8.64.232",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "104.252.127.144",
+    "port": 443,
+    "code": "FI",
+    "org": "Digital LLC"
   }
 ]

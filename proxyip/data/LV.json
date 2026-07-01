@@ -102,12 +102,6 @@
     "org": "Versija SIA"
   },
   {
-    "ip": "185.22.173.79",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "90.156.255.45",
     "port": 443,
     "code": "LV",
@@ -322,5 +316,11 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
+  },
+  {
+    "ip": "194.58.34.139",
+    "port": 443,
+    "code": "LV",
+    "org": "RCS Technologies FZE LLC"
   }
 ]

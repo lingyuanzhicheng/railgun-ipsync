@@ -120,12 +120,6 @@
     "org": "Beget LLC"
   },
   {
-    "ip": "2.59.165.35",
-    "port": 443,
-    "code": "RU",
-    "org": "Comfortel Ltd."
-  },
-  {
     "ip": "188.68.223.17",
     "port": 443,
     "code": "RU",
@@ -178,12 +172,6 @@
     "port": 443,
     "code": "RU",
     "org": ""
-  },
-  {
-    "ip": "92.53.107.11",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "95.213.226.60",
@@ -300,12 +288,6 @@
     "org": "First Server Limited"
   },
   {
-    "ip": "193.3.23.128",
-    "port": 443,
-    "code": "RU",
-    "org": "FOP Hornostay Mykhaylo Ivanovych"
-  },
-  {
     "ip": "46.229.215.23",
     "port": 443,
     "code": "RU",
@@ -346,12 +328,6 @@
     "port": 443,
     "code": "RU",
     "org": "Selectel"
-  },
-  {
-    "ip": "147.45.99.92",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "212.41.15.119",
@@ -552,12 +528,6 @@
     "org": "Aoiot"
   },
   {
-    "ip": "80.87.198.98",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC Datacenter"
-  },
-  {
     "ip": "93.123.167.66",
     "port": 443,
     "code": "RU",
@@ -580,12 +550,6 @@
     "port": 443,
     "code": "RU",
     "org": "Yakovlev Denis Alexandrovich"
-  },
-  {
-    "ip": "194.87.94.186",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC Mediasoft ekspert"
   },
   {
     "ip": "195.133.145.236",
@@ -618,12 +582,6 @@
     "org": "TimeWeb Ltd"
   },
   {
-    "ip": "217.70.20.11",
-    "port": 443,
-    "code": "RU",
-    "org": "Informational-measuring systems Ltd."
-  },
-  {
     "ip": "72.56.250.192",
     "port": 443,
     "code": "RU",
@@ -642,15 +600,159 @@
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "103.213.249.125",
-    "port": 443,
-    "code": "RU",
-    "org": "Datacheap LLC"
-  },
-  {
     "ip": "155.212.134.112",
     "port": 443,
     "code": "RU",
     "org": ""
+  },
+  {
+    "ip": "92.241.18.106",
+    "port": 443,
+    "code": "RU",
+    "org": "S-INFORM Network"
+  },
+  {
+    "ip": "95.47.190.252",
+    "port": 443,
+    "code": "RU",
+    "org": "Mikhail Shchurov"
+  },
+  {
+    "ip": "185.170.10.35",
+    "port": 443,
+    "code": "RU",
+    "org": "ServTech LTD"
+  },
+  {
+    "ip": "77.73.66.223",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "212.193.35.100",
+    "port": 443,
+    "code": "RU",
+    "org": "Comfortel Ltd"
+  },
+  {
+    "ip": "45.129.2.201",
+    "port": 443,
+    "code": "RU",
+    "org": "iNet Ltd"
+  },
+  {
+    "ip": "178.20.41.204",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "194.87.151.151",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "91.184.247.38",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "31.200.248.163",
+    "port": 443,
+    "code": "RU",
+    "org": "Start2 LLC"
+  },
+  {
+    "ip": "82.146.38.33",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC IOT"
+  },
+  {
+    "ip": "2.26.104.64",
+    "port": 443,
+    "code": "RU",
+    "org": "Xorek.Cloud Moscow"
+  },
+  {
+    "ip": "212.5.177.118",
+    "port": 443,
+    "code": "RU",
+    "org": "ROSNET"
+  },
+  {
+    "ip": "31.25.29.199",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC \"Elektronnaya Set\""
+  },
+  {
+    "ip": "185.221.152.96",
+    "port": 443,
+    "code": "RU",
+    "org": "RuWeb LLC"
+  },
+  {
+    "ip": "5.180.137.104",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "31.192.111.185",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC IT BASIS"
+  },
+  {
+    "ip": "93.77.165.76",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "212.193.26.83",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "5.129.223.137",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "5.42.103.251",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "90.156.226.208",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "91.107.64.160",
+    "port": 443,
+    "code": "RU",
+    "org": "DTLN Cloudone"
+  },
+  {
+    "ip": "178.154.222.149",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "94.103.3.85",
+    "port": 443,
+    "code": "RU",
+    "org": "Global Internet Solutions LLC"
   }
 ]

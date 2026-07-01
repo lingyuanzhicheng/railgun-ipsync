@@ -82,5 +82,29 @@
     "port": 443,
     "code": "CA",
     "org": "EGIHosting"
+  },
+  {
+    "ip": "149.56.14.62",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "137.184.168.43",
+    "port": 443,
+    "code": "CA",
+    "org": "Digital Ocean"
+  },
+  {
+    "ip": "157.230.68.193",
+    "port": 443,
+    "code": "CA",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "155.248.216.138",
+    "port": 443,
+    "code": "CA",
+    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
   }
 ]

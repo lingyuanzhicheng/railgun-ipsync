@@ -96,12 +96,6 @@
     "org": "Perfecto Mobile UK LTD"
   },
   {
-    "ip": "18.170.77.148",
-    "port": 443,
-    "code": "GB",
-    "org": "AWS EC2 (eu-west-2)"
-  },
-  {
     "ip": "159.69.162.184",
     "port": 43443,
     "code": "GB",
@@ -2418,12 +2412,6 @@
     "org": "berrybyte"
   },
   {
-    "ip": "130.185.144.78",
-    "port": 443,
-    "code": "GB",
-    "org": "Iomart Hosting Limited"
-  },
-  {
     "ip": "82.39.133.67",
     "port": 443,
     "code": "GB",
@@ -2442,12 +2430,6 @@
     "org": "Xantho UAB"
   },
   {
-    "ip": "78.129.253.115",
-    "port": 443,
-    "code": "GB",
-    "org": "Eli Lilly and Company Limited"
-  },
-  {
     "ip": "185.122.167.228",
     "port": 443,
     "code": "GB",
@@ -2464,5 +2446,29 @@
     "port": 443,
     "code": "GB",
     "org": "Digital Ocean"
+  },
+  {
+    "ip": "91.107.127.205",
+    "port": 443,
+    "code": "GB",
+    "org": "Stat Solutions"
+  },
+  {
+    "ip": "147.45.179.237",
+    "port": 443,
+    "code": "GB",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "185.217.110.23",
+    "port": 443,
+    "code": "GB",
+    "org": "Kirino LLC"
+  },
+  {
+    "ip": "104.194.146.86",
+    "port": 443,
+    "code": "GB",
+    "org": "RouterHosting LLC"
   }
 ]

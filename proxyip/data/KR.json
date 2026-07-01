@@ -24,12 +24,6 @@
     "org": "Oracle Svenska AB"
   },
   {
-    "ip": "152.70.236.195",
-    "port": 30001,
-    "code": "KR",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "132.145.84.148",
     "port": 39567,
     "code": "KR",
@@ -126,12 +120,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "140.238.2.81",
-    "port": 587,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "131.186.24.124",
     "port": 587,
     "code": "KR",
@@ -174,12 +162,6 @@
     "org": "broadNnet"
   },
   {
-    "ip": "103.133.240.115",
-    "port": 443,
-    "code": "KR",
-    "org": "Kcinfra"
-  },
-  {
     "ip": "118.218.10.159",
     "port": 443,
     "code": "KR",
@@ -210,15 +192,33 @@
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   },
   {
-    "ip": "152.67.210.234",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
-  },
-  {
     "ip": "47.80.60.254",
     "port": 443,
     "code": "KR",
     "org": "Delta Centric LLC, Zenlayer Inc"
+  },
+  {
+    "ip": "146.56.188.74",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "211.49.57.161",
+    "port": 443,
+    "code": "KR",
+    "org": "broadNnet"
+  },
+  {
+    "ip": "193.123.232.91",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "3.35.238.2",
+    "port": 443,
+    "code": "KR",
+    "org": "AWS EC2 (ap-northeast-2)"
   }
 ]

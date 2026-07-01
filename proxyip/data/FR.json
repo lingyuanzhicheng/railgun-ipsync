@@ -1008,12 +1008,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "51.210.151.165",
-    "port": 2053,
-    "code": "FR",
-    "org": "OVH SAS"
-  },
-  {
     "ip": "51.178.141.36",
     "port": 443,
     "code": "FR",
@@ -1033,12 +1027,6 @@
   },
   {
     "ip": "51.91.251.189",
-    "port": 8443,
-    "code": "FR",
-    "org": "OVH SAS"
-  },
-  {
-    "ip": "51.210.151.165",
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
@@ -2788,5 +2776,29 @@
     "port": 443,
     "code": "FR",
     "org": "Hostkey B.V"
+  },
+  {
+    "ip": "37.60.232.144",
+    "port": 443,
+    "code": "FR",
+    "org": "Contabo GmbH"
+  },
+  {
+    "ip": "5.101.81.153",
+    "port": 443,
+    "code": "FR",
+    "org": "Cust88530 Network"
+  },
+  {
+    "ip": "82.70.232.70",
+    "port": 443,
+    "code": "FR",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "95.182.96.247",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
   }
 ]

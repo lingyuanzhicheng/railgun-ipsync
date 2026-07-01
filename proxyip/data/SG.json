@@ -196,5 +196,17 @@
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "168.138.165.174",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Public Cloud"
+  },
+  {
+    "ip": "13.250.131.37",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
   }
 ]

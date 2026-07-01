@@ -48,12 +48,6 @@
     "org": "EXTRAVM LLC"
   },
   {
-    "ip": "38.244.31.27",
-    "port": 443,
-    "code": "US",
-    "org": "NetLab"
-  },
-  {
     "ip": "129.146.46.164",
     "port": 443,
     "code": "US",
@@ -306,12 +300,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "67.209.183.236",
-    "port": 443,
-    "code": "US",
-    "org": "Hurricane Electric LLC"
-  },
-  {
     "ip": "134.209.166.201",
     "port": 2053,
     "code": "US",
@@ -460,12 +448,6 @@
     "port": 443,
     "code": "US",
     "org": "Kamatera, Inc."
-  },
-  {
-    "ip": "150.136.254.79",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "64.181.247.243",
@@ -720,12 +702,6 @@
     "org": "Aryaka Networks, Inc."
   },
   {
-    "ip": "104.234.50.215",
-    "port": 2053,
-    "code": "US",
-    "org": "Private Customer"
-  },
-  {
     "ip": "43.130.105.166",
     "port": 65001,
     "code": "US",
@@ -870,12 +846,6 @@
     "org": "Ace Data Centers, Inc."
   },
   {
-    "ip": "192.3.155.217",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "38.132.122.241",
     "port": 443,
     "code": "US",
@@ -942,12 +912,6 @@
     "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
   },
   {
-    "ip": "23.94.123.231",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "23.95.215.195",
     "port": 443,
     "code": "US",
@@ -958,12 +922,6 @@
     "port": 443,
     "code": "US",
     "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "107.174.70.130",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "137.184.228.85",
@@ -1018,12 +976,6 @@
     "port": 443,
     "code": "US",
     "org": "New Wave NetConnect, LLC"
-  },
-  {
-    "ip": "104.234.50.53",
-    "port": 443,
-    "code": "US",
-    "org": ""
   },
   {
     "ip": "141.148.187.195",
@@ -1108,12 +1060,6 @@
     "port": 443,
     "code": "US",
     "org": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "104.129.59.249",
-    "port": 443,
-    "code": "US",
-    "org": "HostPapa"
   },
   {
     "ip": "185.106.95.125",
@@ -1210,12 +1156,6 @@
     "port": 443,
     "code": "US",
     "org": "Ace Data Centers II, LLC"
-  },
-  {
-    "ip": "23.94.56.22",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "143.198.52.252",
@@ -1458,12 +1398,6 @@
     "org": "PoloCloud Computing (United States) LLC"
   },
   {
-    "ip": "38.65.9.104",
-    "port": 443,
-    "code": "US",
-    "org": "Alpaca Securities / AlpacaDB, Inc"
-  },
-  {
     "ip": "38.95.121.84",
     "port": 443,
     "code": "US",
@@ -1500,22 +1434,10 @@
     "org": "Zona Communications"
   },
   {
-    "ip": "107.175.206.50",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "149.28.62.21",
     "port": 443,
     "code": "US",
     "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "107.174.85.164",
-    "port": 443,
-    "code": "US",
-    "org": "ColoCrossing"
   },
   {
     "ip": "216.36.116.175",
@@ -1546,12 +1468,6 @@
     "port": 443,
     "code": "US",
     "org": "HostPapa"
-  },
-  {
-    "ip": "23.95.148.8",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "34.4.108.104",
@@ -1630,5 +1546,83 @@
     "port": 443,
     "code": "US",
     "org": "EGIHosting"
+  },
+  {
+    "ip": "38.146.27.51",
+    "port": 443,
+    "code": "US",
+    "org": "UltaHost"
+  },
+  {
+    "ip": "45.61.184.32",
+    "port": 443,
+    "code": "US",
+    "org": "FranTech Solutions"
+  },
+  {
+    "ip": "107.173.87.103",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "192.3.251.89",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "172.245.246.110",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.175.232.157",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "78.111.88.107",
+    "port": 443,
+    "code": "US",
+    "org": ""
+  },
+  {
+    "ip": "192.3.88.48",
+    "port": 443,
+    "code": "US",
+    "org": ""
+  },
+  {
+    "ip": "130.51.22.56",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudfanatic.NET"
+  },
+  {
+    "ip": "137.184.39.15",
+    "port": 443,
+    "code": "US",
+    "org": "Digital Ocean"
+  },
+  {
+    "ip": "154.64.235.157",
+    "port": 443,
+    "code": "US",
+    "org": "NetLab Global"
+  },
+  {
+    "ip": "159.89.182.67",
+    "port": 443,
+    "code": "US",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "163.192.22.57",
+    "port": 443,
+    "code": "US",
+    "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
   }
 ]
