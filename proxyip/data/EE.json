@@ -30,12 +30,6 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "46.36.218.151",
-    "port": 443,
-    "code": "EE",
-    "org": "Network for hosting services"
-  },
-  {
     "ip": "5.189.254.114",
     "port": 443,
     "code": "EE",
@@ -166,5 +160,11 @@
     "port": 443,
     "code": "EE",
     "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "2.59.165.35",
+    "port": 443,
+    "code": "EE",
+    "org": "Arvid Infra"
   }
 ]

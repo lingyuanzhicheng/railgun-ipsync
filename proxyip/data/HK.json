@@ -36,12 +36,6 @@
     "org": "ACE SG"
   },
   {
-    "ip": "2.56.91.167",
-    "port": 443,
-    "code": "HK",
-    "org": "Adcdata Limited"
-  },
-  {
     "ip": "151.244.132.39",
     "port": 443,
     "code": "HK",
@@ -112,5 +106,17 @@
     "port": 443,
     "code": "HK",
     "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "124.244.50.35",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Broadband Network Ltd"
+  },
+  {
+    "ip": "103.74.192.228",
+    "port": 443,
+    "code": "HK",
+    "org": "baud linker network co., limited"
   }
 ]

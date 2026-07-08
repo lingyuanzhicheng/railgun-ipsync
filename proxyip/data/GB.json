@@ -1344,12 +1344,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "141.147.114.60",
-    "port": 443,
-    "code": "GB",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "57.129.137.200",
     "port": 8443,
     "code": "GB",
@@ -2436,12 +2430,6 @@
     "org": "MassiveGRID"
   },
   {
-    "ip": "109.176.229.190",
-    "port": 443,
-    "code": "GB",
-    "org": "Freakhosting LTD"
-  },
-  {
     "ip": "178.62.27.74",
     "port": 443,
     "code": "GB",
@@ -2470,5 +2458,29 @@
     "port": 443,
     "code": "GB",
     "org": "RouterHosting LLC"
+  },
+  {
+    "ip": "130.185.144.78",
+    "port": 443,
+    "code": "GB",
+    "org": "Iomart Hosting Limited"
+  },
+  {
+    "ip": "78.129.253.115",
+    "port": 443,
+    "code": "GB",
+    "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "132.145.46.142",
+    "port": 443,
+    "code": "GB",
+    "org": "Oracle Cloud Infrastructure (uk-london-1)"
+  },
+  {
+    "ip": "45.150.66.75",
+    "port": 443,
+    "code": "GB",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

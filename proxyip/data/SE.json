@@ -36,12 +36,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "212.113.101.212",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "147.45.76.82",
     "port": 2053,
     "code": "SE",
@@ -372,12 +366,6 @@
     "org": "xorek.cloud International LTD"
   },
   {
-    "ip": "93.115.23.184",
-    "port": 443,
-    "code": "SE",
-    "org": "Mvps LTD"
-  },
-  {
     "ip": "89.22.234.242",
     "port": 443,
     "code": "SE",
@@ -522,12 +510,6 @@
     "org": ""
   },
   {
-    "ip": "70.34.195.28",
-    "port": 443,
-    "code": "SE",
-    "org": "Vultr"
-  },
-  {
     "ip": "89.22.229.126",
     "port": 443,
     "code": "SE",
@@ -666,15 +648,33 @@
     "org": "Servers Tech Fzco"
   },
   {
-    "ip": "172.232.149.77",
+    "ip": "38.180.56.25",
     "port": 443,
     "code": "SE",
-    "org": "Akamai Technologies, Inc."
+    "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "46.21.81.230",
+    "ip": "196.196.5.26",
     "port": 443,
     "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
+    "org": "Fiber Grid"
+  },
+  {
+    "ip": "37.203.209.194",
+    "port": 443,
+    "code": "SE",
+    "org": "Inter Connects Inc"
+  },
+  {
+    "ip": "37.203.209.198",
+    "port": 443,
+    "code": "SE",
+    "org": "Inter Connects Inc"
+  },
+  {
+    "ip": "77.110.96.220",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
   }
 ]

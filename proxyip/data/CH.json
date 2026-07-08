@@ -6,12 +6,6 @@
     "org": "M247 LTD"
   },
   {
-    "ip": "152.67.64.55",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
-  },
-  {
     "ip": "176.10.125.114",
     "port": 443,
     "code": "CH",
@@ -204,12 +198,6 @@
     "org": "Infomaniak Cloud"
   },
   {
-    "ip": "141.227.139.220",
-    "port": 443,
-    "code": "CH",
-    "org": "OVH CH"
-  },
-  {
     "ip": "152.67.85.239",
     "port": 443,
     "code": "CH",
@@ -264,12 +252,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.143.200.82",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "45.143.200.245",
     "port": 443,
     "code": "CH",
@@ -286,12 +268,6 @@
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "51.34.85.34",
-    "port": 443,
-    "code": "CH",
-    "org": "Amazon Technologies Inc"
   },
   {
     "ip": "45.85.93.49",
@@ -316,12 +292,6 @@
     "port": 443,
     "code": "CH",
     "org": "Fornex Hosting S.L."
-  },
-  {
-    "ip": "82.38.64.166",
-    "port": 443,
-    "code": "CH",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "82.38.139.231",
@@ -354,12 +324,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "213.176.18.42",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "87.120.222.125",
     "port": 443,
     "code": "CH",
@@ -372,12 +336,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "141.227.150.38",
-    "port": 443,
-    "code": "CH",
-    "org": "OVH CH"
-  },
-  {
     "ip": "91.245.225.69",
     "port": 443,
     "code": "CH",
@@ -388,5 +346,11 @@
     "port": 443,
     "code": "CH",
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "38.180.85.203",
+    "port": 443,
+    "code": "CH",
+    "org": "3NT SOLUTIONS LLP"
   }
 ]

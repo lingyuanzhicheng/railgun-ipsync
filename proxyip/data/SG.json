@@ -48,12 +48,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "138.2.89.238",
-    "port": 43254,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "54.255.217.120",
     "port": 8192,
     "code": "SG",
@@ -168,12 +162,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "138.2.64.229",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "43.134.174.114",
     "port": 443,
     "code": "SG",
@@ -202,11 +190,5 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
   }
 ]

@@ -2538,12 +2538,6 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "45.84.88.74",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "217.60.37.34",
     "port": 443,
     "code": "FR",
@@ -2572,12 +2566,6 @@
     "port": 443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "185.10.19.237",
-    "port": 443,
-    "code": "FR",
-    "org": ""
   },
   {
     "ip": "5.189.161.87",
@@ -2748,12 +2736,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "163.172.157.35",
-    "port": 443,
-    "code": "FR",
-    "org": "ONLINE"
-  },
-  {
     "ip": "88.218.79.114",
     "port": 443,
     "code": "FR",
@@ -2778,12 +2760,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "37.60.232.144",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
-  },
-  {
     "ip": "5.101.81.153",
     "port": 443,
     "code": "FR",
@@ -2800,5 +2776,29 @@
     "port": 443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "51.91.158.180",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "195.133.81.231",
+    "port": 443,
+    "code": "FR",
+    "org": "UniversCloud"
+  },
+  {
+    "ip": "51.91.253.113",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "185.234.100.40",
+    "port": 443,
+    "code": "FR",
+    "org": "Jogcorp"
   }
 ]

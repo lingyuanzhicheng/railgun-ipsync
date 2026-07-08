@@ -66,12 +66,6 @@
     "org": "OVH GmbH"
   },
   {
-    "ip": "193.23.219.31",
-    "port": 443,
-    "code": "DE",
-    "org": "Senko Digital Ltd"
-  },
-  {
     "ip": "94.159.111.170",
     "port": 443,
     "code": "DE",
@@ -298,12 +292,6 @@
     "port": 443,
     "code": "DE",
     "org": "H2NEXUS LTD"
-  },
-  {
-    "ip": "89.208.104.51",
-    "port": 2053,
-    "code": "DE",
-    "org": "AEZA GROUP Ltd"
   },
   {
     "ip": "94.159.104.1",
@@ -670,12 +658,6 @@
     "port": 2053,
     "code": "DE",
     "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "43.240.149.206",
-    "port": 8443,
-    "code": "DE",
-    "org": "Dasabo OU"
   },
   {
     "ip": "103.228.171.5",
@@ -1524,12 +1506,6 @@
     "org": "BitCommand LLC"
   },
   {
-    "ip": "194.35.12.70",
-    "port": 2052,
-    "code": "DE",
-    "org": "AlphaVPS - VPS Clients in DE"
-  },
-  {
     "ip": "167.71.45.93",
     "port": 443,
     "code": "DE",
@@ -1708,18 +1684,6 @@
     "port": 443,
     "code": "DE",
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
-  },
-  {
-    "ip": "5.61.45.128",
-    "port": 443,
-    "code": "DE",
-    "org": "IROKO Networks Corporation"
-  },
-  {
-    "ip": "136.244.80.24",
-    "port": 8443,
-    "code": "DE",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "162.19.243.185",
@@ -2056,12 +2020,6 @@
     "port": 8443,
     "code": "DE",
     "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "102.215.228.220",
-    "port": 8443,
-    "code": "DE",
-    "org": "BOA IVC-sub1"
   },
   {
     "ip": "152.53.142.246",
@@ -2460,12 +2418,6 @@
     "org": "Timeweb, LLP"
   },
   {
-    "ip": "103.7.55.147",
-    "port": 443,
-    "code": "DE",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "159.195.20.60",
     "port": 443,
     "code": "DE",
@@ -2530,18 +2482,6 @@
     "port": 443,
     "code": "DE",
     "org": "nuxt.cloud hosting provider"
-  },
-  {
-    "ip": "93.123.84.194",
-    "port": 443,
-    "code": "DE",
-    "org": "Play2go International Limited"
-  },
-  {
-    "ip": "150.241.123.99",
-    "port": 443,
-    "code": "DE",
-    "org": "Xorek.Cloud Frankfurt"
   },
   {
     "ip": "152.53.138.139",
@@ -2712,12 +2652,6 @@
     "org": "netcup GmbH"
   },
   {
-    "ip": "194.164.234.88",
-    "port": 443,
-    "code": "DE",
-    "org": "Hostkey B V"
-  },
-  {
     "ip": "37.221.196.43",
     "port": 443,
     "code": "DE",
@@ -2760,28 +2694,10 @@
     "org": "Contabo GmbH"
   },
   {
-    "ip": "89.19.208.156",
-    "port": 443,
-    "code": "DE",
-    "org": "Timeweb, LLP"
-  },
-  {
-    "ip": "89.19.208.87",
-    "port": 443,
-    "code": "DE",
-    "org": "Timeweb, LLP"
-  },
-  {
     "ip": "68.183.213.79",
     "port": 443,
     "code": "DE",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "162.221.196.42",
-    "port": 443,
-    "code": "DE",
-    "org": "ZENLA-1"
   },
   {
     "ip": "185.209.82.152",
@@ -2814,12 +2730,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "164.92.178.103",
-    "port": 443,
-    "code": "DE",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "216.57.104.110",
     "port": 443,
     "code": "DE",
@@ -2832,22 +2742,10 @@
     "org": "netcup GmbH"
   },
   {
-    "ip": "178.17.50.150",
-    "port": 443,
-    "code": "DE",
-    "org": "WAIcore Ltd"
-  },
-  {
     "ip": "46.225.149.10",
     "port": 443,
     "code": "DE",
     "org": "Hetzner"
-  },
-  {
-    "ip": "87.120.187.185",
-    "port": 443,
-    "code": "DE",
-    "org": "Play2go International Limited"
   },
   {
     "ip": "152.53.137.145",
@@ -2886,12 +2784,6 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "108.165.236.247",
-    "port": 443,
-    "code": "DE",
-    "org": "Ace Data Centers"
-  },
-  {
     "ip": "152.53.136.14",
     "port": 443,
     "code": "DE",
@@ -2908,12 +2800,6 @@
     "port": 443,
     "code": "DE",
     "org": "netcup GmbH"
-  },
-  {
-    "ip": "167.235.149.175",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner"
   },
   {
     "ip": "178.17.48.78",
@@ -3126,22 +3012,10 @@
     "org": "IP-Projects GmbH & Co."
   },
   {
-    "ip": "193.58.122.160",
-    "port": 443,
-    "code": "DE",
-    "org": "Play2go International Limited"
-  },
-  {
     "ip": "194.180.188.219",
     "port": 443,
     "code": "DE",
     "org": "HOSTKEY"
-  },
-  {
-    "ip": "2.26.51.106",
-    "port": 443,
-    "code": "DE",
-    "org": ""
   },
   {
     "ip": "2.26.60.27",
@@ -3252,24 +3126,6 @@
     "org": "Chsl ONE LTD"
   },
   {
-    "ip": "2.26.53.123",
-    "port": 443,
-    "code": "DE",
-    "org": "Play2go Customers Network"
-  },
-  {
-    "ip": "2.27.4.11",
-    "port": 443,
-    "code": "DE",
-    "org": ""
-  },
-  {
-    "ip": "37.1.198.43",
-    "port": 443,
-    "code": "DE",
-    "org": "IROKO Networks Corporation"
-  },
-  {
     "ip": "37.221.198.204",
     "port": 443,
     "code": "DE",
@@ -3322,12 +3178,6 @@
     "port": 443,
     "code": "DE",
     "org": "Waicore LTD"
-  },
-  {
-    "ip": "5.61.47.9",
-    "port": 443,
-    "code": "DE",
-    "org": "3NT Solutions LLP"
   },
   {
     "ip": "159.69.86.12",
@@ -3436,5 +3286,125 @@
     "port": 443,
     "code": "DE",
     "org": "Netutils"
+  },
+  {
+    "ip": "18.184.27.249",
+    "port": 443,
+    "code": "DE",
+    "org": "AWS EC2 (eu-central-1)"
+  },
+  {
+    "ip": "18.184.55.249",
+    "port": 443,
+    "code": "DE",
+    "org": "AWS EC2 (eu-central-1)"
+  },
+  {
+    "ip": "54.37.75.187",
+    "port": 443,
+    "code": "DE",
+    "org": "OVH GmbH"
+  },
+  {
+    "ip": "92.51.37.214",
+    "port": 443,
+    "code": "DE",
+    "org": "Timeweb, LLP"
+  },
+  {
+    "ip": "79.137.202.56",
+    "port": 443,
+    "code": "DE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "152.53.136.238",
+    "port": 443,
+    "code": "DE",
+    "org": ""
+  },
+  {
+    "ip": "45.138.72.141",
+    "port": 443,
+    "code": "DE",
+    "org": "Gtelcom LLC"
+  },
+  {
+    "ip": "152.53.224.122",
+    "port": 443,
+    "code": "DE",
+    "org": "netcup GmbH"
+  },
+  {
+    "ip": "45.150.32.112",
+    "port": 443,
+    "code": "DE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "94.141.123.243",
+    "port": 443,
+    "code": "DE",
+    "org": "Waicore LTD"
+  },
+  {
+    "ip": "138.197.183.219",
+    "port": 443,
+    "code": "DE",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "162.221.196.158",
+    "port": 443,
+    "code": "DE",
+    "org": "ZENLA-1"
+  },
+  {
+    "ip": "185.233.81.147",
+    "port": 443,
+    "code": "DE",
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "194.164.234.15",
+    "port": 443,
+    "code": "DE",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "195.133.44.21",
+    "port": 443,
+    "code": "DE",
+    "org": "BIGDATAHOST"
+  },
+  {
+    "ip": "89.58.15.204",
+    "port": 443,
+    "code": "DE",
+    "org": "netcup GmbH"
+  },
+  {
+    "ip": "89.185.85.104",
+    "port": 443,
+    "code": "DE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "91.108.243.115",
+    "port": 443,
+    "code": "DE",
+    "org": "MTK Global Ltd"
+  },
+  {
+    "ip": "94.16.113.129",
+    "port": 443,
+    "code": "DE",
+    "org": "netcup GmbH"
+  },
+  {
+    "ip": "2.27.169.162",
+    "port": 443,
+    "code": "DE",
+    "org": "Ipxo"
   }
 ]
