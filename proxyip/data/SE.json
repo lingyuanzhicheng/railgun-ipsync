@@ -78,12 +78,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "89.169.35.91",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "129.151.198.3",
     "port": 2053,
     "code": "SE",
@@ -262,12 +256,6 @@
     "port": 2053,
     "code": "SE",
     "org": "ALEXHOST SRL"
-  },
-  {
-    "ip": "89.169.35.91",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "46.226.161.12",
@@ -492,12 +480,6 @@
     "org": "AWS EC2 (eu-north-1)"
   },
   {
-    "ip": "64.112.124.252",
-    "port": 443,
-    "code": "SE",
-    "org": "Dfdb LLC"
-  },
-  {
     "ip": "80.66.78.207",
     "port": 443,
     "code": "SE",
@@ -546,12 +528,6 @@
     "org": "Servers Tech Fzco"
   },
   {
-    "ip": "176.97.77.161",
-    "port": 443,
-    "code": "SE",
-    "org": "IROKO Networks Corporation"
-  },
-  {
     "ip": "213.21.251.234",
     "port": 443,
     "code": "SE",
@@ -586,12 +562,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "84.32.217.55",
-    "port": 443,
-    "code": "SE",
-    "org": "Private Customer"
   },
   {
     "ip": "89.169.34.174",
@@ -654,12 +624,6 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "196.196.5.26",
-    "port": 443,
-    "code": "SE",
-    "org": "Fiber Grid"
-  },
-  {
     "ip": "37.203.209.194",
     "port": 443,
     "code": "SE",
@@ -676,5 +640,83 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "172.232.149.77",
+    "port": 443,
+    "code": "SE",
+    "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "46.21.81.230",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "77.110.120.118",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "2.26.101.36",
+    "port": 443,
+    "code": "SE",
+    "org": "Play2go Customers Network"
+  },
+  {
+    "ip": "5.175.236.53",
+    "port": 443,
+    "code": "SE",
+    "org": "NyaNet"
+  },
+  {
+    "ip": "5.175.236.54",
+    "port": 443,
+    "code": "SE",
+    "org": "NyaNet"
+  },
+  {
+    "ip": "130.49.190.27",
+    "port": 443,
+    "code": "SE",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "138.124.85.152",
+    "port": 443,
+    "code": "SE",
+    "org": "IBCS"
+  },
+  {
+    "ip": "138.124.85.247",
+    "port": 443,
+    "code": "SE",
+    "org": "IBCS"
+  },
+  {
+    "ip": "138.124.250.35",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "138.124.250.94",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "193.233.252.145",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "193.233.252.198",
+    "port": 443,
+    "code": "SE",
+    "org": ""
   }
 ]

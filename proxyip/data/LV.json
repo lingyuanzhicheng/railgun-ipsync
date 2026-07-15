@@ -12,12 +12,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "46.32.184.75",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "84.21.172.81",
     "port": 443,
     "code": "LV",
@@ -282,22 +276,10 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "188.253.19.40",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "31.56.27.128",
     "port": 443,
     "code": "LV",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "62.76.239.244",
-    "port": 443,
-    "code": "LV",
-    "org": "Baxet Group Inc"
   },
   {
     "ip": "195.135.253.164",
@@ -310,5 +292,11 @@
     "port": 443,
     "code": "LV",
     "org": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "195.135.253.175",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
   }
 ]

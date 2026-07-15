@@ -24,12 +24,6 @@
     "org": "Green Floid LLC"
   },
   {
-    "ip": "13.250.31.132",
-    "port": 443,
-    "code": "SG",
-    "org": "Amazon Data Services Singapore"
-  },
-  {
     "ip": "91.192.81.154",
     "port": 2053,
     "code": "SG",
@@ -102,12 +96,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "161.118.213.45",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "47.82.155.79",
     "port": 443,
     "code": "SG",
@@ -168,12 +156,6 @@
     "org": ""
   },
   {
-    "ip": "141.11.43.124",
-    "port": 443,
-    "code": "SG",
-    "org": "Streamline Servers Pty Ltd"
-  },
-  {
     "ip": "8.219.195.31",
     "port": 443,
     "code": "SG",
@@ -190,5 +172,23 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Public Cloud"
+  },
+  {
+    "ip": "138.2.64.229",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "157.230.244.86",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "83.147.234.163",
+    "port": 443,
+    "code": "SG",
+    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   }
 ]

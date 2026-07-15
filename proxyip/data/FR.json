@@ -96,12 +96,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "45.95.175.175",
-    "port": 8443,
-    "code": "FR",
-    "org": "Mo's Operations GmbH"
-  },
-  {
     "ip": "152.228.135.197",
     "port": 2053,
     "code": "FR",
@@ -258,12 +252,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "37.59.96.48",
-    "port": 443,
-    "code": "FR",
-    "org": "VPS static ips"
-  },
-  {
     "ip": "51.91.249.209",
     "port": 8443,
     "code": "FR",
@@ -280,12 +268,6 @@
     "port": 8443,
     "code": "FR",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "152.228.217.69",
-    "port": 8443,
-    "code": "FR",
-    "org": "OVH SAS"
   },
   {
     "ip": "162.19.79.211",
@@ -364,12 +346,6 @@
     "port": 8443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "37.59.96.50",
-    "port": 8443,
-    "code": "FR",
-    "org": "VPS static ips"
   },
   {
     "ip": "51.91.250.245",
@@ -876,12 +852,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "88.218.77.42",
-    "port": 2053,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
     "ip": "141.94.78.246",
     "port": 8443,
     "code": "FR",
@@ -1028,12 +998,6 @@
   {
     "ip": "51.91.251.189",
     "port": 8443,
-    "code": "FR",
-    "org": "OVH SAS"
-  },
-  {
-    "ip": "162.19.27.52",
-    "port": 443,
     "code": "FR",
     "org": "OVH SAS"
   },
@@ -1608,12 +1572,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "88.218.77.42",
-    "port": 8443,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
     "ip": "88.218.78.205",
     "port": 2053,
     "code": "FR",
@@ -1986,12 +1944,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "37.59.96.48",
-    "port": 8443,
-    "code": "FR",
-    "org": "VPS static ips"
-  },
-  {
     "ip": "51.91.250.33",
     "port": 443,
     "code": "FR",
@@ -2208,22 +2160,10 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "152.228.217.69",
-    "port": 443,
-    "code": "FR",
-    "org": "OVH SAS"
-  },
-  {
     "ip": "51.91.252.61",
     "port": 443,
     "code": "FR",
     "org": "OVH SAS"
-  },
-  {
-    "ip": "37.59.96.50",
-    "port": 443,
-    "code": "FR",
-    "org": "VPS static ips"
   },
   {
     "ip": "51.91.255.5",
@@ -2254,12 +2194,6 @@
     "port": 8443,
     "code": "FR",
     "org": "RackNerd, LLC"
-  },
-  {
-    "ip": "159.69.162.184",
-    "port": 10020,
-    "code": "FR",
-    "org": "HostRoyale Technologies Pvt Ltd"
   },
   {
     "ip": "193.42.60.235",
@@ -2434,12 +2368,6 @@
     "port": 443,
     "code": "FR",
     "org": "OVH"
-  },
-  {
-    "ip": "62.133.62.66",
-    "port": 443,
-    "code": "FR",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "88.218.78.48",
@@ -2800,5 +2728,71 @@
     "port": 443,
     "code": "FR",
     "org": "Jogcorp"
+  },
+  {
+    "ip": "212.113.120.98",
+    "port": 443,
+    "code": "FR",
+    "org": "TimeWeb Ltd"
+  },
+  {
+    "ip": "185.10.18.238",
+    "port": 443,
+    "code": "FR",
+    "org": "FR NSC Solutions"
+  },
+  {
+    "ip": "194.164.217.159",
+    "port": 443,
+    "code": "FR",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "212.69.86.229",
+    "port": 443,
+    "code": "FR",
+    "org": "HOSTKEY"
+  },
+  {
+    "ip": "217.60.5.249",
+    "port": 443,
+    "code": "FR",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "2.7.113.69",
+    "port": 443,
+    "code": "FR",
+    "org": ""
+  },
+  {
+    "ip": "5.157.51.83",
+    "port": 443,
+    "code": "FR",
+    "org": ""
+  },
+  {
+    "ip": "144.24.207.108",
+    "port": 443,
+    "code": "FR",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "23.168.72.44",
+    "port": 443,
+    "code": "FR",
+    "org": "Geikohost LLC"
+  },
+  {
+    "ip": "23.168.72.143",
+    "port": 443,
+    "code": "FR",
+    "org": "Geikohost LLC"
+  },
+  {
+    "ip": "23.168.72.169",
+    "port": 443,
+    "code": "FR",
+    "org": "Geikohost LLC"
   }
 ]

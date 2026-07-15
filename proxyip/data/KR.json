@@ -6,12 +6,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "146.56.99.255",
-    "port": 56789,
-    "code": "KR",
-    "org": "Oracle Corporation , Global software solutions , California , USA"
-  },
-  {
     "ip": "146.56.99.22",
     "port": 20443,
     "code": "KR",
@@ -202,5 +196,17 @@
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "64.110.75.145",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "3.35.238.2",
+    "port": 443,
+    "code": "KR",
+    "org": "AWS EC2 (ap-northeast-2)"
   }
 ]

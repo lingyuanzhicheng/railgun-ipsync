@@ -162,12 +162,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "168.138.197.147",
-    "port": 12345,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "138.3.217.167",
     "port": 587,
     "code": "JP",
@@ -246,19 +240,7 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "154.36.155.155",
-    "port": 443,
-    "code": "JP",
-    "org": "NetLab Global"
-  },
-  {
     "ip": "138.2.31.37",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "141.147.185.63",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
@@ -276,15 +258,87 @@
     "org": "SAKURA"
   },
   {
-    "ip": "151.241.128.175",
-    "port": 443,
-    "code": "JP",
-    "org": "IPXO"
-  },
-  {
     "ip": "107.191.53.228",
     "port": 443,
     "code": "JP",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "38.207.130.136",
+    "port": 443,
+    "code": "JP",
+    "org": "Akile LTD"
+  },
+  {
+    "ip": "160.16.57.18",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA"
+  },
+  {
+    "ip": "151.145.78.30",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "154.31.114.55",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "161.33.141.33",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "178.239.117.172",
+    "port": 443,
+    "code": "JP",
+    "org": "OrangeVPS LLC"
+  },
+  {
+    "ip": "34.104.208.126",
+    "port": 443,
+    "code": "JP",
+    "org": "Google Cloud (asia-northeast1)"
+  },
+  {
+    "ip": "45.76.221.84",
+    "port": 443,
+    "code": "JP",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "47.245.62.50",
+    "port": 443,
+    "code": "JP",
+    "org": "Alibaba Cloud - JP"
+  },
+  {
+    "ip": "137.220.225.56",
+    "port": 443,
+    "code": "JP",
+    "org": "Rackip Consultancy Pte. LTD"
+  },
+  {
+    "ip": "137.220.225.111",
+    "port": 443,
+    "code": "JP",
+    "org": "Rackip Consultancy Pte. LTD"
   }
 ]
