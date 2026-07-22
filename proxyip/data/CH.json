@@ -246,12 +246,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "87.120.222.39",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "45.143.200.245",
     "port": 443,
     "code": "CH",
@@ -294,19 +288,7 @@
     "org": "Fornex Hosting S.L."
   },
   {
-    "ip": "82.38.139.231",
-    "port": 443,
-    "code": "CH",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "87.120.222.188",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "171.22.16.238",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
@@ -412,5 +394,17 @@
     "port": 443,
     "code": "CH",
     "org": "HostHatch"
+  },
+  {
+    "ip": "45.143.200.82",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.143.200.211",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

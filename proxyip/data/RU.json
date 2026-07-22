@@ -90,12 +90,6 @@
     "org": "Domain names registrar REG.RU, Ltd"
   },
   {
-    "ip": "194.113.104.187",
-    "port": 8443,
-    "code": "RU",
-    "org": "LLC Vpsville"
-  },
-  {
     "ip": "103.88.242.134",
     "port": 443,
     "code": "RU",
@@ -234,12 +228,6 @@
     "org": ""
   },
   {
-    "ip": "92.51.38.43",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
-  },
-  {
     "ip": "185.151.243.200",
     "port": 443,
     "code": "RU",
@@ -274,18 +262,6 @@
     "port": 443,
     "code": "RU",
     "org": "First Server Limited"
-  },
-  {
-    "ip": "46.229.215.23",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
-  },
-  {
-    "ip": "79.174.80.62",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "185.217.199.148",
@@ -340,12 +316,6 @@
     "port": 443,
     "code": "RU",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "185.154.192.200",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "194.87.252.166",
@@ -432,12 +402,6 @@
     "org": "Okay-Telecom Ltd."
   },
   {
-    "ip": "85.239.58.152",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
-  },
-  {
     "ip": "109.107.189.6",
     "port": 443,
     "code": "RU",
@@ -508,12 +472,6 @@
     "port": 443,
     "code": "RU",
     "org": "Fornex"
-  },
-  {
-    "ip": "95.188.72.67",
-    "port": 443,
-    "code": "RU",
-    "org": "OJSC Rostelecom"
   },
   {
     "ip": "93.77.165.232",
@@ -588,18 +546,6 @@
     "org": "JSC IOT"
   },
   {
-    "ip": "212.5.177.118",
-    "port": 443,
-    "code": "RU",
-    "org": "ROSNET"
-  },
-  {
-    "ip": "185.221.152.96",
-    "port": 443,
-    "code": "RU",
-    "org": "RuWeb LLC"
-  },
-  {
     "ip": "31.192.111.185",
     "port": 443,
     "code": "RU",
@@ -654,12 +600,6 @@
     "org": "MT FINANCE LLC"
   },
   {
-    "ip": "194.87.94.186",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC Mediasoft ekspert"
-  },
-  {
     "ip": "91.188.213.107",
     "port": 443,
     "code": "RU",
@@ -676,12 +616,6 @@
     "port": 443,
     "code": "RU",
     "org": "LLC Vektor Aiti Tekhnologii"
-  },
-  {
-    "ip": "95.182.122.28",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
   },
   {
     "ip": "185.105.117.222",
@@ -702,12 +636,6 @@
     "org": "Ihor Servers"
   },
   {
-    "ip": "46.8.21.188",
-    "port": 443,
-    "code": "RU",
-    "org": "Ildar Gilmutdinov PE"
-  },
-  {
     "ip": "212.193.35.100",
     "port": 443,
     "code": "RU",
@@ -726,12 +654,6 @@
     "org": "Xorek.Cloud Moscow"
   },
   {
-    "ip": "5.180.137.104",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "103.213.249.125",
     "port": 443,
     "code": "RU",
@@ -742,12 +664,6 @@
     "port": 443,
     "code": "RU",
     "org": "MT FINANCE LLC"
-  },
-  {
-    "ip": "31.76.230.241",
-    "port": 443,
-    "code": "RU",
-    "org": "Xorek.Cloud Moscow"
   },
   {
     "ip": "46.29.115.144",
@@ -784,12 +700,6 @@
     "port": 443,
     "code": "RU",
     "org": "Datacheap LLC"
-  },
-  {
-    "ip": "130.49.128.222",
-    "port": 443,
-    "code": "RU",
-    "org": "Adminvps"
   },
   {
     "ip": "147.45.219.212",
@@ -844,5 +754,95 @@
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "89.248.207.37",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "46.8.21.7",
+    "port": 443,
+    "code": "RU",
+    "org": "Ildar Gilmutdinov PE"
+  },
+  {
+    "ip": "45.153.71.149",
+    "port": 443,
+    "code": "RU",
+    "org": "TimeWeb Ltd"
+  },
+  {
+    "ip": "95.182.120.53",
+    "port": 443,
+    "code": "RU",
+    "org": "Ildar Gilmutdinov PE"
+  },
+  {
+    "ip": "83.217.214.34",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "104.128.129.145",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "217.70.20.11",
+    "port": 443,
+    "code": "RU",
+    "org": "Informational-measuring systems Ltd."
+  },
+  {
+    "ip": "83.217.214.103",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "82.148.31.7",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "217.26.27.147",
+    "port": 443,
+    "code": "RU",
+    "org": "Beget LLC"
+  },
+  {
+    "ip": "80.76.42.191",
+    "port": 443,
+    "code": "RU",
+    "org": "Time Host"
+  },
+  {
+    "ip": "93.77.165.150",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "192.144.57.214",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "194.190.153.170",
+    "port": 443,
+    "code": "RU",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "5.183.189.112",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting Services"
   }
 ]

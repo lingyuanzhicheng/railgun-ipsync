@@ -1,11 +1,5 @@
 [
   {
-    "ip": "64.110.104.30",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "149.28.21.106",
     "port": 443,
     "code": "JP",
@@ -240,12 +234,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "138.2.31.37",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "153.121.76.150",
     "port": 443,
     "code": "JP",
@@ -274,12 +262,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "38.207.130.136",
-    "port": 443,
-    "code": "JP",
-    "org": "Akile LTD"
   },
   {
     "ip": "160.16.57.18",
@@ -312,18 +294,6 @@
     "org": "OrangeVPS LLC"
   },
   {
-    "ip": "34.104.208.126",
-    "port": 443,
-    "code": "JP",
-    "org": "Google Cloud (asia-northeast1)"
-  },
-  {
-    "ip": "45.76.221.84",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "47.245.62.50",
     "port": 443,
     "code": "JP",
@@ -340,5 +310,41 @@
     "port": 443,
     "code": "JP",
     "org": "Rackip Consultancy Pte. LTD"
+  },
+  {
+    "ip": "155.248.181.189",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "207.148.99.230",
+    "port": 443,
+    "code": "JP",
+    "org": "TYO Vultr"
+  },
+  {
+    "ip": "141.147.185.63",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "38.47.105.76",
+    "port": 443,
+    "code": "JP",
+    "org": "VMISS Inc"
+  },
+  {
+    "ip": "155.248.177.225",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "54.250.143.140",
+    "port": 443,
+    "code": "JP",
+    "org": "AWS EC2 (ap-northeast-1)"
   }
 ]

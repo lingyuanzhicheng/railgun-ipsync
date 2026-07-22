@@ -264,12 +264,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "185.120.59.207",
-    "port": 8443,
-    "code": "FR",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "162.19.79.211",
     "port": 8443,
     "code": "FR",
@@ -1548,12 +1542,6 @@
     "org": "OVH SAS"
   },
   {
-    "ip": "163.172.89.158",
-    "port": 81,
-    "code": "FR",
-    "org": "Scaleway Dedibox - Paris, France"
-  },
-  {
     "ip": "51.77.141.117",
     "port": 443,
     "code": "FR",
@@ -2460,12 +2448,6 @@
     "org": "OVH"
   },
   {
-    "ip": "77.110.106.93",
-    "port": 443,
-    "code": "FR",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "217.60.37.34",
     "port": 443,
     "code": "FR",
@@ -2494,12 +2476,6 @@
     "port": 443,
     "code": "FR",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "5.189.161.87",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
   },
   {
     "ip": "45.81.243.217",
@@ -2626,12 +2602,6 @@
     "port": 443,
     "code": "FR",
     "org": "Ipxo"
-  },
-  {
-    "ip": "212.113.121.197",
-    "port": 443,
-    "code": "FR",
-    "org": "TimeWeb Ltd"
   },
   {
     "ip": "185.234.100.241",
@@ -2791,6 +2761,30 @@
   },
   {
     "ip": "23.168.72.169",
+    "port": 443,
+    "code": "FR",
+    "org": "Geikohost LLC"
+  },
+  {
+    "ip": "76.164.202.147",
+    "port": 443,
+    "code": "FR",
+    "org": "ZetServers Frankfurt"
+  },
+  {
+    "ip": "91.134.43.127",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "185.10.19.205",
+    "port": 443,
+    "code": "FR",
+    "org": ""
+  },
+  {
+    "ip": "23.168.72.194",
     "port": 443,
     "code": "FR",
     "org": "Geikohost LLC"

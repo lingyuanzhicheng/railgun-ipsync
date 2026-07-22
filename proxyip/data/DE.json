@@ -216,12 +216,6 @@
     "org": "PDK LLC"
   },
   {
-    "ip": "87.120.92.150",
-    "port": 8443,
-    "code": "DE",
-    "org": "WAIcore Ltd"
-  },
-  {
     "ip": "162.19.243.173",
     "port": 8443,
     "code": "DE",
@@ -388,12 +382,6 @@
     "port": 8443,
     "code": "DE",
     "org": "netcup GmbH"
-  },
-  {
-    "ip": "91.107.139.23",
-    "port": 7002,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "88.198.82.147",
@@ -634,12 +622,6 @@
     "port": 443,
     "code": "DE",
     "org": "WAIcore Ltd"
-  },
-  {
-    "ip": "188.34.160.97",
-    "port": 2053,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "103.228.171.5",
@@ -1716,12 +1698,6 @@
     "org": "IONOS SE"
   },
   {
-    "ip": "188.34.160.97",
-    "port": 8443,
-    "code": "DE",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "46.101.220.197",
     "port": 8443,
     "code": "DE",
@@ -2196,12 +2172,6 @@
     "org": "UltaHost Inc"
   },
   {
-    "ip": "194.34.238.131",
-    "port": 443,
-    "code": "DE",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "146.19.207.205",
     "port": 443,
     "code": "DE",
@@ -2478,12 +2448,6 @@
     "org": "1Cent Host"
   },
   {
-    "ip": "77.90.33.155",
-    "port": 443,
-    "code": "DE",
-    "org": "MitaX Network"
-  },
-  {
     "ip": "85.234.100.221",
     "port": 443,
     "code": "DE",
@@ -2676,12 +2640,6 @@
     "org": "Notbad Hosting LTD"
   },
   {
-    "ip": "213.176.77.101",
-    "port": 443,
-    "code": "DE",
-    "org": "WAIcore Ltd"
-  },
-  {
     "ip": "5.101.82.222",
     "port": 443,
     "code": "DE",
@@ -2722,12 +2680,6 @@
     "port": 443,
     "code": "DE",
     "org": "WAIcore Ltd"
-  },
-  {
-    "ip": "185.207.139.113",
-    "port": 443,
-    "code": "DE",
-    "org": ""
   },
   {
     "ip": "193.26.157.56",
@@ -2964,12 +2916,6 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "159.69.91.150",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner"
-  },
-  {
     "ip": "2.27.169.240",
     "port": 443,
     "code": "DE",
@@ -3088,12 +3034,6 @@
     "port": 443,
     "code": "DE",
     "org": "Waicore LTD"
-  },
-  {
-    "ip": "159.69.86.12",
-    "port": 443,
-    "code": "DE",
-    "org": "Hetzner"
   },
   {
     "ip": "46.203.233.226",
@@ -3252,12 +3192,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "162.221.196.158",
-    "port": 443,
-    "code": "DE",
-    "org": "ZENLA-1"
-  },
-  {
     "ip": "185.233.81.147",
     "port": 443,
     "code": "DE",
@@ -3280,12 +3214,6 @@
     "port": 443,
     "code": "DE",
     "org": "netcup GmbH"
-  },
-  {
-    "ip": "89.185.85.104",
-    "port": 443,
-    "code": "DE",
-    "org": "Aeza Group LLC"
   },
   {
     "ip": "91.108.243.115",
@@ -3442,5 +3370,95 @@
     "port": 443,
     "code": "DE",
     "org": "RCS Technologies FZE LLC"
+  },
+  {
+    "ip": "113.30.190.30",
+    "port": 443,
+    "code": "DE",
+    "org": "Cloudwebmanage EU FR"
+  },
+  {
+    "ip": "159.100.19.170",
+    "port": 443,
+    "code": "DE",
+    "org": "UltaHost Inc"
+  },
+  {
+    "ip": "167.235.69.166",
+    "port": 443,
+    "code": "DE",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "93.152.217.100",
+    "port": 443,
+    "code": "DE",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "144.31.69.206",
+    "port": 443,
+    "code": "DE",
+    "org": "u1host ltd"
+  },
+  {
+    "ip": "84.75.76.126",
+    "port": 443,
+    "code": "DE",
+    "org": "BitsFlowCloud.LTD"
+  },
+  {
+    "ip": "93.95.24.172",
+    "port": 443,
+    "code": "DE",
+    "org": "InterLIR"
+  },
+  {
+    "ip": "94.249.239.105",
+    "port": 443,
+    "code": "DE",
+    "org": "MitaX Network"
+  },
+  {
+    "ip": "109.94.170.104",
+    "port": 443,
+    "code": "DE",
+    "org": "Greencloud LLC"
+  },
+  {
+    "ip": "132.226.197.103",
+    "port": 443,
+    "code": "DE",
+    "org": "Oracle Cloud Infrastructure (eu-frankfurt-1)"
+  },
+  {
+    "ip": "188.40.171.73",
+    "port": 443,
+    "code": "DE",
+    "org": ""
+  },
+  {
+    "ip": "194.59.9.9",
+    "port": 443,
+    "code": "DE",
+    "org": "De Mncreative N4"
+  },
+  {
+    "ip": "194.59.9.49",
+    "port": 443,
+    "code": "DE",
+    "org": "De Mncreative N4"
+  },
+  {
+    "ip": "2.27.35.152",
+    "port": 443,
+    "code": "DE",
+    "org": "Xorek.Cloud Frankfurt"
+  },
+  {
+    "ip": "5.75.182.89",
+    "port": 443,
+    "code": "DE",
+    "org": "Hetzner"
   }
 ]

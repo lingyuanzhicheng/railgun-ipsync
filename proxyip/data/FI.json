@@ -30,12 +30,6 @@
     "org": "As56971"
   },
   {
-    "ip": "83.147.216.239",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "62.60.229.255",
     "port": 443,
     "code": "FI",
@@ -68,12 +62,6 @@
   {
     "ip": "217.144.188.147",
     "port": 8443,
-    "code": "FI",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "109.107.190.58",
-    "port": 443,
     "code": "FI",
     "org": "Aeza International LTD"
   },
@@ -166,12 +154,6 @@
     "port": 443,
     "code": "FI",
     "org": "BG-NETWORK"
-  },
-  {
-    "ip": "45.144.234.82",
-    "port": 2053,
-    "code": "FI",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "64.188.76.196",
@@ -966,12 +948,6 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "82.117.84.249",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "65.109.205.229",
     "port": 443,
     "code": "FI",
@@ -1024,18 +1000,6 @@
     "port": 443,
     "code": "FI",
     "org": "First Server Limited"
-  },
-  {
-    "ip": "80.85.241.245",
-    "port": 443,
-    "code": "FI",
-    "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "192.145.29.16",
-    "port": 443,
-    "code": "FI",
-    "org": "OY Creanova Hosting Solutions LTD"
   },
   {
     "ip": "77.42.94.136",
@@ -1116,12 +1080,6 @@
     "org": ""
   },
   {
-    "ip": "193.164.155.48",
-    "port": 443,
-    "code": "FI",
-    "org": "As56971"
-  },
-  {
     "ip": "43.245.225.23",
     "port": 443,
     "code": "FI",
@@ -1176,22 +1134,10 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "46.8.230.145",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "65.109.213.219",
     "port": 443,
     "code": "FI",
     "org": "Hetzner Online GmbH"
-  },
-  {
-    "ip": "109.248.163.191",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "77.91.78.51",
@@ -1320,22 +1266,10 @@
     "org": "Hetzner Online GmbH"
   },
   {
-    "ip": "65.109.209.224",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "95.217.185.57",
     "port": 443,
     "code": "FI",
     "org": "HETZNER-DC"
-  },
-  {
-    "ip": "151.241.155.138",
-    "port": 443,
-    "code": "FI",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "89.125.2.229",
@@ -1384,12 +1318,6 @@
     "port": 443,
     "code": "FI",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "198.105.124.180",
-    "port": 443,
-    "code": "FI",
-    "org": "POWER-SERVERS-ROLE-ORG"
   },
   {
     "ip": "212.237.219.99",
@@ -1480,12 +1408,6 @@
     "port": 443,
     "code": "FI",
     "org": "Hetzner"
-  },
-  {
-    "ip": "81.19.139.230",
-    "port": 443,
-    "code": "FI",
-    "org": "OY Creanova Hosting Solutions LTD"
   },
   {
     "ip": "62.60.249.50",
@@ -1692,22 +1614,10 @@
     "org": "H2nexus LTD"
   },
   {
-    "ip": "31.57.27.98",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "185.230.190.29",
     "port": 443,
     "code": "FI",
     "org": "Livi Hosting LTD"
-  },
-  {
-    "ip": "45.12.151.17",
-    "port": 443,
-    "code": "FI",
-    "org": "WorkTitans B.V"
   },
   {
     "ip": "31.76.103.14",
@@ -1795,6 +1705,84 @@
   },
   {
     "ip": "31.57.105.53",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.8.230.253",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "87.121.89.13",
+    "port": 443,
+    "code": "FI",
+    "org": "Neterra Ltd"
+  },
+  {
+    "ip": "95.214.9.167",
+    "port": 443,
+    "code": "FI",
+    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
+  },
+  {
+    "ip": "2.26.19.241",
+    "port": 443,
+    "code": "FI",
+    "org": "nuxt.cloud hosting provider"
+  },
+  {
+    "ip": "46.8.228.78",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "94.183.189.154",
+    "port": 443,
+    "code": "FI",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "212.147.247.193",
+    "port": 443,
+    "code": "FI",
+    "org": "UpCloud Ltd"
+  },
+  {
+    "ip": "62.238.41.171",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "89.125.26.68",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "94.156.180.40",
+    "port": 443,
+    "code": "FI",
+    "org": "SERV.HOST GROUP LTD"
+  },
+  {
+    "ip": "194.113.38.229",
+    "port": 443,
+    "code": "FI",
+    "org": "Xorek.Cloud Helsinki"
+  },
+  {
+    "ip": "45.155.55.221",
+    "port": 443,
+    "code": "FI",
+    "org": "Ibcs Fi"
+  },
+  {
+    "ip": "31.56.113.20",
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"

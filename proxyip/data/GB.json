@@ -354,12 +354,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "213.165.88.177",
-    "port": 443,
-    "code": "GB",
-    "org": "IONOS SE"
-  },
-  {
     "ip": "57.129.137.81",
     "port": 443,
     "code": "GB",
@@ -1800,18 +1794,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "185.217.110.23",
-    "port": 443,
-    "code": "GB",
-    "org": "Kirino LLC"
-  },
-  {
-    "ip": "130.185.144.78",
-    "port": 443,
-    "code": "GB",
-    "org": "Iomart Hosting Limited"
-  },
-  {
     "ip": "132.145.46.142",
     "port": 443,
     "code": "GB",
@@ -1834,5 +1816,29 @@
     "port": 443,
     "code": "GB",
     "org": "Linode, LLC"
+  },
+  {
+    "ip": "45.77.57.121",
+    "port": 443,
+    "code": "GB",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "78.129.253.115",
+    "port": 443,
+    "code": "GB",
+    "org": "Eli Lilly and Company Limited"
+  },
+  {
+    "ip": "185.132.39.46",
+    "port": 443,
+    "code": "GB",
+    "org": "Fasthosts Internet Limited"
+  },
+  {
+    "ip": "194.164.216.227",
+    "port": 443,
+    "code": "GB",
+    "org": "HOSTKEY"
   }
 ]

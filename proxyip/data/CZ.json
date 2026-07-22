@@ -6,12 +6,6 @@
     "org": "SmartApe OU"
   },
   {
-    "ip": "176.74.219.130",
-    "port": 443,
-    "code": "CZ",
-    "org": "HOST-TELECOM.COM s.r.o."
-  },
-  {
     "ip": "87.236.146.76",
     "port": 443,
     "code": "CZ",
@@ -40,5 +34,11 @@
     "port": 443,
     "code": "CZ",
     "org": ""
+  },
+  {
+    "ip": "151.242.120.8",
+    "port": 443,
+    "code": "CZ",
+    "org": "SuperOnline"
   }
 ]
