@@ -78,12 +78,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "45.32.49.72",
-    "port": 9443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "167.179.110.68",
     "port": 8443,
     "code": "JP",
@@ -94,12 +88,6 @@
     "port": 46209,
     "code": "JP",
     "org": "Oracle Network Information Services"
-  },
-  {
-    "ip": "139.162.102.152",
-    "port": 7002,
-    "code": "JP",
-    "org": "Akamai Connected Cloud / Linode"
   },
   {
     "ip": "140.238.37.103",
@@ -198,18 +186,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "172.235.211.171",
-    "port": 443,
-    "code": "JP",
-    "org": "Akamai Technologies, Inc."
-  },
-  {
-    "ip": "89.125.244.207",
-    "port": 443,
-    "code": "JP",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "160.16.59.9",
     "port": 443,
     "code": "JP",
@@ -258,12 +234,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "168.138.212.80",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "160.16.57.18",
     "port": 443,
     "code": "JP",
@@ -271,18 +241,6 @@
   },
   {
     "ip": "151.145.78.30",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "154.31.114.55",
-    "port": 443,
-    "code": "JP",
-    "org": ""
-  },
-  {
-    "ip": "161.33.141.33",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
@@ -336,15 +294,21 @@
     "org": "VMISS Inc"
   },
   {
-    "ip": "155.248.177.225",
+    "ip": "64.110.104.30",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "138.2.31.37",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "54.250.143.140",
+    "ip": "38.207.130.136",
     "port": 443,
     "code": "JP",
-    "org": "AWS EC2 (ap-northeast-1)"
+    "org": "Akile LTD"
   }
 ]

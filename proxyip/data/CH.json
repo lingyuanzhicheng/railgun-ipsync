@@ -318,12 +318,6 @@
     "org": "BIGDATAHOST"
   },
   {
-    "ip": "140.238.170.32",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
-  },
-  {
     "ip": "38.180.85.203",
     "port": 443,
     "code": "CH",
@@ -352,12 +346,6 @@
     "port": 443,
     "code": "CH",
     "org": "Friendhosting LTD"
-  },
-  {
-    "ip": "193.228.128.182",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Internet Solutions LLC"
   },
   {
     "ip": "213.176.18.232",
@@ -406,5 +394,23 @@
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "152.67.64.55",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "45.143.200.102",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.148.118.233",
+    "port": 443,
+    "code": "CH",
+    "org": "Baxet Group Inc"
   }
 ]

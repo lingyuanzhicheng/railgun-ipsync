@@ -144,22 +144,10 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "168.138.165.174",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Public Cloud"
-  },
-  {
     "ip": "138.2.64.229",
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "157.230.244.86",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "83.147.234.163",
@@ -168,15 +156,9 @@
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   },
   {
-    "ip": "13.250.131.37",
+    "ip": "188.239.9.91",
     "port": 443,
     "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
-    "ip": "141.11.43.124",
-    "port": 443,
-    "code": "SG",
-    "org": "Streamline Servers Pty Ltd"
+    "org": ""
   }
 ]
