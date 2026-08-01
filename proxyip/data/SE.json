@@ -516,12 +516,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "138.124.85.225",
-    "port": 443,
-    "code": "SE",
-    "org": "IBCS"
-  },
-  {
     "ip": "62.60.250.39",
     "port": 443,
     "code": "SE",
@@ -529,12 +523,6 @@
   },
   {
     "ip": "77.110.96.220",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "77.110.120.118",
     "port": 443,
     "code": "SE",
     "org": "Aeza Group LLC"
@@ -582,28 +570,10 @@
     "org": ""
   },
   {
-    "ip": "193.233.252.145",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
     "ip": "207.2.123.197",
     "port": 443,
     "code": "SE",
     "org": "Dfdb LLC"
-  },
-  {
-    "ip": "87.251.85.217",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
-    "ip": "46.21.81.230",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "196.196.5.26",
@@ -628,5 +598,11 @@
     "port": 443,
     "code": "SE",
     "org": ""
+  },
+  {
+    "ip": "172.232.149.77",
+    "port": 443,
+    "code": "SE",
+    "org": "Akamai Technologies, Inc."
   }
 ]

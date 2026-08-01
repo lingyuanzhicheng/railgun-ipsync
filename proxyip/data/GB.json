@@ -1182,12 +1182,6 @@
     "org": "EDIS GmbH"
   },
   {
-    "ip": "91.227.62.62",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
     "ip": "78.129.165.129",
     "port": 443,
     "code": "GB",
@@ -1396,5 +1390,23 @@
     "port": 443,
     "code": "GB",
     "org": "AWS EC2 (eu-west-2)"
+  },
+  {
+    "ip": "185.217.110.23",
+    "port": 443,
+    "code": "GB",
+    "org": "Kirino LLC"
+  },
+  {
+    "ip": "82.152.94.2",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "85.204.18.93",
+    "port": 443,
+    "code": "GB",
+    "org": "Snowd Security OU"
   }
 ]

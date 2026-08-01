@@ -120,12 +120,6 @@
     "org": "I-SERVERS LTD"
   },
   {
-    "ip": "138.124.15.102",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare London, LLC"
-  },
-  {
     "ip": "198.105.124.163",
     "port": 443,
     "code": "FI",
@@ -960,12 +954,6 @@
     "org": "HETZNER-DC"
   },
   {
-    "ip": "194.58.59.162",
-    "port": 443,
-    "code": "FI",
-    "org": "OY Creanova Hosting Solutions LTD"
-  },
-  {
     "ip": "46.8.70.198",
     "port": 443,
     "code": "FI",
@@ -1122,12 +1110,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "188.130.206.93",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "65.109.182.62",
     "port": 443,
     "code": "FI",
@@ -1204,12 +1186,6 @@
     "port": 443,
     "code": "FI",
     "org": "HETZNER-DC"
-  },
-  {
-    "ip": "89.125.2.229",
-    "port": 443,
-    "code": "FI",
-    "org": "Snowd Security OU"
   },
   {
     "ip": "151.245.140.204",
@@ -1626,12 +1602,6 @@
     "org": "nuxt.cloud hosting provider"
   },
   {
-    "ip": "46.8.228.78",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "94.183.189.154",
     "port": 443,
     "code": "FI",
@@ -1672,12 +1642,6 @@
     "port": 443,
     "code": "FI",
     "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "45.12.151.17",
-    "port": 443,
-    "code": "FI",
-    "org": "WorkTitans B.V"
   },
   {
     "ip": "79.110.48.71",
@@ -1750,5 +1714,71 @@
     "port": 443,
     "code": "FI",
     "org": "Xorek.Cloud Helsinki"
+  },
+  {
+    "ip": "95.85.250.216",
+    "port": 443,
+    "code": "FI",
+    "org": "1Cent Host"
+  },
+  {
+    "ip": "185.141.217.204",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "83.219.97.151",
+    "port": 443,
+    "code": "FI",
+    "org": "1Cent Host"
+  },
+  {
+    "ip": "95.143.111.212",
+    "port": 443,
+    "code": "FI",
+    "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "212.237.219.73",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "2.26.23.181",
+    "port": 443,
+    "code": "FI",
+    "org": "Xorek.Cloud Helsinki"
+  },
+  {
+    "ip": "31.76.77.22",
+    "port": 443,
+    "code": "FI",
+    "org": ""
+  },
+  {
+    "ip": "85.137.24.145",
+    "port": 443,
+    "code": "FI",
+    "org": "Aleksei Fedorov PR Krusevac"
+  },
+  {
+    "ip": "144.31.126.104",
+    "port": 443,
+    "code": "FI",
+    "org": "Xorek Cloud"
+  },
+  {
+    "ip": "153.80.241.171",
+    "port": 443,
+    "code": "FI",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "185.239.141.89",
+    "port": 443,
+    "code": "FI",
+    "org": "Individual Entrepreneur Anton Levin"
   }
 ]

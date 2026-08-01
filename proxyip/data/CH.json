@@ -174,12 +174,6 @@
     "org": "Noop, LLC"
   },
   {
-    "ip": "87.120.222.207",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "140.238.209.8",
     "port": 443,
     "code": "CH",
@@ -412,5 +406,17 @@
     "port": 443,
     "code": "CH",
     "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "140.238.170.32",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "92.119.165.150",
+    "port": 443,
+    "code": "CH",
+    "org": "Julian Achter"
   }
 ]
