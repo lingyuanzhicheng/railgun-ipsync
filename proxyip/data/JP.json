@@ -216,12 +216,6 @@
     "org": "SAKURA"
   },
   {
-    "ip": "64.110.101.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "160.16.57.18",
     "port": 443,
     "code": "JP",
@@ -270,12 +264,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "38.47.105.76",
-    "port": 443,
-    "code": "JP",
-    "org": "VMISS Inc"
-  },
-  {
     "ip": "64.110.104.30",
     "port": 443,
     "code": "JP",
@@ -288,9 +276,21 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "168.138.212.80",
+    "ip": "38.207.130.136",
     "port": 443,
     "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+    "org": "Akile LTD"
+  },
+  {
+    "ip": "47.245.62.50",
+    "port": 443,
+    "code": "JP",
+    "org": "Alibaba Cloud - JP"
+  },
+  {
+    "ip": "139.162.121.208",
+    "port": 443,
+    "code": "JP",
+    "org": "Linode"
   }
 ]

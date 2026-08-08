@@ -12,12 +12,6 @@
     "org": "TradeZone LLC"
   },
   {
-    "ip": "188.132.184.84",
-    "port": 8443,
-    "code": "TR",
-    "org": "ULTAHOST HOSTING VE VERI MERKEZI LTD. STI."
-  },
-  {
     "ip": "188.132.232.192",
     "port": 8443,
     "code": "TR",
@@ -31,12 +25,6 @@
   },
   {
     "ip": "185.235.243.172",
-    "port": 443,
-    "code": "TR",
-    "org": "WorkTitans B.V."
-  },
-  {
-    "ip": "2.56.127.137",
     "port": 443,
     "code": "TR",
     "org": "WorkTitans B.V."
@@ -82,5 +70,11 @@
     "port": 443,
     "code": "TR",
     "org": "Superonline Iletisim Hizmetleri A.S."
+  },
+  {
+    "ip": "94.141.97.10",
+    "port": 443,
+    "code": "TR",
+    "org": "SP3 Itglobal"
   }
 ]

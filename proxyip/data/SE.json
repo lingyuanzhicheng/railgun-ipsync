@@ -18,12 +18,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "94.242.58.117",
-    "port": 443,
-    "code": "SE",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "91.186.218.221",
     "port": 443,
     "code": "SE",
@@ -234,28 +228,10 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "91.186.218.58",
-    "port": 443,
-    "code": "SE",
-    "org": "Smart Digital Ideas DOO"
-  },
-  {
-    "ip": "91.186.219.15",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "31.192.244.129",
     "port": 443,
     "code": "SE",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "91.223.169.237",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudwebmanage EU ST"
   },
   {
     "ip": "185.58.115.45",
@@ -316,12 +292,6 @@
     "port": 443,
     "code": "SE",
     "org": "Servers Tech Fzco"
-  },
-  {
-    "ip": "185.229.221.92",
-    "port": 443,
-    "code": "SE",
-    "org": "Raul Gabriel Ghita"
   },
   {
     "ip": "103.110.66.169",
@@ -462,12 +432,6 @@
     "org": "IB Compute Systems Inc"
   },
   {
-    "ip": "185.139.228.30",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudwebmanage EU ST"
-  },
-  {
     "ip": "89.22.236.0",
     "port": 443,
     "code": "SE",
@@ -492,22 +456,10 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "91.186.212.249",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
-  },
-  {
     "ip": "91.186.216.240",
     "port": 443,
     "code": "SE",
     "org": "NetCrafters OU"
-  },
-  {
-    "ip": "132.243.246.239",
-    "port": 443,
-    "code": "SE",
-    "org": "Baxet Group Inc"
   },
   {
     "ip": "138.124.25.223",
@@ -552,12 +504,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "138.124.85.152",
-    "port": 443,
-    "code": "SE",
-    "org": "IBCS"
-  },
-  {
     "ip": "138.124.250.35",
     "port": 443,
     "code": "SE",
@@ -576,12 +522,6 @@
     "org": "Dfdb LLC"
   },
   {
-    "ip": "196.196.5.26",
-    "port": 443,
-    "code": "SE",
-    "org": "Fiber Grid"
-  },
-  {
     "ip": "5.175.236.48",
     "port": 443,
     "code": "SE",
@@ -594,15 +534,57 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "31.77.158.167",
+    "ip": "64.188.81.49",
     "port": 443,
     "code": "SE",
-    "org": ""
+    "org": "1Cent Host"
   },
   {
-    "ip": "172.232.149.77",
+    "ip": "46.21.81.230",
     "port": 443,
     "code": "SE",
-    "org": "Akamai Technologies, Inc."
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "77.110.120.118",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "84.22.148.114",
+    "port": 443,
+    "code": "SE",
+    "org": "Igra-service LLC"
+  },
+  {
+    "ip": "89.22.226.39",
+    "port": 443,
+    "code": "SE",
+    "org": "Servers Tech Fzco"
+  },
+  {
+    "ip": "91.186.219.61",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "213.176.119.152",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "62.60.152.148",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "62.60.250.200",
+    "port": 443,
+    "code": "SE",
+    "org": "RTM GmbH"
   }
 ]

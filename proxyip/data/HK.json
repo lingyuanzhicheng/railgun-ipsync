@@ -6,12 +6,6 @@
     "org": "Aliyun Computing Co.LTD"
   },
   {
-    "ip": "47.76.218.163",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba Cloud - HK"
-  },
-  {
     "ip": "43.154.124.136",
     "port": 26666,
     "code": "HK",
@@ -94,5 +88,11 @@
     "port": 443,
     "code": "HK",
     "org": ""
+  },
+  {
+    "ip": "47.57.181.17",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba.com LLC"
   }
 ]

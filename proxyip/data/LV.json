@@ -1,11 +1,5 @@
 [
   {
-    "ip": "94.158.218.48",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "84.21.172.81",
     "port": 443,
     "code": "LV",
@@ -138,12 +132,6 @@
     "org": "Sia Nano IT"
   },
   {
-    "ip": "31.128.34.85",
-    "port": 587,
-    "code": "LV",
-    "org": "Beget LLC"
-  },
-  {
     "ip": "193.68.89.220",
     "port": 443,
     "code": "LV",
@@ -190,12 +178,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "46.21.80.141",
-    "port": 443,
-    "code": "LV",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "213.155.12.173",
@@ -258,22 +240,10 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "193.56.188.76",
-    "port": 443,
-    "code": "LV",
-    "org": "Beget LLC"
-  },
-  {
     "ip": "5.34.211.150",
     "port": 443,
     "code": "LV",
     "org": "Parsun Network Solutions PTY LTD"
-  },
-  {
-    "ip": "31.57.27.98",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "31.57.26.159",
@@ -295,6 +265,18 @@
   },
   {
     "ip": "195.135.253.164",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "188.130.206.93",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "195.135.253.175",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"

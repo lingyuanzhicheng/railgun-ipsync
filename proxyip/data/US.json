@@ -666,22 +666,10 @@
     "org": "Alibaba Cloud - US"
   },
   {
-    "ip": "216.146.25.224",
-    "port": 2053,
-    "code": "US",
-    "org": "EXTRAVM LLC"
-  },
-  {
     "ip": "129.158.198.241",
     "port": 2053,
     "code": "US",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "80.209.240.188",
-    "port": 8443,
-    "code": "US",
-    "org": "HOSTKEY"
   },
   {
     "ip": "82.117.252.189",
@@ -960,12 +948,6 @@
     "org": "Ace Data Centers II, LLC"
   },
   {
-    "ip": "143.198.52.252",
-    "port": 443,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "193.122.154.82",
     "port": 443,
     "code": "US",
@@ -988,12 +970,6 @@
     "port": 443,
     "code": "US",
     "org": "Hostkey USA Inc"
-  },
-  {
-    "ip": "2.26.0.209",
-    "port": 443,
-    "code": "US",
-    "org": "Ace Data Centers II, LLC"
   },
   {
     "ip": "154.9.239.44",
@@ -1048,12 +1024,6 @@
     "port": 443,
     "code": "US",
     "org": "Oracle Cloud Infrastructure (us-ashburn-1)"
-  },
-  {
-    "ip": "134.199.142.254",
-    "port": 443,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "192.3.212.40",
@@ -1128,12 +1098,6 @@
     "org": "HostPapa"
   },
   {
-    "ip": "34.4.108.104",
-    "port": 443,
-    "code": "US",
-    "org": "Google Cloud (us-west1)"
-  },
-  {
     "ip": "49.51.34.124",
     "port": 443,
     "code": "US",
@@ -1144,12 +1108,6 @@
     "port": 443,
     "code": "US",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "82.29.71.158",
-    "port": 443,
-    "code": "US",
-    "org": "Hosteons Pte. Ltd"
   },
   {
     "ip": "103.196.20.14",
@@ -1248,12 +1206,6 @@
     "org": "NetLab Global"
   },
   {
-    "ip": "38.65.9.4",
-    "port": 443,
-    "code": "US",
-    "org": "Alpaca Securities / AlpacaDB, Inc"
-  },
-  {
     "ip": "65.49.222.7",
     "port": 443,
     "code": "US",
@@ -1302,12 +1254,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "45.13.214.27",
-    "port": 443,
-    "code": "US",
-    "org": "Rare Mood Agency SRL"
-  },
-  {
     "ip": "172.245.148.211",
     "port": 443,
     "code": "US",
@@ -1320,28 +1266,10 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "23.142.200.32",
-    "port": 443,
-    "code": "US",
-    "org": "PoloCloud Computing (United States) LLC"
-  },
-  {
-    "ip": "67.230.175.91",
-    "port": 443,
-    "code": "US",
-    "org": "Cluster Logic Inc"
-  },
-  {
     "ip": "146.235.232.79",
     "port": 443,
     "code": "US",
     "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
-  },
-  {
-    "ip": "166.88.164.233",
-    "port": 443,
-    "code": "US",
-    "org": "InterLIR LLC"
   },
   {
     "ip": "172.245.180.103",
@@ -1404,18 +1332,6 @@
     "org": "ColoCrossing"
   },
   {
-    "ip": "31.76.15.249",
-    "port": 443,
-    "code": "US",
-    "org": "Ace Data Centers II, LLC"
-  },
-  {
-    "ip": "31.59.136.223",
-    "port": 443,
-    "code": "US",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "23.95.215.195",
     "port": 443,
     "code": "US",
@@ -1426,12 +1342,6 @@
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "159.223.194.58",
-    "port": 443,
-    "code": "US",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "216.36.116.175",
@@ -1446,12 +1356,6 @@
     "org": "Code 200, UAB"
   },
   {
-    "ip": "47.254.57.63",
-    "port": 443,
-    "code": "US",
-    "org": "Alibaba Cloud - US"
-  },
-  {
     "ip": "64.186.246.74",
     "port": 443,
     "code": "US",
@@ -1462,12 +1366,6 @@
     "port": 443,
     "code": "US",
     "org": "Huize Holdings LLC"
-  },
-  {
-    "ip": "212.43.153.104",
-    "port": 443,
-    "code": "US",
-    "org": "Podaon SIA"
   },
   {
     "ip": "89.185.80.238",
@@ -1492,12 +1390,6 @@
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
-  },
-  {
-    "ip": "66.135.5.63",
-    "port": 443,
-    "code": "US",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "192.3.251.89",
@@ -1548,21 +1440,135 @@
     "org": ""
   },
   {
-    "ip": "38.95.121.84",
-    "port": 443,
-    "code": "US",
-    "org": "Aiyun Communications LLC"
-  },
-  {
     "ip": "212.124.105.20",
     "port": 443,
     "code": "US",
     "org": "True Records Inc"
   },
   {
-    "ip": "23.94.57.31",
+    "ip": "206.223.84.247",
+    "port": 443,
+    "code": "US",
+    "org": "Atlantic Cellular Management Company"
+  },
+  {
+    "ip": "107.172.190.151",
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.94.123.231",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "104.223.54.68",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "107.175.206.50",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.94.43.51",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "208.167.245.42",
+    "port": 443,
+    "code": "US",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "23.94.59.201",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "23.94.56.22",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.174.242.250",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "192.3.1.218",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.172.87.247",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "96.8.121.109",
+    "port": 443,
+    "code": "US",
+    "org": "New Wave NetConnect, LLC"
+  },
+  {
+    "ip": "96.44.177.208",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "64.112.43.251",
+    "port": 443,
+    "code": "US",
+    "org": "CloudCone, LLC"
+  },
+  {
+    "ip": "192.129.220.4",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "192.119.83.187",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.172.79.112",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "155.94.164.186",
+    "port": 443,
+    "code": "US",
+    "org": "HostPapa"
+  },
+  {
+    "ip": "43.162.119.244",
+    "port": 443,
+    "code": "US",
+    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
+  },
+  {
+    "ip": "64.49.28.77",
+    "port": 443,
+    "code": "US",
+    "org": "Taipei101 Network LLC"
   }
 ]

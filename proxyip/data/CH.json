@@ -72,37 +72,13 @@
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
-    "ip": "194.156.102.142",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "91.192.102.120",
-    "port": 443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "140.238.208.210",
     "port": 443,
     "code": "CH",
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "185.195.69.119",
-    "port": 8443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "185.195.69.209",
-    "port": 2053,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
-    "ip": "185.195.69.119",
     "port": 2053,
     "code": "CH",
     "org": "Datasource AG"
@@ -198,12 +174,6 @@
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
-    "ip": "45.143.200.135",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "79.132.141.152",
     "port": 443,
     "code": "CH",
@@ -240,12 +210,6 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "45.143.200.245",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "45.85.93.45",
     "port": 443,
     "code": "CH",
@@ -274,12 +238,6 @@
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "199.68.196.131",
-    "port": 443,
-    "code": "CH",
-    "org": "Fornex Hosting S.L."
   },
   {
     "ip": "87.120.222.188",
@@ -318,12 +276,6 @@
     "org": "3NT SOLUTIONS LLP"
   },
   {
-    "ip": "213.176.18.42",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "171.22.16.201",
     "port": 443,
     "code": "CH",
@@ -352,12 +304,6 @@
     "port": 443,
     "code": "CH",
     "org": "anyNode"
-  },
-  {
-    "ip": "82.22.36.103",
-    "port": 443,
-    "code": "CH",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "87.120.222.26",
@@ -408,15 +354,15 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "140.238.170.32",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
-  },
-  {
     "ip": "92.119.165.150",
     "port": 443,
     "code": "CH",
     "org": "Julian Achter"
+  },
+  {
+    "ip": "87.120.222.207",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]
