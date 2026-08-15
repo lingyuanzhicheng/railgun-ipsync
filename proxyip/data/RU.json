@@ -234,12 +234,6 @@
     "org": "Beget LLC"
   },
   {
-    "ip": "159.194.200.159",
-    "port": 443,
-    "code": "RU",
-    "org": "Beget LLC"
-  },
-  {
     "ip": "31.129.49.103",
     "port": 443,
     "code": "RU",
@@ -366,12 +360,6 @@
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   },
   {
-    "ip": "93.123.167.66",
-    "port": 443,
-    "code": "RU",
-    "org": "Infolink spec"
-  },
-  {
     "ip": "194.87.151.237",
     "port": 443,
     "code": "RU",
@@ -444,12 +432,6 @@
     "org": "JSC IOT"
   },
   {
-    "ip": "31.192.111.185",
-    "port": 443,
-    "code": "RU",
-    "org": "LLC IT BASIS"
-  },
-  {
     "ip": "212.193.26.83",
     "port": 443,
     "code": "RU",
@@ -457,12 +439,6 @@
   },
   {
     "ip": "5.129.223.137",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
-  },
-  {
-    "ip": "90.156.226.208",
     "port": 443,
     "code": "RU",
     "org": "JSC \"TIMEWEB\""
@@ -528,12 +504,6 @@
     "org": "Comfortel Ltd"
   },
   {
-    "ip": "45.129.2.201",
-    "port": 443,
-    "code": "RU",
-    "org": "iNet Ltd"
-  },
-  {
     "ip": "2.26.104.64",
     "port": 443,
     "code": "RU",
@@ -568,18 +538,6 @@
     "port": 443,
     "code": "RU",
     "org": "Datacheap LLC"
-  },
-  {
-    "ip": "89.169.134.149",
-    "port": 443,
-    "code": "RU",
-    "org": "Yandex.Cloud LLC"
-  },
-  {
-    "ip": "109.205.56.213",
-    "port": 443,
-    "code": "RU",
-    "org": "RocketCloud"
   },
   {
     "ip": "109.248.168.38",
@@ -678,12 +636,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "185.170.10.35",
-    "port": 443,
-    "code": "RU",
-    "org": "ServTech LTD"
-  },
-  {
     "ip": "194.87.94.186",
     "port": 443,
     "code": "RU",
@@ -768,12 +720,6 @@
     "org": "Mikhail Shchurov"
   },
   {
-    "ip": "83.217.214.34",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
     "ip": "95.188.72.67",
     "port": 443,
     "code": "RU",
@@ -784,12 +730,6 @@
     "port": 443,
     "code": "RU",
     "org": "Informational-measuring systems Ltd."
-  },
-  {
-    "ip": "82.148.31.7",
-    "port": 443,
-    "code": "RU",
-    "org": "Selectel"
   },
   {
     "ip": "141.98.190.45",
@@ -852,18 +792,6 @@
     "org": "UFO Hosting LLC"
   },
   {
-    "ip": "85.208.208.231",
-    "port": 443,
-    "code": "RU",
-    "org": "MT FINANCE LLC"
-  },
-  {
-    "ip": "89.169.164.103",
-    "port": 443,
-    "code": "RU",
-    "org": "Yandex.Cloud LLC"
-  },
-  {
     "ip": "93.77.165.232",
     "port": 443,
     "code": "RU",
@@ -898,5 +826,71 @@
     "port": 443,
     "code": "RU",
     "org": "Igra-service LLC"
+  },
+  {
+    "ip": "178.253.39.156",
+    "port": 443,
+    "code": "RU",
+    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
+  },
+  {
+    "ip": "104.128.129.145",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "46.29.118.247",
+    "port": 443,
+    "code": "RU",
+    "org": "Okay-Telecom Ltd."
+  },
+  {
+    "ip": "94.232.248.149",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "157.22.230.81",
+    "port": 443,
+    "code": "RU",
+    "org": "AdminVPS OOO"
+  },
+  {
+    "ip": "212.67.15.76",
+    "port": 443,
+    "code": "RU",
+    "org": "Beget LLC"
+  },
+  {
+    "ip": "130.49.186.203",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "212.220.211.85",
+    "port": 443,
+    "code": "RU",
+    "org": "Dynamic distribution IPs for broadband services"
+  },
+  {
+    "ip": "2.26.104.119",
+    "port": 443,
+    "code": "RU",
+    "org": "Xorek.Cloud Moscow"
+  },
+  {
+    "ip": "2.27.54.170",
+    "port": 443,
+    "code": "RU",
+    "org": "Xorek.Cloud Moscow"
+  },
+  {
+    "ip": "45.132.255.173",
+    "port": 443,
+    "code": "RU",
+    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   }
 ]

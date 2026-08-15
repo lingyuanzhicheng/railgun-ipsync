@@ -1,11 +1,5 @@
 [
   {
-    "ip": "62.60.149.222",
-    "port": 2053,
-    "code": "SE",
-    "org": "Smart Digital Ideas DOO"
-  },
-  {
     "ip": "77.221.143.39",
     "port": 443,
     "code": "SE",
@@ -40,12 +34,6 @@
     "port": 443,
     "code": "SE",
     "org": "Internetport Sweden AB"
-  },
-  {
-    "ip": "91.186.217.193",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "95.143.196.18",
@@ -106,12 +94,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "83.219.250.141",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "41.216.182.105",
@@ -216,24 +198,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "62.60.149.222",
-    "port": 8443,
-    "code": "SE",
-    "org": "Smart Digital Ideas DOO"
-  },
-  {
-    "ip": "89.169.34.99",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "31.192.244.129",
-    "port": 443,
-    "code": "SE",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "185.58.115.45",
     "port": 443,
     "code": "SE",
@@ -258,22 +222,10 @@
     "org": "HZ Na30"
   },
   {
-    "ip": "83.219.250.221",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "87.121.105.12",
     "port": 443,
     "code": "SE",
     "org": "Play2go International Limited"
-  },
-  {
-    "ip": "142.111.244.42",
-    "port": 443,
-    "code": "SE",
-    "org": "IB Compute Systems Inc"
   },
   {
     "ip": "37.252.8.202",
@@ -348,12 +300,6 @@
     "org": "Hostup AB"
   },
   {
-    "ip": "91.186.212.186",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
-  },
-  {
     "ip": "138.124.71.139",
     "port": 443,
     "code": "SE",
@@ -364,12 +310,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "91.186.212.246",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
   },
   {
     "ip": "91.186.218.54",
@@ -436,12 +376,6 @@
     "port": 443,
     "code": "SE",
     "org": "Servers Tech Fzco"
-  },
-  {
-    "ip": "91.186.212.228",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
   },
   {
     "ip": "109.120.135.49",
@@ -516,12 +450,6 @@
     "org": ""
   },
   {
-    "ip": "207.2.123.197",
-    "port": 443,
-    "code": "SE",
-    "org": "Dfdb LLC"
-  },
-  {
     "ip": "5.175.236.48",
     "port": 443,
     "code": "SE",
@@ -538,12 +466,6 @@
     "port": 443,
     "code": "SE",
     "org": "1Cent Host"
-  },
-  {
-    "ip": "46.21.81.230",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "77.110.120.118",
@@ -576,15 +498,33 @@
     "org": "NetCrafters OU"
   },
   {
-    "ip": "62.60.152.148",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
-  },
-  {
     "ip": "62.60.250.200",
     "port": 443,
     "code": "SE",
     "org": "RTM GmbH"
+  },
+  {
+    "ip": "172.232.149.77",
+    "port": 443,
+    "code": "SE",
+    "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "196.196.5.26",
+    "port": 443,
+    "code": "SE",
+    "org": "Fiber Grid"
+  },
+  {
+    "ip": "212.147.247.193",
+    "port": 443,
+    "code": "SE",
+    "org": "Upcloud SE Sto1"
+  },
+  {
+    "ip": "31.77.158.167",
+    "port": 443,
+    "code": "SE",
+    "org": ""
   }
 ]

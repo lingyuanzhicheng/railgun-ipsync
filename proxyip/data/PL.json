@@ -54,12 +54,6 @@
     "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "45.144.48.64",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "188.116.40.37",
     "port": 443,
     "code": "PL",
@@ -168,22 +162,10 @@
     "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
   },
   {
-    "ip": "45.144.51.133",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
-  },
-  {
     "ip": "217.12.206.160",
     "port": 81,
     "code": "PL",
     "org": "GREEN FLOID LLC"
-  },
-  {
-    "ip": "45.144.48.182",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
   },
   {
     "ip": "80.211.249.68",
@@ -306,12 +288,6 @@
     "org": "AlbHost SH.P.K"
   },
   {
-    "ip": "95.156.204.82",
-    "port": 443,
-    "code": "PL",
-    "org": "EDIS GmbH"
-  },
-  {
     "ip": "151.245.112.24",
     "port": 443,
     "code": "PL",
@@ -328,12 +304,6 @@
     "port": 443,
     "code": "PL",
     "org": "GF PL GDN"
-  },
-  {
-    "ip": "82.38.65.88",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "188.255.163.120",
@@ -426,12 +396,6 @@
     "org": "Global Internet Solutions LLC"
   },
   {
-    "ip": "78.17.87.176",
-    "port": 443,
-    "code": "PL",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "82.38.66.90",
     "port": 443,
     "code": "PL",
@@ -490,5 +454,17 @@
     "port": 443,
     "code": "PL",
     "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "191.101.184.50",
+    "port": 443,
+    "code": "PL",
+    "org": "Serva ONE LTD"
+  },
+  {
+    "ip": "95.85.254.27",
+    "port": 443,
+    "code": "PL",
+    "org": "1Cent Host"
   }
 ]

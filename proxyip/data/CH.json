@@ -198,12 +198,6 @@
     "org": "Fornex Hosting S.L."
   },
   {
-    "ip": "38.180.84.40",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "82.38.64.162",
     "port": 443,
     "code": "CH",
@@ -364,5 +358,23 @@
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "213.176.18.42",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "45.143.200.245",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "140.238.170.32",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   }
 ]

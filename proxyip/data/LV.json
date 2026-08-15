@@ -204,12 +204,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "188.92.78.188",
-    "port": 443,
-    "code": "LV",
-    "org": "NANO-ADTECH"
-  },
-  {
     "ip": "188.253.23.155",
     "port": 443,
     "code": "LV",
@@ -276,9 +270,15 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "195.135.253.175",
+    "ip": "46.8.232.48",
     "port": 443,
     "code": "LV",
-    "org": "SIA VEESP"
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.27.98",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
   }
 ]

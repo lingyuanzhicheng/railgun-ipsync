@@ -486,12 +486,6 @@
     "org": "Digitalocean"
   },
   {
-    "ip": "91.132.95.212",
-    "port": 443,
-    "code": "GB",
-    "org": "EDIS GmbH"
-  },
-  {
     "ip": "78.129.165.129",
     "port": 443,
     "code": "GB",
@@ -532,12 +526,6 @@
     "port": 443,
     "code": "GB",
     "org": "Oracle Cloud Infrastructure (uk-london-1)"
-  },
-  {
-    "ip": "45.150.66.75",
-    "port": 443,
-    "code": "GB",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "88.80.186.197",
@@ -624,12 +612,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "62.60.155.126",
-    "port": 443,
-    "code": "GB",
-    "org": "NetCrafters OU"
-  },
-  {
     "ip": "91.227.62.75",
     "port": 443,
     "code": "GB",
@@ -672,12 +654,6 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "95.179.228.112",
-    "port": 443,
-    "code": "GB",
-    "org": "Vultr Holdings LLC London"
-  },
-  {
     "ip": "91.227.62.62",
     "port": 443,
     "code": "GB",
@@ -688,5 +664,23 @@
     "port": 443,
     "code": "GB",
     "org": "Vdska FL1"
+  },
+  {
+    "ip": "78.129.155.174",
+    "port": 443,
+    "code": "GB",
+    "org": "EUKHOST Ltd"
+  },
+  {
+    "ip": "46.226.162.57",
+    "port": 443,
+    "code": "GB",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "45.32.180.58",
+    "port": 443,
+    "code": "GB",
+    "org": "Vultr Holdings, LLC"
   }
 ]
