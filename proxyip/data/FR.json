@@ -174,12 +174,6 @@
     "org": "RACKNERD-FR"
   },
   {
-    "ip": "88.218.78.205",
-    "port": 2053,
-    "code": "FR",
-    "org": "RACKNERD-FR"
-  },
-  {
     "ip": "92.119.126.144",
     "port": 8443,
     "code": "FR",
@@ -318,12 +312,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "62.60.246.90",
-    "port": 443,
-    "code": "FR",
-    "org": "RTM GmbH"
-  },
-  {
     "ip": "145.223.69.87",
     "port": 443,
     "code": "FR",
@@ -340,18 +328,6 @@
     "port": 443,
     "code": "FR",
     "org": "Ipxo"
-  },
-  {
-    "ip": "2.27.169.216",
-    "port": 443,
-    "code": "FR",
-    "org": "Ipxo"
-  },
-  {
-    "ip": "167.86.116.97",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
   },
   {
     "ip": "194.113.235.229",
@@ -576,22 +552,10 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "163.172.157.35",
-    "port": 443,
-    "code": "FR",
-    "org": "ONLINE"
-  },
-  {
     "ip": "82.64.120.239",
     "port": 443,
     "code": "FR",
     "org": "Free"
-  },
-  {
-    "ip": "185.236.23.26",
-    "port": 443,
-    "code": "FR",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "2.7.113.69",
@@ -604,5 +568,35 @@
     "port": 443,
     "code": "FR",
     "org": ""
+  },
+  {
+    "ip": "179.255.188.48",
+    "port": 443,
+    "code": "FR",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "37.122.148.17",
+    "port": 443,
+    "code": "FR",
+    "org": "RBX"
+  },
+  {
+    "ip": "51.91.16.135",
+    "port": 443,
+    "code": "FR",
+    "org": "OVH"
+  },
+  {
+    "ip": "132.243.204.84",
+    "port": 443,
+    "code": "FR",
+    "org": "365.partners INC"
+  },
+  {
+    "ip": "138.124.70.97",
+    "port": 443,
+    "code": "FR",
+    "org": "Baykov Ilya Sergeevich"
   }
 ]

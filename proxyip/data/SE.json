@@ -30,24 +30,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "45.82.80.96",
-    "port": 443,
-    "code": "SE",
-    "org": "Internetport Sweden AB"
-  },
-  {
-    "ip": "95.143.196.18",
-    "port": 443,
-    "code": "SE",
-    "org": "Internetport Sweden AB"
-  },
-  {
-    "ip": "109.120.135.91",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "77.110.97.230",
     "port": 443,
     "code": "SE",
@@ -180,18 +162,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "89.22.232.254",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "109.120.135.91",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "46.226.161.12",
     "port": 2053,
     "code": "SE",
@@ -222,12 +192,6 @@
     "org": "HZ Na30"
   },
   {
-    "ip": "87.121.105.12",
-    "port": 443,
-    "code": "SE",
-    "org": "Play2go International Limited"
-  },
-  {
     "ip": "37.252.8.202",
     "port": 443,
     "code": "SE",
@@ -250,12 +214,6 @@
     "port": 443,
     "code": "SE",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "91.186.216.59",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
   },
   {
     "ip": "37.252.9.236",
@@ -360,12 +318,6 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "192.145.30.224",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "142.111.244.5",
     "port": 443,
     "code": "SE",
@@ -388,12 +340,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "91.186.216.240",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
   },
   {
     "ip": "138.124.25.223",
@@ -486,12 +432,6 @@
     "org": "Servers Tech Fzco"
   },
   {
-    "ip": "91.186.219.61",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
-  },
-  {
     "ip": "213.176.119.152",
     "port": 443,
     "code": "SE",
@@ -526,5 +466,149 @@
     "port": 443,
     "code": "SE",
     "org": ""
+  },
+  {
+    "ip": "84.32.217.147",
+    "port": 443,
+    "code": "SE",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "89.169.34.174",
+    "port": 443,
+    "code": "SE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "45.80.229.48",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "185.82.126.37",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "196.196.5.28",
+    "port": 443,
+    "code": "SE",
+    "org": "Fiber Grid"
+  },
+  {
+    "ip": "213.176.119.139",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "16.171.218.156",
+    "port": 443,
+    "code": "SE",
+    "org": "AWS EC2 (eu-north-1)"
+  },
+  {
+    "ip": "37.203.209.26",
+    "port": 443,
+    "code": "SE",
+    "org": "Reverse-Proxy"
+  },
+  {
+    "ip": "37.203.209.42",
+    "port": 443,
+    "code": "SE",
+    "org": "Ggyy Ips"
+  },
+  {
+    "ip": "37.203.209.50",
+    "port": 443,
+    "code": "SE",
+    "org": "Reverse Proxy3241"
+  },
+  {
+    "ip": "46.249.103.176",
+    "port": 443,
+    "code": "SE",
+    "org": "Deployish Limited"
+  },
+  {
+    "ip": "70.34.210.205",
+    "port": 443,
+    "code": "SE",
+    "org": "Vultr"
+  },
+  {
+    "ip": "77.221.143.238",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "84.32.99.133",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "84.32.208.201",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "89.125.76.229",
+    "port": 443,
+    "code": "SE",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "121.127.33.130",
+    "port": 443,
+    "code": "SE",
+    "org": "Privex Inc"
+  },
+  {
+    "ip": "138.124.103.161",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "138.124.127.235",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "150.251.154.96",
+    "port": 443,
+    "code": "SE",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "185.103.102.251",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "185.186.78.24",
+    "port": 443,
+    "code": "SE",
+    "org": "Oneprovider.com"
+  },
+  {
+    "ip": "5.175.236.36",
+    "port": 443,
+    "code": "SE",
+    "org": "NyaNet"
+  },
+  {
+    "ip": "5.175.236.58",
+    "port": 443,
+    "code": "SE",
+    "org": "NyaNet"
   }
 ]

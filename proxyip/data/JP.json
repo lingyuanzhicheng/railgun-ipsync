@@ -42,12 +42,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "152.69.192.40",
-    "port": 57005,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "103.106.228.126",
     "port": 2053,
     "code": "JP",
@@ -56,12 +50,6 @@
   {
     "ip": "138.2.10.149",
     "port": 45638,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
-    "ip": "138.2.10.217",
-    "port": 27446,
     "code": "JP",
     "org": "Oracle Corporation"
   },
@@ -76,12 +64,6 @@
     "port": 8443,
     "code": "JP",
     "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "138.3.222.124",
-    "port": 46209,
-    "code": "JP",
-    "org": "Oracle Network Information Services"
   },
   {
     "ip": "140.238.37.103",
@@ -114,12 +96,6 @@
     "org": "imported inetnum object for OCPL-1"
   },
   {
-    "ip": "141.147.183.49",
-    "port": 29876,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "138.2.5.136",
     "port": 443,
     "code": "JP",
@@ -130,12 +106,6 @@
     "port": 16957,
     "code": "JP",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "158.101.89.113",
-    "port": 50443,
-    "code": "JP",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "138.3.217.167",
@@ -174,12 +144,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "150.230.5.126",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "160.16.59.9",
     "port": 443,
     "code": "JP",
@@ -202,12 +166,6 @@
     "port": 443,
     "code": "JP",
     "org": "The Constant Company, LLC"
-  },
-  {
-    "ip": "153.121.76.150",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
   },
   {
     "ip": "160.16.62.84",
@@ -258,12 +216,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "64.110.104.30",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "138.2.31.37",
     "port": 443,
     "code": "JP",
@@ -288,9 +240,87 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "107.191.53.228",
+    "ip": "168.138.212.80",
     "port": 443,
     "code": "JP",
-    "org": "Vultr Holdings, LLC"
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "38.47.105.76",
+    "port": 443,
+    "code": "JP",
+    "org": "VMISS Inc"
+  },
+  {
+    "ip": "38.180.147.241",
+    "port": 443,
+    "code": "JP",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "74.82.192.82",
+    "port": 443,
+    "code": "JP",
+    "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "85.149.218.210",
+    "port": 443,
+    "code": "JP",
+    "org": "Zouter Limited"
+  },
+  {
+    "ip": "138.2.52.152",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "140.83.55.25",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "141.147.162.33",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "160.16.62.225",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA"
+  },
+  {
+    "ip": "160.16.103.102",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA Internet Inc."
+  },
+  {
+    "ip": "160.16.109.149",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA Internet Inc."
+  },
+  {
+    "ip": "160.16.123.110",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA Internet Inc."
+  },
+  {
+    "ip": "160.16.209.61",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA Internet Inc."
+  },
+  {
+    "ip": "176.97.73.228",
+    "port": 443,
+    "code": "JP",
+    "org": "IROKO Networks Corporation"
   }
 ]

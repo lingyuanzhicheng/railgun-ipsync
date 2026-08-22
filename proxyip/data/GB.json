@@ -666,12 +666,6 @@
     "org": "Vdska FL1"
   },
   {
-    "ip": "78.129.155.174",
-    "port": 443,
-    "code": "GB",
-    "org": "EUKHOST Ltd"
-  },
-  {
     "ip": "46.226.162.57",
     "port": 443,
     "code": "GB",
@@ -682,5 +676,77 @@
     "port": 443,
     "code": "GB",
     "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "165.227.237.209",
+    "port": 443,
+    "code": "GB",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "45.150.66.75",
+    "port": 443,
+    "code": "GB",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "194.147.35.167",
+    "port": 443,
+    "code": "GB",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "95.214.180.220",
+    "port": 443,
+    "code": "GB",
+    "org": "Eugamehost"
+  },
+  {
+    "ip": "54.38.214.128",
+    "port": 443,
+    "code": "GB",
+    "org": "OVH Ltd"
+  },
+  {
+    "ip": "5.253.38.82",
+    "port": 443,
+    "code": "GB",
+    "org": "Securewan"
+  },
+  {
+    "ip": "80.71.229.235",
+    "port": 443,
+    "code": "GB",
+    "org": "Fastwarp LLP"
+  },
+  {
+    "ip": "87.84.155.97",
+    "port": 443,
+    "code": "GB",
+    "org": ""
+  },
+  {
+    "ip": "91.227.62.95",
+    "port": 443,
+    "code": "GB",
+    "org": "Xantho UAB"
+  },
+  {
+    "ip": "138.249.138.5",
+    "port": 443,
+    "code": "GB",
+    "org": "Costel Savulescu"
+  },
+  {
+    "ip": "51.241.130.35",
+    "port": 443,
+    "code": "GB",
+    "org": "Bage Cloud LLC"
+  },
+  {
+    "ip": "52.56.194.132",
+    "port": 443,
+    "code": "GB",
+    "org": "AWS EC2 (eu-west-2)"
   }
 ]

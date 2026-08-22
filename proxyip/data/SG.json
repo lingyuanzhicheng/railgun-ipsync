@@ -30,22 +30,10 @@
     "org": "SGP_VULTR_CUST"
   },
   {
-    "ip": "138.2.95.61",
-    "port": 1111,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "143.42.66.91",
     "port": 443,
     "code": "SG",
     "org": "Viewqwest Pte Ltd"
-  },
-  {
-    "ip": "168.138.171.70",
-    "port": 23280,
-    "code": "SG",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "146.235.18.248",
@@ -138,15 +126,141 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "47.236.119.109",
     "port": 443,
     "code": "SG",
     "org": "Alibaba Cloud LLC"
+  },
+  {
+    "ip": "157.230.244.86",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "141.11.43.124",
+    "port": 443,
+    "code": "SG",
+    "org": "Streamline Servers Pty Ltd"
+  },
+  {
+    "ip": "43.174.192.1",
+    "port": 443,
+    "code": "SG",
+    "org": "ACE"
+  },
+  {
+    "ip": "43.160.238.73",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
+  },
+  {
+    "ip": "43.160.241.174",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
+  },
+  {
+    "ip": "43.170.38.62",
+    "port": 443,
+    "code": "SG",
+    "org": "ACE"
+  },
+  {
+    "ip": "45.32.127.54",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "45.130.164.109",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "45.139.226.157",
+    "port": 443,
+    "code": "SG",
+    "org": "SPEEDYPAGE-LTD"
+  },
+  {
+    "ip": "51.79.177.53",
+    "port": 443,
+    "code": "SG",
+    "org": "OVH Singapore PTE. LTD"
+  },
+  {
+    "ip": "64.235.43.44",
+    "port": 443,
+    "code": "SG",
+    "org": "Singapore SG Datacenter"
+  },
+  {
+    "ip": "85.149.211.122",
+    "port": 443,
+    "code": "SG",
+    "org": "Bage Cloud LLC"
+  },
+  {
+    "ip": "134.209.98.97",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "138.2.84.152",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "140.245.103.72",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "140.245.127.48",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "143.198.88.27",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "146.190.93.62",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "149.28.153.207",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "159.89.199.63",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "162.128.72.114",
+    "port": 443,
+    "code": "SG",
+    "org": "Zenlayer Inc"
+  },
+  {
+    "ip": "178.128.104.166",
+    "port": 443,
+    "code": "SG",
+    "org": "Digitalocean"
   }
 ]

@@ -12,28 +12,10 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "146.56.140.79",
-    "port": 22561,
-    "code": "KR",
-    "org": "Cloudflare London, LLC"
-  },
-  {
-    "ip": "146.56.140.79",
-    "port": 20309,
-    "code": "KR",
-    "org": "Cloudflare, Inc."
-  },
-  {
     "ip": "64.110.70.205",
     "port": 23022,
     "code": "KR",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "146.56.140.79",
-    "port": 44699,
-    "code": "KR",
-    "org": "Cloudflare London, LLC"
   },
   {
     "ip": "144.24.73.232",
@@ -66,12 +48,6 @@
     "org": "SK Broadband Co Ltd"
   },
   {
-    "ip": "158.180.69.78",
-    "port": 12198,
-    "code": "KR",
-    "org": "Cloudflare, Inc."
-  },
-  {
     "ip": "158.247.250.157",
     "port": 81,
     "code": "KR",
@@ -92,12 +68,6 @@
   {
     "ip": "152.67.211.114",
     "port": 58337,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "132.226.23.92",
-    "port": 22053,
     "code": "KR",
     "org": "Oracle Public Cloud"
   },
@@ -138,9 +108,159 @@
     "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
   },
   {
-    "ip": "64.110.75.145",
+    "ip": "152.70.253.44",
     "port": 443,
     "code": "KR",
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "43.133.253.45",
+    "port": 443,
+    "code": "KR",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "45.93.30.168",
+    "port": 443,
+    "code": "KR",
+    "org": "Xnnet Limited"
+  },
+  {
+    "ip": "146.56.180.103",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "20.41.123.20",
+    "port": 443,
+    "code": "KR",
+    "org": "Microsoft Azure Cloud (koreacentral)"
+  },
+  {
+    "ip": "27.102.134.233",
+    "port": 443,
+    "code": "KR",
+    "org": "KCInfra Inc"
+  },
+  {
+    "ip": "43.128.135.99",
+    "port": 443,
+    "code": "KR",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "43.131.242.223",
+    "port": 443,
+    "code": "KR",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "43.155.205.141",
+    "port": 443,
+    "code": "KR",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "45.93.31.131",
+    "port": 443,
+    "code": "KR",
+    "org": "Xnnet Limited"
+  },
+  {
+    "ip": "45.141.139.209",
+    "port": 443,
+    "code": "KR",
+    "org": "HVM Cloud LLC"
+  },
+  {
+    "ip": "47.80.57.116",
+    "port": 443,
+    "code": "KR",
+    "org": "Delta Centric LLC, Zenlayer Inc"
+  },
+  {
+    "ip": "64.176.230.12",
+    "port": 443,
+    "code": "KR",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "130.94.29.155",
+    "port": 443,
+    "code": "KR",
+    "org": ""
+  },
+  {
+    "ip": "131.186.16.166",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "131.186.26.94",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "134.185.99.52",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "140.245.65.122",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "141.164.37.50",
+    "port": 443,
+    "code": "KR",
+    "org": ""
+  },
+  {
+    "ip": "146.56.119.205",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "152.67.208.47",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "152.69.229.110",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "168.107.14.233",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "168.110.107.218",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "193.122.119.241",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "211.49.57.134",
+    "port": 443,
+    "code": "KR",
+    "org": "broadNnet"
   }
 ]
