@@ -12,12 +12,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "64.110.70.205",
-    "port": 23022,
-    "code": "KR",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "144.24.73.232",
     "port": 443,
     "code": "KR",
@@ -32,12 +26,6 @@
   {
     "ip": "132.226.21.116",
     "port": 6056,
-    "code": "KR",
-    "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "140.238.5.75",
-    "port": 13644,
     "code": "KR",
     "org": "Oracle Public Cloud"
   },
@@ -78,12 +66,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "119.205.235.58",
-    "port": 443,
-    "code": "KR",
-    "org": "Korea Telecom"
-  },
-  {
     "ip": "158.247.199.106",
     "port": 443,
     "code": "KR",
@@ -114,22 +96,10 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "43.133.253.45",
-    "port": 443,
-    "code": "KR",
-    "org": "Tencent Cloud Computing"
-  },
-  {
     "ip": "45.93.30.168",
     "port": 443,
     "code": "KR",
     "org": "Xnnet Limited"
-  },
-  {
-    "ip": "146.56.180.103",
-    "port": 443,
-    "code": "KR",
-    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
     "ip": "20.41.123.20",
@@ -138,34 +108,10 @@
     "org": "Microsoft Azure Cloud (koreacentral)"
   },
   {
-    "ip": "27.102.134.233",
-    "port": 443,
-    "code": "KR",
-    "org": "KCInfra Inc"
-  },
-  {
-    "ip": "43.128.135.99",
-    "port": 443,
-    "code": "KR",
-    "org": "Tencent Cloud Computing"
-  },
-  {
     "ip": "43.131.242.223",
     "port": 443,
     "code": "KR",
     "org": "Tencent Cloud Computing"
-  },
-  {
-    "ip": "43.155.205.141",
-    "port": 443,
-    "code": "KR",
-    "org": "Tencent Cloud Computing"
-  },
-  {
-    "ip": "45.93.31.131",
-    "port": 443,
-    "code": "KR",
-    "org": "Xnnet Limited"
   },
   {
     "ip": "45.141.139.209",
@@ -262,5 +208,17 @@
     "port": 443,
     "code": "KR",
     "org": "broadNnet"
+  },
+  {
+    "ip": "134.185.127.173",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "104.22.158.9",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
   }
 ]

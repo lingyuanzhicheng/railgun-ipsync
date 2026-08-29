@@ -108,12 +108,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "138.3.217.167",
-    "port": 587,
-    "code": "JP",
-    "org": "Oracle Network Information Services"
-  },
-  {
     "ip": "103.75.118.144",
     "port": 2053,
     "code": "JP",
@@ -198,12 +192,6 @@
     "org": "Rackip Consultancy Pte. LTD"
   },
   {
-    "ip": "155.248.181.189",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "207.148.99.230",
     "port": 443,
     "code": "JP",
@@ -238,36 +226,6 @@
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "168.138.212.80",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "38.47.105.76",
-    "port": 443,
-    "code": "JP",
-    "org": "VMISS Inc"
-  },
-  {
-    "ip": "38.180.147.241",
-    "port": 443,
-    "code": "JP",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "74.82.192.82",
-    "port": 443,
-    "code": "JP",
-    "org": "IT7 Networks Inc"
-  },
-  {
-    "ip": "85.149.218.210",
-    "port": 443,
-    "code": "JP",
-    "org": "Zouter Limited"
   },
   {
     "ip": "138.2.52.152",
@@ -306,12 +264,6 @@
     "org": "SAKURA Internet Inc."
   },
   {
-    "ip": "160.16.123.110",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA Internet Inc."
-  },
-  {
     "ip": "160.16.209.61",
     "port": 443,
     "code": "JP",
@@ -322,5 +274,47 @@
     "port": 443,
     "code": "JP",
     "org": "IROKO Networks Corporation"
+  },
+  {
+    "ip": "64.110.104.30",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "103.214.68.45",
+    "port": 443,
+    "code": "JP",
+    "org": "EXTRAVM"
+  },
+  {
+    "ip": "153.121.76.150",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA"
+  },
+  {
+    "ip": "139.162.121.208",
+    "port": 443,
+    "code": "JP",
+    "org": "Linode"
+  },
+  {
+    "ip": "43.133.191.142",
+    "port": 443,
+    "code": "JP",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "134.122.164.41",
+    "port": 443,
+    "code": "JP",
+    "org": "BGP Network Limited Co., Ltd"
+  },
+  {
+    "ip": "167.179.117.9",
+    "port": 443,
+    "code": "JP",
+    "org": "Choopa, LLC"
   }
 ]

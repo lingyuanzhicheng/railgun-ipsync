@@ -306,12 +306,6 @@
     "org": "ExpressHost LTD"
   },
   {
-    "ip": "77.83.246.50",
-    "port": 443,
-    "code": "PL",
-    "org": "Global Internet Solutions LLC"
-  },
-  {
     "ip": "82.38.66.90",
     "port": 443,
     "code": "PL",
@@ -364,12 +358,6 @@
     "port": 443,
     "code": "PL",
     "org": "Serva ONE LTD"
-  },
-  {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
   },
   {
     "ip": "89.126.229.173",
@@ -448,5 +436,47 @@
     "port": 443,
     "code": "PL",
     "org": "ExpressHost LTD"
+  },
+  {
+    "ip": "89.125.93.217",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "81.90.17.57",
+    "port": 443,
+    "code": "PL",
+    "org": "Intezio Networks Warsaw"
+  },
+  {
+    "ip": "95.85.254.27",
+    "port": 443,
+    "code": "PL",
+    "org": "1Cent Host"
+  },
+  {
+    "ip": "188.255.163.41",
+    "port": 443,
+    "code": "PL",
+    "org": "Ipxo"
+  },
+  {
+    "ip": "138.124.242.56",
+    "port": 443,
+    "code": "PL",
+    "org": "Intezio Networks Warsaw"
+  },
+  {
+    "ip": "194.59.186.97",
+    "port": 443,
+    "code": "PL",
+    "org": "\"Pronet\" LLC"
+  },
+  {
+    "ip": "64.176.73.77",
+    "port": 443,
+    "code": "PL",
+    "org": "The Constant Company, LLC"
   }
 ]

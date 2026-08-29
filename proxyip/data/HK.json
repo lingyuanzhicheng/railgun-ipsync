@@ -42,18 +42,6 @@
     "org": "Bage Cloud LLC"
   },
   {
-    "ip": "222.167.217.43",
-    "port": 443,
-    "code": "HK",
-    "org": "PEG TECH INC"
-  },
-  {
-    "ip": "103.74.192.228",
-    "port": 443,
-    "code": "HK",
-    "org": "baud linker network co., limited"
-  },
-  {
     "ip": "8.218.22.14",
     "port": 443,
     "code": "HK",
@@ -67,12 +55,6 @@
   },
   {
     "ip": "23.147.232.33",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
-    "ip": "103.20.223.150",
     "port": 443,
     "code": "HK",
     "org": ""
@@ -112,5 +94,35 @@
     "port": 443,
     "code": "HK",
     "org": ""
+  },
+  {
+    "ip": "103.219.193.95",
+    "port": 443,
+    "code": "HK",
+    "org": "Bage Cloud LLC"
+  },
+  {
+    "ip": "43.154.131.189",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "103.135.248.105",
+    "port": 443,
+    "code": "HK",
+    "org": "DMIT Inc"
+  },
+  {
+    "ip": "47.79.78.40",
+    "port": 443,
+    "code": "HK",
+    "org": "Alibaba.com LLC"
+  },
+  {
+    "ip": "154.21.203.206",
+    "port": 443,
+    "code": "HK",
+    "org": "NetLab"
   }
 ]

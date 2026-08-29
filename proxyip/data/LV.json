@@ -36,12 +36,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "185.82.126.9",
-    "port": 2053,
-    "code": "LV",
-    "org": "Sia Nano IT"
-  },
-  {
     "ip": "92.118.148.225",
     "port": 443,
     "code": "LV",
@@ -72,12 +66,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "185.82.126.239",
-    "port": 2053,
-    "code": "LV",
-    "org": "Sia Nano IT"
-  },
-  {
     "ip": "195.123.210.147",
     "port": 443,
     "code": "LV",
@@ -90,28 +78,10 @@
     "org": "Sia Nano IT"
   },
   {
-    "ip": "185.82.126.247",
-    "port": 2053,
-    "code": "LV",
-    "org": "Sia Nano IT"
-  },
-  {
     "ip": "5.34.209.231",
     "port": 8443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "185.82.126.216",
-    "port": 2053,
-    "code": "LV",
-    "org": "Sia Nano IT"
-  },
-  {
-    "ip": "185.82.127.6",
-    "port": 2053,
-    "code": "LV",
-    "org": "Sia Nano IT"
   },
   {
     "ip": "193.68.89.220",
@@ -160,12 +130,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "213.155.12.173",
-    "port": 443,
-    "code": "LV",
-    "org": "Vdska LV1"
   },
   {
     "ip": "94.158.219.126",
@@ -246,12 +210,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "188.253.19.40",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "195.135.253.175",
     "port": 443,
     "code": "LV",
@@ -306,12 +264,6 @@
     "org": "Versija Ltd."
   },
   {
-    "ip": "213.232.204.240",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "217.60.0.194",
     "port": 443,
     "code": "LV",
@@ -319,6 +271,54 @@
   },
   {
     "ip": "31.56.113.17",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "92.118.170.191",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "31.57.27.98",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.21.80.141",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "188.215.31.133",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.8.228.102",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "77.73.71.200",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "168.222.255.164",
+    "port": 443,
+    "code": "LV",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "31.57.28.22",
     "port": 443,
     "code": "LV",
     "org": "CGI GLOBAL LIMITED"

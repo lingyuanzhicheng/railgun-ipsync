@@ -174,12 +174,6 @@
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
-    "ip": "79.132.141.152",
-    "port": 443,
-    "code": "CH",
-    "org": "Fornex Hosting S.L."
-  },
-  {
     "ip": "87.120.222.168",
     "port": 443,
     "code": "CH",
@@ -336,12 +330,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.148.118.233",
-    "port": 443,
-    "code": "CH",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "92.119.165.150",
     "port": 443,
     "code": "CH",
@@ -390,12 +378,6 @@
     "org": "Infomaniak Cloud"
   },
   {
-    "ip": "185.167.234.192",
-    "port": 443,
-    "code": "CH",
-    "org": ""
-  },
-  {
     "ip": "185.234.213.169",
     "port": 443,
     "code": "CH",
@@ -424,5 +406,11 @@
     "port": 443,
     "code": "CH",
     "org": ""
+  },
+  {
+    "ip": "45.148.102.235",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

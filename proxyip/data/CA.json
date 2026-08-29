@@ -48,12 +48,6 @@
     "org": "HostPapa"
   },
   {
-    "ip": "40.233.68.138",
-    "port": 443,
-    "code": "CA",
-    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
-  },
-  {
     "ip": "65.49.232.101",
     "port": 443,
     "code": "CA",
@@ -90,15 +84,15 @@
     "org": "OVH Hosting, Inc."
   },
   {
-    "ip": "167.160.188.156",
+    "ip": "45.133.17.106",
     "port": 443,
     "code": "CA",
     "org": ""
   },
   {
-    "ip": "45.133.17.106",
+    "ip": "72.11.150.104",
     "port": 443,
     "code": "CA",
-    "org": ""
+    "org": "HostPapa"
   }
 ]

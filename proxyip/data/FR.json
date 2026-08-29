@@ -36,12 +36,6 @@
     "org": "Contabo GmbH"
   },
   {
-    "ip": "62.84.183.222",
-    "port": 8443,
-    "code": "FR",
-    "org": "Contabo GmbH"
-  },
-  {
     "ip": "109.199.126.6",
     "port": 443,
     "code": "FR",
@@ -162,12 +156,6 @@
     "org": "Three Fourteen SASU"
   },
   {
-    "ip": "193.42.62.63",
-    "port": 443,
-    "code": "FR",
-    "org": "Mo's Operations GmbH"
-  },
-  {
     "ip": "88.218.78.20",
     "port": 2096,
     "code": "FR",
@@ -178,12 +166,6 @@
     "port": 8443,
     "code": "FR",
     "org": "RACKNERD-FR"
-  },
-  {
-    "ip": "62.84.183.222",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
   },
   {
     "ip": "88.218.78.87",
@@ -492,12 +474,6 @@
     "org": "Geikohost LLC"
   },
   {
-    "ip": "77.110.106.93",
-    "port": 443,
-    "code": "FR",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "94.183.187.190",
     "port": 443,
     "code": "FR",
@@ -514,18 +490,6 @@
     "port": 443,
     "code": "FR",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "37.60.229.47",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
-  },
-  {
-    "ip": "45.140.147.215",
-    "port": 443,
-    "code": "FR",
-    "org": "Ibcs"
   },
   {
     "ip": "37.60.232.144",
@@ -564,12 +528,6 @@
     "org": ""
   },
   {
-    "ip": "185.10.19.102",
-    "port": 443,
-    "code": "FR",
-    "org": ""
-  },
-  {
     "ip": "179.255.188.48",
     "port": 443,
     "code": "FR",
@@ -598,5 +556,11 @@
     "port": 443,
     "code": "FR",
     "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "194.76.146.25",
+    "port": 443,
+    "code": "FR",
+    "org": "Beafort Limited"
   }
 ]

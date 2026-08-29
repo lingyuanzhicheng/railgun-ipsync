@@ -66,12 +66,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "91.199.32.99",
-    "port": 2053,
-    "code": "GB",
-    "org": "HR SYSHEAD"
-  },
-  {
     "ip": "159.65.19.63",
     "port": 443,
     "code": "GB",
@@ -438,30 +432,6 @@
     "org": "AWS EC2 (eu-west-2)"
   },
   {
-    "ip": "91.227.62.50",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.227.62.67",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.227.62.63",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.227.62.165",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
     "ip": "35.176.187.206",
     "port": 443,
     "code": "GB",
@@ -508,18 +478,6 @@
     "port": 443,
     "code": "GB",
     "org": ""
-  },
-  {
-    "ip": "91.227.62.149",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.107.127.205",
-    "port": 443,
-    "code": "GB",
-    "org": "Stat Solutions"
   },
   {
     "ip": "132.145.46.142",
@@ -612,24 +570,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "91.227.62.75",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.227.62.133",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
-    "ip": "91.227.62.140",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
     "ip": "35.176.75.87",
     "port": 443,
     "code": "GB",
@@ -646,18 +586,6 @@
     "port": 443,
     "code": "GB",
     "org": ""
-  },
-  {
-    "ip": "85.204.18.93",
-    "port": 443,
-    "code": "GB",
-    "org": "Snowd Security OU"
-  },
-  {
-    "ip": "91.227.62.62",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
   },
   {
     "ip": "217.179.49.227",
@@ -690,18 +618,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "194.147.35.167",
-    "port": 443,
-    "code": "GB",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "95.214.180.220",
-    "port": 443,
-    "code": "GB",
-    "org": "Eugamehost"
-  },
-  {
     "ip": "54.38.214.128",
     "port": 443,
     "code": "GB",
@@ -726,12 +642,6 @@
     "org": ""
   },
   {
-    "ip": "91.227.62.95",
-    "port": 443,
-    "code": "GB",
-    "org": "Xantho UAB"
-  },
-  {
     "ip": "138.249.138.5",
     "port": 443,
     "code": "GB",
@@ -748,5 +658,11 @@
     "port": 443,
     "code": "GB",
     "org": "AWS EC2 (eu-west-2)"
+  },
+  {
+    "ip": "209.38.165.5",
+    "port": 443,
+    "code": "GB",
+    "org": "DigitalOcean, LLC"
   }
 ]

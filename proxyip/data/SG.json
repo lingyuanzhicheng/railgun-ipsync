@@ -24,12 +24,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "66.42.51.60",
-    "port": 8443,
-    "code": "SG",
-    "org": "SGP_VULTR_CUST"
-  },
-  {
     "ip": "143.42.66.91",
     "port": 443,
     "code": "SG",
@@ -210,12 +204,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "138.2.84.152",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "140.245.103.72",
     "port": 443,
     "code": "SG",
@@ -258,9 +246,51 @@
     "org": "Zenlayer Inc"
   },
   {
-    "ip": "178.128.104.166",
+    "ip": "13.250.131.37",
     "port": 443,
     "code": "SG",
-    "org": "Digitalocean"
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "129.226.202.149",
+    "port": 443,
+    "code": "SG",
+    "org": "Aceville Pte.ltd"
+  },
+  {
+    "ip": "168.144.44.150",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "159.65.1.74",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "5.223.77.219",
+    "port": 443,
+    "code": "SG",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "45.132.75.122",
+    "port": 443,
+    "code": "SG",
+    "org": "HostHatch, LLC"
+  },
+  {
+    "ip": "138.2.76.34",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "138.2.108.213",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
   }
 ]
