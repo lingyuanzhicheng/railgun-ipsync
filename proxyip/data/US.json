@@ -96,12 +96,6 @@
     "org": "Cloud Web Manage"
   },
   {
-    "ip": "192.9.135.182",
-    "port": 7800,
-    "code": "US",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "192.80.63.51",
     "port": 443,
     "code": "US",
@@ -864,12 +858,6 @@
     "org": "Global Cloud Line"
   },
   {
-    "ip": "192.9.157.76",
-    "port": 443,
-    "code": "US",
-    "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
-  },
-  {
     "ip": "103.99.178.14",
     "port": 443,
     "code": "US",
@@ -996,12 +984,6 @@
     "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
   },
   {
-    "ip": "38.244.31.27",
-    "port": 443,
-    "code": "US",
-    "org": "NetLab"
-  },
-  {
     "ip": "64.188.27.145",
     "port": 443,
     "code": "US",
@@ -1074,22 +1056,10 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "213.108.3.110",
-    "port": 443,
-    "code": "US",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "38.65.9.110",
     "port": 443,
     "code": "US",
     "org": "Alpaca Securities / AlpacaDB, Inc"
-  },
-  {
-    "ip": "43.130.58.238",
-    "port": 443,
-    "code": "US",
-    "org": "Tencent Cloud Computing"
   },
   {
     "ip": "45.13.214.176",
@@ -1182,12 +1152,6 @@
     "org": "RackNerd LLC"
   },
   {
-    "ip": "64.112.43.251",
-    "port": 443,
-    "code": "US",
-    "org": "CloudCone, LLC"
-  },
-  {
     "ip": "192.129.220.4",
     "port": 443,
     "code": "US",
@@ -1216,12 +1180,6 @@
     "port": 443,
     "code": "US",
     "org": "Taipei101 Network LLC"
-  },
-  {
-    "ip": "38.207.169.105",
-    "port": 443,
-    "code": "US",
-    "org": "NetLab Global"
   },
   {
     "ip": "134.199.142.254",
@@ -1264,12 +1222,6 @@
     "port": 443,
     "code": "US",
     "org": "Cluster Logic Inc"
-  },
-  {
-    "ip": "23.94.57.31",
-    "port": 443,
-    "code": "US",
-    "org": "RackNerd LLC"
   },
   {
     "ip": "99.63.206.163",
@@ -1318,12 +1270,6 @@
     "port": 443,
     "code": "US",
     "org": "Oracle Cloud Infrastructure (us-sanjose-1)"
-  },
-  {
-    "ip": "199.19.106.232",
-    "port": 443,
-    "code": "US",
-    "org": "Cluster Logic Inc"
   },
   {
     "ip": "3.132.174.45",
@@ -1393,12 +1339,6 @@
   },
   {
     "ip": "104.22.17.40",
-    "port": 443,
-    "code": "US",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "104.22.17.43",
     "port": 443,
     "code": "US",
     "org": "Cloudflare WARP"
@@ -1530,12 +1470,6 @@
     "org": "NetLab Global"
   },
   {
-    "ip": "199.241.32.102",
-    "port": 443,
-    "code": "US",
-    "org": "Simple Cloud Solution LLC"
-  },
-  {
     "ip": "206.81.10.201",
     "port": 443,
     "code": "US",
@@ -1570,5 +1504,161 @@
     "port": 443,
     "code": "US",
     "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.173.87.103",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "107.172.87.247",
+    "port": 443,
+    "code": "US",
+    "org": "RackNerd LLC"
+  },
+  {
+    "ip": "166.1.60.67",
+    "port": 443,
+    "code": "US",
+    "org": "IB Compute Systems Inc"
+  },
+  {
+    "ip": "96.8.121.109",
+    "port": 443,
+    "code": "US",
+    "org": "New Wave NetConnect, LLC"
+  },
+  {
+    "ip": "38.244.45.74",
+    "port": 443,
+    "code": "US",
+    "org": "NetLab"
+  },
+  {
+    "ip": "172.69.23.80",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.135.115",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "47.77.210.148",
+    "port": 443,
+    "code": "US",
+    "org": "Delta Centric LLC, Zenlayer Inc"
+  },
+  {
+    "ip": "64.23.161.169",
+    "port": 443,
+    "code": "US",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "172.68.33.56",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.34.137",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.35.110",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.3.171",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.207.35",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.213.54",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.251.22",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.89.57",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.89.61",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.151.165",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.151.203",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.22.72.24",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.159.120.175",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.147.212",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.149.182",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.150.16",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.150.54",
+    "port": 443,
+    "code": "US",
+    "org": "Cloudflare WARP"
   }
 ]

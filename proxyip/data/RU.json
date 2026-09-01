@@ -282,12 +282,6 @@
     "org": "S-INFORM Network"
   },
   {
-    "ip": "77.73.66.223",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "91.184.247.38",
     "port": 443,
     "code": "RU",
@@ -468,12 +462,6 @@
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "31.76.230.231",
-    "port": 443,
-    "code": "RU",
-    "org": "Xorek.Cloud Moscow"
-  },
-  {
     "ip": "193.124.182.211",
     "port": 443,
     "code": "RU",
@@ -490,12 +478,6 @@
     "port": 443,
     "code": "RU",
     "org": "UFO Hosting LLC"
-  },
-  {
-    "ip": "45.90.46.160",
-    "port": 443,
-    "code": "RU",
-    "org": "BitWeb LLC"
   },
   {
     "ip": "212.22.82.144",
@@ -564,12 +546,6 @@
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   },
   {
-    "ip": "45.129.2.201",
-    "port": 443,
-    "code": "RU",
-    "org": "iNet Ltd"
-  },
-  {
     "ip": "31.192.111.185",
     "port": 443,
     "code": "RU",
@@ -630,18 +606,6 @@
     "org": "TimeWeb Ltd"
   },
   {
-    "ip": "2.27.54.168",
-    "port": 443,
-    "code": "RU",
-    "org": "Xorek.Cloud Moscow"
-  },
-  {
-    "ip": "91.218.113.175",
-    "port": 443,
-    "code": "RU",
-    "org": "LLC \"Server v arendy\""
-  },
-  {
     "ip": "193.124.130.170",
     "port": 443,
     "code": "RU",
@@ -676,5 +640,83 @@
     "port": 443,
     "code": "RU",
     "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "31.129.48.139",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "31.129.49.103",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "89.23.112.211",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "31.76.230.241",
+    "port": 443,
+    "code": "RU",
+    "org": "Xorek.Cloud Moscow"
+  },
+  {
+    "ip": "109.205.56.213",
+    "port": 443,
+    "code": "RU",
+    "org": "RocketCloud"
+  },
+  {
+    "ip": "155.212.160.127",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC IOT"
+  },
+  {
+    "ip": "185.154.192.95",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "130.49.186.203",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "212.220.211.85",
+    "port": 443,
+    "code": "RU",
+    "org": "Dynamic distribution IPs for broadband services"
+  },
+  {
+    "ip": "82.117.87.1",
+    "port": 443,
+    "code": "RU",
+    "org": "AEZA GROUP Ltd"
+  },
+  {
+    "ip": "82.202.143.25",
+    "port": 443,
+    "code": "RU",
+    "org": "Cloud.ru"
+  },
+  {
+    "ip": "31.56.208.59",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "31.77.143.234",
+    "port": 443,
+    "code": "RU",
+    "org": "SERV.HOST GROUP LTD"
   }
 ]

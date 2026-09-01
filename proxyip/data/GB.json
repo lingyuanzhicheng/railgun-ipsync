@@ -612,12 +612,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "45.150.66.75",
-    "port": 443,
-    "code": "GB",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "54.38.214.128",
     "port": 443,
     "code": "GB",
@@ -648,12 +642,6 @@
     "org": "Costel Savulescu"
   },
   {
-    "ip": "51.241.130.35",
-    "port": 443,
-    "code": "GB",
-    "org": "Bage Cloud LLC"
-  },
-  {
     "ip": "52.56.194.132",
     "port": 443,
     "code": "GB",
@@ -664,5 +652,83 @@
     "port": 443,
     "code": "GB",
     "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "172.70.84.152",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.162.138",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.177.90",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.195.25",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.195.31",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.254",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.247.20",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.247.145",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.58.95",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.33.204",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.74.8",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.74.80",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.69",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
   }
 ]

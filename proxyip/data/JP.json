@@ -138,18 +138,6 @@
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "160.16.59.9",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
-    "ip": "153.121.32.71",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
     "ip": "168.138.46.67",
     "port": 443,
     "code": "JP",
@@ -160,18 +148,6 @@
     "port": 443,
     "code": "JP",
     "org": "The Constant Company, LLC"
-  },
-  {
-    "ip": "160.16.62.84",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
-    "ip": "160.16.57.18",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
   },
   {
     "ip": "151.145.78.30",
@@ -220,12 +196,6 @@
     "port": 443,
     "code": "JP",
     "org": "Alibaba Cloud - JP"
-  },
-  {
-    "ip": "64.110.101.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
     "ip": "138.2.52.152",
@@ -288,18 +258,6 @@
     "org": "EXTRAVM"
   },
   {
-    "ip": "153.121.76.150",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
-    "ip": "139.162.121.208",
-    "port": 443,
-    "code": "JP",
-    "org": "Linode"
-  },
-  {
     "ip": "43.133.191.142",
     "port": 443,
     "code": "JP",
@@ -316,5 +274,119 @@
     "port": 443,
     "code": "JP",
     "org": "Choopa, LLC"
+  },
+  {
+    "ip": "155.248.181.189",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "64.204.49.68",
+    "port": 443,
+    "code": "JP",
+    "org": "Cornseed Limited"
+  },
+  {
+    "ip": "82.40.32.67",
+    "port": 443,
+    "code": "JP",
+    "org": "Prime Security Corp"
+  },
+  {
+    "ip": "160.16.123.110",
+    "port": 443,
+    "code": "JP",
+    "org": "SAKURA Internet Inc."
+  },
+  {
+    "ip": "172.235.216.213",
+    "port": 443,
+    "code": "JP",
+    "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "172.70.199.72",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.89",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.155",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.162",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.182",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.197",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.71",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.72",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.73",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.75",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.77",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.132",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.134",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.142",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
   }
 ]

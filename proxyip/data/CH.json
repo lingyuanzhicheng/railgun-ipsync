@@ -90,12 +90,6 @@
     "org": "Amazon Data Services Switzerland"
   },
   {
-    "ip": "171.22.16.231",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "185.195.69.19",
     "port": 443,
     "code": "CH",
@@ -354,12 +348,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "140.238.170.32",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
-  },
-  {
     "ip": "45.143.200.135",
     "port": 443,
     "code": "CH",
@@ -412,5 +400,17 @@
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "185.167.234.192",
+    "port": 443,
+    "code": "CH",
+    "org": ""
+  },
+  {
+    "ip": "179.43.156.121",
+    "port": 443,
+    "code": "CH",
+    "org": "Private Layer Inc"
   }
 ]

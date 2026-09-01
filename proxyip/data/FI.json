@@ -1122,22 +1122,10 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "85.137.24.145",
-    "port": 443,
-    "code": "FI",
-    "org": "Aleksei Fedorov PR Krusevac"
-  },
-  {
     "ip": "144.31.126.104",
     "port": 443,
     "code": "FI",
     "org": "Xorek Cloud"
-  },
-  {
-    "ip": "153.80.241.171",
-    "port": 443,
-    "code": "FI",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "185.239.141.89",
@@ -1260,12 +1248,6 @@
     "org": "Play2go Customers Network"
   },
   {
-    "ip": "193.35.17.55",
-    "port": 443,
-    "code": "FI",
-    "org": "Play2go International Limited"
-  },
-  {
     "ip": "62.60.249.50",
     "port": 443,
     "code": "FI",
@@ -1342,5 +1324,77 @@
     "port": 443,
     "code": "FI",
     "org": "OY Creanova Hosting Solutions LTD"
+  },
+  {
+    "ip": "2.57.242.152",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "89.125.92.172",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "84.22.150.176",
+    "port": 443,
+    "code": "FI",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "135.181.244.78",
+    "port": 443,
+    "code": "FI",
+    "org": ""
+  },
+  {
+    "ip": "206.245.135.117",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "95.216.223.177",
+    "port": 443,
+    "code": "FI",
+    "org": "HETZNER-DC"
+  },
+  {
+    "ip": "45.136.228.67",
+    "port": 443,
+    "code": "FI",
+    "org": ""
+  },
+  {
+    "ip": "64.188.74.233",
+    "port": 443,
+    "code": "FI",
+    "org": "Senko Digital LLC"
+  },
+  {
+    "ip": "82.25.185.188",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "138.124.244.33",
+    "port": 443,
+    "code": "FI",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "151.241.229.145",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "151.245.139.125",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
   }
 ]

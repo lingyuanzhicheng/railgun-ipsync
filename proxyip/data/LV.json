@@ -114,12 +114,6 @@
     "org": "NetGrid Host LTD"
   },
   {
-    "ip": "217.60.2.201",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.58.77.150",
     "port": 443,
     "code": "LV",
@@ -264,12 +258,6 @@
     "org": "Versija Ltd."
   },
   {
-    "ip": "217.60.0.194",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "31.56.113.17",
     "port": 443,
     "code": "LV",
@@ -280,12 +268,6 @@
     "port": 443,
     "code": "LV",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "31.57.27.98",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "46.21.80.141",
@@ -322,5 +304,17 @@
     "port": 443,
     "code": "LV",
     "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.8.232.48",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "193.164.155.223",
+    "port": 443,
+    "code": "LV",
+    "org": "As56971"
   }
 ]

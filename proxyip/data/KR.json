@@ -42,12 +42,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "59.6.239.208",
-    "port": 12203,
-    "code": "KR",
-    "org": "KT"
-  },
-  {
     "ip": "144.24.87.69",
     "port": 50001,
     "code": "KR",
@@ -217,6 +211,30 @@
   },
   {
     "ip": "104.22.158.9",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "146.56.180.103",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
+  },
+  {
+    "ip": "27.102.134.233",
+    "port": 443,
+    "code": "KR",
+    "org": "KCInfra Inc"
+  },
+  {
+    "ip": "3.35.51.12",
+    "port": 443,
+    "code": "KR",
+    "org": "AWS EC2 (ap-northeast-2)"
+  },
+  {
+    "ip": "162.158.15.63",
     "port": 443,
     "code": "KR",
     "org": "Cloudflare WARP"

@@ -228,12 +228,6 @@
     "org": "ITINSELL SaRL"
   },
   {
-    "ip": "194.146.12.230",
-    "port": 443,
-    "code": "FR",
-    "org": "Contabo GmbH"
-  },
-  {
     "ip": "51.178.162.166",
     "port": 443,
     "code": "FR",
@@ -298,12 +292,6 @@
     "port": 443,
     "code": "FR",
     "org": ""
-  },
-  {
-    "ip": "2.58.56.125",
-    "port": 443,
-    "code": "FR",
-    "org": "Mifsud Florian"
   },
   {
     "ip": "2.27.169.61",
@@ -412,12 +400,6 @@
     "port": 443,
     "code": "FR",
     "org": "FR NSC Solutions"
-  },
-  {
-    "ip": "217.60.5.249",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "5.157.51.83",
@@ -562,5 +544,11 @@
     "port": 443,
     "code": "FR",
     "org": "Beafort Limited"
+  },
+  {
+    "ip": "62.60.246.90",
+    "port": 443,
+    "code": "FR",
+    "org": "RTM GmbH"
   }
 ]

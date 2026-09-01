@@ -552,12 +552,6 @@
     "org": "www.fornex.com, Fornex Hosting S.L."
   },
   {
-    "ip": "79.137.195.150",
-    "port": 444,
-    "code": "DE",
-    "org": "AEZA GROUP Ltd"
-  },
-  {
     "ip": "93.115.19.15",
     "port": 2053,
     "code": "DE",
@@ -940,12 +934,6 @@
     "port": 443,
     "code": "DE",
     "org": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "79.137.207.149",
-    "port": 443,
-    "code": "DE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "89.191.226.252",
@@ -1452,12 +1440,6 @@
     "org": "Ipxo"
   },
   {
-    "ip": "94.141.123.231",
-    "port": 443,
-    "code": "DE",
-    "org": "Waicore LTD"
-  },
-  {
     "ip": "72.56.106.210",
     "port": 443,
     "code": "DE",
@@ -1878,12 +1860,6 @@
     "org": "UltaHost Inc"
   },
   {
-    "ip": "156.226.175.115",
-    "port": 443,
-    "code": "DE",
-    "org": "Akile LTD"
-  },
-  {
     "ip": "80.240.20.43",
     "port": 443,
     "code": "DE",
@@ -2028,12 +2004,6 @@
     "org": "NETCUP-GMBH"
   },
   {
-    "ip": "77.110.100.99",
-    "port": 443,
-    "code": "DE",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "2.27.169.209",
     "port": 443,
     "code": "DE",
@@ -2082,18 +2052,6 @@
     "org": "nuxt.cloud hosting provider"
   },
   {
-    "ip": "2.27.121.167",
-    "port": 443,
-    "code": "DE",
-    "org": "Nekobyte International Limited"
-  },
-  {
-    "ip": "18.195.63.42",
-    "port": 443,
-    "code": "DE",
-    "org": "AWS EC2 (eu-central-1)"
-  },
-  {
     "ip": "31.77.223.15",
     "port": 443,
     "code": "DE",
@@ -2140,12 +2098,6 @@
     "port": 443,
     "code": "DE",
     "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "185.207.133.114",
-    "port": 443,
-    "code": "DE",
-    "org": "u1host ltd"
   },
   {
     "ip": "212.17.236.195",
@@ -2242,5 +2194,53 @@
     "port": 443,
     "code": "DE",
     "org": "Friendhosting LTD"
+  },
+  {
+    "ip": "159.69.86.12",
+    "port": 443,
+    "code": "DE",
+    "org": "Hetzner"
+  },
+  {
+    "ip": "206.251.50.222",
+    "port": 443,
+    "code": "DE",
+    "org": ""
+  },
+  {
+    "ip": "5.187.4.45",
+    "port": 443,
+    "code": "DE",
+    "org": "firstcolo"
+  },
+  {
+    "ip": "95.181.174.88",
+    "port": 443,
+    "code": "DE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "193.168.196.45",
+    "port": 443,
+    "code": "DE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "2.26.162.29",
+    "port": 443,
+    "code": "DE",
+    "org": "Senko Digital LLC"
+  },
+  {
+    "ip": "2.27.18.52",
+    "port": 443,
+    "code": "DE",
+    "org": "nuxt.cloud hosting provider"
+  },
+  {
+    "ip": "89.106.78.217",
+    "port": 443,
+    "code": "DE",
+    "org": "Moritz Moeller Workstations"
   }
 ]

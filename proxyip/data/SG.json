@@ -246,12 +246,6 @@
     "org": "Zenlayer Inc"
   },
   {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "129.226.202.149",
     "port": 443,
     "code": "SG",
@@ -292,5 +286,17 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
+  },
+  {
+    "ip": "18.143.165.1",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "165.245.176.192",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
   }
 ]
