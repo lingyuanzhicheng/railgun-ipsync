@@ -246,22 +246,10 @@
     "org": "IROKO Networks Corporation"
   },
   {
-    "ip": "64.110.104.30",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "103.214.68.45",
     "port": 443,
     "code": "JP",
     "org": "EXTRAVM"
-  },
-  {
-    "ip": "43.133.191.142",
-    "port": 443,
-    "code": "JP",
-    "org": "Tencent Cloud Computing"
   },
   {
     "ip": "134.122.164.41",
@@ -276,34 +264,16 @@
     "org": "Choopa, LLC"
   },
   {
-    "ip": "155.248.181.189",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "64.204.49.68",
     "port": 443,
     "code": "JP",
     "org": "Cornseed Limited"
   },
   {
-    "ip": "82.40.32.67",
-    "port": 443,
-    "code": "JP",
-    "org": "Prime Security Corp"
-  },
-  {
     "ip": "160.16.123.110",
     "port": 443,
     "code": "JP",
     "org": "SAKURA Internet Inc."
-  },
-  {
-    "ip": "172.235.216.213",
-    "port": 443,
-    "code": "JP",
-    "org": "Akamai Technologies, Inc."
   },
   {
     "ip": "172.70.199.72",
@@ -318,12 +288,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.70.199.155",
-    "port": 443,
-    "code": "JP",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.70.199.162",
     "port": 443,
     "code": "JP",
@@ -331,12 +295,6 @@
   },
   {
     "ip": "172.70.199.182",
-    "port": 443,
-    "code": "JP",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.70.199.197",
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"
@@ -385,6 +343,90 @@
   },
   {
     "ip": "172.68.123.142",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "54.95.106.234",
+    "port": 443,
+    "code": "JP",
+    "org": "AWS EC2 (ap-northeast-1)"
+  },
+  {
+    "ip": "134.122.164.55",
+    "port": 443,
+    "code": "JP",
+    "org": "Rackip Consultancy Pte. LTD"
+  },
+  {
+    "ip": "172.70.199.154",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "103.201.131.215",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "172.70.199.134",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.148",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.168",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.184",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.69",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.70",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.136",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.144",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.123.146",
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"

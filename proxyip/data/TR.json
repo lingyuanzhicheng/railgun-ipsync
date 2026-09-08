@@ -42,12 +42,6 @@
     "org": "SUNUCUN BILGI ILETISIM TEKNOLOJILERI VE TICARET LIMITED SIRKETI"
   },
   {
-    "ip": "195.16.74.73",
-    "port": 443,
-    "code": "TR",
-    "org": "WorkTitans B.V."
-  },
-  {
     "ip": "193.106.196.250",
     "port": 443,
     "code": "TR",
@@ -67,6 +61,12 @@
   },
   {
     "ip": "193.106.196.231",
+    "port": 443,
+    "code": "TR",
+    "org": "Turkcell Iletisim Hizmetleri"
+  },
+  {
+    "ip": "45.67.202.173",
     "port": 443,
     "code": "TR",
     "org": "Turkcell Iletisim Hizmetleri"

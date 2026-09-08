@@ -90,22 +90,10 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "45.93.30.168",
-    "port": 443,
-    "code": "KR",
-    "org": "Xnnet Limited"
-  },
-  {
     "ip": "20.41.123.20",
     "port": 443,
     "code": "KR",
     "org": "Microsoft Azure Cloud (koreacentral)"
-  },
-  {
-    "ip": "43.131.242.223",
-    "port": 443,
-    "code": "KR",
-    "org": "Tencent Cloud Computing"
   },
   {
     "ip": "45.141.139.209",
@@ -198,12 +186,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "211.49.57.134",
-    "port": 443,
-    "code": "KR",
-    "org": "broadNnet"
-  },
-  {
     "ip": "134.185.127.173",
     "port": 443,
     "code": "KR",
@@ -222,12 +204,6 @@
     "org": "Oracle Cloud Infrastructure (ap-seoul-1)"
   },
   {
-    "ip": "27.102.134.233",
-    "port": 443,
-    "code": "KR",
-    "org": "KCInfra Inc"
-  },
-  {
     "ip": "3.35.51.12",
     "port": 443,
     "code": "KR",
@@ -235,6 +211,96 @@
   },
   {
     "ip": "162.158.15.63",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "144.24.68.111",
+    "port": 443,
+    "code": "KR",
+    "org": "Oracle Cloud Infrastructure (ap-chuncheon-1)"
+  },
+  {
+    "ip": "172.71.111.74",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.111.82",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.138.103",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.109.114",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.111.15",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.111.44",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.109.27",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.109.84",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.109.175",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.109.182",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.111.42",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.111.99",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.138.45",
+    "port": 443,
+    "code": "KR",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.138.207",
     "port": 443,
     "code": "KR",
     "org": "Cloudflare WARP"

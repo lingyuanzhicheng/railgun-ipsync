@@ -48,12 +48,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "89.169.35.58",
-    "port": 8443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.219.250.104",
     "port": 8090,
     "code": "SE",
@@ -64,12 +58,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza International LTD"
-  },
-  {
-    "ip": "41.216.182.105",
-    "port": 443,
-    "code": "SE",
-    "org": "FORTIS Hosting services"
   },
   {
     "ip": "109.120.132.115",
@@ -96,12 +84,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "89.169.35.58",
-    "port": 2053,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "109.120.134.216",
     "port": 443,
     "code": "SE",
@@ -116,12 +98,6 @@
   {
     "ip": "147.45.76.29",
     "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "147.45.72.36",
-    "port": 8443,
     "code": "SE",
     "org": "Aeza International LTD"
   },
@@ -150,22 +126,10 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "192.145.30.213",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "41.216.182.98",
     "port": 443,
     "code": "SE",
     "org": "FORTIS Hosting services"
-  },
-  {
-    "ip": "79.141.174.235",
-    "port": 443,
-    "code": "SE",
-    "org": "HZ Na30"
   },
   {
     "ip": "37.252.8.202",
@@ -330,12 +294,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "138.124.250.35",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
     "ip": "5.175.236.48",
     "port": 443,
     "code": "SE",
@@ -388,18 +346,6 @@
     "port": 443,
     "code": "SE",
     "org": "Upcloud SE Sto1"
-  },
-  {
-    "ip": "31.77.158.167",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
-    "ip": "84.32.217.147",
-    "port": 443,
-    "code": "SE",
-    "org": "Private Customer"
   },
   {
     "ip": "89.169.34.174",
@@ -576,22 +522,10 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "138.124.250.94",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
     "ip": "185.82.126.37",
     "port": 443,
     "code": "SE",
     "org": ""
-  },
-  {
-    "ip": "70.34.194.237",
-    "port": 443,
-    "code": "SE",
-    "org": "Vultr"
   },
   {
     "ip": "84.32.99.229",
@@ -649,6 +583,90 @@
   },
   {
     "ip": "104.23.224.72",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "213.176.119.152",
+    "port": 443,
+    "code": "SE",
+    "org": "NetCrafters OU"
+  },
+  {
+    "ip": "95.85.246.250",
+    "port": 443,
+    "code": "SE",
+    "org": "1Cent Host"
+  },
+  {
+    "ip": "16.170.253.163",
+    "port": 443,
+    "code": "SE",
+    "org": "AWS EC2 (eu-north-1)"
+  },
+  {
+    "ip": "31.77.144.240",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "206.168.215.172",
+    "port": 443,
+    "code": "SE",
+    "org": "Dfdb LLC"
+  },
+  {
+    "ip": "80.66.78.190",
+    "port": 443,
+    "code": "SE",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "104.22.44.36",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.31",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.144",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.221.88",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.32",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.154",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.206",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.22.43.12",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"

@@ -108,12 +108,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "31.58.46.87",
-    "port": 443,
-    "code": "LV",
-    "org": "NetGrid Host LTD"
-  },
-  {
     "ip": "31.58.77.150",
     "port": 443,
     "code": "LV",
@@ -148,12 +142,6 @@
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "217.147.15.82",
-    "port": 443,
-    "code": "LV",
-    "org": "Individual Entrepreneur Anton Levin"
   },
   {
     "ip": "31.56.27.128",
@@ -198,22 +186,10 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "188.130.206.93",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "195.135.253.175",
     "port": 443,
     "code": "LV",
     "org": "SIA VEESP"
-  },
-  {
-    "ip": "31.57.107.178",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "46.8.236.208",
@@ -270,18 +246,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "46.21.80.141",
-    "port": 443,
-    "code": "LV",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "188.215.31.133",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "46.8.228.102",
     "port": 443,
     "code": "LV",
@@ -316,5 +280,53 @@
     "port": 443,
     "code": "LV",
     "org": "As56971"
+  },
+  {
+    "ip": "217.60.6.227",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.27.38",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "217.60.2.201",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.27.98",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "188.253.19.40",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "217.60.0.194",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "217.60.3.198",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "91.204.75.253",
+    "port": 443,
+    "code": "LV",
+    "org": "Individual Entrepreneur Anton Levin"
   }
 ]

@@ -348,22 +348,10 @@
     "org": "Selectel"
   },
   {
-    "ip": "84.252.100.83",
-    "port": 443,
-    "code": "RU",
-    "org": "Datacheap LLC"
-  },
-  {
     "ip": "109.248.168.38",
     "port": 443,
     "code": "RU",
     "org": "Datacheap LLC"
-  },
-  {
-    "ip": "147.45.219.212",
-    "port": 443,
-    "code": "RU",
-    "org": "LLC \"VEKTOR AITI TEKHNOLOGII\""
   },
   {
     "ip": "157.22.231.205",
@@ -510,12 +498,6 @@
     "org": "Fornex"
   },
   {
-    "ip": "45.150.236.135",
-    "port": 443,
-    "code": "RU",
-    "org": "AT&T Enterprises, LLC"
-  },
-  {
     "ip": "46.29.118.247",
     "port": 443,
     "code": "RU",
@@ -564,12 +546,6 @@
     "org": "LLC Setel"
   },
   {
-    "ip": "130.49.153.240",
-    "port": 443,
-    "code": "RU",
-    "org": "AdminVPS OOO"
-  },
-  {
     "ip": "159.194.196.121",
     "port": 443,
     "code": "RU",
@@ -594,22 +570,10 @@
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   },
   {
-    "ip": "185.105.117.222",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "213.226.124.66",
     "port": 443,
     "code": "RU",
     "org": "TimeWeb Ltd"
-  },
-  {
-    "ip": "193.124.130.170",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "109.71.197.27",
@@ -702,21 +666,195 @@
     "org": "AEZA GROUP Ltd"
   },
   {
-    "ip": "82.202.143.25",
-    "port": 443,
-    "code": "RU",
-    "org": "Cloud.ru"
-  },
-  {
     "ip": "31.56.208.59",
     "port": 443,
     "code": "RU",
     "org": ""
   },
   {
-    "ip": "31.77.143.234",
+    "ip": "45.90.218.180",
     "port": 443,
     "code": "RU",
-    "org": "SERV.HOST GROUP LTD"
+    "org": "Firstbyte Hosting"
+  },
+  {
+    "ip": "77.73.66.223",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "45.129.2.201",
+    "port": 443,
+    "code": "RU",
+    "org": "iNet Ltd"
+  },
+  {
+    "ip": "178.20.41.204",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "91.184.244.230",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "5.180.137.104",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "5.129.223.137",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "91.188.213.107",
+    "port": 443,
+    "code": "RU",
+    "org": "Helou LLC"
+  },
+  {
+    "ip": "178.154.222.149",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "46.29.115.144",
+    "port": 443,
+    "code": "RU",
+    "org": "Global Communications LLC"
+  },
+  {
+    "ip": "91.218.113.175",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC \"Server v arendy\""
+  },
+  {
+    "ip": "161.104.44.138",
+    "port": 443,
+    "code": "RU",
+    "org": ""
+  },
+  {
+    "ip": "192.144.57.214",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "45.90.46.160",
+    "port": 443,
+    "code": "RU",
+    "org": "BitWeb LLC"
+  },
+  {
+    "ip": "5.101.4.178",
+    "port": 443,
+    "code": "RU",
+    "org": "PIN DC"
+  },
+  {
+    "ip": "194.87.218.134",
+    "port": 443,
+    "code": "RU",
+    "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "84.22.136.78",
+    "port": 443,
+    "code": "RU",
+    "org": "Igra-service LLC"
+  },
+  {
+    "ip": "80.240.252.241",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC Rostelecom"
+  },
+  {
+    "ip": "130.49.213.116",
+    "port": 443,
+    "code": "RU",
+    "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "158.160.206.62",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "138.16.173.23",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "2.26.104.87",
+    "port": 443,
+    "code": "RU",
+    "org": "Xorek.Cloud Moscow"
+  },
+  {
+    "ip": "5.8.52.100",
+    "port": 443,
+    "code": "RU",
+    "org": "PIN DC"
+  },
+  {
+    "ip": "80.249.151.223",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "91.243.86.18",
+    "port": 443,
+    "code": "RU",
+    "org": "EdgeCenter LLC"
+  },
+  {
+    "ip": "185.147.27.144",
+    "port": 443,
+    "code": "RU",
+    "org": "Procloud LLC"
+  },
+  {
+    "ip": "194.55.235.205",
+    "port": 443,
+    "code": "RU",
+    "org": "Procloud"
+  },
+  {
+    "ip": "194.226.20.225",
+    "port": 443,
+    "code": "RU",
+    "org": "\"Domain names registrar REG.RU\", Ltd"
+  },
+  {
+    "ip": "217.60.186.23",
+    "port": 443,
+    "code": "RU",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "5.23.52.184",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC \"TIMEWEB\""
+  },
+  {
+    "ip": "77.37.238.5",
+    "port": 443,
+    "code": "RU",
+    "org": ""
   }
 ]

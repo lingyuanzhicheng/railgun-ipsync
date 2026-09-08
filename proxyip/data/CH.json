@@ -24,12 +24,6 @@
     "org": "Datasource AG"
   },
   {
-    "ip": "45.143.200.180",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
     "ip": "91.245.225.17",
     "port": 443,
     "code": "CH",
@@ -40,12 +34,6 @@
     "port": 443,
     "code": "CH",
     "org": "Datasource AG"
-  },
-  {
-    "ip": "45.143.200.104",
-    "port": 443,
-    "code": "CH",
-    "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
   },
   {
     "ip": "91.245.225.79",
@@ -150,12 +138,6 @@
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
-    "ip": "167.17.181.45",
-    "port": 443,
-    "code": "CH",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "83.228.193.229",
     "port": 443,
     "code": "CH",
@@ -172,12 +154,6 @@
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "167.17.181.72",
-    "port": 443,
-    "code": "CH",
-    "org": "Baxet Group Inc"
   },
   {
     "ip": "199.68.196.28",
@@ -229,12 +205,6 @@
   },
   {
     "ip": "45.143.200.141",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "87.120.222.125",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
@@ -300,18 +270,6 @@
     "org": "HostHatch"
   },
   {
-    "ip": "45.143.200.82",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.143.200.211",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "152.67.64.55",
     "port": 443,
     "code": "CH",
@@ -337,18 +295,6 @@
   },
   {
     "ip": "213.176.18.42",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.143.200.245",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.143.200.135",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
@@ -412,5 +358,23 @@
     "port": 443,
     "code": "CH",
     "org": "Private Layer Inc"
+  },
+  {
+    "ip": "171.22.16.231",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "79.132.141.152",
+    "port": 443,
+    "code": "CH",
+    "org": "Fornex Hosting S.L."
+  },
+  {
+    "ip": "140.238.170.32",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   }
 ]
