@@ -12,12 +12,6 @@
     "org": "Servinga"
   },
   {
-    "ip": "91.192.102.155",
-    "port": 8443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "91.192.102.55",
     "port": 443,
     "code": "CH",
@@ -80,12 +74,6 @@
   {
     "ip": "185.195.69.19",
     "port": 443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
-    "ip": "91.192.102.170",
-    "port": 2053,
     "code": "CH",
     "org": "Datasource AG"
   },
@@ -252,12 +240,6 @@
     "org": "anyNode"
   },
   {
-    "ip": "87.120.222.26",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "87.120.222.172",
     "port": 443,
     "code": "CH",
@@ -276,12 +258,6 @@
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
-    "ip": "45.143.200.102",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "92.119.165.150",
     "port": 443,
     "code": "CH",
@@ -289,12 +265,6 @@
   },
   {
     "ip": "87.120.222.207",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "213.176.18.42",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
@@ -376,5 +346,131 @@
     "port": 443,
     "code": "CH",
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "167.17.181.45",
+    "port": 443,
+    "code": "CH",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "167.17.181.72",
+    "port": 443,
+    "code": "CH",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "193.228.128.110",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "87.120.222.125",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "89.125.95.85",
+    "port": 443,
+    "code": "CH",
+    "org": "Baxet"
+  },
+  {
+    "ip": "91.192.102.219",
+    "port": 443,
+    "code": "CH",
+    "org": ""
+  },
+  {
+    "ip": "141.255.164.15",
+    "port": 443,
+    "code": "CH",
+    "org": "Clientid7393"
+  },
+  {
+    "ip": "179.43.151.23",
+    "port": 443,
+    "code": "CH",
+    "org": "Private Layer Inc"
+  },
+  {
+    "ip": "179.255.191.75",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.81",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.82",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.84",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.85",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.86",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.87",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.88",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.89",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "179.255.191.90",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "45.140.205.7",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "82.21.4.172",
+    "port": 443,
+    "code": "CH",
+    "org": "UP-NETWORK Sarl"
+  },
+  {
+    "ip": "84.234.31.84",
+    "port": 443,
+    "code": "CH",
+    "org": "Infomaniak Network SA"
   }
 ]

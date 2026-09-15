@@ -84,15 +84,99 @@
     "org": ""
   },
   {
-    "ip": "72.11.150.104",
-    "port": 443,
-    "code": "CA",
-    "org": "HostPapa"
-  },
-  {
     "ip": "167.160.188.156",
     "port": 443,
     "code": "CA",
     "org": ""
+  },
+  {
+    "ip": "159.203.18.237",
+    "port": 443,
+    "code": "CA",
+    "org": "Digital Ocean"
+  },
+  {
+    "ip": "172.93.32.125",
+    "port": 443,
+    "code": "CA",
+    "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "172.93.32.237",
+    "port": 443,
+    "code": "CA",
+    "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "15.157.60.182",
+    "port": 443,
+    "code": "CA",
+    "org": "AWS EC2 (ca-central-1)"
+  },
+  {
+    "ip": "24.78.21.213",
+    "port": 443,
+    "code": "CA",
+    "org": "Shaw Communications Inc."
+  },
+  {
+    "ip": "35.182.59.30",
+    "port": 443,
+    "code": "CA",
+    "org": "AWS EC2 (ca-central-1)"
+  },
+  {
+    "ip": "38.9.96.61",
+    "port": 443,
+    "code": "CA",
+    "org": ""
+  },
+  {
+    "ip": "45.133.17.118",
+    "port": 443,
+    "code": "CA",
+    "org": ""
+  },
+  {
+    "ip": "103.214.69.7",
+    "port": 443,
+    "code": "CA",
+    "org": "YottaSrc"
+  },
+  {
+    "ip": "138.197.173.118",
+    "port": 443,
+    "code": "CA",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "147.182.156.112",
+    "port": 443,
+    "code": "CA",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "158.51.123.177",
+    "port": 443,
+    "code": "CA",
+    "org": "GTHost"
+  },
+  {
+    "ip": "158.69.219.232",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "158.69.220.24",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "158.69.220.85",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
   }
 ]

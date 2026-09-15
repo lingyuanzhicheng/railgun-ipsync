@@ -54,12 +54,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "5.34.209.231",
-    "port": 2053,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "185.113.139.184",
     "port": 443,
     "code": "LV",
@@ -76,12 +70,6 @@
     "port": 443,
     "code": "LV",
     "org": "Sia Nano IT"
-  },
-  {
-    "ip": "5.34.209.231",
-    "port": 8443,
-    "code": "LV",
-    "org": "SIA VEESP"
   },
   {
     "ip": "193.68.89.220",
@@ -180,18 +168,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "195.135.253.164",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
-    "ip": "195.135.253.175",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "46.8.236.208",
     "port": 443,
     "code": "LV",
@@ -258,12 +234,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "168.222.255.164",
-    "port": 443,
-    "code": "LV",
-    "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "31.57.28.22",
     "port": 443,
     "code": "LV",
@@ -300,18 +270,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "31.57.27.98",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "188.253.19.40",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "217.60.0.194",
     "port": 443,
     "code": "LV",
@@ -328,5 +286,53 @@
     "port": 443,
     "code": "LV",
     "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "95.182.115.237",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.57.107.178",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "37.128.204.20",
+    "port": 443,
+    "code": "LV",
+    "org": "SIA VEESP"
+  },
+  {
+    "ip": "31.59.41.193",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.56.196.181",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "31.56.27.221",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "217.177.34.98",
+    "port": 443,
+    "code": "LV",
+    "org": "Vdska LV1"
+  },
+  {
+    "ip": "31.57.105.27",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
   }
 ]

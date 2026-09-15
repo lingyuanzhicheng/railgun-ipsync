@@ -90,12 +90,6 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "138.2.64.229",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "83.147.234.163",
     "port": 443,
     "code": "SG",
@@ -174,22 +168,10 @@
     "org": ""
   },
   {
-    "ip": "45.139.226.157",
-    "port": 443,
-    "code": "SG",
-    "org": "SPEEDYPAGE-LTD"
-  },
-  {
     "ip": "51.79.177.53",
     "port": 443,
     "code": "SG",
     "org": "OVH Singapore PTE. LTD"
-  },
-  {
-    "ip": "64.235.43.44",
-    "port": 443,
-    "code": "SG",
-    "org": "Singapore SG Datacenter"
   },
   {
     "ip": "85.149.211.122",
@@ -208,12 +190,6 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "143.198.88.27",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "149.28.153.207",
@@ -264,12 +240,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "18.143.165.1",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "165.245.176.192",
     "port": 443,
     "code": "SG",
@@ -288,81 +258,81 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "162.158.190.9",
+    "ip": "13.250.131.37",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "AWS EC2 (ap-southeast-1)"
   },
   {
-    "ip": "162.158.190.98",
+    "ip": "213.35.105.58",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
-    "ip": "172.70.208.20",
+    "ip": "43.163.113.253",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": ""
   },
   {
-    "ip": "172.70.208.163",
+    "ip": "45.139.226.92",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "SPEEDYPAGE-LTD"
   },
   {
-    "ip": "162.158.88.126",
+    "ip": "103.253.145.105",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Digital Ocean, Inc."
   },
   {
-    "ip": "162.158.184.35",
+    "ip": "134.185.85.155",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
-    "ip": "172.70.204.19",
+    "ip": "143.198.80.220",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "172.70.208.129",
+    "ip": "152.175.67.191",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Sakura Communications Pte. LTD"
   },
   {
-    "ip": "172.71.124.91",
+    "ip": "157.228.130.240",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": ""
   },
   {
-    "ip": "172.71.124.187",
+    "ip": "168.144.100.103",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "162.158.184.57",
+    "ip": "178.93.160.236",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Private Customer"
   },
   {
-    "ip": "162.158.189.67",
+    "ip": "38.181.52.16",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Hong Kong Communications International Co., Limited"
   },
   {
-    "ip": "162.158.189.131",
+    "ip": "43.134.62.218",
     "port": 443,
     "code": "SG",
-    "org": "Cloudflare WARP"
+    "org": "Tencent Cloud Computing"
   }
 ]
