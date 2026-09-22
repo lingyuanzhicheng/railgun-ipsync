@@ -306,12 +306,6 @@
     "org": "Infomaniak Cloud"
   },
   {
-    "ip": "132.243.174.185",
-    "port": 443,
-    "code": "CH",
-    "org": ""
-  },
-  {
     "ip": "45.148.102.235",
     "port": 443,
     "code": "CH",
@@ -376,24 +370,6 @@
     "port": 443,
     "code": "CH",
     "org": "Baxet"
-  },
-  {
-    "ip": "91.192.102.219",
-    "port": 443,
-    "code": "CH",
-    "org": ""
-  },
-  {
-    "ip": "141.255.164.15",
-    "port": 443,
-    "code": "CH",
-    "org": "Clientid7393"
-  },
-  {
-    "ip": "179.43.151.23",
-    "port": 443,
-    "code": "CH",
-    "org": "Private Layer Inc"
   },
   {
     "ip": "179.255.191.75",
@@ -472,5 +448,17 @@
     "port": 443,
     "code": "CH",
     "org": "Infomaniak Network SA"
+  },
+  {
+    "ip": "179.255.191.76",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "199.68.196.67",
+    "port": 443,
+    "code": "CH",
+    "org": "Fornex Hosting S.L."
   }
 ]

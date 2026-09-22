@@ -48,12 +48,6 @@
     "org": "oneprovider.com - Tokyo Infrastructure"
   },
   {
-    "ip": "138.2.10.149",
-    "port": 45638,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "138.2.18.82",
     "port": 8880,
     "code": "JP",
@@ -94,12 +88,6 @@
     "port": 443,
     "code": "JP",
     "org": "Cloudflare London, LLC"
-  },
-  {
-    "ip": "150.230.214.172",
-    "port": 16957,
-    "code": "JP",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "103.75.118.144",
@@ -402,34 +390,10 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "168.138.212.80",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
-    "ip": "140.83.86.166",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
-    "ip": "107.191.53.228",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "103.197.210.198",
     "port": 443,
     "code": "JP",
     "org": "NTT Communications Corporation"
-  },
-  {
-    "ip": "178.157.61.51",
-    "port": 443,
-    "code": "JP",
-    "org": ""
   },
   {
     "ip": "206.190.233.100",
@@ -442,12 +406,6 @@
     "port": 443,
     "code": "JP",
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
-  },
-  {
-    "ip": "161.33.135.154",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
     "ip": "107.148.118.151",
@@ -570,28 +528,10 @@
     "org": "Eons Data Communications Limited"
   },
   {
-    "ip": "5.226.49.3",
-    "port": 443,
-    "code": "JP",
-    "org": "Akari Networks Limited"
-  },
-  {
-    "ip": "34.104.218.57",
-    "port": 443,
-    "code": "JP",
-    "org": "Google Cloud (asia-northeast1)"
-  },
-  {
     "ip": "61.124.1.97",
     "port": 443,
     "code": "JP",
     "org": "Fujitsu Limited"
-  },
-  {
-    "ip": "64.176.41.21",
-    "port": 443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "64.176.62.94",
@@ -610,12 +550,6 @@
     "port": 443,
     "code": "JP",
     "org": "FE Partners Inc"
-  },
-  {
-    "ip": "109.61.109.143",
-    "port": 443,
-    "code": "JP",
-    "org": "mkr. Rostoshi"
   },
   {
     "ip": "138.2.21.53",
@@ -667,6 +601,78 @@
   },
   {
     "ip": "172.70.199.158",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "38.47.105.76",
+    "port": 443,
+    "code": "JP",
+    "org": "VMISS Inc"
+  },
+  {
+    "ip": "74.82.192.82",
+    "port": 443,
+    "code": "JP",
+    "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "161.33.131.94",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "216.23.120.117",
+    "port": 443,
+    "code": "JP",
+    "org": "Zouter Limited"
+  },
+  {
+    "ip": "172.70.199.164",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.235.205.108",
+    "port": 443,
+    "code": "JP",
+    "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "45.8.173.215",
+    "port": 443,
+    "code": "JP",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "172.70.199.71",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.74",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.88",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.150",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.196",
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"

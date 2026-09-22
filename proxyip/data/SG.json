@@ -36,12 +36,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "167.71.198.82",
-    "port": 8443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "47.82.155.79",
     "port": 443,
     "code": "SG",
@@ -210,12 +204,6 @@
     "org": "Zenlayer Inc"
   },
   {
-    "ip": "129.226.202.149",
-    "port": 443,
-    "code": "SG",
-    "org": "Aceville Pte.ltd"
-  },
-  {
     "ip": "168.144.44.150",
     "port": 443,
     "code": "SG",
@@ -228,12 +216,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "138.2.76.34",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "138.2.108.213",
     "port": 443,
     "code": "SG",
@@ -241,18 +223,6 @@
   },
   {
     "ip": "165.245.176.192",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "124.243.136.65",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "157.245.148.160",
     "port": 443,
     "code": "SG",
     "org": "DigitalOcean, LLC"
@@ -294,18 +264,6 @@
     "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
-    "ip": "143.198.80.220",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "152.175.67.191",
-    "port": 443,
-    "code": "SG",
-    "org": "Sakura Communications Pte. LTD"
-  },
-  {
     "ip": "157.228.130.240",
     "port": 443,
     "code": "SG",
@@ -324,15 +282,363 @@
     "org": "Private Customer"
   },
   {
-    "ip": "38.181.52.16",
-    "port": 443,
-    "code": "SG",
-    "org": "Hong Kong Communications International Co., Limited"
-  },
-  {
     "ip": "43.134.62.218",
     "port": 443,
     "code": "SG",
     "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "138.2.64.229",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
+  },
+  {
+    "ip": "45.139.226.157",
+    "port": 443,
+    "code": "SG",
+    "org": "SPEEDYPAGE-LTD"
+  },
+  {
+    "ip": "162.158.189.145",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.190.9",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.190.98",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.20",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.163",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.126",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.92.40",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.35",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.244",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.246",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.204.19",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.129",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.91",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.187",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.112",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.108.99",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.21",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.57",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.78",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.18",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.67",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.77",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.131",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.228",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.85",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.108.153",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.108.154",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.13",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.188.50",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.5",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.190.13",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.190.107",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.204.41",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.16",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.65",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.9",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.92",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.107",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "195.172.139.44",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "5.199.166.152",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudlix.com Hosting services"
+  },
+  {
+    "ip": "82.47.245.2",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "162.158.190.2",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.190.79",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.204.13",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.35",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.83",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.87",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.93",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.227",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.99",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.67",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.188.91",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.188.132",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.111",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.116",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.129",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.195",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
   }
 ]
