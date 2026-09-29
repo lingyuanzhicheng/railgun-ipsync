@@ -6,12 +6,6 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "77.110.97.193",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "91.184.240.196",
     "port": 443,
     "code": "SE",
@@ -156,22 +150,10 @@
     "org": "Aeza International LTD"
   },
   {
-    "ip": "193.148.58.33",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "64.112.127.151",
     "port": 443,
     "code": "SE",
     "org": "Hostup AB"
-  },
-  {
-    "ip": "138.124.71.139",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "45.80.231.90",
@@ -187,12 +169,6 @@
   },
   {
     "ip": "109.120.134.104",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
-  },
-  {
-    "ip": "138.124.26.228",
     "port": 443,
     "code": "SE",
     "org": "Aeza Group LLC"
@@ -214,12 +190,6 @@
     "port": 443,
     "code": "SE",
     "org": ""
-  },
-  {
-    "ip": "89.125.243.165",
-    "port": 443,
-    "code": "SE",
-    "org": "Baxet Group Inc"
   },
   {
     "ip": "89.22.236.0",
@@ -300,22 +270,10 @@
     "org": "Fiber Grid"
   },
   {
-    "ip": "45.80.229.48",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "196.196.5.28",
     "port": 443,
     "code": "SE",
     "org": "Fiber Grid"
-  },
-  {
-    "ip": "213.176.119.139",
-    "port": 443,
-    "code": "SE",
-    "org": "NetCrafters OU"
   },
   {
     "ip": "37.203.209.26",
@@ -364,12 +322,6 @@
     "port": 443,
     "code": "SE",
     "org": ""
-  },
-  {
-    "ip": "89.125.76.229",
-    "port": 443,
-    "code": "SE",
-    "org": "Baxet Group Inc"
   },
   {
     "ip": "121.127.33.130",
@@ -430,18 +382,6 @@
     "port": 443,
     "code": "SE",
     "org": "Aeza Network Stockholm"
-  },
-  {
-    "ip": "51.21.18.89",
-    "port": 443,
-    "code": "SE",
-    "org": "AWS EC2 (eu-north-1)"
-  },
-  {
-    "ip": "84.32.208.198",
-    "port": 443,
-    "code": "SE",
-    "org": ""
   },
   {
     "ip": "89.127.204.156",
@@ -588,18 +528,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "104.22.43.12",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "77.110.120.118",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "31.77.158.167",
     "port": 443,
     "code": "SE",
@@ -696,12 +624,6 @@
     "org": ""
   },
   {
-    "ip": "46.226.165.199",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "62.182.198.178",
     "port": 443,
     "code": "SE",
@@ -745,12 +667,6 @@
   },
   {
     "ip": "104.23.222.37",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "104.23.223.3",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"
@@ -913,6 +829,132 @@
   },
   {
     "ip": "104.22.44.7",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "89.169.32.238",
+    "port": 443,
+    "code": "SE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "84.32.217.147",
+    "port": 443,
+    "code": "SE",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "46.21.81.230",
+    "port": 443,
+    "code": "SE",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "5.175.236.53",
+    "port": 443,
+    "code": "SE",
+    "org": "NyaNet"
+  },
+  {
+    "ip": "13.50.199.225",
+    "port": 443,
+    "code": "SE",
+    "org": "AWS EC2 (eu-north-1)"
+  },
+  {
+    "ip": "92.246.137.103",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza International LTD"
+  },
+  {
+    "ip": "104.23.218.52",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.218.70",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.221.179",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.110",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.119",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.144",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.224.13",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.224.15",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.224.25",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.224.56",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.75",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.165",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.183.91",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.22.43.21",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.14",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"

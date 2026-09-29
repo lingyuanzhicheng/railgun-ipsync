@@ -36,12 +36,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "141.147.152.229",
-    "port": 23333,
-    "code": "JP",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "103.106.228.126",
     "port": 2053,
     "code": "JP",
@@ -70,12 +64,6 @@
     "port": 47001,
     "code": "JP",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "45.11.1.118",
-    "port": 44004,
-    "code": "JP",
-    "org": "CEGRGO-DigitalVM LLC - Tokyo"
   },
   {
     "ip": "140.83.57.20",
@@ -390,12 +378,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "103.197.210.198",
-    "port": 443,
-    "code": "JP",
-    "org": "NTT Communications Corporation"
-  },
-  {
     "ip": "206.190.233.100",
     "port": 443,
     "code": "JP",
@@ -540,12 +522,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "84.247.152.136",
-    "port": 443,
-    "code": "JP",
-    "org": "Contabo Asia Private Limited"
-  },
-  {
     "ip": "103.245.235.254",
     "port": 443,
     "code": "JP",
@@ -606,12 +582,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "38.47.105.76",
-    "port": 443,
-    "code": "JP",
-    "org": "VMISS Inc"
-  },
-  {
     "ip": "74.82.192.82",
     "port": 443,
     "code": "JP",
@@ -634,12 +604,6 @@
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.235.205.108",
-    "port": 443,
-    "code": "JP",
-    "org": "Akamai Technologies, Inc."
   },
   {
     "ip": "45.8.173.215",
@@ -673,6 +637,60 @@
   },
   {
     "ip": "172.70.199.196",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "139.162.121.208",
+    "port": 443,
+    "code": "JP",
+    "org": "Linode"
+  },
+  {
+    "ip": "161.33.135.154",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "109.61.109.143",
+    "port": 443,
+    "code": "JP",
+    "org": "mkr. Rostoshi"
+  },
+  {
+    "ip": "43.130.241.204",
+    "port": 443,
+    "code": "JP",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "64.83.39.176",
+    "port": 443,
+    "code": "JP",
+    "org": "NTT America, Inc"
+  },
+  {
+    "ip": "141.147.168.3",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "172.70.199.102",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.138",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.170",
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"

@@ -84,12 +84,6 @@
     "org": "BlueVPS OU"
   },
   {
-    "ip": "31.133.0.124",
-    "port": 2053,
-    "code": "PL",
-    "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
     "ip": "70.34.244.250",
     "port": 12531,
     "code": "PL",
@@ -178,12 +172,6 @@
     "port": 443,
     "code": "PL",
     "org": "IROKO Networks Corporation"
-  },
-  {
-    "ip": "31.169.126.66",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "82.40.38.216",
@@ -280,12 +268,6 @@
     "port": 443,
     "code": "PL",
     "org": "ExpressHost LTD"
-  },
-  {
-    "ip": "82.38.66.90",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "91.92.46.238",
@@ -426,18 +408,6 @@
     "org": "DIALOGNET"
   },
   {
-    "ip": "81.90.17.212",
-    "port": 443,
-    "code": "PL",
-    "org": "Intezio Networks Warsaw"
-  },
-  {
-    "ip": "82.26.91.140",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "82.40.37.125",
     "port": 443,
     "code": "PL",
@@ -460,18 +430,6 @@
     "port": 443,
     "code": "PL",
     "org": "Ethernity Network"
-  },
-  {
-    "ip": "138.124.20.123",
-    "port": 443,
-    "code": "PL",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "144.31.2.121",
-    "port": 443,
-    "code": "PL",
-    "org": "H2nexus LTD"
   },
   {
     "ip": "185.126.64.13",
@@ -514,5 +472,41 @@
     "port": 443,
     "code": "PL",
     "org": "OVH Sp. z o. o"
+  },
+  {
+    "ip": "103.167.234.26",
+    "port": 443,
+    "code": "PL",
+    "org": "AlbHost SH.P.K"
+  },
+  {
+    "ip": "191.44.81.91",
+    "port": 443,
+    "code": "PL",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "151.243.232.6",
+    "port": 443,
+    "code": "PL",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "31.77.228.84",
+    "port": 443,
+    "code": "PL",
+    "org": "Great Flower"
+  },
+  {
+    "ip": "37.252.11.221",
+    "port": 443,
+    "code": "PL",
+    "org": "IROKO Networks Corporation"
+  },
+  {
+    "ip": "80.68.156.226",
+    "port": 443,
+    "code": "PL",
+    "org": "TimeWeb Ltd"
   }
 ]

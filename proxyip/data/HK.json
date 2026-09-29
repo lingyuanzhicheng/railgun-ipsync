@@ -18,12 +18,6 @@
     "org": "ACE SG"
   },
   {
-    "ip": "151.244.132.39",
-    "port": 443,
-    "code": "HK",
-    "org": ""
-  },
-  {
     "ip": "154.84.154.37",
     "port": 443,
     "code": "HK",
@@ -168,12 +162,6 @@
     "org": ""
   },
   {
-    "ip": "139.28.169.72",
-    "port": 443,
-    "code": "HK",
-    "org": "Beafort Limited"
-  },
-  {
     "ip": "43.132.234.175",
     "port": 443,
     "code": "HK",
@@ -196,5 +184,17 @@
     "port": 443,
     "code": "HK",
     "org": "Vape"
+  },
+  {
+    "ip": "124.244.55.157",
+    "port": 443,
+    "code": "HK",
+    "org": "Hong Kong Broadband Network Ltd"
+  },
+  {
+    "ip": "185.206.171.53",
+    "port": 443,
+    "code": "HK",
+    "org": "YottaSrc"
   }
 ]

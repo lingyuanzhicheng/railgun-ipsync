@@ -24,12 +24,6 @@
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
-    "ip": "91.192.102.153",
-    "port": 443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "91.245.225.79",
     "port": 2053,
     "code": "CH",
@@ -204,12 +198,6 @@
     "org": "BIGDATAHOST"
   },
   {
-    "ip": "38.180.85.203",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "171.22.16.201",
     "port": 443,
     "code": "CH",
@@ -270,12 +258,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "151.158.1.131",
-    "port": 443,
-    "code": "CH",
-    "org": "EvoxtCH"
-  },
-  {
     "ip": "179.237.87.154",
     "port": 443,
     "code": "CH",
@@ -324,12 +306,6 @@
     "org": "Private Layer Inc"
   },
   {
-    "ip": "171.22.16.231",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "79.132.141.152",
     "port": 443,
     "code": "CH",
@@ -366,72 +342,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "89.125.95.85",
-    "port": 443,
-    "code": "CH",
-    "org": "Baxet"
-  },
-  {
-    "ip": "179.255.191.75",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.81",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.82",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.84",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.85",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.86",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.87",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.88",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.89",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
-    "ip": "179.255.191.90",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
     "ip": "45.140.205.7",
     "port": 443,
     "code": "CH",
@@ -450,15 +360,15 @@
     "org": "Infomaniak Network SA"
   },
   {
-    "ip": "179.255.191.76",
-    "port": 443,
-    "code": "CH",
-    "org": "IT Hostline Ltd"
-  },
-  {
     "ip": "199.68.196.67",
     "port": 443,
     "code": "CH",
     "org": "Fornex Hosting S.L."
+  },
+  {
+    "ip": "179.237.108.163",
+    "port": 443,
+    "code": "CH",
+    "org": "Infomaniak Cloud"
   }
 ]

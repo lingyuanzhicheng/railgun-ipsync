@@ -1,11 +1,5 @@
 [
   {
-    "ip": "91.218.212.223",
-    "port": 443,
-    "code": "UA",
-    "org": "TOV 'Dream Line Holding'"
-  },
-  {
     "ip": "172.252.125.72",
     "port": 443,
     "code": "UA",
@@ -13,6 +7,12 @@
   },
   {
     "ip": "198.105.124.180",
+    "port": 443,
+    "code": "UA",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "103.71.23.244",
     "port": 443,
     "code": "UA",
     "org": "POWER-SERVERS-ROLE-ORG"
