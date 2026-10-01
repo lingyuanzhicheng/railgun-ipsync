@@ -162,12 +162,6 @@
     "org": ""
   },
   {
-    "ip": "51.79.177.53",
-    "port": 443,
-    "code": "SG",
-    "org": "OVH Singapore PTE. LTD"
-  },
-  {
     "ip": "85.149.211.122",
     "port": 443,
     "code": "SG",
@@ -234,12 +228,6 @@
     "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
-    "ip": "43.163.113.253",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "103.253.145.105",
     "port": 443,
     "code": "SG",
@@ -252,28 +240,10 @@
     "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
-    "ip": "157.228.130.240",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
-    "ip": "168.144.100.103",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "178.93.160.236",
     "port": 443,
     "code": "SG",
     "org": "Private Customer"
-  },
-  {
-    "ip": "138.2.64.229",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
     "ip": "45.139.226.157",
@@ -286,12 +256,6 @@
     "port": 443,
     "code": "SG",
     "org": "Cloudlix.com Hosting services"
-  },
-  {
-    "ip": "82.47.245.2",
-    "port": 443,
-    "code": "SG",
-    "org": ""
   },
   {
     "ip": "160.22.79.179",
@@ -316,5 +280,23 @@
     "port": 443,
     "code": "SG",
     "org": ""
+  },
+  {
+    "ip": "13.250.131.37",
+    "port": 443,
+    "code": "SG",
+    "org": "AWS EC2 (ap-southeast-1)"
+  },
+  {
+    "ip": "82.109.96.42",
+    "port": 443,
+    "code": "SG",
+    "org": "Ipxo GTT"
+  },
+  {
+    "ip": "45.194.18.109",
+    "port": 443,
+    "code": "SG",
+    "org": "Hong Kong Communications International Co., limited"
   }
 ]

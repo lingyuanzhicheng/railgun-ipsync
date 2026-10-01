@@ -468,12 +468,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "139.162.96.110",
-    "port": 443,
-    "code": "JP",
-    "org": "Linode"
-  },
-  {
     "ip": "141.147.182.70",
     "port": 443,
     "code": "JP",
@@ -496,12 +490,6 @@
     "port": 443,
     "code": "JP",
     "org": "Akamai Technologies, Inc."
-  },
-  {
-    "ip": "177.3.89.196",
-    "port": 443,
-    "code": "JP",
-    "org": ""
   },
   {
     "ip": "216.195.204.29",
@@ -582,12 +570,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "74.82.192.82",
-    "port": 443,
-    "code": "JP",
-    "org": "IT7 Networks Inc"
-  },
-  {
     "ip": "161.33.131.94",
     "port": 443,
     "code": "JP",
@@ -604,12 +586,6 @@
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "45.8.173.215",
-    "port": 443,
-    "code": "JP",
-    "org": "Private Customer"
   },
   {
     "ip": "172.70.199.71",
@@ -691,6 +667,48 @@
   },
   {
     "ip": "172.70.199.170",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "82.40.32.67",
+    "port": 443,
+    "code": "JP",
+    "org": "Prime Security Corp"
+  },
+  {
+    "ip": "82.110.234.12",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "154.36.155.70",
+    "port": 443,
+    "code": "JP",
+    "org": "NetLab Global"
+  },
+  {
+    "ip": "172.70.199.144",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.146",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.199.156",
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"

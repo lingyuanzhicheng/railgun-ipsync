@@ -54,12 +54,6 @@
     "org": "Aryaka"
   },
   {
-    "ip": "147.75.230.207",
-    "port": 443,
-    "code": "IN",
-    "org": "Aryaka"
-  },
-  {
     "ip": "139.84.174.65",
     "port": 443,
     "code": "IN",
@@ -106,5 +100,11 @@
     "port": 443,
     "code": "IN",
     "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "107.181.139.85",
+    "port": 443,
+    "code": "IN",
+    "org": "YottaSrc"
   }
 ]

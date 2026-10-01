@@ -222,12 +222,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.59.123.140",
-    "port": 443,
-    "code": "CH",
-    "org": "anyNode"
-  },
-  {
     "ip": "87.120.222.172",
     "port": 443,
     "code": "CH",
@@ -370,5 +364,29 @@
     "port": 443,
     "code": "CH",
     "org": "Infomaniak Cloud"
+  },
+  {
+    "ip": "38.180.85.203",
+    "port": 443,
+    "code": "CH",
+    "org": "3NT SOLUTIONS LLP"
+  },
+  {
+    "ip": "213.176.18.42",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "151.158.1.131",
+    "port": 443,
+    "code": "CH",
+    "org": "EvoxtCH"
+  },
+  {
+    "ip": "89.125.95.85",
+    "port": 443,
+    "code": "CH",
+    "org": "Baxet"
   }
 ]

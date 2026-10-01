@@ -288,12 +288,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "31.57.27.98",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "193.124.22.212",
     "port": 443,
     "code": "LV",
@@ -337,6 +331,24 @@
   },
   {
     "ip": "185.242.105.115",
+    "port": 443,
+    "code": "LV",
+    "org": "Veesp"
+  },
+  {
+    "ip": "46.8.232.48",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "46.8.238.187",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "185.242.105.114",
     "port": 443,
     "code": "LV",
     "org": "Veesp"
