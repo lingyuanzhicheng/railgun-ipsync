@@ -54,12 +54,6 @@
     "org": "Artnet Sp. z o.o."
   },
   {
-    "ip": "185.226.181.184",
-    "port": 2053,
-    "code": "PL",
-    "org": "NET 185 226 181 0 24"
-  },
-  {
     "ip": "151.115.61.151",
     "port": 2053,
     "code": "PL",
@@ -96,22 +90,10 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "31.133.0.133",
-    "port": 2053,
-    "code": "PL",
-    "org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI"
-  },
-  {
     "ip": "217.12.206.160",
     "port": 81,
     "code": "PL",
     "org": "GREEN FLOID LLC"
-  },
-  {
-    "ip": "80.211.249.68",
-    "port": 2053,
-    "code": "PL",
-    "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
     "ip": "145.239.88.255",
@@ -120,22 +102,10 @@
     "org": "OVH VPS WAW"
   },
   {
-    "ip": "80.211.249.68",
-    "port": 8443,
-    "code": "PL",
-    "org": "Aruba S.p.A. - Cloud Services PL1"
-  },
-  {
     "ip": "51.77.58.226",
     "port": 443,
     "code": "PL",
     "org": "OVH Sp. z o. o."
-  },
-  {
-    "ip": "89.46.235.32",
-    "port": 8443,
-    "code": "PL",
-    "org": "EDIS Infrastructure in Poland"
   },
   {
     "ip": "185.253.44.97",
@@ -258,12 +228,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.192.12.142",
-    "port": 443,
-    "code": "PL",
-    "org": "ExpressHost LTD"
-  },
-  {
     "ip": "45.194.66.88",
     "port": 443,
     "code": "PL",
@@ -288,12 +252,6 @@
     "org": "Individual Entrepreneur Anton Levin"
   },
   {
-    "ip": "70.34.251.88",
-    "port": 443,
-    "code": "PL",
-    "org": "The Constant Company, LLC"
-  },
-  {
     "ip": "91.92.46.117",
     "port": 443,
     "code": "PL",
@@ -310,12 +268,6 @@
     "port": 443,
     "code": "PL",
     "org": "Ipxo"
-  },
-  {
-    "ip": "217.60.33.218",
-    "port": 443,
-    "code": "PL",
-    "org": "ExpressHost Ltd"
   },
   {
     "ip": "2.26.5.200",
@@ -352,18 +304,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "80.68.156.187",
-    "port": 443,
-    "code": "PL",
-    "org": "TimeWeb Ltd"
-  },
-  {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
   },
   {
     "ip": "178.253.39.156",
@@ -412,12 +352,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "91.224.75.242",
-    "port": 443,
-    "code": "PL",
-    "org": "3HCLoud LLC"
   },
   {
     "ip": "94.183.209.96",
@@ -480,22 +414,10 @@
     "org": "Hostkey B.V"
   },
   {
-    "ip": "31.77.228.84",
-    "port": 443,
-    "code": "PL",
-    "org": "Great Flower"
-  },
-  {
     "ip": "37.252.11.221",
     "port": 443,
     "code": "PL",
     "org": "IROKO Networks Corporation"
-  },
-  {
-    "ip": "80.68.156.226",
-    "port": 443,
-    "code": "PL",
-    "org": "TimeWeb Ltd"
   },
   {
     "ip": "104.222.177.183",
@@ -508,5 +430,23 @@
     "port": 443,
     "code": "PL",
     "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "138.124.20.93",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "89.125.27.97",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "151.242.120.4",
+    "port": 443,
+    "code": "PL",
+    "org": "SuperOnline"
   }
 ]

@@ -1,21 +1,9 @@
 [
   {
-    "ip": "64.227.174.213",
-    "port": 2053,
-    "code": "IN",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "152.70.76.104",
     "port": 46000,
     "code": "IN",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "64.227.174.213",
-    "port": 8443,
-    "code": "IN",
-    "org": "DigitalOcean, LLC"
   },
   {
     "ip": "140.238.225.218",
@@ -52,12 +40,6 @@
     "port": 443,
     "code": "IN",
     "org": "Aryaka"
-  },
-  {
-    "ip": "139.84.174.65",
-    "port": 443,
-    "code": "IN",
-    "org": "The Constant Company, LLC"
   },
   {
     "ip": "5.253.30.226",

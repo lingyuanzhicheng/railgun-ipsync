@@ -72,12 +72,6 @@
     "org": "Datasource AG"
   },
   {
-    "ip": "185.195.69.200",
-    "port": 8443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "83.228.193.162",
     "port": 443,
     "code": "CH",
@@ -175,18 +169,6 @@
   },
   {
     "ip": "213.176.18.108",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "87.120.222.188",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.143.200.141",
     "port": 443,
     "code": "CH",
     "org": "Global Connectivity Solutions LLP"
@@ -318,12 +300,6 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "167.17.181.72",
-    "port": 443,
-    "code": "CH",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "193.228.128.110",
     "port": 443,
     "code": "CH",
@@ -378,15 +354,15 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "151.158.1.131",
-    "port": 443,
-    "code": "CH",
-    "org": "EvoxtCH"
-  },
-  {
     "ip": "89.125.95.85",
     "port": 443,
     "code": "CH",
     "org": "Baxet"
+  },
+  {
+    "ip": "179.255.191.82",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
   }
 ]

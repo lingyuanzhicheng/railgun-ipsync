@@ -60,12 +60,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "139.180.159.133",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "8.222.193.153",
     "port": 443,
     "code": "SG",
@@ -88,12 +82,6 @@
     "port": 443,
     "code": "SG",
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
-  },
-  {
-    "ip": "188.239.9.91",
-    "port": 443,
-    "code": "SG",
-    "org": ""
   },
   {
     "ip": "149.28.159.222",
@@ -162,12 +150,6 @@
     "org": ""
   },
   {
-    "ip": "85.149.211.122",
-    "port": 443,
-    "code": "SG",
-    "org": "Bage Cloud LLC"
-  },
-  {
     "ip": "140.245.103.72",
     "port": 443,
     "code": "SG",
@@ -178,12 +160,6 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Corporation"
-  },
-  {
-    "ip": "149.28.153.207",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
   },
   {
     "ip": "159.89.199.63",
@@ -258,30 +234,6 @@
     "org": "Cloudlix.com Hosting services"
   },
   {
-    "ip": "160.22.79.179",
-    "port": 443,
-    "code": "SG",
-    "org": "Onidel Pty Ltd"
-  },
-  {
-    "ip": "192.206.117.225",
-    "port": 443,
-    "code": "SG",
-    "org": "Onidel Pty Ltd"
-  },
-  {
-    "ip": "138.2.76.34",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
-  },
-  {
-    "ip": "157.228.130.244",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "13.250.131.37",
     "port": 443,
     "code": "SG",
@@ -298,5 +250,23 @@
     "port": 443,
     "code": "SG",
     "org": "Hong Kong Communications International Co., limited"
+  },
+  {
+    "ip": "157.228.130.240",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "43.134.62.218",
+    "port": 443,
+    "code": "SG",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "139.180.159.58",
+    "port": 443,
+    "code": "SG",
+    "org": ""
   }
 ]

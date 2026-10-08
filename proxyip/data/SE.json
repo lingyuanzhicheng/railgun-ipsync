@@ -30,12 +30,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "62.60.186.81",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "83.219.250.104",
     "port": 8090,
     "code": "SE",
@@ -74,12 +68,6 @@
   {
     "ip": "91.186.217.94",
     "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
-    "ip": "46.226.161.12",
-    "port": 2053,
     "code": "SE",
     "org": "Aeza International LTD"
   },
@@ -142,12 +130,6 @@
     "port": 443,
     "code": "SE",
     "org": "Hostup AB"
-  },
-  {
-    "ip": "45.80.231.90",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
   },
   {
     "ip": "91.186.218.54",
@@ -220,12 +202,6 @@
     "port": 443,
     "code": "SE",
     "org": "NyaNet"
-  },
-  {
-    "ip": "45.80.229.176",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
   },
   {
     "ip": "64.188.81.49",
@@ -384,12 +360,6 @@
     "org": ""
   },
   {
-    "ip": "84.32.99.229",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
     "ip": "176.97.77.91",
     "port": 443,
     "code": "SE",
@@ -444,12 +414,6 @@
     "org": "AWS EC2 (eu-north-1)"
   },
   {
-    "ip": "31.77.144.240",
-    "port": 443,
-    "code": "SE",
-    "org": ""
-  },
-  {
     "ip": "206.168.215.172",
     "port": 443,
     "code": "SE",
@@ -502,12 +466,6 @@
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "31.77.158.167",
-    "port": 443,
-    "code": "SE",
-    "org": ""
   },
   {
     "ip": "5.175.236.4",
@@ -690,12 +648,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.232.149.77",
-    "port": 443,
-    "code": "SE",
-    "org": "Akamai Technologies, Inc."
-  },
-  {
     "ip": "91.186.216.240",
     "port": 443,
     "code": "SE",
@@ -814,18 +766,6 @@
     "port": 443,
     "code": "SE",
     "org": "xorek.cloud International LTD"
-  },
-  {
-    "ip": "84.32.217.147",
-    "port": 443,
-    "code": "SE",
-    "org": "Private Customer"
-  },
-  {
-    "ip": "46.21.81.230",
-    "port": 443,
-    "code": "SE",
-    "org": "Baykov Ilya Sergeevich"
   },
   {
     "ip": "5.175.236.53",
@@ -1057,6 +997,96 @@
   },
   {
     "ip": "162.158.183.108",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.180.210",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "150.241.82.140",
+    "port": 443,
+    "code": "SE",
+    "org": "xorek.cloud International LTD"
+  },
+  {
+    "ip": "104.23.218.61",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.218.67",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.221.219",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.222.113",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.224.50",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.30",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.94",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.117",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.129",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.183.92",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.22.43.15",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.22.44.28",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.111",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"
