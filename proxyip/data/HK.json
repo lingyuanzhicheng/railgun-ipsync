@@ -90,12 +90,6 @@
     "org": "Akile LTD"
   },
   {
-    "ip": "8.218.22.14",
-    "port": 443,
-    "code": "HK",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
-  },
-  {
     "ip": "176.98.181.6",
     "port": 443,
     "code": "HK",
@@ -144,21 +138,27 @@
     "org": "Alibaba.com LLC"
   },
   {
-    "ip": "154.219.104.114",
-    "port": 443,
-    "code": "HK",
-    "org": "Vape"
-  },
-  {
-    "ip": "124.244.55.157",
-    "port": 443,
-    "code": "HK",
-    "org": "Hong Kong Broadband Network Ltd"
-  },
-  {
     "ip": "139.28.169.72",
     "port": 443,
     "code": "HK",
     "org": "Beafort Limited"
+  },
+  {
+    "ip": "103.219.194.43",
+    "port": 443,
+    "code": "HK",
+    "org": "Bage Cloud LLC"
+  },
+  {
+    "ip": "43.154.131.189",
+    "port": 443,
+    "code": "HK",
+    "org": "Tencent Cloud Computing"
+  },
+  {
+    "ip": "103.135.248.105",
+    "port": 443,
+    "code": "HK",
+    "org": "DMIT Inc"
   }
 ]

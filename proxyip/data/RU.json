@@ -108,12 +108,6 @@
     "org": "Firstbyte Hosting"
   },
   {
-    "ip": "84.252.75.139",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "193.124.183.69",
     "port": 443,
     "code": "RU",
@@ -228,12 +222,6 @@
     "org": "Selectel"
   },
   {
-    "ip": "109.248.168.38",
-    "port": 443,
-    "code": "RU",
-    "org": "Datacheap LLC"
-  },
-  {
     "ip": "157.22.231.205",
     "port": 443,
     "code": "RU",
@@ -312,12 +300,6 @@
     "org": "IP Vladislav Ereemev"
   },
   {
-    "ip": "45.9.13.99",
-    "port": 443,
-    "code": "RU",
-    "org": "UFO Hosting LLC"
-  },
-  {
     "ip": "89.127.197.225",
     "port": 443,
     "code": "RU",
@@ -336,28 +318,10 @@
     "org": "Beget LLC"
   },
   {
-    "ip": "2.26.104.119",
-    "port": 443,
-    "code": "RU",
-    "org": "Xorek.Cloud Moscow"
-  },
-  {
     "ip": "45.132.255.173",
     "port": 443,
     "code": "RU",
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
-  },
-  {
-    "ip": "109.71.197.28",
-    "port": 443,
-    "code": "RU",
-    "org": "LLC Setel"
-  },
-  {
-    "ip": "159.194.196.121",
-    "port": 443,
-    "code": "RU",
-    "org": "Beget LLC"
   },
   {
     "ip": "45.141.102.169",
@@ -516,12 +480,6 @@
     "org": "Selectel"
   },
   {
-    "ip": "176.113.81.56",
-    "port": 443,
-    "code": "RU",
-    "org": "MT FINANCE LLC"
-  },
-  {
     "ip": "176.118.214.216",
     "port": 443,
     "code": "RU",
@@ -562,12 +520,6 @@
     "port": 443,
     "code": "RU",
     "org": "LLC IT BASIS"
-  },
-  {
-    "ip": "178.154.222.149",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "155.212.160.127",
@@ -616,12 +568,6 @@
     "port": 443,
     "code": "RU",
     "org": "\"Domain names registrar REG.RU\", Ltd"
-  },
-  {
-    "ip": "31.56.208.59",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "45.144.64.36",
@@ -714,18 +660,6 @@
     "org": "Optima Communications, LLC"
   },
   {
-    "ip": "83.217.214.34",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
-    "ip": "213.226.124.66",
-    "port": 443,
-    "code": "RU",
-    "org": "TimeWeb Ltd"
-  },
-  {
     "ip": "217.70.20.11",
     "port": 443,
     "code": "RU",
@@ -750,9 +684,99 @@
     "org": ""
   },
   {
-    "ip": "138.16.173.23",
+    "ip": "89.248.207.37",
     "port": 443,
     "code": "RU",
-    "org": "Hosting technology LTD"
+    "org": "Selectel"
+  },
+  {
+    "ip": "92.241.18.106",
+    "port": 443,
+    "code": "RU",
+    "org": "S-INFORM Network"
+  },
+  {
+    "ip": "45.129.2.201",
+    "port": 443,
+    "code": "RU",
+    "org": "iNet Ltd"
+  },
+  {
+    "ip": "185.212.148.65",
+    "port": 443,
+    "code": "RU",
+    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
+  },
+  {
+    "ip": "95.188.72.67",
+    "port": 443,
+    "code": "RU",
+    "org": "OJSC Rostelecom"
+  },
+  {
+    "ip": "84.252.100.83",
+    "port": 443,
+    "code": "RU",
+    "org": "Datacheap LLC"
+  },
+  {
+    "ip": "91.218.113.175",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC \"Server v arendy\""
+  },
+  {
+    "ip": "5.35.127.57",
+    "port": 443,
+    "code": "RU",
+    "org": "Adminvps"
+  },
+  {
+    "ip": "84.22.136.78",
+    "port": 443,
+    "code": "RU",
+    "org": "Igra-service LLC"
+  },
+  {
+    "ip": "158.160.206.62",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "194.28.31.154",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC \"Electron-Telecom\""
+  },
+  {
+    "ip": "212.192.14.28",
+    "port": 443,
+    "code": "RU",
+    "org": "Global Internet Solutions LLC"
+  },
+  {
+    "ip": "94.143.43.19",
+    "port": 443,
+    "code": "RU",
+    "org": "PHAETON PLUS d.o.o"
+  },
+  {
+    "ip": "91.217.80.43",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "95.165.105.218",
+    "port": 443,
+    "code": "RU",
+    "org": "OAO Mgts)"
+  },
+  {
+    "ip": "185.5.249.0",
+    "port": 443,
+    "code": "RU",
+    "org": "POWER-SERVERS-ROLE-ORG"
   }
 ]

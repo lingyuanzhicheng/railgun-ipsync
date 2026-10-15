@@ -66,12 +66,6 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "43.134.174.114",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "8.219.195.31",
     "port": 443,
     "code": "SG",
@@ -94,12 +88,6 @@
     "port": 443,
     "code": "SG",
     "org": "Oracle Public Cloud"
-  },
-  {
-    "ip": "47.236.119.109",
-    "port": 443,
-    "code": "SG",
-    "org": "Alibaba Cloud LLC"
   },
   {
     "ip": "157.230.244.86",
@@ -144,12 +132,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "45.130.164.109",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "140.245.103.72",
     "port": 443,
     "code": "SG",
@@ -163,18 +145,6 @@
   },
   {
     "ip": "159.89.199.63",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "162.128.72.114",
-    "port": 443,
-    "code": "SG",
-    "org": "Zenlayer Inc"
-  },
-  {
-    "ip": "168.144.44.150",
     "port": 443,
     "code": "SG",
     "org": "DigitalOcean, LLC"
@@ -240,12 +210,6 @@
     "org": "AWS EC2 (ap-southeast-1)"
   },
   {
-    "ip": "82.109.96.42",
-    "port": 443,
-    "code": "SG",
-    "org": "Ipxo GTT"
-  },
-  {
     "ip": "45.194.18.109",
     "port": 443,
     "code": "SG",
@@ -265,6 +229,30 @@
   },
   {
     "ip": "139.180.159.58",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "188.239.9.91",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "149.28.153.207",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "157.228.130.244",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "43.174.218.1",
     "port": 443,
     "code": "SG",
     "org": ""

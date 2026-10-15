@@ -48,12 +48,6 @@
     "org": "Newserverlife LLC"
   },
   {
-    "ip": "188.116.40.37",
-    "port": 443,
-    "code": "PL",
-    "org": "Artnet Sp. z o.o."
-  },
-  {
     "ip": "151.115.61.151",
     "port": 2053,
     "code": "PL",
@@ -124,12 +118,6 @@
     "port": 2053,
     "code": "PL",
     "org": "OVH VPS WAW"
-  },
-  {
-    "ip": "45.144.51.139",
-    "port": 8443,
-    "code": "PL",
-    "org": "Newserverlife LLC"
   },
   {
     "ip": "80.211.249.240",
@@ -324,12 +312,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "45.194.66.96",
-    "port": 443,
-    "code": "PL",
-    "org": "Cloud Innovation Ltd"
-  },
-  {
     "ip": "57.128.203.189",
     "port": 443,
     "code": "PL",
@@ -372,12 +354,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "191.44.81.76",
-    "port": 443,
-    "code": "PL",
-    "org": "Private Customer"
-  },
-  {
     "ip": "81.85.73.76",
     "port": 443,
     "code": "PL",
@@ -400,12 +376,6 @@
     "port": 443,
     "code": "PL",
     "org": "AlbHost SH.P.K"
-  },
-  {
-    "ip": "191.44.81.91",
-    "port": 443,
-    "code": "PL",
-    "org": "Private Customer"
   },
   {
     "ip": "151.243.232.6",
@@ -438,15 +408,39 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "89.125.27.97",
-    "port": 443,
-    "code": "PL",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "151.242.120.4",
     "port": 443,
     "code": "PL",
     "org": "SuperOnline"
+  },
+  {
+    "ip": "217.30.10.55",
+    "port": 443,
+    "code": "PL",
+    "org": "Melbikomas UAB"
+  },
+  {
+    "ip": "185.138.90.23",
+    "port": 443,
+    "code": "PL",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "194.147.34.185",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "217.12.206.91",
+    "port": 443,
+    "code": "PL",
+    "org": "*"
+  },
+  {
+    "ip": "2.59.163.204",
+    "port": 443,
+    "code": "PL",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

@@ -168,12 +168,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "160.16.62.225",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
     "ip": "160.16.103.102",
     "port": 443,
     "code": "JP",
@@ -214,12 +208,6 @@
     "port": 443,
     "code": "JP",
     "org": "Cornseed Limited"
-  },
-  {
-    "ip": "160.16.123.110",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA Internet Inc."
   },
   {
     "ip": "172.70.199.72",
@@ -384,12 +372,6 @@
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   },
   {
-    "ip": "107.148.118.151",
-    "port": 443,
-    "code": "JP",
-    "org": ""
-  },
-  {
     "ip": "172.70.199.96",
     "port": 443,
     "code": "JP",
@@ -484,12 +466,6 @@
     "port": 443,
     "code": "JP",
     "org": "Akamai Technologies, Inc."
-  },
-  {
-    "ip": "61.124.1.97",
-    "port": 443,
-    "code": "JP",
-    "org": "Fujitsu Limited"
   },
   {
     "ip": "64.176.62.94",
@@ -636,12 +612,6 @@
     "org": "Prime Security Corp"
   },
   {
-    "ip": "82.110.234.12",
-    "port": 443,
-    "code": "JP",
-    "org": ""
-  },
-  {
     "ip": "172.70.199.144",
     "port": 443,
     "code": "JP",
@@ -660,27 +630,21 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "64.110.101.125",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "177.3.89.196",
     "port": 443,
     "code": "JP",
     "org": ""
   },
   {
-    "ip": "64.83.40.57",
-    "port": 443,
-    "code": "JP",
-    "org": "NTT America, Inc"
-  },
-  {
     "ip": "172.70.199.82",
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "147.45.49.205",
+    "port": 443,
+    "code": "JP",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

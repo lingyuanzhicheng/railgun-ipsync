@@ -228,12 +228,6 @@
     "org": "RTM GmbH"
   },
   {
-    "ip": "196.196.5.26",
-    "port": 443,
-    "code": "SE",
-    "org": "Fiber Grid"
-  },
-  {
     "ip": "196.196.5.28",
     "port": 443,
     "code": "SE",
@@ -294,12 +288,6 @@
     "org": "Privex Inc"
   },
   {
-    "ip": "138.124.103.161",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza International LTD"
-  },
-  {
     "ip": "138.124.127.235",
     "port": 443,
     "code": "SE",
@@ -342,12 +330,6 @@
     "org": "Aeza Network Stockholm"
   },
   {
-    "ip": "89.127.204.156",
-    "port": 443,
-    "code": "SE",
-    "org": "Fornex"
-  },
-  {
     "ip": "213.165.33.192",
     "port": 443,
     "code": "SE",
@@ -358,12 +340,6 @@
     "port": 443,
     "code": "SE",
     "org": ""
-  },
-  {
-    "ip": "176.97.77.91",
-    "port": 443,
-    "code": "SE",
-    "org": "IROKO Networks Corporation"
   },
   {
     "ip": "162.158.181.33",
@@ -510,12 +486,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "104.23.222.59",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "162.158.181.39",
     "port": 443,
     "code": "SE",
@@ -550,12 +520,6 @@
     "port": 443,
     "code": "SE",
     "org": "NetCrafters OU"
-  },
-  {
-    "ip": "45.141.177.0",
-    "port": 443,
-    "code": "SE",
-    "org": ""
   },
   {
     "ip": "62.182.198.178",
@@ -613,12 +577,6 @@
   },
   {
     "ip": "162.158.180.70",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.158.180.130",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"
@@ -762,12 +720,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "89.169.32.238",
-    "port": 443,
-    "code": "SE",
-    "org": "xorek.cloud International LTD"
-  },
-  {
     "ip": "5.175.236.53",
     "port": 443,
     "code": "SE",
@@ -876,12 +828,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "138.124.26.228",
-    "port": 443,
-    "code": "SE",
-    "org": "Aeza Group LLC"
-  },
-  {
     "ip": "185.186.78.15",
     "port": 443,
     "code": "SE",
@@ -978,12 +924,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "104.23.223.103",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "104.23.224.35",
     "port": 443,
     "code": "SE",
@@ -1020,18 +960,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "104.23.218.67",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "104.23.221.219",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "104.23.222.113",
     "port": 443,
     "code": "SE",
@@ -1051,12 +979,6 @@
   },
   {
     "ip": "162.158.182.94",
-    "port": 443,
-    "code": "SE",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.158.182.117",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"
@@ -1087,6 +1009,126 @@
   },
   {
     "ip": "104.23.217.111",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.232.149.77",
+    "port": 443,
+    "code": "SE",
+    "org": "Akamai Technologies, Inc."
+  },
+  {
+    "ip": "77.110.120.118",
+    "port": 443,
+    "code": "SE",
+    "org": "Aeza Group LLC"
+  },
+  {
+    "ip": "31.77.158.167",
+    "port": 443,
+    "code": "SE",
+    "org": ""
+  },
+  {
+    "ip": "104.23.221.56",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.180.120",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.116",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.17",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.23",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.93",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.223.101",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.180.88",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.55",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.104",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.182.166",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.47",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.56",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.94",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.217.115",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.221.40",
+    "port": 443,
+    "code": "SE",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "104.23.221.151",
     "port": 443,
     "code": "SE",
     "org": "Cloudflare WARP"
