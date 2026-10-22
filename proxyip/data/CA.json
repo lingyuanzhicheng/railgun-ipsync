@@ -132,12 +132,6 @@
     "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
   },
   {
-    "ip": "167.160.188.156",
-    "port": 443,
-    "code": "CA",
-    "org": ""
-  },
-  {
     "ip": "172.93.32.237",
     "port": 443,
     "code": "CA",
@@ -154,5 +148,65 @@
     "port": 443,
     "code": "CA",
     "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "149.56.14.62",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "142.188.90.91",
+    "port": 443,
+    "code": "CA",
+    "org": "Sympatico HSE"
+  },
+  {
+    "ip": "158.69.220.76",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "158.69.220.106",
+    "port": 443,
+    "code": "CA",
+    "org": "OVH Hosting, Inc."
+  },
+  {
+    "ip": "40.233.70.120",
+    "port": 443,
+    "code": "CA",
+    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
+  },
+  {
+    "ip": "45.133.17.27",
+    "port": 443,
+    "code": "CA",
+    "org": ""
+  },
+  {
+    "ip": "68.183.202.250",
+    "port": 443,
+    "code": "CA",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "78.111.91.80",
+    "port": 443,
+    "code": "CA",
+    "org": "ITGLOBAL"
+  },
+  {
+    "ip": "104.248.107.186",
+    "port": 443,
+    "code": "CA",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "140.238.152.64",
+    "port": 443,
+    "code": "CA",
+    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
   }
 ]

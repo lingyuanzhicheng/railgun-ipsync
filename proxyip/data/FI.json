@@ -108,12 +108,6 @@
     "org": "HOSTKEY B.V."
   },
   {
-    "ip": "45.9.74.238",
-    "port": 443,
-    "code": "FI",
-    "org": "PSERVERS Enterprise Network"
-  },
-  {
     "ip": "185.254.158.69",
     "port": 8443,
     "code": "FI",
@@ -324,12 +318,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "46.8.228.165",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "94.183.190.104",
     "port": 443,
     "code": "FI",
@@ -400,12 +388,6 @@
     "port": 443,
     "code": "FI",
     "org": "CHSL Helsinki"
-  },
-  {
-    "ip": "213.165.58.111",
-    "port": 443,
-    "code": "FI",
-    "org": "WAIcore Ltd"
   },
   {
     "ip": "31.57.62.124",
@@ -526,12 +508,6 @@
     "port": 443,
     "code": "FI",
     "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "65.108.217.253",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "2.26.23.190",
@@ -738,12 +714,6 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "185.17.2.147",
-    "port": 443,
-    "code": "FI",
-    "org": "OY Creanova Hosting Solutions LTD"
-  },
-  {
     "ip": "185.212.149.7",
     "port": 443,
     "code": "FI",
@@ -910,12 +880,6 @@
     "port": 443,
     "code": "FI",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "38.244.139.13",
-    "port": 443,
-    "code": "FI",
-    "org": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "162.159.96.112",
@@ -1278,12 +1242,6 @@
     "org": ""
   },
   {
-    "ip": "78.17.216.148",
-    "port": 443,
-    "code": "FI",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "78.153.139.20",
     "port": 443,
     "code": "FI",
@@ -1408,12 +1366,6 @@
     "port": 443,
     "code": "FI",
     "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "167.17.177.118",
-    "port": 443,
-    "code": "FI",
-    "org": "Snowd Security OU"
   },
   {
     "ip": "195.82.146.225",
@@ -1560,12 +1512,6 @@
     "org": "Xorek.Cloud Helsinki"
   },
   {
-    "ip": "65.109.195.246",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
-  },
-  {
     "ip": "78.17.42.37",
     "port": 443,
     "code": "FI",
@@ -1576,12 +1522,6 @@
     "port": 443,
     "code": "FI",
     "org": "1Cent Host"
-  },
-  {
-    "ip": "93.152.207.83",
-    "port": 443,
-    "code": "FI",
-    "org": "Global Connectivity Solutions LLP"
   },
   {
     "ip": "138.124.244.176",
@@ -1684,12 +1624,6 @@
     "port": 443,
     "code": "FI",
     "org": "New Hosting Technologies LLC"
-  },
-  {
-    "ip": "83.147.252.184",
-    "port": 443,
-    "code": "FI",
-    "org": "NetCrafters OU"
   },
   {
     "ip": "81.19.139.158",
@@ -1903,6 +1837,168 @@
   },
   {
     "ip": "162.158.238.182",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "185.193.102.119",
+    "port": 443,
+    "code": "FI",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "62.60.249.50",
+    "port": 443,
+    "code": "FI",
+    "org": "RTM GmbH"
+  },
+  {
+    "ip": "95.85.250.214",
+    "port": 443,
+    "code": "FI",
+    "org": "1Cent Host"
+  },
+  {
+    "ip": "150.241.228.17",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "151.243.247.202",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "176.125.254.60",
+    "port": 443,
+    "code": "FI",
+    "org": ""
+  },
+  {
+    "ip": "31.76.102.182",
+    "port": 443,
+    "code": "FI",
+    "org": "VPSPay Networks LTD"
+  },
+  {
+    "ip": "45.133.245.194",
+    "port": 443,
+    "code": "FI",
+    "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "78.17.216.65",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "78.40.211.113",
+    "port": 443,
+    "code": "FI",
+    "org": "New Hosting Technologies LLC"
+  },
+  {
+    "ip": "82.25.185.242",
+    "port": 443,
+    "code": "FI",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "95.217.22.190",
+    "port": 443,
+    "code": "FI",
+    "org": "Hetzner Online GmbH"
+  },
+  {
+    "ip": "144.31.18.215",
+    "port": 443,
+    "code": "FI",
+    "org": "Senko Digital LLC"
+  },
+  {
+    "ip": "144.31.75.70",
+    "port": 443,
+    "code": "FI",
+    "org": "u1host Finland"
+  },
+  {
+    "ip": "172.64.223.15",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.64.223.42",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.64.223.79",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.64.223.146",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.64.223.204",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.237.137",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.237.140",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.237.146",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.238.77",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.238.103",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.239.78",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.159.96.45",
+    "port": 443,
+    "code": "FI",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.159.96.47",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"

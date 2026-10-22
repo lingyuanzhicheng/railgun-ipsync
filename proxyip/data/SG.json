@@ -108,12 +108,6 @@
     "org": "ACE"
   },
   {
-    "ip": "43.160.238.73",
-    "port": 443,
-    "code": "SG",
-    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
-  },
-  {
     "ip": "43.160.241.174",
     "port": 443,
     "code": "SG",
@@ -256,5 +250,113 @@
     "port": 443,
     "code": "SG",
     "org": ""
+  },
+  {
+    "ip": "139.180.159.133",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "129.121.129.25",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Corporation"
+  },
+  {
+    "ip": "139.59.118.255",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "139.180.187.189",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "152.175.67.17",
+    "port": 443,
+    "code": "SG",
+    "org": "Sakura Communications Pte. LTD"
+  },
+  {
+    "ip": "157.230.255.214",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "161.118.198.68",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
+  },
+  {
+    "ip": "161.118.220.61",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
+  },
+  {
+    "ip": "162.4.173.74",
+    "port": 443,
+    "code": "SG",
+    "org": "Vayne Network Pte. LTD"
+  },
+  {
+    "ip": "168.107.88.7",
+    "port": 443,
+    "code": "SG",
+    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
+  },
+  {
+    "ip": "177.5.66.59",
+    "port": 443,
+    "code": "SG",
+    "org": "Hong Kong Communications International Co., limited"
+  },
+  {
+    "ip": "178.128.61.113",
+    "port": 443,
+    "code": "SG",
+    "org": "Digitalocean"
+  },
+  {
+    "ip": "8.219.185.66",
+    "port": 443,
+    "code": "SG",
+    "org": "Alibaba.com Singapore E-Commerce Private Limited"
+  },
+  {
+    "ip": "45.77.33.228",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "45.77.36.140",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "84.32.22.205",
+    "port": 443,
+    "code": "SG",
+    "org": "UAB Cherry Servers"
+  },
+  {
+    "ip": "103.6.169.135",
+    "port": 443,
+    "code": "SG",
+    "org": ""
+  },
+  {
+    "ip": "103.248.228.240",
+    "port": 443,
+    "code": "SG",
+    "org": "Akari Networks Pte. Ltd"
   }
 ]

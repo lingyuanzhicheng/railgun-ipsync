@@ -126,18 +126,6 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "137.220.225.56",
-    "port": 443,
-    "code": "JP",
-    "org": "Rackip Consultancy Pte. LTD"
-  },
-  {
-    "ip": "137.220.225.111",
-    "port": 443,
-    "code": "JP",
-    "org": "Rackip Consultancy Pte. LTD"
-  },
-  {
     "ip": "207.148.99.230",
     "port": 443,
     "code": "JP",
@@ -570,22 +558,10 @@
     "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
-    "ip": "109.61.109.143",
-    "port": 443,
-    "code": "JP",
-    "org": "mkr. Rostoshi"
-  },
-  {
     "ip": "43.130.241.204",
     "port": 443,
     "code": "JP",
     "org": "Tencent Cloud Computing"
-  },
-  {
-    "ip": "64.83.39.176",
-    "port": 443,
-    "code": "JP",
-    "org": "NTT America, Inc"
   },
   {
     "ip": "172.70.199.102",
@@ -604,12 +580,6 @@
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "82.40.32.67",
-    "port": 443,
-    "code": "JP",
-    "org": "Prime Security Corp"
   },
   {
     "ip": "172.70.199.144",
@@ -646,5 +616,107 @@
     "port": 443,
     "code": "JP",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "168.138.212.80",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "38.47.105.76",
+    "port": 443,
+    "code": "JP",
+    "org": "VMISS Inc"
+  },
+  {
+    "ip": "107.148.118.151",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "103.201.131.215",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "167.88.185.42",
+    "port": 443,
+    "code": "JP",
+    "org": "2EZ Network Inc"
+  },
+  {
+    "ip": "160.251.167.81",
+    "port": 443,
+    "code": "JP",
+    "org": "GMO Internet Group, Inc."
+  },
+  {
+    "ip": "161.34.33.205",
+    "port": 443,
+    "code": "JP",
+    "org": "NTTPC Communications, Inc"
+  },
+  {
+    "ip": "167.179.95.242",
+    "port": 443,
+    "code": "JP",
+    "org": "Choopa, LLC"
+  },
+  {
+    "ip": "45.66.216.47",
+    "port": 443,
+    "code": "JP",
+    "org": "Virtual Machine Solutions LLC"
+  },
+  {
+    "ip": "137.220.202.56",
+    "port": 443,
+    "code": "JP",
+    "org": "Rackip Consultancy Pte. LTD"
+  },
+  {
+    "ip": "137.220.202.58",
+    "port": 443,
+    "code": "JP",
+    "org": "Rackip Consultancy Pte. LTD"
+  },
+  {
+    "ip": "140.238.50.168",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
+  },
+  {
+    "ip": "147.79.59.19",
+    "port": 443,
+    "code": "JP",
+    "org": ""
+  },
+  {
+    "ip": "150.230.58.50",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "152.70.85.63",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "172.70.199.86",
+    "port": 443,
+    "code": "JP",
+    "org": "Cloudflare WARP"
   }
 ]

@@ -198,12 +198,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "87.120.222.172",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "103.63.30.163",
     "port": 443,
     "code": "CH",
@@ -258,12 +252,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "185.167.234.192",
-    "port": 443,
-    "code": "CH",
-    "org": ""
-  },
-  {
     "ip": "179.43.156.121",
     "port": 443,
     "code": "CH",
@@ -274,12 +262,6 @@
     "port": 443,
     "code": "CH",
     "org": "Fornex Hosting S.L."
-  },
-  {
-    "ip": "140.238.170.32",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
     "ip": "167.17.181.45",
@@ -352,5 +334,53 @@
     "port": 443,
     "code": "CH",
     "org": "IT Hostline Ltd"
+  },
+  {
+    "ip": "213.176.18.108",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "194.124.251.104",
+    "port": 443,
+    "code": "CH",
+    "org": "Beafort Limited"
+  },
+  {
+    "ip": "185.103.164.216",
+    "port": 443,
+    "code": "CH",
+    "org": "Alexhost SRL"
+  },
+  {
+    "ip": "185.167.234.169",
+    "port": 443,
+    "code": "CH",
+    "org": ""
+  },
+  {
+    "ip": "66.163.116.182",
+    "port": 443,
+    "code": "CH",
+    "org": "GTHost"
+  },
+  {
+    "ip": "79.132.141.219",
+    "port": 443,
+    "code": "CH",
+    "org": "Fornex Hosting S.L."
+  },
+  {
+    "ip": "91.92.143.196",
+    "port": 443,
+    "code": "CH",
+    "org": "Akenes SA"
+  },
+  {
+    "ip": "152.67.74.247",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   }
 ]
