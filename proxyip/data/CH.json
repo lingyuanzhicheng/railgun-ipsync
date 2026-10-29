@@ -12,12 +12,6 @@
     "org": "Servinga"
   },
   {
-    "ip": "91.192.102.55",
-    "port": 443,
-    "code": "CH",
-    "org": "Datasource AG"
-  },
-  {
     "ip": "91.245.225.17",
     "port": 443,
     "code": "CH",
@@ -46,12 +40,6 @@
     "port": 8443,
     "code": "CH",
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
-  },
-  {
-    "ip": "140.238.208.210",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Public Cloud"
   },
   {
     "ip": "185.195.69.209",
@@ -96,12 +84,6 @@
     "org": "Infomaniak Cloud"
   },
   {
-    "ip": "84.234.16.169",
-    "port": 443,
-    "code": "CH",
-    "org": "Noop, LLC"
-  },
-  {
     "ip": "84.234.17.132",
     "port": 443,
     "code": "CH",
@@ -136,12 +118,6 @@
     "port": 443,
     "code": "CH",
     "org": "Fornex Hosting S.L."
-  },
-  {
-    "ip": "82.38.64.162",
-    "port": 443,
-    "code": "CH",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "45.85.93.45",
@@ -336,12 +312,6 @@
     "org": "IT Hostline Ltd"
   },
   {
-    "ip": "213.176.18.108",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "194.124.251.104",
     "port": 443,
     "code": "CH",
@@ -382,5 +352,23 @@
     "port": 443,
     "code": "CH",
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "140.238.170.32",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "141.227.150.38",
+    "port": 443,
+    "code": "CH",
+    "org": "OVH CH"
+  },
+  {
+    "ip": "185.167.234.192",
+    "port": 443,
+    "code": "CH",
+    "org": ""
   }
 ]

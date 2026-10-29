@@ -90,36 +90,6 @@
     "org": "Oracle Public Cloud"
   },
   {
-    "ip": "157.230.244.86",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "141.11.43.124",
-    "port": 443,
-    "code": "SG",
-    "org": "Streamline Servers Pty Ltd"
-  },
-  {
-    "ip": "43.174.192.1",
-    "port": 443,
-    "code": "SG",
-    "org": "ACE"
-  },
-  {
-    "ip": "43.160.241.174",
-    "port": 443,
-    "code": "SG",
-    "org": "Tencent Cloud Computing (Beijing) Co., Ltd"
-  },
-  {
-    "ip": "43.170.38.62",
-    "port": 443,
-    "code": "SG",
-    "org": "ACE"
-  },
-  {
     "ip": "45.32.127.54",
     "port": 443,
     "code": "SG",
@@ -162,12 +132,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "213.35.105.58",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
-  },
-  {
     "ip": "103.253.145.105",
     "port": 443,
     "code": "SG",
@@ -192,18 +156,6 @@
     "org": "SPEEDYPAGE-LTD"
   },
   {
-    "ip": "5.199.166.152",
-    "port": 443,
-    "code": "SG",
-    "org": "Cloudlix.com Hosting services"
-  },
-  {
-    "ip": "13.250.131.37",
-    "port": 443,
-    "code": "SG",
-    "org": "AWS EC2 (ap-southeast-1)"
-  },
-  {
     "ip": "45.194.18.109",
     "port": 443,
     "code": "SG",
@@ -214,12 +166,6 @@
     "port": 443,
     "code": "SG",
     "org": ""
-  },
-  {
-    "ip": "43.134.62.218",
-    "port": 443,
-    "code": "SG",
-    "org": "Tencent Cloud Computing"
   },
   {
     "ip": "139.180.159.58",
@@ -270,12 +216,6 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "139.180.187.189",
-    "port": 443,
-    "code": "SG",
-    "org": ""
-  },
-  {
     "ip": "152.175.67.17",
     "port": 443,
     "code": "SG",
@@ -288,22 +228,10 @@
     "org": "DigitalOcean, LLC"
   },
   {
-    "ip": "161.118.198.68",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
-  },
-  {
     "ip": "161.118.220.61",
     "port": 443,
     "code": "SG",
     "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
-  },
-  {
-    "ip": "162.4.173.74",
-    "port": 443,
-    "code": "SG",
-    "org": "Vayne Network Pte. LTD"
   },
   {
     "ip": "168.107.88.7",
@@ -312,22 +240,10 @@
     "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
-    "ip": "177.5.66.59",
-    "port": 443,
-    "code": "SG",
-    "org": "Hong Kong Communications International Co., limited"
-  },
-  {
     "ip": "178.128.61.113",
     "port": 443,
     "code": "SG",
     "org": "Digitalocean"
-  },
-  {
-    "ip": "8.219.185.66",
-    "port": 443,
-    "code": "SG",
-    "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
     "ip": "45.77.33.228",
@@ -348,15 +264,105 @@
     "org": "UAB Cherry Servers"
   },
   {
-    "ip": "103.6.169.135",
+    "ip": "103.248.228.240",
+    "port": 443,
+    "code": "SG",
+    "org": "Akari Networks Pte. Ltd"
+  },
+  {
+    "ip": "43.134.174.114",
     "port": 443,
     "code": "SG",
     "org": ""
   },
   {
-    "ip": "103.248.228.240",
+    "ip": "162.158.189.145",
     "port": 443,
     "code": "SG",
-    "org": "Akari Networks Pte. Ltd"
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.190.9",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.163",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.92.40",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.35",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.184.52",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.188.72",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.189.73",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.148",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.35",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.38",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.92.43",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "168.144.110.83",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
+  },
+  {
+    "ip": "178.93.160.132",
+    "port": 443,
+    "code": "SG",
+    "org": "Private Customer"
+  },
+  {
+    "ip": "206.189.39.92",
+    "port": 443,
+    "code": "SG",
+    "org": "DigitalOcean, LLC"
   }
 ]
