@@ -48,12 +48,6 @@
     "org": "BG-NETWORK"
   },
   {
-    "ip": "45.89.63.101",
-    "port": 443,
-    "code": "GB",
-    "org": "Baykov Ilya Sergeevich"
-  },
-  {
     "ip": "198.244.235.173",
     "port": 179,
     "code": "GB",
@@ -336,12 +330,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "172.70.160.211",
-    "port": 443,
-    "code": "GB",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "104.128.190.209",
     "port": 443,
     "code": "GB",
@@ -463,12 +451,6 @@
   },
   {
     "ip": "172.64.192.91",
-    "port": 443,
-    "code": "GB",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.69.194.85",
     "port": 443,
     "code": "GB",
     "org": "Cloudflare WARP"
@@ -750,12 +732,6 @@
     "org": "Bage Cloud LLC"
   },
   {
-    "ip": "45.74.3.80",
-    "port": 443,
-    "code": "GB",
-    "org": "Virtualine Technologies"
-  },
-  {
     "ip": "194.147.88.43",
     "port": 443,
     "code": "GB",
@@ -787,12 +763,6 @@
   },
   {
     "ip": "172.70.85.254",
-    "port": 443,
-    "code": "GB",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.70.88.159",
     "port": 443,
     "code": "GB",
     "org": "Cloudflare WARP"
@@ -1488,12 +1458,6 @@
     "org": "OVH Ltd"
   },
   {
-    "ip": "91.149.238.129",
-    "port": 443,
-    "code": "GB",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "172.70.86.187",
     "port": 443,
     "code": "GB",
@@ -1998,12 +1962,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "18.134.196.127",
-    "port": 443,
-    "code": "GB",
-    "org": "AWS EC2 (eu-west-2)"
-  },
-  {
     "ip": "172.68.205.69",
     "port": 443,
     "code": "GB",
@@ -2293,6 +2251,228 @@
   },
   {
     "ip": "172.70.56.56",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "194.37.82.144",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudwebmanage EU LO"
+  },
+  {
+    "ip": "172.64.192.85",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.64.192.177",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.136",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "45.89.63.128",
+    "port": 443,
+    "code": "GB",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "172.69.247.32",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.195.104",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.161.79",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "82.38.171.89",
+    "port": 443,
+    "code": "GB",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "172.69.43.142",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.193.135",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.194.91",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.84.27",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.84.154",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.85.137",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.86.79",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.86.137",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.90.9",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.91.204",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.178.95",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.215.84",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.64.192.47",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.229.123",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.229.205",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.74.14",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.74.22",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.74.108",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.74.128",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.49",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.81",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.130",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.203",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.205.224",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.215.24",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.68.215.27",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.69.79.123",
+    "port": 443,
+    "code": "GB",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.73.15",
     "port": 443,
     "code": "GB",
     "org": "Cloudflare WARP"

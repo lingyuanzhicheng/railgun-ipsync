@@ -6,12 +6,6 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "153.121.45.101",
-    "port": 443,
-    "code": "JP",
-    "org": "SAKURA"
-  },
-  {
     "ip": "45.76.198.248",
     "port": 443,
     "code": "JP",
@@ -642,12 +636,6 @@
     "org": "GMO Internet Group, Inc."
   },
   {
-    "ip": "161.34.33.205",
-    "port": 443,
-    "code": "JP",
-    "org": "NTTPC Communications, Inc"
-  },
-  {
     "ip": "167.179.95.242",
     "port": 443,
     "code": "JP",
@@ -688,5 +676,17 @@
     "port": 443,
     "code": "JP",
     "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
+  },
+  {
+    "ip": "74.82.192.82",
+    "port": 443,
+    "code": "JP",
+    "org": "IT7 Networks Inc"
   }
 ]

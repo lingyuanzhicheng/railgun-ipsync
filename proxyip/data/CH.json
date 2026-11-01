@@ -132,12 +132,6 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "45.85.93.49",
-    "port": 443,
-    "code": "CH",
-    "org": "Serva ONE LTD"
-  },
-  {
     "ip": "45.148.102.244",
     "port": 443,
     "code": "CH",
@@ -180,12 +174,6 @@
     "org": "HostHatch"
   },
   {
-    "ip": "152.67.64.55",
-    "port": 443,
-    "code": "CH",
-    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
-  },
-  {
     "ip": "92.119.165.150",
     "port": 443,
     "code": "CH",
@@ -214,12 +202,6 @@
     "port": 443,
     "code": "CH",
     "org": "3NT SOLUTIONS LLP"
-  },
-  {
-    "ip": "83.228.199.3",
-    "port": 443,
-    "code": "CH",
-    "org": "Infomaniak Cloud"
   },
   {
     "ip": "45.148.102.235",
@@ -360,15 +342,21 @@
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   },
   {
-    "ip": "141.227.150.38",
-    "port": 443,
-    "code": "CH",
-    "org": "OVH CH"
-  },
-  {
     "ip": "185.167.234.192",
     "port": 443,
     "code": "CH",
     "org": ""
+  },
+  {
+    "ip": "82.38.64.162",
+    "port": 443,
+    "code": "CH",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "213.176.18.108",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
   }
 ]

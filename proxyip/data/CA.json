@@ -126,12 +126,6 @@
     "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
   },
   {
-    "ip": "172.93.32.237",
-    "port": 443,
-    "code": "CA",
-    "org": "IT7 Networks Inc"
-  },
-  {
     "ip": "40.233.68.138",
     "port": 443,
     "code": "CA",
@@ -196,5 +190,11 @@
     "port": 443,
     "code": "CA",
     "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
+  },
+  {
+    "ip": "167.160.188.156",
+    "port": 443,
+    "code": "CA",
+    "org": ""
   }
 ]

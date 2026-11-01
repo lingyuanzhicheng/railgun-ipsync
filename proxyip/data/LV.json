@@ -42,12 +42,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "5.34.211.94",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "185.113.139.184",
     "port": 443,
     "code": "LV",
@@ -276,12 +270,6 @@
     "org": "Melbikomas UAB"
   },
   {
-    "ip": "188.253.19.40",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "168.222.255.92",
     "port": 443,
     "code": "LV",
@@ -294,28 +282,10 @@
     "org": "Veesp"
   },
   {
-    "ip": "46.8.238.187",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
-    "ip": "195.135.253.164",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "185.242.105.145",
     "port": 443,
     "code": "LV",
     "org": "Veesp"
-  },
-  {
-    "ip": "188.130.154.155",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "31.56.113.127",
@@ -364,5 +334,29 @@
     "port": 443,
     "code": "LV",
     "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "138.124.182.174",
+    "port": 443,
+    "code": "LV",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "193.164.155.76",
+    "port": 443,
+    "code": "LV",
+    "org": "As56971"
+  },
+  {
+    "ip": "31.57.27.98",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "141.98.164.70",
+    "port": 443,
+    "code": "LV",
+    "org": "WorkTitans B.V"
   }
 ]

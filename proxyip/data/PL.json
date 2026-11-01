@@ -30,12 +30,6 @@
     "org": "OVH Sp. z o. o"
   },
   {
-    "ip": "51.75.32.106",
-    "port": 443,
-    "code": "PL",
-    "org": "OVH Sp. z o. o"
-  },
-  {
     "ip": "64.176.68.73",
     "port": 443,
     "code": "PL",
@@ -64,12 +58,6 @@
     "port": 27000,
     "code": "PL",
     "org": "The Constant Company, LLC"
-  },
-  {
-    "ip": "176.124.33.59",
-    "port": 443,
-    "code": "PL",
-    "org": "BlueVPS OU"
   },
   {
     "ip": "70.34.244.250",
@@ -118,12 +106,6 @@
     "port": 2053,
     "code": "PL",
     "org": "OVH VPS WAW"
-  },
-  {
-    "ip": "80.211.249.240",
-    "port": 2053,
-    "code": "PL",
-    "org": "Aruba S.p.A. - Cloud Services PL1"
   },
   {
     "ip": "37.252.6.119",
@@ -318,12 +300,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "217.12.206.91",
-    "port": 443,
-    "code": "PL",
-    "org": "*"
-  },
-  {
     "ip": "70.34.244.224",
     "port": 443,
     "code": "PL",
@@ -402,12 +378,6 @@
     "org": "Private Customer"
   },
   {
-    "ip": "191.44.113.181",
-    "port": 443,
-    "code": "PL",
-    "org": "Mevspace SP Z O O"
-  },
-  {
     "ip": "194.110.4.88",
     "port": 443,
     "code": "PL",
@@ -424,12 +394,6 @@
     "port": 443,
     "code": "PL",
     "org": "*"
-  },
-  {
-    "ip": "31.59.124.128",
-    "port": 443,
-    "code": "PL",
-    "org": ""
   },
   {
     "ip": "38.180.51.90",
@@ -487,6 +451,36 @@
   },
   {
     "ip": "185.138.90.41",
+    "port": 443,
+    "code": "PL",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "217.30.10.55",
+    "port": 443,
+    "code": "PL",
+    "org": "Melbikomas UAB"
+  },
+  {
+    "ip": "64.176.68.131",
+    "port": 443,
+    "code": "PL",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "82.40.37.217",
+    "port": 443,
+    "code": "PL",
+    "org": "Hostkey B.V"
+  },
+  {
+    "ip": "143.20.97.128",
+    "port": 443,
+    "code": "PL",
+    "org": "TABS-HOSTING"
+  },
+  {
+    "ip": "147.45.126.109",
     "port": 443,
     "code": "PL",
     "org": "Global Connectivity Solutions LLP"
