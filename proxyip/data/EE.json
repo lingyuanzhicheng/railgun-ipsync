@@ -36,18 +36,6 @@
     "org": "Brainoza OU"
   },
   {
-    "ip": "185.36.140.228",
-    "port": 8443,
-    "code": "EE",
-    "org": "Brainoza OU"
-  },
-  {
-    "ip": "185.36.140.228",
-    "port": 2053,
-    "code": "EE",
-    "org": "Brainoza OU"
-  },
-  {
     "ip": "185.255.178.131",
     "port": 443,
     "code": "EE",
@@ -64,5 +52,11 @@
     "port": 443,
     "code": "EE",
     "org": "IPHOSTER OU"
+  },
+  {
+    "ip": "2.59.165.35",
+    "port": 443,
+    "code": "EE",
+    "org": "Arvid Infra"
   }
 ]

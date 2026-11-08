@@ -54,18 +54,6 @@
     "org": "Digital Ocean"
   },
   {
-    "ip": "15.157.60.182",
-    "port": 443,
-    "code": "CA",
-    "org": "AWS EC2 (ca-central-1)"
-  },
-  {
-    "ip": "24.78.21.213",
-    "port": 443,
-    "code": "CA",
-    "org": "Shaw Communications Inc."
-  },
-  {
     "ip": "35.182.59.30",
     "port": 443,
     "code": "CA",
@@ -73,12 +61,6 @@
   },
   {
     "ip": "38.9.96.61",
-    "port": 443,
-    "code": "CA",
-    "org": ""
-  },
-  {
-    "ip": "45.133.17.118",
     "port": 443,
     "code": "CA",
     "org": ""
@@ -94,24 +76,6 @@
     "port": 443,
     "code": "CA",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "158.69.219.232",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "158.69.220.24",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "158.69.220.85",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
   },
   {
     "ip": "72.11.150.104",
@@ -148,18 +112,6 @@
     "port": 443,
     "code": "CA",
     "org": "Sympatico HSE"
-  },
-  {
-    "ip": "158.69.220.76",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
-  },
-  {
-    "ip": "158.69.220.106",
-    "port": 443,
-    "code": "CA",
-    "org": "OVH Hosting, Inc."
   },
   {
     "ip": "40.233.70.120",

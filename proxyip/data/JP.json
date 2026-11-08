@@ -36,12 +36,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "167.179.110.68",
-    "port": 8443,
-    "code": "JP",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
     "ip": "64.176.36.17",
     "port": 443,
     "code": "JP",
@@ -84,12 +78,6 @@
     "org": "Oracle Corporation"
   },
   {
-    "ip": "138.2.59.112",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
-  },
-  {
     "ip": "168.138.46.67",
     "port": 443,
     "code": "JP",
@@ -112,12 +100,6 @@
     "port": 443,
     "code": "JP",
     "org": "TYO Vultr"
-  },
-  {
-    "ip": "141.147.185.63",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
   },
   {
     "ip": "138.2.31.37",
@@ -154,12 +136,6 @@
     "port": 443,
     "code": "JP",
     "org": "SAKURA Internet Inc."
-  },
-  {
-    "ip": "176.97.73.228",
-    "port": 443,
-    "code": "JP",
-    "org": "IROKO Networks Corporation"
   },
   {
     "ip": "103.214.68.45",
@@ -534,12 +510,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "161.33.135.154",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "43.130.241.204",
     "port": 443,
     "code": "JP",
@@ -594,12 +564,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "147.45.49.205",
-    "port": 443,
-    "code": "JP",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "168.138.212.80",
     "port": 443,
     "code": "JP",
@@ -610,12 +574,6 @@
     "port": 443,
     "code": "JP",
     "org": "VMISS Inc"
-  },
-  {
-    "ip": "107.148.118.151",
-    "port": 443,
-    "code": "JP",
-    "org": ""
   },
   {
     "ip": "103.201.131.215",
@@ -642,18 +600,6 @@
     "org": "Choopa, LLC"
   },
   {
-    "ip": "137.220.202.56",
-    "port": 443,
-    "code": "JP",
-    "org": "Rackip Consultancy Pte. LTD"
-  },
-  {
-    "ip": "137.220.202.58",
-    "port": 443,
-    "code": "JP",
-    "org": "Rackip Consultancy Pte. LTD"
-  },
-  {
     "ip": "140.238.50.168",
     "port": 443,
     "code": "JP",
@@ -678,15 +624,21 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "64.110.101.125",
+    "ip": "74.82.192.82",
+    "port": 443,
+    "code": "JP",
+    "org": "IT7 Networks Inc"
+  },
+  {
+    "ip": "140.83.86.166",
     "port": 443,
     "code": "JP",
     "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   },
   {
-    "ip": "74.82.192.82",
+    "ip": "45.66.216.47",
     "port": 443,
     "code": "JP",
-    "org": "IT7 Networks Inc"
+    "org": "Virtual Machine Solutions LLC"
   }
 ]

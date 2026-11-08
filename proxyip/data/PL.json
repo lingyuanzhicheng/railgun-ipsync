@@ -6,12 +6,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "217.182.79.55",
-    "port": 443,
-    "code": "PL",
-    "org": "OVH Sp. z o. o"
-  },
-  {
     "ip": "37.252.10.91",
     "port": 443,
     "code": "PL",
@@ -150,12 +144,6 @@
     "org": "Baxet Group Inc"
   },
   {
-    "ip": "38.180.111.12",
-    "port": 443,
-    "code": "PL",
-    "org": "3NT SOLUTIONS LLP"
-  },
-  {
     "ip": "138.124.104.104",
     "port": 443,
     "code": "PL",
@@ -172,12 +160,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "95.85.254.170",
-    "port": 443,
-    "code": "PL",
-    "org": "1Cent Host"
   },
   {
     "ip": "45.43.137.179",
@@ -222,12 +204,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "194.87.128.46",
-    "port": 443,
-    "code": "PL",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "31.169.126.145",
     "port": 443,
     "code": "PL",
@@ -244,12 +220,6 @@
     "port": 443,
     "code": "PL",
     "org": "DIALOGNET"
-  },
-  {
-    "ip": "82.40.37.125",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "91.92.46.42",
@@ -336,12 +306,6 @@
     "org": "GF PL GDN"
   },
   {
-    "ip": "91.196.161.195",
-    "port": 443,
-    "code": "PL",
-    "org": "LLC \"Euroinform\""
-  },
-  {
     "ip": "138.124.64.105",
     "port": 443,
     "code": "PL",
@@ -408,18 +372,6 @@
     "org": "OVH Sp. z o. o"
   },
   {
-    "ip": "92.62.251.175",
-    "port": 443,
-    "code": "PL",
-    "org": "Freakhosting LTD"
-  },
-  {
-    "ip": "81.85.73.77",
-    "port": 443,
-    "code": "PL",
-    "org": "Vdska PL1"
-  },
-  {
     "ip": "82.118.20.195",
     "port": 443,
     "code": "PL",
@@ -436,12 +388,6 @@
     "port": 443,
     "code": "PL",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "151.243.182.244",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "151.243.232.113",
@@ -484,5 +430,35 @@
     "port": 443,
     "code": "PL",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "81.90.17.57",
+    "port": 443,
+    "code": "PL",
+    "org": "Intezio Networks Warsaw"
+  },
+  {
+    "ip": "45.43.137.116",
+    "port": 443,
+    "code": "PL",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "217.12.206.91",
+    "port": 443,
+    "code": "PL",
+    "org": "*"
+  },
+  {
+    "ip": "31.59.124.128",
+    "port": 443,
+    "code": "PL",
+    "org": "Mevspace SP Z O O"
+  },
+  {
+    "ip": "217.12.207.36",
+    "port": 443,
+    "code": "PL",
+    "org": "*"
   }
 ]
