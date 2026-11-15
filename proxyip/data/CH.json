@@ -156,12 +156,6 @@
     "org": "Friendhosting LTD"
   },
   {
-    "ip": "213.176.18.232",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "103.63.30.163",
     "port": 443,
     "code": "CH",
@@ -346,5 +340,17 @@
     "port": 443,
     "code": "CH",
     "org": "Infomaniak Cloud"
+  },
+  {
+    "ip": "213.176.18.42",
+    "port": 443,
+    "code": "CH",
+    "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "140.238.170.32",
+    "port": 443,
+    "code": "CH",
+    "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
   }
 ]

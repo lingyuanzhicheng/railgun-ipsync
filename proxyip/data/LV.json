@@ -90,12 +90,6 @@
     "org": "SIA VEESP"
   },
   {
-    "ip": "94.158.219.126",
-    "port": 443,
-    "code": "LV",
-    "org": "SIA VEESP"
-  },
-  {
     "ip": "213.21.222.117",
     "port": 443,
     "code": "LV",
@@ -118,12 +112,6 @@
     "port": 443,
     "code": "LV",
     "org": "RCS Technologies FZE LLC"
-  },
-  {
-    "ip": "31.57.26.159",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "46.8.236.208",
@@ -180,12 +168,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "217.60.0.194",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "91.204.75.253",
     "port": 443,
     "code": "LV",
@@ -226,12 +208,6 @@
     "port": 443,
     "code": "LV",
     "org": "Vdska LV1"
-  },
-  {
-    "ip": "31.57.105.27",
-    "port": 443,
-    "code": "LV",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "193.124.22.212",
@@ -288,12 +264,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "185.72.86.81",
-    "port": 443,
-    "code": "LV",
-    "org": "NANO-I"
-  },
-  {
     "ip": "185.145.245.51",
     "port": 443,
     "code": "LV",
@@ -306,9 +276,21 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "141.98.164.70",
+    "ip": "217.60.4.249",
     "port": 443,
     "code": "LV",
-    "org": "WorkTitans B.V"
+    "org": "CloudBackbone"
+  },
+  {
+    "ip": "46.8.232.48",
+    "port": 443,
+    "code": "LV",
+    "org": "CGI GLOBAL LIMITED"
+  },
+  {
+    "ip": "185.242.105.114",
+    "port": 443,
+    "code": "LV",
+    "org": "Veesp"
   }
 ]

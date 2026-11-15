@@ -180,12 +180,6 @@
     "org": "Serva ONE LTD"
   },
   {
-    "ip": "188.255.163.12",
-    "port": 443,
-    "code": "PL",
-    "org": "Ipxo"
-  },
-  {
     "ip": "89.125.93.217",
     "port": 443,
     "code": "PL",
@@ -240,12 +234,6 @@
     "org": "OVH Sp. z o. o"
   },
   {
-    "ip": "103.167.234.26",
-    "port": 443,
-    "code": "PL",
-    "org": "AlbHost SH.P.K"
-  },
-  {
     "ip": "151.243.232.6",
     "port": 443,
     "code": "PL",
@@ -282,34 +270,10 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "78.17.173.67",
-    "port": 443,
-    "code": "PL",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "82.26.91.123",
     "port": 443,
     "code": "PL",
     "org": "Hostkey B.V"
-  },
-  {
-    "ip": "82.118.22.41",
-    "port": 443,
-    "code": "PL",
-    "org": "GF PL GDN"
-  },
-  {
-    "ip": "82.118.23.199",
-    "port": 443,
-    "code": "PL",
-    "org": "GF PL GDN"
-  },
-  {
-    "ip": "138.124.64.105",
-    "port": 443,
-    "code": "PL",
-    "org": "Mevspace SP Z O O"
   },
   {
     "ip": "138.124.72.49",
@@ -390,22 +354,10 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "151.243.232.113",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "185.138.90.41",
     "port": 443,
     "code": "PL",
     "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "217.30.10.55",
-    "port": 443,
-    "code": "PL",
-    "org": "Melbikomas UAB"
   },
   {
     "ip": "64.176.68.131",
@@ -432,22 +384,10 @@
     "org": "Global Connectivity Solutions LLP"
   },
   {
-    "ip": "81.90.17.57",
-    "port": 443,
-    "code": "PL",
-    "org": "Intezio Networks Warsaw"
-  },
-  {
     "ip": "45.43.137.116",
     "port": 443,
     "code": "PL",
     "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
-    "ip": "217.12.206.91",
-    "port": 443,
-    "code": "PL",
-    "org": "*"
   },
   {
     "ip": "31.59.124.128",
@@ -460,5 +400,29 @@
     "port": 443,
     "code": "PL",
     "org": "*"
+  },
+  {
+    "ip": "89.125.27.97",
+    "port": 443,
+    "code": "PL",
+    "org": "Snowd Security OU"
+  },
+  {
+    "ip": "104.222.177.183",
+    "port": 443,
+    "code": "PL",
+    "org": "Individual Entrepreneur Anton Levin"
+  },
+  {
+    "ip": "92.62.251.175",
+    "port": 443,
+    "code": "PL",
+    "org": "Freakhosting LTD"
+  },
+  {
+    "ip": "82.118.23.201",
+    "port": 443,
+    "code": "PL",
+    "org": "GF PL GDN"
   }
 ]

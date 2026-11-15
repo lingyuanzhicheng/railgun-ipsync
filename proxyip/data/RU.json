@@ -102,12 +102,6 @@
     "org": "Ildar Gilmutdinov PE"
   },
   {
-    "ip": "157.22.231.205",
-    "port": 443,
-    "code": "RU",
-    "org": "AdminVPS OOO"
-  },
-  {
     "ip": "185.247.185.103",
     "port": 443,
     "code": "RU",
@@ -124,12 +118,6 @@
     "port": 443,
     "code": "RU",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "45.91.52.102",
-    "port": 443,
-    "code": "RU",
-    "org": "Delta Ltd"
   },
   {
     "ip": "104.128.141.202",
@@ -258,12 +246,6 @@
     "org": "Cloud.ru"
   },
   {
-    "ip": "195.19.20.80",
-    "port": 443,
-    "code": "RU",
-    "org": "\"Domain names registrar REG.RU\", Ltd"
-  },
-  {
     "ip": "91.243.86.18",
     "port": 443,
     "code": "RU",
@@ -318,12 +300,6 @@
     "org": "Adminvps"
   },
   {
-    "ip": "84.22.136.78",
-    "port": 443,
-    "code": "RU",
-    "org": "Igra-service LLC"
-  },
-  {
     "ip": "212.192.14.28",
     "port": 443,
     "code": "RU",
@@ -340,12 +316,6 @@
     "port": 443,
     "code": "RU",
     "org": "IPX - FZCO"
-  },
-  {
-    "ip": "91.210.107.222",
-    "port": 443,
-    "code": "RU",
-    "org": "LLC \"Server v arendy\""
   },
   {
     "ip": "176.113.81.56",
@@ -372,28 +342,10 @@
     "org": "POWER-SERVERS-ROLE-ORG"
   },
   {
-    "ip": "85.198.109.141",
-    "port": 443,
-    "code": "RU",
-    "org": ""
-  },
-  {
     "ip": "212.193.35.100",
     "port": 443,
     "code": "RU",
     "org": "Comfortel Ltd"
-  },
-  {
-    "ip": "178.20.41.204",
-    "port": 443,
-    "code": "RU",
-    "org": "Hosting technology LTD"
-  },
-  {
-    "ip": "188.225.34.155",
-    "port": 443,
-    "code": "RU",
-    "org": "JSC \"TIMEWEB\""
   },
   {
     "ip": "195.133.145.236",
@@ -462,18 +414,6 @@
     "org": "Natalia Aleksandrovna Petrova"
   },
   {
-    "ip": "91.217.80.43",
-    "port": 443,
-    "code": "RU",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "95.165.105.218",
-    "port": 443,
-    "code": "RU",
-    "org": "OAO Mgts)"
-  },
-  {
     "ip": "185.5.249.0",
     "port": 443,
     "code": "RU",
@@ -484,5 +424,35 @@
     "port": 443,
     "code": "RU",
     "org": "POWER-SERVERS-ROLE-ORG"
+  },
+  {
+    "ip": "93.123.167.66",
+    "port": 443,
+    "code": "RU",
+    "org": "Infolink spec"
+  },
+  {
+    "ip": "83.217.214.34",
+    "port": 443,
+    "code": "RU",
+    "org": "Hosting technology LTD"
+  },
+  {
+    "ip": "213.226.124.66",
+    "port": 443,
+    "code": "RU",
+    "org": "TimeWeb Ltd"
+  },
+  {
+    "ip": "217.70.20.11",
+    "port": 443,
+    "code": "RU",
+    "org": "Informational-measuring systems Ltd."
+  },
+  {
+    "ip": "194.28.31.154",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC \"Electron-Telecom\""
   }
 ]

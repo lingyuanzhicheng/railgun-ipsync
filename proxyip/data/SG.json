@@ -54,12 +54,6 @@
     "org": "Alibaba.com Singapore E-Commerce Private Limited"
   },
   {
-    "ip": "143.198.211.180",
-    "port": 443,
-    "code": "SG",
-    "org": "DigitalOcean, LLC"
-  },
-  {
     "ip": "8.222.193.153",
     "port": 443,
     "code": "SG",
@@ -90,22 +84,10 @@
     "org": "Vultr Holdings, LLC"
   },
   {
-    "ip": "140.245.103.72",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
-  },
-  {
     "ip": "159.65.1.74",
     "port": 443,
     "code": "SG",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "138.2.108.213",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Corporation"
   },
   {
     "ip": "165.245.176.192",
@@ -120,22 +102,10 @@
     "org": "Digital Ocean, Inc."
   },
   {
-    "ip": "134.185.85.155",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
-  },
-  {
     "ip": "178.93.160.236",
     "port": 443,
     "code": "SG",
     "org": "Private Customer"
-  },
-  {
-    "ip": "45.139.226.157",
-    "port": 443,
-    "code": "SG",
-    "org": "SPEEDYPAGE-LTD"
   },
   {
     "ip": "45.194.18.109",
@@ -217,12 +187,6 @@
   },
   {
     "ip": "45.77.33.228",
-    "port": 443,
-    "code": "SG",
-    "org": "Vultr Holdings, LLC"
-  },
-  {
-    "ip": "45.77.36.140",
     "port": 443,
     "code": "SG",
     "org": "Vultr Holdings, LLC"
@@ -340,12 +304,6 @@
     "port": 443,
     "code": "SG",
     "org": "ACE"
-  },
-  {
-    "ip": "213.35.105.58",
-    "port": 443,
-    "code": "SG",
-    "org": "Oracle Cloud Infrastructure (ap-singapore-1)"
   },
   {
     "ip": "162.158.190.98",
@@ -924,12 +882,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "177.5.66.59",
-    "port": 443,
-    "code": "SG",
-    "org": "Hong Kong Communications International Co., limited"
-  },
-  {
     "ip": "8.219.185.66",
     "port": 443,
     "code": "SG",
@@ -1309,6 +1261,42 @@
   },
   {
     "ip": "162.158.190.109",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "149.28.159.222",
+    "port": 443,
+    "code": "SG",
+    "org": "Vultr Holdings, LLC"
+  },
+  {
+    "ip": "172.71.124.95",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.71.124.161",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.88.22",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "162.158.92.50",
+    "port": 443,
+    "code": "SG",
+    "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "172.70.208.72",
     "port": 443,
     "code": "SG",
     "org": "Cloudflare WARP"
