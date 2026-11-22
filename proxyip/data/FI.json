@@ -108,12 +108,6 @@
     "org": "PSERVERS Enterprise Network"
   },
   {
-    "ip": "185.250.181.147",
-    "port": 8443,
-    "code": "FI",
-    "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "188.215.31.134",
     "port": 2053,
     "code": "FI",
@@ -139,12 +133,6 @@
   },
   {
     "ip": "91.217.76.237",
-    "port": 443,
-    "code": "FI",
-    "org": "FIRST SERVER LIMITED"
-  },
-  {
-    "ip": "87.239.250.142",
     "port": 443,
     "code": "FI",
     "org": "FIRST SERVER LIMITED"
@@ -202,12 +190,6 @@
     "port": 2053,
     "code": "FI",
     "org": "FIRST SERVER LIMITED"
-  },
-  {
-    "ip": "95.81.113.186",
-    "port": 443,
-    "code": "FI",
-    "org": "PSERVERS Enterprise Network"
   },
   {
     "ip": "164.215.97.18",
@@ -306,12 +288,6 @@
     "org": "CGI GLOBAL LIMITED"
   },
   {
-    "ip": "185.254.158.117",
-    "port": 443,
-    "code": "FI",
-    "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "46.20.106.214",
     "port": 443,
     "code": "FI",
@@ -334,18 +310,6 @@
     "port": 443,
     "code": "FI",
     "org": "CHSL Helsinki"
-  },
-  {
-    "ip": "95.81.93.80",
-    "port": 443,
-    "code": "FI",
-    "org": "First Server Limited"
-  },
-  {
-    "ip": "144.31.126.232",
-    "port": 443,
-    "code": "FI",
-    "org": "Xorek Cloud"
   },
   {
     "ip": "31.57.105.164",
@@ -486,18 +450,6 @@
     "org": "xorek.cloud International LTD"
   },
   {
-    "ip": "213.176.65.212",
-    "port": 443,
-    "code": "FI",
-    "org": "NetCrafters OU"
-  },
-  {
-    "ip": "31.57.105.53",
-    "port": 443,
-    "code": "FI",
-    "org": "CGI GLOBAL LIMITED"
-  },
-  {
     "ip": "46.8.230.253",
     "port": 443,
     "code": "FI",
@@ -532,12 +484,6 @@
     "port": 443,
     "code": "FI",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "111.88.215.50",
-    "port": 443,
-    "code": "FI",
-    "org": "Livi Hosting LTD"
   },
   {
     "ip": "45.131.185.203",
@@ -576,12 +522,6 @@
     "org": "OY Creanova Hosting Solutions LTD"
   },
   {
-    "ip": "2.26.105.147",
-    "port": 443,
-    "code": "FI",
-    "org": "Xorek.Cloud Helsinki"
-  },
-  {
     "ip": "65.108.157.84",
     "port": 443,
     "code": "FI",
@@ -604,12 +544,6 @@
     "port": 443,
     "code": "FI",
     "org": "HETZNER-DC"
-  },
-  {
-    "ip": "151.245.139.125",
-    "port": 443,
-    "code": "FI",
-    "org": "Hostkey B.V"
   },
   {
     "ip": "95.217.185.57",
@@ -660,37 +594,13 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "162.158.238.181",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "162.158.239.121",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "193.163.170.180",
-    "port": 443,
-    "code": "FI",
-    "org": "New Hosting Technologies LLC"
-  },
-  {
     "ip": "162.159.96.112",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.77",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.83",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -726,12 +636,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "109.172.54.73",
-    "port": 443,
-    "code": "FI",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "78.153.139.207",
     "port": 443,
     "code": "FI",
@@ -756,12 +660,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.64.223.155",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "162.158.237.180",
     "port": 443,
     "code": "FI",
@@ -781,12 +679,6 @@
   },
   {
     "ip": "162.159.96.103",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.205",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -834,19 +726,7 @@
     "org": "Aleksei Fedorov PR Krusevac"
   },
   {
-    "ip": "162.158.238.141",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "162.158.238.156",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.158.239.134",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -865,12 +745,6 @@
   },
   {
     "ip": "172.64.223.18",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.31",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -942,12 +816,6 @@
     "org": "Snowd Security OU"
   },
   {
-    "ip": "178.17.53.85",
-    "port": 443,
-    "code": "FI",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "212.237.219.73",
     "port": 443,
     "code": "FI",
@@ -970,12 +838,6 @@
     "port": 443,
     "code": "FI",
     "org": "FIRST SERVER, SOCIEDAD LIMITADA"
-  },
-  {
-    "ip": "172.64.223.175",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
   },
   {
     "ip": "172.64.223.220",
@@ -1032,12 +894,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.64.223.29",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.64.223.36",
     "port": 443,
     "code": "FI",
@@ -1056,28 +912,10 @@
     "org": "POWER-SERVERS-ROLE-ORG"
   },
   {
-    "ip": "78.17.187.181",
-    "port": 443,
-    "code": "FI",
-    "org": ""
-  },
-  {
     "ip": "89.125.92.113",
     "port": 443,
     "code": "FI",
     "org": "Snowd Security OU"
-  },
-  {
-    "ip": "172.64.223.159",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.173",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
   },
   {
     "ip": "162.158.237.21",
@@ -1093,12 +931,6 @@
   },
   {
     "ip": "162.158.239.75",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.158.239.116",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -1123,18 +955,6 @@
   },
   {
     "ip": "162.159.96.119",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.7",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.101",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -1218,12 +1038,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.64.223.5",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.64.223.28",
     "port": 443,
     "code": "FI",
@@ -1231,12 +1045,6 @@
   },
   {
     "ip": "172.64.223.32",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.93",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -1252,12 +1060,6 @@
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "77.105.130.229",
-    "port": 443,
-    "code": "FI",
-    "org": "New Hosting Technologies LLC"
   },
   {
     "ip": "81.19.139.158",
@@ -1314,18 +1116,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.64.223.80",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.113",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.64.223.198",
     "port": 443,
     "code": "FI",
@@ -1356,37 +1146,13 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "193.164.128.68",
-    "port": 443,
-    "code": "FI",
-    "org": "Snowd Security OU"
-  },
-  {
-    "ip": "172.64.223.19",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "162.158.237.151",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "185.17.2.161",
-    "port": 443,
-    "code": "FI",
-    "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
     "ip": "162.158.238.217",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.158.239.86",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -1417,18 +1183,6 @@
   },
   {
     "ip": "162.159.96.117",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.167",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "172.64.223.185",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -1500,12 +1254,6 @@
     "org": "u1host Finland"
   },
   {
-    "ip": "172.64.223.15",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.64.223.42",
     "port": 443,
     "code": "FI",
@@ -1543,18 +1291,6 @@
   },
   {
     "ip": "162.158.238.77",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.158.239.78",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "162.159.96.45",
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
@@ -1632,12 +1368,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.64.223.209",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.64.223.246",
     "port": 443,
     "code": "FI",
@@ -1686,12 +1416,6 @@
     "org": ""
   },
   {
-    "ip": "83.143.112.221",
-    "port": 443,
-    "code": "FI",
-    "org": "Play2go International Limited"
-  },
-  {
     "ip": "162.158.238.9",
     "port": 443,
     "code": "FI",
@@ -1734,12 +1458,6 @@
     "org": "Aeza Group LLC"
   },
   {
-    "ip": "194.124.210.87",
-    "port": 443,
-    "code": "FI",
-    "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "195.96.156.29",
     "port": 443,
     "code": "FI",
@@ -1776,12 +1494,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "162.158.238.137",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "162.158.238.176",
     "port": 443,
     "code": "FI",
@@ -1804,12 +1516,6 @@
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "37.27.24.143",
-    "port": 443,
-    "code": "FI",
-    "org": "Hetzner Online GmbH"
   },
   {
     "ip": "62.60.249.50",
@@ -1840,12 +1546,6 @@
     "port": 443,
     "code": "FI",
     "org": "xorek.cloud International LTD"
-  },
-  {
-    "ip": "172.64.223.33",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
   },
   {
     "ip": "109.122.194.61",
@@ -1882,12 +1582,6 @@
     "port": 443,
     "code": "FI",
     "org": "POWER-SERVERS-ROLE-ORG"
-  },
-  {
-    "ip": "141.0.184.160",
-    "port": 443,
-    "code": "FI",
-    "org": "Vector"
   },
   {
     "ip": "162.158.238.202",
@@ -1938,12 +1632,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "172.64.223.143",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
-  },
-  {
     "ip": "172.64.223.184",
     "port": 443,
     "code": "FI",
@@ -1968,34 +1656,10 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "78.17.39.165",
-    "port": 443,
-    "code": "FI",
-    "org": "Snowd Security OU"
-  },
-  {
-    "ip": "185.242.247.178",
-    "port": 443,
-    "code": "FI",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.131.135.79",
-    "port": 443,
-    "code": "FI",
-    "org": "Individual Entrepreneur Anton Levin"
-  },
-  {
     "ip": "193.47.60.233",
     "port": 443,
     "code": "FI",
     "org": "Baykov Ilya Sergeevich"
-  },
-  {
-    "ip": "162.158.238.147",
-    "port": 443,
-    "code": "FI",
-    "org": "Cloudflare WARP"
   },
   {
     "ip": "162.159.96.87",
@@ -2020,5 +1684,17 @@
     "port": 443,
     "code": "FI",
     "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "185.193.102.119",
+    "port": 443,
+    "code": "FI",
+    "org": "Baxet Group Inc"
+  },
+  {
+    "ip": "141.105.143.199",
+    "port": 443,
+    "code": "FI",
+    "org": "Snowd Security OU"
   }
 ]

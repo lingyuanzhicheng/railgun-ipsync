@@ -60,12 +60,6 @@
     "org": "AWS EC2 (ca-central-1)"
   },
   {
-    "ip": "38.9.96.61",
-    "port": 443,
-    "code": "CA",
-    "org": ""
-  },
-  {
     "ip": "138.197.173.118",
     "port": 443,
     "code": "CA",
@@ -84,28 +78,10 @@
     "org": "HostPapa"
   },
   {
-    "ip": "140.238.144.211",
-    "port": 443,
-    "code": "CA",
-    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
-  },
-  {
     "ip": "40.233.68.138",
     "port": 443,
     "code": "CA",
     "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
-  },
-  {
-    "ip": "65.49.232.101",
-    "port": 443,
-    "code": "CA",
-    "org": "IT7 Networks Inc"
-  },
-  {
-    "ip": "142.188.90.91",
-    "port": 443,
-    "code": "CA",
-    "org": "Sympatico HSE"
   },
   {
     "ip": "40.233.70.120",
@@ -130,17 +106,5 @@
     "port": 443,
     "code": "CA",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "140.238.152.64",
-    "port": 443,
-    "code": "CA",
-    "org": "Oracle Cloud Infrastructure (ca-toronto-1)"
-  },
-  {
-    "ip": "167.160.188.156",
-    "port": 443,
-    "code": "CA",
-    "org": ""
   }
 ]

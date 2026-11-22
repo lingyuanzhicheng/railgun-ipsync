@@ -96,12 +96,6 @@
     "org": "RackNerd, LLC"
   },
   {
-    "ip": "51.91.40.26",
-    "port": 443,
-    "code": "FR",
-    "org": "OVH Hispano"
-  },
-  {
     "ip": "88.218.79.172",
     "port": 8443,
     "code": "FR",
@@ -112,12 +106,6 @@
     "port": 8443,
     "code": "FR",
     "org": "RackNerd, LLC"
-  },
-  {
-    "ip": "88.218.78.20",
-    "port": 2096,
-    "code": "FR",
-    "org": "RACKNERD-FR"
   },
   {
     "ip": "92.119.126.144",
@@ -144,12 +132,6 @@
     "org": "Baykov Ilya Sergeevich"
   },
   {
-    "ip": "88.218.78.48",
-    "port": 443,
-    "code": "FR",
-    "org": "RackNerd LLC"
-  },
-  {
     "ip": "20.33.23.66",
     "port": 443,
     "code": "FR",
@@ -166,12 +148,6 @@
     "port": 443,
     "code": "FR",
     "org": "OVH"
-  },
-  {
-    "ip": "94.183.186.27",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "94.183.187.37",
@@ -1336,12 +1312,6 @@
     "port": 443,
     "code": "FR",
     "org": "Hostkey B.V"
-  },
-  {
-    "ip": "94.183.188.21",
-    "port": 443,
-    "code": "FR",
-    "org": "CGI GLOBAL LIMITED"
   },
   {
     "ip": "107.161.160.91",
@@ -2982,18 +2952,6 @@
     "org": "Andrey Voskresenskiy"
   },
   {
-    "ip": "5.157.51.83",
-    "port": 443,
-    "code": "FR",
-    "org": ""
-  },
-  {
-    "ip": "5.157.51.85",
-    "port": 443,
-    "code": "FR",
-    "org": ""
-  },
-  {
     "ip": "172.70.108.147",
     "port": 443,
     "code": "FR",
@@ -3106,5 +3064,17 @@
     "port": 443,
     "code": "FR",
     "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "145.223.69.87",
+    "port": 443,
+    "code": "FR",
+    "org": ""
+  },
+  {
+    "ip": "2.7.113.69",
+    "port": 443,
+    "code": "FR",
+    "org": ""
   }
 ]

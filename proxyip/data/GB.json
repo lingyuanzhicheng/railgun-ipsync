@@ -1,11 +1,5 @@
 [
   {
-    "ip": "46.101.29.160",
-    "port": 443,
-    "code": "GB",
-    "org": "Digitalocean"
-  },
-  {
     "ip": "185.66.164.51",
     "port": 443,
     "code": "GB",
@@ -1638,12 +1632,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "82.38.171.33",
-    "port": 443,
-    "code": "GB",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "82.38.171.239",
     "port": 443,
     "code": "GB",
@@ -2406,12 +2394,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "18.134.196.127",
-    "port": 443,
-    "code": "GB",
-    "org": "AWS EC2 (eu-west-2)"
-  },
-  {
     "ip": "172.70.160.211",
     "port": 443,
     "code": "GB",
@@ -2428,12 +2410,6 @@
     "port": 443,
     "code": "GB",
     "org": "Cloudflare WARP"
-  },
-  {
-    "ip": "91.149.238.129",
-    "port": 443,
-    "code": "GB",
-    "org": "Baxet Group Inc"
   },
   {
     "ip": "172.69.224.153",
@@ -2668,5 +2644,11 @@
     "port": 443,
     "code": "GB",
     "org": "Cloudflare WARP"
+  },
+  {
+    "ip": "51.241.130.35",
+    "port": 443,
+    "code": "GB",
+    "org": "Bage Cloud LLC"
   }
 ]

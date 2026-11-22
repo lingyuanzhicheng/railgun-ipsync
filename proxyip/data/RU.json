@@ -6,12 +6,6 @@
     "org": "LLC Vpsville"
   },
   {
-    "ip": "85.193.91.193",
-    "port": 8443,
-    "code": "RU",
-    "org": "JSC TIMEWEB"
-  },
-  {
     "ip": "147.45.245.15",
     "port": 443,
     "code": "RU",
@@ -52,12 +46,6 @@
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "193.124.183.69",
-    "port": 443,
-    "code": "RU",
-    "org": "First Server Limited"
   },
   {
     "ip": "212.41.15.119",
@@ -108,12 +96,6 @@
     "org": "JSC \"TIMEWEB\""
   },
   {
-    "ip": "80.76.42.191",
-    "port": 443,
-    "code": "RU",
-    "org": "Time Host"
-  },
-  {
     "ip": "194.190.153.170",
     "port": 443,
     "code": "RU",
@@ -136,12 +118,6 @@
     "port": 443,
     "code": "RU",
     "org": "Firstbyte Hosting"
-  },
-  {
-    "ip": "161.104.44.138",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "45.90.46.160",
@@ -178,12 +154,6 @@
     "port": 443,
     "code": "RU",
     "org": "Fornex"
-  },
-  {
-    "ip": "178.250.246.243",
-    "port": 443,
-    "code": "RU",
-    "org": ""
   },
   {
     "ip": "153.80.246.79",
@@ -258,12 +228,6 @@
     "org": "Selectel"
   },
   {
-    "ip": "31.200.248.163",
-    "port": 443,
-    "code": "RU",
-    "org": "Start2 LLC"
-  },
-  {
     "ip": "82.146.38.33",
     "port": 443,
     "code": "RU",
@@ -280,12 +244,6 @@
     "port": 443,
     "code": "RU",
     "org": "S-INFORM Network"
-  },
-  {
-    "ip": "95.188.72.67",
-    "port": 443,
-    "code": "RU",
-    "org": "OJSC Rostelecom"
   },
   {
     "ip": "84.252.100.83",
@@ -354,12 +312,6 @@
     "org": "MT FINANCE LLC"
   },
   {
-    "ip": "46.29.118.247",
-    "port": 443,
-    "code": "RU",
-    "org": "Okay-Telecom Ltd."
-  },
-  {
     "ip": "83.217.214.103",
     "port": 443,
     "code": "RU",
@@ -382,12 +334,6 @@
     "port": 443,
     "code": "RU",
     "org": "AdminVPS OOO"
-  },
-  {
-    "ip": "193.124.182.211",
-    "port": 443,
-    "code": "RU",
-    "org": "FIRST SERVER, SOCIEDAD LIMITADA"
   },
   {
     "ip": "193.124.130.170",
@@ -426,22 +372,10 @@
     "org": "POWER-SERVERS-ROLE-ORG"
   },
   {
-    "ip": "93.123.167.66",
-    "port": 443,
-    "code": "RU",
-    "org": "Infolink spec"
-  },
-  {
     "ip": "83.217.214.34",
     "port": 443,
     "code": "RU",
     "org": "Hosting technology LTD"
-  },
-  {
-    "ip": "213.226.124.66",
-    "port": 443,
-    "code": "RU",
-    "org": "TimeWeb Ltd"
   },
   {
     "ip": "217.70.20.11",
@@ -454,5 +388,41 @@
     "port": 443,
     "code": "RU",
     "org": "LLC \"Electron-Telecom\""
+  },
+  {
+    "ip": "89.248.207.37",
+    "port": 443,
+    "code": "RU",
+    "org": "Selectel"
+  },
+  {
+    "ip": "31.192.111.185",
+    "port": 443,
+    "code": "RU",
+    "org": "LLC IT BASIS"
+  },
+  {
+    "ip": "93.77.165.232",
+    "port": 443,
+    "code": "RU",
+    "org": "Yandex.Cloud LLC"
+  },
+  {
+    "ip": "195.211.36.60",
+    "port": 443,
+    "code": "RU",
+    "org": "Optima Communications, LLC"
+  },
+  {
+    "ip": "94.250.249.129",
+    "port": 443,
+    "code": "RU",
+    "org": "JSC IOT"
+  },
+  {
+    "ip": "95.165.105.218",
+    "port": 443,
+    "code": "RU",
+    "org": "OAO Mgts)"
   }
 ]

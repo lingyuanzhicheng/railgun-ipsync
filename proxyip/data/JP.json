@@ -390,12 +390,6 @@
     "org": "Cloudflare WARP"
   },
   {
-    "ip": "141.147.182.70",
-    "port": 443,
-    "code": "JP",
-    "org": "Oracle Cloud Infrastructure (ap-tokyo-1)"
-  },
-  {
     "ip": "167.179.75.237",
     "port": 443,
     "code": "JP",
@@ -634,5 +628,11 @@
     "port": 443,
     "code": "JP",
     "org": "Global Connectivity Solutions LLP"
+  },
+  {
+    "ip": "64.110.101.125",
+    "port": 443,
+    "code": "JP",
+    "org": "Oracle Cloud Infrastructure (ap-osaka-1)"
   }
 ]

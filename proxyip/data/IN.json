@@ -36,31 +36,7 @@
     "org": "Melbikomas UAB"
   },
   {
-    "ip": "5.253.30.226",
-    "port": 443,
-    "code": "IN",
-    "org": "Beafort Limited"
-  },
-  {
     "ip": "5.253.30.228",
-    "port": 443,
-    "code": "IN",
-    "org": "Beafort Limited"
-  },
-  {
-    "ip": "5.253.30.229",
-    "port": 443,
-    "code": "IN",
-    "org": "Beafort Limited"
-  },
-  {
-    "ip": "5.253.30.230",
-    "port": 443,
-    "code": "IN",
-    "org": "Beafort Limited"
-  },
-  {
-    "ip": "5.253.30.225",
     "port": 443,
     "code": "IN",
     "org": "Beafort Limited"
@@ -76,11 +52,5 @@
     "port": 443,
     "code": "IN",
     "org": "DigitalOcean, LLC"
-  },
-  {
-    "ip": "139.84.174.65",
-    "port": 443,
-    "code": "IN",
-    "org": "The Constant Company, LLC"
   }
 ]

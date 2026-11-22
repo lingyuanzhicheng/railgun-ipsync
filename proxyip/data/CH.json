@@ -6,20 +6,8 @@
     "org": "M247 LTD"
   },
   {
-    "ip": "176.10.125.114",
-    "port": 443,
-    "code": "CH",
-    "org": "Servinga"
-  },
-  {
     "ip": "91.245.225.17",
     "port": 443,
-    "code": "CH",
-    "org": "GLB Bulut Teknolojisi Limited Sirketi"
-  },
-  {
-    "ip": "91.245.225.79",
-    "port": 2053,
     "code": "CH",
     "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
@@ -34,12 +22,6 @@
     "port": 443,
     "code": "CH",
     "org": "GLOBAL CONNECTIVITY SOLUTIONS LLP"
-  },
-  {
-    "ip": "91.245.225.79",
-    "port": 8443,
-    "code": "CH",
-    "org": "GLB Bulut Teknolojisi Limited Sirketi"
   },
   {
     "ip": "185.195.69.209",
@@ -198,12 +180,6 @@
     "org": "Private Layer Inc"
   },
   {
-    "ip": "167.17.181.45",
-    "port": 443,
-    "code": "CH",
-    "org": "Baxet Group Inc"
-  },
-  {
     "ip": "193.228.128.110",
     "port": 443,
     "code": "CH",
@@ -234,22 +210,10 @@
     "org": "Infomaniak Network SA"
   },
   {
-    "ip": "199.68.196.67",
-    "port": 443,
-    "code": "CH",
-    "org": "Fornex Hosting S.L."
-  },
-  {
     "ip": "179.237.108.163",
     "port": 443,
     "code": "CH",
     "org": "Infomaniak Cloud"
-  },
-  {
-    "ip": "38.180.85.203",
-    "port": 443,
-    "code": "CH",
-    "org": "3NT SOLUTIONS LLP"
   },
   {
     "ip": "89.125.95.85",
@@ -312,12 +276,6 @@
     "org": ""
   },
   {
-    "ip": "82.38.64.162",
-    "port": 443,
-    "code": "CH",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "213.176.18.108",
     "port": 443,
     "code": "CH",
@@ -342,15 +300,15 @@
     "org": "Infomaniak Cloud"
   },
   {
-    "ip": "213.176.18.42",
-    "port": 443,
-    "code": "CH",
-    "org": "Global Connectivity Solutions LLP"
-  },
-  {
     "ip": "140.238.170.32",
     "port": 443,
     "code": "CH",
     "org": "Oracle Cloud Infrastructure (eu-zurich-1)"
+  },
+  {
+    "ip": "179.255.191.20",
+    "port": 443,
+    "code": "CH",
+    "org": "IT Hostline Ltd"
   }
 ]

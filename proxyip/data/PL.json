@@ -36,12 +36,6 @@
     "org": "Newserverlife LLC"
   },
   {
-    "ip": "151.115.61.151",
-    "port": 2053,
-    "code": "PL",
-    "org": "Scaleway - Warsaw, Poland"
-  },
-  {
     "ip": "176.105.253.43",
     "port": 443,
     "code": "PL",
@@ -102,12 +96,6 @@
     "org": "OVH VPS WAW"
   },
   {
-    "ip": "37.252.6.119",
-    "port": 443,
-    "code": "PL",
-    "org": "IROKO Networks Corporation"
-  },
-  {
     "ip": "82.40.38.216",
     "port": 443,
     "code": "PL",
@@ -142,12 +130,6 @@
     "port": 443,
     "code": "PL",
     "org": "Baxet Group Inc"
-  },
-  {
-    "ip": "138.124.104.104",
-    "port": 443,
-    "code": "PL",
-    "org": "Intezio Networks Warsaw"
   },
   {
     "ip": "139.28.97.231",
@@ -264,12 +246,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "78.17.159.204",
-    "port": 443,
-    "code": "PL",
-    "org": "Snowd Security OU"
-  },
-  {
     "ip": "82.26.91.123",
     "port": 443,
     "code": "PL",
@@ -366,12 +342,6 @@
     "org": "The Constant Company, LLC"
   },
   {
-    "ip": "82.40.37.217",
-    "port": 443,
-    "code": "PL",
-    "org": "Hostkey B.V"
-  },
-  {
     "ip": "143.20.97.128",
     "port": 443,
     "code": "PL",
@@ -382,12 +352,6 @@
     "port": 443,
     "code": "PL",
     "org": "Global Connectivity Solutions LLP"
-  },
-  {
-    "ip": "45.43.137.116",
-    "port": 443,
-    "code": "PL",
-    "org": "Individual Entrepreneur Anton Levin"
   },
   {
     "ip": "31.59.124.128",
@@ -402,27 +366,39 @@
     "org": "*"
   },
   {
-    "ip": "89.125.27.97",
+    "ip": "82.118.23.201",
+    "port": 443,
+    "code": "PL",
+    "org": "GF PL GDN"
+  },
+  {
+    "ip": "31.169.126.35",
+    "port": 443,
+    "code": "PL",
+    "org": "Baykov Ilya Sergeevich"
+  },
+  {
+    "ip": "64.176.70.75",
+    "port": 443,
+    "code": "PL",
+    "org": "The Constant Company, LLC"
+  },
+  {
+    "ip": "78.17.173.67",
     "port": 443,
     "code": "PL",
     "org": "Snowd Security OU"
   },
   {
-    "ip": "104.222.177.183",
+    "ip": "91.211.13.153",
     "port": 443,
     "code": "PL",
-    "org": "Individual Entrepreneur Anton Levin"
+    "org": "Mevspace SP Z O O"
   },
   {
-    "ip": "92.62.251.175",
+    "ip": "138.124.64.105",
     "port": 443,
     "code": "PL",
-    "org": "Freakhosting LTD"
-  },
-  {
-    "ip": "82.118.23.201",
-    "port": 443,
-    "code": "PL",
-    "org": "GF PL GDN"
+    "org": "Global Connectivity Solutions LLP"
   }
 ]
